@@ -1,0 +1,1 @@
+{"target": "aisk@@libae", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "libae", "version": "1.0.0", "version_op": null, "unified_name": "ae", "extractor_type": "clib", "context": "aisk@@libae/package.json", "confidence": "High"}], "type": "clib"}]}

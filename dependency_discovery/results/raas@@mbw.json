@@ -1,0 +1,1 @@
+{"target": "raas@@mbw", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "mbw", "version": "1.5", "version_op": null, "unified_name": "mbw", "extractor_type": "cmake", "context": "project(mbw version 1.5 languages c)", "confidence": "High"}], "type": "cmake", "libs": []}]}

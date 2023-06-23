@@ -1,0 +1,1 @@
+{"target": "eloraiby@@delaunay", "extractors": [{"deps": [{"depname": "delaunay", "version": null, "version_op": null, "unified_name": "delaunay", "extractor_type": "cmake", "context": "project(delaunay c)", "confidence": ""}], "type": "cmake", "libs": []}]}

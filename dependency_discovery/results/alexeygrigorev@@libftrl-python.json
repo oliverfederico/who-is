@@ -1,0 +1,1 @@
+{"target": "alexeygrigorev@@libftrl-python", "extractors": [{"deps": [{"depname": "ftrl", "version": null, "version_op": null, "unified_name": "ftrl", "extractor_type": "cmake", "context": "project(ftrl)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "rdesktop@@rdesktop", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "rdesktop", "version": "1.9.0", "version_op": null, "unified_name": "rdesktop", "extractor_type": "autoconf", "context": "AC_INIT(rdesktop, 1.9.0)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

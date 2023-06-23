@@ -1,0 +1,1 @@
+{"target": "hasherezade@@pe-sieve", "extractors": [{"deps": [{"depname": "pe", "version": null, "version_op": null, "unified_name": "pe", "extractor_type": "cmake", "context": "project (pe-sieve)", "confidence": ""}], "type": "cmake", "libs": []}]}

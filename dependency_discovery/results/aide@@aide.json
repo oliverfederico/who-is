@@ -1,0 +1,1 @@
+{"target": "aide@@aide", "extractors": [{"deps": [{"depname": "aide", "version": "AIDE_VERSION", "version_op": null, "unified_name": "aide", "extractor_type": "autoconf", "context": "AC_INIT([aide],[AIDE_VERSION])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

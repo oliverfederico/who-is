@@ -1,0 +1,1 @@
+{"target": "FrictionalGames@@HPL1Engine", "extractors": [{"deps": [{"depname": "hpl", "version": null, "version_op": null, "unified_name": "hpl", "extractor_type": "cmake", "context": "project (hpl)", "confidence": ""}], "type": "cmake", "libs": []}]}

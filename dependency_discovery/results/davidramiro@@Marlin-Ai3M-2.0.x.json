@@ -1,0 +1,1 @@
+{"target": "davidramiro@@Marlin-Ai3M-2.0.x", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "marlin", "version": null, "version_op": null, "unified_name": "marlin", "extractor_type": "cmake", "context": "project(marlin c cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

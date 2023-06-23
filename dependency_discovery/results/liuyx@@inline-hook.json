@@ -1,0 +1,1 @@
+{"target": "liuyx@@inline-hook", "extractors": [{"deps": [{"depname": "hooker", "version": null, "version_op": null, "unified_name": "hooker", "extractor_type": "cmake", "context": "project(hooker-test)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

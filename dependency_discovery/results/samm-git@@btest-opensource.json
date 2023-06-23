@@ -1,0 +1,1 @@
+{"target": "samm-git@@btest-opensource", "extractors": [{"deps": [{"depname": "btest", "version": "1.0", "version_op": null, "unified_name": "btest", "extractor_type": "autoconf", "context": "AC_INIT([btest], [1.0], [bug-report@address])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

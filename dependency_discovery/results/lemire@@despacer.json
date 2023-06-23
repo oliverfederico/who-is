@@ -1,0 +1,1 @@
+{"target": "lemire@@despacer", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "despacer", "version": "\"0.1.0\"", "version_op": null, "unified_name": "despacer", "extractor_type": "cmake", "context": "project(despacer version \"0.1.0\" languages c)", "confidence": "High"}], "type": "cmake", "libs": []}]}

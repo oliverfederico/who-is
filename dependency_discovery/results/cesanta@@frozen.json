@@ -1,0 +1,1 @@
+{"target": "cesanta@@frozen", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "bazel"}]}

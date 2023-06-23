@@ -1,0 +1,380 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2706,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/reo7sp@@tgbot-cpp/src/net/CurlHttpClient.cpp",
+                "line": 64,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2317,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/reo7sp@@tgbot-cpp/src/net/CurlHttpClient.cpp",
+                "line": 66,
+                "offset": 5
+            },
+            "name": "curl_mime_free"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/reo7sp@@tgbot-cpp/src/net/CurlHttpClient.cpp",
+                "line": 36,
+                "offset": 15
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                }
+            },
+            "callExprReturn": "curl_mime *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2308,
+                "offset": 24
+            },
+            "functionDeclReturn": "curl_mime *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/reo7sp@@tgbot-cpp/src/net/CurlHttpClient.cpp",
+                "line": 41,
+                "offset": 12
+            },
+            "name": "curl_mime_init"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2374,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/reo7sp@@tgbot-cpp/src/net/CurlHttpClient.cpp",
+                "line": 46,
+                "offset": 13
+            },
+            "name": "curl_mime_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2355,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/reo7sp@@tgbot-cpp/src/net/CurlHttpClient.cpp",
+                "line": 47,
+                "offset": 13
+            },
+            "name": "curl_mime_type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2336,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/reo7sp@@tgbot-cpp/src/net/CurlHttpClient.cpp",
+                "line": 48,
+                "offset": 13
+            },
+            "name": "curl_mime_name"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "curl_mimepart *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2327,
+                "offset": 28
+            },
+            "functionDeclReturn": "curl_mimepart *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/reo7sp@@tgbot-cpp/src/net/CurlHttpClient.cpp",
+                "line": 44,
+                "offset": 20
+            },
+            "name": "curl_mime_addpart"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2345,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/reo7sp@@tgbot-cpp/src/net/CurlHttpClient.cpp",
+                "line": 50,
+                "offset": 17
+            },
+            "name": "curl_mime_filename"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 3043,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/reo7sp@@tgbot-cpp/src/net/CurlHttpClient.cpp",
+                "line": 78,
+                "offset": 22
+            },
+            "name": "curl_easy_strerror"
+        }
+    }
+]

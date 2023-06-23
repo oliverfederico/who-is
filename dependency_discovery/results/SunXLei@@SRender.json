@@ -1,0 +1,1 @@
+{"target": "SunXLei@@SRender", "extractors": [{"deps": [{"depname": "srender", "version": null, "version_op": null, "unified_name": "srender", "extractor_type": "cmake", "context": "project(srender)", "confidence": ""}], "type": "cmake", "libs": []}]}

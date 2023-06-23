@@ -1,0 +1,1 @@
+{"target": "kkAyataka@@plusaes", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "plusaes", "version": "0.0.1", "version_op": null, "unified_name": "plusaes", "extractor_type": "autoconf", "context": "AC_INIT([plusaes], [0.0.1], [kk.ayataka@gmail.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

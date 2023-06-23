@@ -1,0 +1,1 @@
+{"target": "Boyan-MILANOV@@ropium", "extractors": [{"deps": [{"depname": "capstone", "version": null, "version_op": null, "unified_name": "capstone", "extractor_type": "make", "context": "Boyan-MILANOV@@ropium/Makefile:LDLIBS += -lcapstone", "confidence": "High"}], "type": "make"}]}

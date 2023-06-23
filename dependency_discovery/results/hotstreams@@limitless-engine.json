@@ -1,0 +1,1 @@
+{"target": "hotstreams@@limitless-engine", "extractors": [{"deps": [{"depname": "limitless_engine", "version": null, "version_op": null, "unified_name": "limitless_engine", "extractor_type": "cmake", "context": "project(limitless_engine)", "confidence": ""}], "type": "cmake", "libs": []}]}

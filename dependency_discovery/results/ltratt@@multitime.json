@@ -1,0 +1,1 @@
+{"target": "ltratt@@multitime", "extractors": [{"deps": [{"depname": "multitime", "version": "MULTITIME_VERSION", "version_op": null, "unified_name": "multitime", "extractor_type": "autoconf", "context": "AC_INIT([multitime], MULTITIME_VERSION)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

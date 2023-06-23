@@ -1,0 +1,1 @@
+{"target": "keenerd@@jshon", "extractors": [{"deps": [{"depname": "jansson", "version": null, "version_op": null, "unified_name": "jansson", "extractor_type": "make", "context": "keenerd@@jshon/Makefile:LDLIBS  = -ljansson", "confidence": "High"}], "type": "make"}]}

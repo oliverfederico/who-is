@@ -1,0 +1,1 @@
+{"target": "xuwening@@libeventInterface", "extractors": [{"deps": [{"depname": "libevent_test", "version": null, "version_op": null, "unified_name": "event_test", "extractor_type": "cmake", "context": "project(libevent_test)", "confidence": ""}], "type": "cmake", "libs": []}]}

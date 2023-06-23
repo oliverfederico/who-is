@@ -1,0 +1,1 @@
+{"target": "nfc-tools@@mfcuk", "extractors": [{"deps": [{"depname": "mfcuk", "version": "0.3.8", "version_op": null, "unified_name": "mfcuk", "extractor_type": "autoconf", "context": "AC_INIT([mfcuk], [0.3.8], [zveriu@gmail.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "dots-tb@@LOLIcon", "extractors": [{"deps": [{"depname": "lolicon", "version": null, "version_op": null, "unified_name": "lolicon", "extractor_type": "cmake", "context": "project(lolicon)", "confidence": ""}], "type": "cmake", "libs": []}]}

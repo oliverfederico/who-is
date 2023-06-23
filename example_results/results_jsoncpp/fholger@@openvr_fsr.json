@@ -1,0 +1,615 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 1074,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 161,
+                "offset": 7
+            },
+            "name": "isMember",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 1002,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 164,
+                "offset": 34
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 942,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 172,
+                "offset": 24
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 942,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 173,
+                "offset": 39
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 905,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 175,
+                "offset": 22
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "uint32_t"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 977,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 175,
+                "offset": 22
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 999,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 186,
+                "offset": 28
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 990,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 189,
+                "offset": 3
+            },
+            "name": "append",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class CharReader::Factory"
+                },
+                "1": {
+                    "type": "IStream"
+                },
+                "2": {
+                    "type": "Json::Value *"
+                },
+                "3": {
+                    "type": "std::string *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 1839,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 244,
+                "offset": 9
+            },
+            "name": "parseFromStream",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 1074,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 256,
+                "offset": 8
+            },
+            "name": "isMember",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 932,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 256,
+                "offset": 47
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 999,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 256,
+                "offset": 47
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 877,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 285,
+                "offset": 2
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 999,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 285,
+                "offset": 2
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 877,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 286,
+                "offset": 2
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 999,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 286,
+                "offset": 2
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class StreamWriter::Factory"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/json/json.h",
+                "line": 1961,
+                "offset": 17
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/fholger@@openvr_fsr/src/vrcommon/vrpathregistry_public.cpp",
+                "line": 294,
+                "offset": 34
+            },
+            "name": "writeString",
+            "return": "String"
+        }
+    }
+]

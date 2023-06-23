@@ -1,0 +1,1 @@
+{"target": "Yuqi-Zest@@Vehicle-License-Plate-Recognition", "extractors": [{"deps": [{"depname": "vl", "version": null, "version_op": null, "unified_name": "vl", "extractor_type": "ms", "context": "Yuqi-Zest@@Vehicle-License-Plate-Recognition/vlpr/vlpr.vcxproj", "confidence": "High"}], "type": "ms"}]}

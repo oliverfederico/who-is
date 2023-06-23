@@ -1,0 +1,1 @@
+{"target": "xyzz@@gamecard-microsd", "extractors": [{"deps": [{"depname": "gamesd", "version": null, "version_op": null, "unified_name": "gamesd", "extractor_type": "cmake", "context": "project(gamesd)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "samhocevar@@lolremez", "extractors": [{"deps": [{"depname": "lolremez", "version": "0.7", "version_op": null, "unified_name": "lolremez", "extractor_type": "autoconf", "context": "AC_INIT([lolremez],[0.7])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "ms"}, {"deps": [], "type": "make"}, {"deps": [], "type": "ms"}, {"deps": [], "type": "make"}]}

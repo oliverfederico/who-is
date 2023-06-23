@@ -1,0 +1,2309 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "std::string"
+                },
+                "1": {
+                    "type": "enum spdlog::pattern_time_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 59,
+                "offset": 17
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/main.cpp",
+                "line": 15,
+                "offset": 2
+            },
+            "name": "set_pattern"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[23]",
+                    "value": "Failed to load vulkan!"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 168,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[27]",
+                    "value": "Failed to create instance!"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 178,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[52]",
+                    "value": "Failed to find physical device with vulkan support!"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 184,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[26]",
+                    "value": "Failed to create surface!"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 190,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[20]",
+                    "value": "Physical Device: {}"
+                },
+                "1": {
+                    "type": "const char[256]"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 197,
+                "offset": 3
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[41]",
+                    "value": "EXT_conservative_rasterization supported"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 203,
+                "offset": 4
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[45]",
+                    "value": "EXT_conservative_rasterization not supported"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 209,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 205,
+                "offset": 4
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[23]",
+                    "value": "Failed to find queues!"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 281,
+                "offset": 4
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[34]",
+                    "value": "Failed to find extension support!"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 285,
+                "offset": 4
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[33]",
+                    "value": "Failed to create logical device!"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 293,
+                "offset": 4
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[90]",
+                    "value": "Present Queue: ({}){}, Main Queue: ({}){}, Loader Queue: ({}){}, PathTracer Queue: ({}){}"
+                },
+                "1": {
+                    "type": "unsigned int"
+                },
+                "2": {
+                    "type": "void *"
+                },
+                "3": {
+                    "type": "unsigned int"
+                },
+                "4": {
+                    "type": "void *"
+                },
+                "5": {
+                    "type": "unsigned int"
+                },
+                "6": {
+                    "type": "void *"
+                },
+                "7": {
+                    "type": "unsigned int"
+                },
+                "8": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 297,
+                "offset": 3
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[91]",
+                    "value": "Async path tracing queue not available, the main thread might be blocked when path tracing"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 209,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 306,
+                "offset": 4
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::vector<sink_ptr> &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/logger.h",
+                "line": 311,
+                "offset": 28
+            },
+            "functionDeclReturn": "std::vector<sink_ptr> &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 324,
+                "offset": 2
+            },
+            "name": "sinks"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Application.cpp",
+                "line": 324,
+                "offset": 2
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[18]",
+                    "value": "Failed to load {}"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 44,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[18]",
+                    "value": "No material found"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 48,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[3]",
+                    "value": "{}"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 52,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[3]",
+                    "value": "{}"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 161,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 56,
+                "offset": 3
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[11]",
+                    "value": "Empty mesh"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 135,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[35]",
+                    "value": "Vertex and Index buffers generated"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 222,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[32]",
+                    "value": "Mesh optimized ({}/{} vertices)"
+                },
+                "1": {
+                    "type": "unsigned long"
+                },
+                "2": {
+                    "type": "uint32_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 196,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[26]",
+                    "value": "Unable to load texture {}"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 249,
+                "offset": 6
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[18]",
+                    "value": "Texture {} loaded"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 305,
+                "offset": 5
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[19]",
+                    "value": "{} textures loaded"
+                },
+                "1": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 334,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[22]",
+                    "value": "Meshes loaded from {}"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 402,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[22]",
+                    "value": "Failed to load meshes"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Scene.cpp",
+                "line": 399,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[44]",
+                    "value": "Octree buffer created with {} nodes ({} MB)"
+                },
+                "1": {
+                    "type": "uint32_t"
+                },
+                "2": {
+                    "type": "double"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/OctreeBuilder.cpp",
+                "line": 55,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[51]",
+                    "value": "Voxel fragment list created with {} voxels ({} MB)"
+                },
+                "1": {
+                    "type": "uint32_t"
+                },
+                "2": {
+                    "type": "double"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Voxelizer.cpp",
+                "line": 163,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[19]",
+                    "value": "Octree size exceed"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/Octree.cpp",
+                "line": 31,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "char *const"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 215,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/EnvironmentMap.cpp",
+                "line": 70,
+                "offset": 4
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "failed to load {} environment map as EXR file"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/EnvironmentMap.cpp",
+                "line": 73,
+                "offset": 4
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[40]",
+                    "value": "environment map {} ({}x{}) is too large"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/EnvironmentMap.cpp",
+                "line": 75,
+                "offset": 4
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[34]",
+                    "value": "environment map {} ({}x{}) loaded"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/EnvironmentMap.cpp",
+                "line": 77,
+                "offset": 4
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[67]",
+                    "value": "{} is not supported as environment map, use *.exr or *.hdr instead"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/EnvironmentMap.cpp",
+                "line": 92,
+                "offset": 3
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "failed to load {} environment map as HDR file"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/EnvironmentMap.cpp",
+                "line": 84,
+                "offset": 4
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[40]",
+                    "value": "environment map {} ({}x{}) is too large"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/EnvironmentMap.cpp",
+                "line": 86,
+                "offset": 4
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[34]",
+                    "value": "environment map {} ({}x{}) loaded"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/EnvironmentMap.cpp",
+                "line": 88,
+                "offset": 4
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[41]",
+                    "value": "environment map pixel weights calculated"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/EnvironmentMap.cpp",
+                "line": 122,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[38]",
+                    "value": "environment map alias table generated"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/EnvironmentMap.cpp",
+                "line": 188,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[25]",
+                    "value": "Octree range: {} ({} MB)"
+                },
+                "1": {
+                    "type": "unsigned long"
+                },
+                "2": {
+                    "type": "float"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/LoaderThread.cpp",
+                "line": 37,
+                "offset": 3
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[20]",
+                    "value": "Enter loader thread"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/LoaderThread.cpp",
+                "line": 44,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[19]",
+                    "value": "Quit loader thread"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/LoaderThread.cpp",
+                "line": 115,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[35]",
+                    "value": "Voxelize and Octree building BEGIN"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/LoaderThread.cpp",
+                "line": 86,
+                "offset": 3
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[87]",
+                    "value": "Voxelize and Octree building FINISHED in {} ms (Voxelize {} ms, Octree building {} ms)"
+                },
+                "1": {
+                    "type": "double"
+                },
+                "2": {
+                    "type": "double"
+                },
+                "3": {
+                    "type": "double"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/LoaderThread.cpp",
+                "line": 94,
+                "offset": 3
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[25]",
+                    "value": "m_pause_semaphore signal"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 197,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 44,
+                "offset": 2
+            },
+            "name": "debug"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[26]",
+                    "value": "m_viewer_semaphore signal"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 197,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 55,
+                "offset": 2
+            },
+            "name": "debug"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[25]",
+                    "value": "m_pause_semaphore signal"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 197,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 57,
+                "offset": 2
+            },
+            "name": "debug"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[26]",
+                    "value": "m_viewer_semaphore signal"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 197,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 65,
+                "offset": 2
+            },
+            "name": "debug"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[25]",
+                    "value": "Enter path tracer thread"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 70,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[24]",
+                    "value": "Quit path tracer thread"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 104,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[23]",
+                    "value": "m_pause_semaphore wait"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 197,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 97,
+                "offset": 4
+            },
+            "name": "debug"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[32]",
+                    "value": "Enter path tracer viewer thread"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 108,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[31]",
+                    "value": "Quit path tracer viewer thread"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 132,
+                "offset": 2
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[24]",
+                    "value": "m_viewer_semaphore wait"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 197,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 128,
+                "offset": 3
+            },
+            "name": "debug"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[39]",
+                    "value": "Acquire resources to path tracer queue"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 137,
+                "offset": 3
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[32]",
+                    "value": "Release resources to main queue"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 203,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/PathTracerThread.cpp",
+                "line": 173,
+                "offset": 3
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[3]",
+                    "value": "{}"
+                },
+                "1": {
+                    "type": "char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/UIPathTracer.cpp",
+                "line": 253,
+                "offset": 6
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[22]",
+                    "value": "Saved EXR image to {}"
+                },
+                "1": {
+                    "type": "char[512]"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/dep/spdlog/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AdamYuan@@SparseVoxelOctree/src/UIPathTracer.cpp",
+                "line": 255,
+                "offset": 6
+            },
+            "name": "info"
+        }
+    }
+]

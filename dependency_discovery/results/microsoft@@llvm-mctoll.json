@@ -1,0 +1,1 @@
+{"target": "microsoft@@llvm-mctoll", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

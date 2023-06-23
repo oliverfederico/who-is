@@ -1,0 +1,1 @@
+{"target": "agherzan@@meta-raspberrypi", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "egl", "version": "0.0", "version_op": "=", "unified_name": "egl", "extractor_type": "pkgconfig", "context": "agherzan@@meta-raspberrypi/recipes-graphics/vc-graphics/files/egl.pc", "confidence": "High"}], "type": "pkgconfig"}]}

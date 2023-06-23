@@ -1,0 +1,1 @@
+{"target": "cnr-isti-vclab@@corto", "extractors": [{"deps": [], "type": "clib"}, {"deps": [{"depname": "corto", "version": null, "version_op": null, "unified_name": "corto", "extractor_type": "cmake", "context": "project(corto)", "confidence": ""}], "type": "cmake", "libs": []}]}

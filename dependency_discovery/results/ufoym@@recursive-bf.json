@@ -1,0 +1,1 @@
+{"target": "ufoym@@recursive-bf", "extractors": [{"deps": [{"depname": "rbf", "version": null, "version_op": null, "unified_name": "rbf", "extractor_type": "cmake", "context": "project (rbf)", "confidence": ""}], "type": "cmake", "libs": []}]}

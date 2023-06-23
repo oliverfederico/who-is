@@ -1,0 +1,1 @@
+{"target": "lincity-ng@@lincity-ng", "extractors": [{"deps": [{"depname": "lincity-ng", "version": "2.9.beta", "version_op": null, "unified_name": "lincity-ng", "extractor_type": "autoconf", "context": "AC_INIT([lincity-ng], [2.9.beta], [matze@braunis.de])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

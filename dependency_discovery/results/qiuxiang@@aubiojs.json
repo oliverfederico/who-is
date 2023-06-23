@@ -1,0 +1,1 @@
+{"target": "qiuxiang@@aubiojs", "extractors": [{"deps": [], "type": "clib"}, {"deps": [{"depname": "aubiojs", "version": null, "version_op": null, "unified_name": "aubiojs", "extractor_type": "cmake", "context": "project(aubiojs)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "Staacks@@gbinterceptor", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "gb_interceptor", "version": null, "version_op": null, "unified_name": "gb_interceptor", "extractor_type": "cmake", "context": "project(gb_interceptor c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}]}

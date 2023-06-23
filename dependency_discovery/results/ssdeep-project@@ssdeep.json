@@ -1,0 +1,1 @@
+{"target": "ssdeep-project@@ssdeep", "extractors": [{"deps": [{"depname": "ssdeep", "version": "2.14.2", "version_op": null, "unified_name": "ssdeep", "extractor_type": "autoconf", "context": "AC_INIT([ssdeep],[2.14.2],[floss_ssdeep@irq.a4lg.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

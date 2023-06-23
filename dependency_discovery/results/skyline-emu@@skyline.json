@@ -1,0 +1,1 @@
+{"target": "skyline-emu@@skyline", "extractors": [{"deps": [{"depname": "skyline", "version": "0.3", "version_op": null, "unified_name": "skyline", "extractor_type": "cmake", "context": "project(skyline languages c cxx asm version 0.3)", "confidence": "High"}], "type": "cmake", "libs": []}]}

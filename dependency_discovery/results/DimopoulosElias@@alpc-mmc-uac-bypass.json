@@ -1,0 +1,1 @@
+{"target": "DimopoulosElias@@alpc-mmc-uac-bypass", "extractors": [{"deps": [{"depname": "xpsprint", "version": null, "version_op": null, "unified_name": "xpsprint", "extractor_type": "ms", "context": "DimopoulosElias@@alpc-mmc-uac-bypass/ALPC-BypassUAC/ALPC-BypassUAC.vcxproj", "confidence": "High"}], "type": "ms"}]}

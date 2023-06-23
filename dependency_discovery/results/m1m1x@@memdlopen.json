@@ -1,0 +1,1 @@
+{"target": "m1m1x@@memdlopen", "extractors": [{"deps": [{"depname": "memdlopen", "version": null, "version_op": null, "unified_name": "memdlopen", "extractor_type": "cmake", "context": "project(memdlopen)", "confidence": ""}], "type": "cmake", "libs": []}]}

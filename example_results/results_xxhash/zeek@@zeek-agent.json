@@ -1,0 +1,313 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "pointer"
+                },
+                "1": {
+                    "type": "const void *"
+                },
+                "2": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "XXH_errorcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/build/libraries/xxhash/include/xxhash.h",
+                "line": 282,
+                "offset": 30
+            },
+            "functionDeclReturn": "XXH_errorcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/src/zeekconnection.cpp",
+                "line": 568,
+                "offset": 18
+            },
+            "name": "XXH64_update"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "pointer"
+                },
+                "1": {
+                    "type": "const void *"
+                },
+                "2": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "XXH_errorcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/build/libraries/xxhash/include/xxhash.h",
+                "line": 282,
+                "offset": 30
+            },
+            "functionDeclReturn": "XXH_errorcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/src/zeekconnection.cpp",
+                "line": 578,
+                "offset": 15
+            },
+            "name": "XXH64_update"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "pointer"
+                },
+                "1": {
+                    "type": "const void *"
+                },
+                "2": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "XXH_errorcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/build/libraries/xxhash/include/xxhash.h",
+                "line": 282,
+                "offset": 30
+            },
+            "functionDeclReturn": "XXH_errorcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/src/zeekconnection.cpp",
+                "line": 587,
+                "offset": 17
+            },
+            "name": "XXH64_update"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "pointer"
+                },
+                "1": {
+                    "type": "const void *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "XXH_errorcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/build/libraries/xxhash/include/xxhash.h",
+                "line": 282,
+                "offset": 30
+            },
+            "functionDeclReturn": "XXH_errorcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/src/zeekconnection.cpp",
+                "line": 593,
+                "offset": 17
+            },
+            "name": "XXH64_update"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const XXH64_state_t *"
+                }
+            },
+            "callExprReturn": "XXH64_hash_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/build/libraries/xxhash/include/xxhash.h",
+                "line": 283,
+                "offset": 30
+            },
+            "functionDeclReturn": "XXH64_hash_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/src/zeekconnection.cpp",
+                "line": 606,
+                "offset": 10
+            },
+            "name": "XXH64_digest"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "XXH64_state_t *"
+                }
+            },
+            "callExprReturn": "XXH_errorcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/build/libraries/xxhash/include/xxhash.h",
+                "line": 278,
+                "offset": 31
+            },
+            "functionDeclReturn": "XXH_errorcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/src/uniquexxh64state.cpp",
+                "line": 9,
+                "offset": 3
+            },
+            "name": "XXH64_freeState"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "XXH64_state_t *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/build/libraries/xxhash/include/xxhash.h",
+                "line": 277,
+                "offset": 31
+            },
+            "functionDeclReturn": "XXH64_state_t *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/src/uniquexxh64state.cpp",
+                "line": 13,
+                "offset": 16
+            },
+            "name": "XXH64_createState"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "XXH64_state_t *"
+                },
+                "1": {
+                    "type": "XXH64_hash_t"
+                }
+            },
+            "callExprReturn": "XXH_errorcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/build/libraries/xxhash/include/xxhash.h",
+                "line": 281,
+                "offset": 30
+            },
+            "functionDeclReturn": "XXH_errorcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/src/uniquexxh64state.cpp",
+                "line": 19,
+                "offset": 7
+            },
+            "name": "XXH64_reset"
+        }
+    }
+]

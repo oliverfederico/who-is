@@ -1,0 +1,1 @@
+{"target": "kernelslacker@@trinity", "extractors": [{"deps": [{"depname": "rt", "version": null, "version_op": null, "unified_name": "rt", "extractor_type": "make", "context": "kernelslacker@@trinity/Makefile:LDLIBS += -lrt", "confidence": "High"}], "type": "make"}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}]}

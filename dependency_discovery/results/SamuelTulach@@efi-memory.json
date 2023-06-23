@@ -1,0 +1,1 @@
+{"target": "SamuelTulach@@efi-memory", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "version", "version": null, "version_op": null, "unified_name": "version", "extractor_type": "ms", "context": "SamuelTulach@@efi-memory/client/efi-mapper/kdmapper/kdmapper.vcxproj", "confidence": "High"}], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "bytemaster@@fc_malloc", "extractors": [{"deps": [{"depname": "fc_malloc", "version": null, "version_op": null, "unified_name": "fc_malloc", "extractor_type": "cmake", "context": "project( fc_malloc )", "confidence": ""}], "type": "cmake", "libs": []}]}

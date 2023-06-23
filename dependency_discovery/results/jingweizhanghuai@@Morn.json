@@ -1,0 +1,1 @@
+{"target": "jingweizhanghuai@@Morn", "extractors": [{"deps": [{"depname": "morn", "version": null, "version_op": null, "unified_name": "morn", "extractor_type": "cmake", "context": "    project(morn c)", "confidence": ""}], "type": "cmake", "libs": []}]}

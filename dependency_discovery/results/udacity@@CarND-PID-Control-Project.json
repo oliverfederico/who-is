@@ -1,0 +1,1 @@
+{"target": "udacity@@CarND-PID-Control-Project", "extractors": [{"deps": [{"depname": "pid", "version": null, "version_op": null, "unified_name": "pid", "extractor_type": "cmake", "context": "project(pid)", "confidence": ""}], "type": "cmake", "libs": []}]}

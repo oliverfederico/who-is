@@ -1,0 +1,1 @@
+{"target": "charlesnicholson@@nanoprintf", "extractors": [{"deps": [{"depname": "nanoprintf", "version": null, "version_op": null, "unified_name": "nanoprintf", "extractor_type": "cmake", "context": "project(nanoprintf)", "confidence": ""}], "type": "cmake", "libs": []}]}

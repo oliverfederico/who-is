@@ -1,0 +1,120 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1767,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/OpenBoardView@@OpenBoardView/src/openboardview/FileFormats/FZFile.cpp",
+                "line": 146,
+                "offset": 6
+            },
+            "name": "inflateInit_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 400,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/OpenBoardView@@OpenBoardView/src/openboardview/FileFormats/FZFile.cpp",
+                "line": 165,
+                "offset": 18
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 520,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/OpenBoardView@@OpenBoardView/src/openboardview/FileFormats/FZFile.cpp",
+                "line": 169,
+                "offset": 6
+            },
+            "name": "inflateEnd"
+        }
+    }
+]

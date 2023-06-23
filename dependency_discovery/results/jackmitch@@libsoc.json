@@ -1,0 +1,1 @@
+{"target": "jackmitch@@libsoc", "extractors": [{"deps": [{"depname": "libsoc", "version": "0.8.2", "version_op": null, "unified_name": "soc", "extractor_type": "autoconf", "context": "AC_INIT([libsoc], [0.8.2])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

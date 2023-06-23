@@ -1,0 +1,1 @@
+{"target": "ctz@@fastpbkdf2", "extractors": [{"deps": [{"depname": "crypto", "version": null, "version_op": null, "unified_name": "crypto", "extractor_type": "make", "context": "ctz@@fastpbkdf2/Makefile:LDLIBS += -lcrypto", "confidence": "High"}], "type": "make"}, {"deps": [], "type": "make"}]}

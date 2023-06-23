@@ -1,0 +1,1 @@
+{"target": "microsoft@@etl2pcapng", "extractors": [{"deps": [{"depname": "etl2pcapng", "version": null, "version_op": null, "unified_name": "etl2pcapng", "extractor_type": "cmake", "context": "project(etl2pcapng)", "confidence": ""}], "type": "cmake", "libs": []}]}

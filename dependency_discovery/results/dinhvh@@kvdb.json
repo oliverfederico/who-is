@@ -1,0 +1,1 @@
+{"target": "dinhvh@@kvdb", "extractors": [{"deps": [{"depname": "kvdb", "version": null, "version_op": null, "unified_name": "kvdb", "extractor_type": "cmake", "context": "project (kvdb)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "r57zone@@OpenVR-driver-for-DIY", "extractors": [{"deps": [{"depname": "openvr", "version": "1.0.0", "version_op": null, "unified_name": "openvr", "extractor_type": "cmake", "context": "project(openvr-driver-for-diy version 1.0.0)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "cmake", "libs": []}]}

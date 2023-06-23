@@ -1,0 +1,1 @@
+{"target": "ampotos@@dynStruct", "extractors": [{"deps": [{"depname": "dynamorio", "version": null, "version_op": null, "unified_name": "dynamorio", "extractor_type": "cmake", "context": "find_package(dynamorio)", "confidence": "High"}], "type": "cmake", "libs": []}]}

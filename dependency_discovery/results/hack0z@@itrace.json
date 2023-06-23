@@ -1,0 +1,1 @@
+{"target": "hack0z@@itrace", "extractors": [{"deps": [{"depname": "tbox", "version": null, "version_op": null, "unified_name": "tbox", "extractor_type": "xmake", "context": "tbox", "confidence": "High"}], "type": "xmake"}, {"deps": [], "type": "xmake"}, {"deps": [], "type": "xmake"}]}

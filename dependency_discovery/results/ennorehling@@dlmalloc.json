@@ -1,0 +1,1 @@
+{"target": "ennorehling@@dlmalloc", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "dlmalloc", "version": null, "version_op": null, "unified_name": "dlmalloc", "extractor_type": "cmake", "context": "project (dlmalloc c)", "confidence": ""}], "type": "cmake", "libs": []}]}

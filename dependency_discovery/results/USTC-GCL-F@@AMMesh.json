@@ -1,0 +1,1 @@
+{"target": "USTC-GCL-F@@AMMesh", "extractors": [{"deps": [{"depname": "acam_mesh", "version": null, "version_op": null, "unified_name": "acam_mesh", "extractor_type": "cmake", "context": "project(acam_mesh)", "confidence": ""}], "type": "cmake", "libs": []}]}

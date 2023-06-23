@@ -1,0 +1,1 @@
+{"target": "kernelm0de@@ProcessHider", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "", "version": null, "version_op": null, "unified_name": "", "extractor_type": "ms", "context": "kernelm0de@@ProcessHider/ProcessHider/ProcessHider.vcxproj", "confidence": "High"}], "type": "ms"}]}

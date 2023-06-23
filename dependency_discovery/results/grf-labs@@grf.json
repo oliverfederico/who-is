@@ -1,0 +1,1 @@
+{"target": "grf-labs@@grf", "extractors": [{"deps": [{"depname": "grf", "version": null, "version_op": null, "unified_name": "grf", "extractor_type": "cmake", "context": "project(grf)", "confidence": ""}], "type": "cmake", "libs": []}]}

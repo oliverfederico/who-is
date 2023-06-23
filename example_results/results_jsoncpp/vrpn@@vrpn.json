@@ -1,0 +1,4309 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 63,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 192,
+                "offset": 3
+            },
+            "name": "writeValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 247,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 199,
+                "offset": 11
+            },
+            "name": "type",
+            "return": "ValueType"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 270,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 205,
+                "offset": 32
+            },
+            "name": "asLargestInt",
+            "return": "LargestInt"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 271,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 208,
+                "offset": 32
+            },
+            "name": "asLargestUInt",
+            "return": "LargestUInt"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 273,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 211,
+                "offset": 32
+            },
+            "name": "asDouble",
+            "return": "double"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 259,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 214,
+                "offset": 38
+            },
+            "name": "asCString",
+            "return": "const char *"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 274,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 217,
+                "offset": 32
+            },
+            "name": "asBool",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 292,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 221,
+                "offset": 16
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 337,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 225,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 412,
+                "offset": 11
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 230,
+                "offset": 28
+            },
+            "name": "getMemberNames",
+            "return": "Members"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 359,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 239,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 115,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 256,
+                "offset": 3
+            },
+            "name": "writeCommentBeforeValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 107,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 257,
+                "offset": 3
+            },
+            "name": "writeValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 116,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 258,
+                "offset": 3
+            },
+            "name": "writeCommentAfterValueOnSameLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 247,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 264,
+                "offset": 11
+            },
+            "name": "type",
+            "return": "ValueType"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 110,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 266,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 110,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 269,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 270,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 269,
+                "offset": 29
+            },
+            "name": "asLargestInt",
+            "return": "LargestInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 110,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 272,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 271,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 272,
+                "offset": 29
+            },
+            "name": "asLargestUInt",
+            "return": "LargestUInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 110,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 275,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 273,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 275,
+                "offset": 29
+            },
+            "name": "asDouble",
+            "return": "double"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 110,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 278,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 259,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 278,
+                "offset": 35
+            },
+            "name": "asCString",
+            "return": "const char *"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 110,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 281,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 274,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 281,
+                "offset": 29
+            },
+            "name": "asBool",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 108,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 284,
+                "offset": 5
+            },
+            "name": "writeArrayValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 412,
+                "offset": 11
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 287,
+                "offset": 28
+            },
+            "name": "getMemberNames",
+            "return": "Members"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 110,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 289,
+                "offset": 7
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 113,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 292,
+                "offset": 7
+            },
+            "name": "indent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 114,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 308,
+                "offset": 7
+            },
+            "name": "unindent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 112,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 291,
+                "offset": 7
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 115,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 297,
+                "offset": 9
+            },
+            "name": "writeCommentBeforeValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 116,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 306,
+                "offset": 9
+            },
+            "name": "writeCommentAfterValueOnSameLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 359,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 296,
+                "offset": 35
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 112,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 298,
+                "offset": 9
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 116,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 302,
+                "offset": 11
+            },
+            "name": "writeCommentAfterValueOnSameLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 112,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 309,
+                "offset": 7
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 292,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 316,
+                "offset": 19
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 110,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 318,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 109,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 320,
+                "offset": 29
+            },
+            "name": "isMultineArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 113,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 323,
+                "offset": 7
+            },
+            "name": "indent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 114,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 342,
+                "offset": 7
+            },
+            "name": "unindent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 112,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 322,
+                "offset": 7
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 115,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 328,
+                "offset": 9
+            },
+            "name": "writeCommentBeforeValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 116,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 340,
+                "offset": 9
+            },
+            "name": "writeCommentAfterValueOnSameLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "unsigned int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 332,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 327,
+                "offset": 35
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 112,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 330,
+                "offset": 11
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 111,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 332,
+                "offset": 11
+            },
+            "name": "writeIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 116,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 336,
+                "offset": 11
+            },
+            "name": "writeCommentAfterValueOnSameLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 112,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 343,
+                "offset": 7
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 292,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 359,
+                "offset": 14
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 337,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 363,
+                "offset": 31
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 286,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 365,
+                "offset": 26
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 287,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 365,
+                "offset": 50
+            },
+            "name": "isObject",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 292,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 366,
+                "offset": 25
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 337,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 374,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 414,
+                "offset": 8
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 118,
+                "offset": 22
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": true,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 419,
+                "offset": 35
+            },
+            "name": "normalizeEOL",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 425,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 419,
+                "offset": 48
+            },
+            "name": "getComment",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 433,
+                "offset": 7
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 118,
+                "offset": 22
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": true,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 434,
+                "offset": 24
+            },
+            "name": "normalizeEOL",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 425,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 434,
+                "offset": 37
+            },
+            "name": "getComment",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 436,
+                "offset": 7
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 118,
+                "offset": 22
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": true,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 438,
+                "offset": 18
+            },
+            "name": "normalizeEOL",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 425,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 438,
+                "offset": 31
+            },
+            "name": "getComment",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 446,
+                "offset": 10
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 444,
+                "offset": 10
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 445,
+                "offset": 10
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 178,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 479,
+                "offset": 3
+            },
+            "name": "writeCommentBeforeValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 170,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 480,
+                "offset": 3
+            },
+            "name": "writeValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 179,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 481,
+                "offset": 3
+            },
+            "name": "writeCommentAfterValueOnSameLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 247,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 487,
+                "offset": 11
+            },
+            "name": "type",
+            "return": "ValueType"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 173,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 489,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 173,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 492,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 270,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 492,
+                "offset": 29
+            },
+            "name": "asLargestInt",
+            "return": "LargestInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 173,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 495,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 271,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 495,
+                "offset": 29
+            },
+            "name": "asLargestUInt",
+            "return": "LargestUInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 173,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 498,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 273,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 498,
+                "offset": 29
+            },
+            "name": "asDouble",
+            "return": "double"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 173,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 501,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 259,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 501,
+                "offset": 35
+            },
+            "name": "asCString",
+            "return": "const char *"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 173,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 504,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 274,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 504,
+                "offset": 29
+            },
+            "name": "asBool",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 171,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 507,
+                "offset": 5
+            },
+            "name": "writeArrayValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 412,
+                "offset": 11
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 510,
+                "offset": 28
+            },
+            "name": "getMemberNames",
+            "return": "Members"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 173,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 512,
+                "offset": 7
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 176,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 515,
+                "offset": 7
+            },
+            "name": "indent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 177,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 531,
+                "offset": 7
+            },
+            "name": "unindent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 175,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 514,
+                "offset": 7
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 178,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 520,
+                "offset": 9
+            },
+            "name": "writeCommentBeforeValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 179,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 529,
+                "offset": 9
+            },
+            "name": "writeCommentAfterValueOnSameLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 359,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 519,
+                "offset": 35
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 175,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 521,
+                "offset": 9
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 179,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 525,
+                "offset": 11
+            },
+            "name": "writeCommentAfterValueOnSameLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 175,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 532,
+                "offset": 7
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 292,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 539,
+                "offset": 19
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 173,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 541,
+                "offset": 5
+            },
+            "name": "pushValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 172,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 543,
+                "offset": 29
+            },
+            "name": "isMultineArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 176,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 546,
+                "offset": 7
+            },
+            "name": "indent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 177,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 565,
+                "offset": 7
+            },
+            "name": "unindent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 175,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 545,
+                "offset": 7
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 178,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 551,
+                "offset": 9
+            },
+            "name": "writeCommentBeforeValue",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 179,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 563,
+                "offset": 9
+            },
+            "name": "writeCommentAfterValueOnSameLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "unsigned int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 332,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 550,
+                "offset": 35
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 175,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 553,
+                "offset": 11
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 174,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 555,
+                "offset": 11
+            },
+            "name": "writeIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 179,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 559,
+                "offset": 11
+            },
+            "name": "writeCommentAfterValueOnSameLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 175,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 566,
+                "offset": 7
+            },
+            "name": "writeWithIndent",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 292,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 582,
+                "offset": 14
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 337,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 586,
+                "offset": 31
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 286,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 588,
+                "offset": 26
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 287,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 588,
+                "offset": 50
+            },
+            "name": "isObject",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 292,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 589,
+                "offset": 25
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 337,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 597,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 642,
+                "offset": 8
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 181,
+                "offset": 22
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": true,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 644,
+                "offset": 17
+            },
+            "name": "normalizeEOL",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 425,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 644,
+                "offset": 30
+            },
+            "name": "getComment",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 649,
+                "offset": 7
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 181,
+                "offset": 22
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": true,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 650,
+                "offset": 25
+            },
+            "name": "normalizeEOL",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 425,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 650,
+                "offset": 38
+            },
+            "name": "getComment",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 652,
+                "offset": 7
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/writer.h",
+                "line": 181,
+                "offset": 22
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": true,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 654,
+                "offset": 19
+            },
+            "name": "normalizeEOL",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 425,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 654,
+                "offset": 32
+            },
+            "name": "getComment",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 662,
+                "offset": 10
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 660,
+                "offset": 10
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum Json::CommentPlacement"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/include/json/value.h",
+                "line": 423,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/vrpn@@vrpn/submodules/jsoncpp/src/lib_json/json_writer.cpp",
+                "line": 661,
+                "offset": 10
+            },
+            "name": "hasComment",
+            "return": "_Bool"
+        }
+    }
+]

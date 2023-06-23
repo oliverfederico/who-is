@@ -1,0 +1,1 @@
+{"target": "gbevin@@ReceiveMIDI", "extractors": [{"deps": [{"depname": "oboe", "version": null, "version_op": null, "unified_name": "oboe", "extractor_type": "cmake", "context": "project(oboe)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "make"}]}

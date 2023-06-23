@@ -1,0 +1,1 @@
+{"target": "vtsynergy@@CU2CL", "extractors": [{"deps": [{"depname": "cu2cl", "version": null, "version_op": null, "unified_name": "cu2cl", "extractor_type": "cmake", "context": "project(cu2cl)", "confidence": ""}], "type": "cmake", "libs": []}]}

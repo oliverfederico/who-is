@@ -1,0 +1,1 @@
+{"target": "doodlewind@@mocha1995", "extractors": [{"deps": [{"depname": "mo_shell", "version": null, "version_op": null, "unified_name": "mo_shell", "extractor_type": "cmake", "context": "project(mo_shell)", "confidence": ""}], "type": "cmake", "libs": []}]}

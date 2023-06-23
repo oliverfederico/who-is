@@ -1,0 +1,1 @@
+{"target": "MegEngine@@MegPeak", "extractors": [{"deps": [{"depname": "megengine", "version": null, "version_op": null, "unified_name": "megengine", "extractor_type": "cmake", "context": "project(megengine languages c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

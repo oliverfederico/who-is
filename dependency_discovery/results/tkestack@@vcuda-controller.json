@@ -1,0 +1,1 @@
+{"target": "tkestack@@vcuda-controller", "extractors": [{"deps": [{"depname": "hijack", "version": null, "version_op": null, "unified_name": "hijack", "extractor_type": "cmake", "context": "project(hijack c cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

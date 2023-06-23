@@ -1,0 +1,1 @@
+{"target": "ccomrade@@c1-launcher", "extractors": [{"deps": [{"depname": "c1", "version": "3", "version_op": null, "unified_name": "c1", "extractor_type": "cmake", "context": "project(c1-launcher version 3 languages cxx rc)", "confidence": "High"}], "type": "cmake", "libs": []}]}

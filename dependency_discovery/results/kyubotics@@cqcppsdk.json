@@ -1,0 +1,1 @@
+{"target": "kyubotics@@cqcppsdk", "extractors": [{"deps": [{"depname": "cqcppsdk", "version": null, "version_op": null, "unified_name": "cqcppsdk", "extractor_type": "cmake", "context": "project(cqcppsdk)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

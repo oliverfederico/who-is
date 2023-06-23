@@ -1,0 +1,1 @@
+{"target": "rokups@@ImNodes", "extractors": [{"deps": [{"depname": "imnodes", "version": null, "version_op": null, "unified_name": "imnodes", "extractor_type": "cmake", "context": "project(imnodes)", "confidence": ""}], "type": "cmake", "libs": []}]}

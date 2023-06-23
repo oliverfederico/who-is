@@ -1,0 +1,1 @@
+{"target": "nopnop2002@@esp-idf-ili9340", "extractors": [{"deps": [{"depname": "ili9340", "version": null, "version_op": null, "unified_name": "ili9340", "extractor_type": "cmake", "context": "project(ili9340)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

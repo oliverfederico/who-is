@@ -1,0 +1,1 @@
+{"target": "mity@@acutest", "extractors": [{"deps": [{"depname": "acutest", "version": null, "version_op": null, "unified_name": "acutest", "extractor_type": "cmake", "context": "project(acutest c cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

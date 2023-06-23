@@ -1,0 +1,1474 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 2239,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 245,
+                "offset": 3
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1681,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 260,
+                "offset": 28
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1031,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 260,
+                "offset": 28
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1094,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 262,
+                "offset": 7
+            },
+            "name": "HasMember"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1681,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 264,
+                "offset": 9
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1031,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 264,
+                "offset": 9
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1645,
+                "offset": 9
+            },
+            "functionDeclReturn": "int",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 271,
+                "offset": 34
+            },
+            "name": "GetInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1031,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 271,
+                "offset": 34
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1681,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 273,
+                "offset": 24
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1031,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 273,
+                "offset": 24
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1031,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 275,
+                "offset": 28
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "SizeType",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1471,
+                "offset": 14
+            },
+            "functionDeclReturn": "SizeType",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 277,
+                "offset": 25
+            },
+            "name": "Size"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1681,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 278,
+                "offset": 25
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "const GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1501,
+                "offset": 25
+            },
+            "functionDeclReturn": "const GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 278,
+                "offset": 25
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1094,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 282,
+                "offset": 7
+            },
+            "name": "HasMember"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1645,
+                "offset": 9
+            },
+            "functionDeclReturn": "int",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 284,
+                "offset": 36
+            },
+            "name": "GetInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1031,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 284,
+                "offset": 36
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1094,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 290,
+                "offset": 7
+            },
+            "name": "HasMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1031,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 291,
+                "offset": 31
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1094,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 294,
+                "offset": 9
+            },
+            "name": "HasMember"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1681,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 296,
+                "offset": 11
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1036,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 296,
+                "offset": 11
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1094,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 301,
+                "offset": 9
+            },
+            "name": "HasMember"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1681,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 303,
+                "offset": 11
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1036,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 303,
+                "offset": 11
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1094,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 308,
+                "offset": 9
+            },
+            "name": "HasMember"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1681,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 309,
+                "offset": 28
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1036,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/zeekconfiguration.cpp",
+                "line": 309,
+                "offset": 28
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 2284,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 39,
+                "offset": 7
+            },
+            "name": "HasParseError"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 941,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 39,
+                "offset": 36
+            },
+            "name": "IsObject"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 942,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 66,
+                "offset": 9
+            },
+            "name": "IsArray"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "SizeType",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1471,
+                "offset": 14
+            },
+            "functionDeclReturn": "SizeType",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 76,
+                "offset": 31
+            },
+            "name": "Size"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 949,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 77,
+                "offset": 16
+            },
+            "name": "IsString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const typename class GenericDocument<struct UTF8<> >::ValueType"
+                },
+                "1": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "const GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1501,
+                "offset": 25
+            },
+            "functionDeclReturn": "const GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 77,
+                "offset": 16
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 949,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 85,
+                "offset": 22
+            },
+            "name": "IsString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "SizeType",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1471,
+                "offset": 14
+            },
+            "functionDeclReturn": "SizeType",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 94,
+                "offset": 31
+            },
+            "name": "Size"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const typename class GenericDocument<struct UTF8<> >::ValueType"
+                },
+                "1": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "const GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1501,
+                "offset": 25
+            },
+            "functionDeclReturn": "const GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 95,
+                "offset": 39
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 944,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 96,
+                "offset": 16
+            },
+            "name": "IsInt"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "int64_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1647,
+                "offset": 13
+            },
+            "functionDeclReturn": "int64_t",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 100,
+                "offset": 24
+            },
+            "name": "GetInt64"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 944,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 120,
+                "offset": 14
+            },
+            "name": "IsInt"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "int64_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/libraries/rapidjson/src/include/rapidjson/document.h",
+                "line": 1647,
+                "offset": 13
+            },
+            "functionDeclReturn": "int64_t",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/zeek@@zeek-agent/components/zeekconfiguration/src/configurationchecker.cpp",
+                "line": 124,
+                "offset": 22
+            },
+            "name": "GetInt64"
+        }
+    }
+]

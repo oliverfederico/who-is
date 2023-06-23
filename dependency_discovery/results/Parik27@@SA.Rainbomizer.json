@@ -1,0 +1,1 @@
+{"target": "Parik27@@SA.Rainbomizer", "extractors": [{"deps": [{"depname": "rainbomizer", "version": null, "version_op": null, "unified_name": "rainbomizer", "extractor_type": "cmake", "context": "project(rainbomizer)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "watersalesman@@aura-botnet", "extractors": [{"deps": [{"depname": "aura", "version": null, "version_op": null, "unified_name": "aura", "extractor_type": "cmake", "context": "project (aura-client)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

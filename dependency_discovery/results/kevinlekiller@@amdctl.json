@@ -1,0 +1,1 @@
+{"target": "kevinlekiller@@amdctl", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "amdctl", "version": null, "version_op": null, "unified_name": "amdctl", "extractor_type": "cmake", "context": "project(amdctl)", "confidence": ""}], "type": "cmake", "libs": []}]}

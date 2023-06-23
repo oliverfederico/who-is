@@ -1,0 +1,1 @@
+{"target": "espressif@@esp-gdbstub", "extractors": [{"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "p-ranav@@csv2", "extractors": [{"deps": [{"depname": "csv2", "version": "1.8.0", "version_op": null, "unified_name": "csv2", "extractor_type": "cmake", "context": "project(csv2 version 1.8.0 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

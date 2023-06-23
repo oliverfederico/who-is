@@ -1,0 +1,1 @@
+{"target": "limine-bootloader@@limine", "extractors": [{"deps": [{"depname": "Limine", "version": "m4_esyscmd([./version.sh", "version_op": null, "unified_name": "limine", "extractor_type": "autoconf", "context": "AC_INIT([Limine], [m4_esyscmd([./version.sh])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "FrictionalGames@@PenumbraOverture", "extractors": [{"deps": [{"depname": "overture", "version": null, "version_op": null, "unified_name": "overture", "extractor_type": "cmake", "context": "project(overture)", "confidence": ""}], "type": "cmake", "libs": []}]}

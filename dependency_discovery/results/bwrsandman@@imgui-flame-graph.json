@@ -1,0 +1,1 @@
+{"target": "bwrsandman@@imgui-flame-graph", "extractors": [{"deps": [{"depname": "imgui", "version": "1.02", "version_op": null, "unified_name": "imgui", "extractor_type": "cmake", "context": "project(imgui-flame-graph version 1.02)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

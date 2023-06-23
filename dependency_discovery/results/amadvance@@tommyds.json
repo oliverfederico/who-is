@@ -1,0 +1,1 @@
+{"target": "amadvance@@tommyds", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "ms"}, {"deps": [{"depname": "cppbtree", "version": null, "version_op": null, "unified_name": "cppbtree", "extractor_type": "cmake", "context": "project(cppbtree cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

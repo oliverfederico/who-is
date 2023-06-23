@@ -1,0 +1,1 @@
+{"target": "wangyu-@@UDPspeeder", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "speederv2", "version": null, "version_op": null, "unified_name": "speederv2", "extractor_type": "cmake", "context": "project(speederv2)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "Electrux@@ls_extended", "extractors": [{"deps": [{"depname": "ls_extended", "version": "2.0.0", "version_op": null, "unified_name": "ls_extended", "extractor_type": "cmake", "context": "project(ls_extended \tversion 2.0.0 \tlanguages c)", "confidence": "High"}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "ninja-build@@ninja", "extractors": [{"deps": [{"depname": "ninja", "version": null, "version_op": null, "unified_name": "ninja", "extractor_type": "cmake", "context": "project(ninja cxx)", "confidence": ""}], "type": "cmake", "libs": [{"filenames": ["re2c"], "version": "", "fromfile": "ninja-build@@ninja/CMakeLists.txt", "content": "find_program(re2c re2c)"}]}]}

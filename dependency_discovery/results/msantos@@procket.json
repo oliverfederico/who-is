@@ -1,0 +1,1 @@
+{"target": "msantos@@procket", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "ancillary", "version": null, "version_op": null, "unified_name": "ancillary", "extractor_type": "make", "context": "msantos@@procket/c_src/Makefile:LDLIBS += -L$(C_SRC_DIR) -lancillary", "confidence": "High"}], "type": "make"}, {"deps": [], "type": "make"}]}

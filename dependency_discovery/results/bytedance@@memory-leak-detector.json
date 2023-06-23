@@ -1,0 +1,1 @@
+{"target": "bytedance@@memory-leak-detector", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "bytedance@@memory-leak-detector/library/CMakeLists.txt", "content": "find_library(\n        \n        log-lib\n\n        \n        log\n)"}]}]}

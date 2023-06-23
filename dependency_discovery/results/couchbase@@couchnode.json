@@ -1,0 +1,1 @@
+{"target": "couchbase@@couchnode", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}, {"deps": [{"depname": "couchbase_impl", "version": null, "version_op": null, "unified_name": "couchbase_impl", "extractor_type": "cmake", "context": "project (couchbase_impl)", "confidence": ""}], "type": "cmake", "libs": []}]}

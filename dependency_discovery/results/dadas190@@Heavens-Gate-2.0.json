@@ -1,0 +1,1 @@
+{"target": "dadas190@@Heavens-Gate-2.0", "extractors": [{"deps": [{"depname": "%(AdditionalDependencies)", "version": null, "version_op": null, "unified_name": "%(additionaldependencies)", "extractor_type": "ms", "context": "dadas190@@Heavens-Gate-2.0/HeavensGate.vcxproj", "confidence": "High"}], "type": "ms"}]}

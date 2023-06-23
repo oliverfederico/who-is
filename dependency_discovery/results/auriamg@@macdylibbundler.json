@@ -1,0 +1,1 @@
+{"target": "auriamg@@macdylibbundler", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "dylibbundler", "version": null, "version_op": null, "unified_name": "dylibbundler", "extractor_type": "cmake", "context": "project(dylibbundler)", "confidence": ""}], "type": "cmake", "libs": []}]}

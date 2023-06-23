@@ -1,0 +1,1 @@
+{"target": "kkent030315@@anycall", "extractors": [{"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}, {"deps": [{"depname": "ntdll", "version": null, "version_op": null, "unified_name": "ntdll", "extractor_type": "ms", "context": "kkent030315@@anycall/anycall/anycall.vcxproj", "confidence": "High"}], "type": "ms"}]}

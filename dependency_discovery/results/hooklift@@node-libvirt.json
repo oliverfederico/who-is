@@ -1,0 +1,1 @@
+{"target": "hooklift@@node-libvirt", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}]}

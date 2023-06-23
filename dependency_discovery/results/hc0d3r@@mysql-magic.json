@@ -1,0 +1,1 @@
+{"target": "hc0d3r@@mysql-magic", "extractors": [{"deps": [{"depname": "util", "version": null, "version_op": null, "unified_name": "util", "extractor_type": "make", "context": "hc0d3r@@mysql-magic/Makefile:LDLIBS+=-lutil", "confidence": "High"}], "type": "make"}]}

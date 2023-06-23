@@ -1,0 +1,1 @@
+{"target": "akuukka@@quickhull", "extractors": [{"deps": [{"depname": "quickhulltests", "version": null, "version_op": null, "unified_name": "quickhulltests", "extractor_type": "cmake", "context": "project(quickhulltests)", "confidence": ""}], "type": "cmake", "libs": []}]}

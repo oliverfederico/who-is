@@ -1,0 +1,264 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/ext_libs/spdlog/include/spdlog/logger.h",
+                "line": 312,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/vowpalwabbit/io/src/logger.cc",
+                "line": 89,
+                "offset": 5
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "std::string"
+                },
+                "1": {
+                    "type": "enum spdlog::pattern_time_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/ext_libs/spdlog/include/spdlog/logger.h",
+                "line": 326,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/vowpalwabbit/io/src/logger.cc",
+                "line": 88,
+                "offset": 5
+            },
+            "name": "set_pattern"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/ext_libs/spdlog/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/vowpalwabbit/io/src/logger.cc",
+                "line": 91,
+                "offset": 60
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/ext_libs/spdlog/include/spdlog/logger.h",
+                "line": 283,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/vowpalwabbit/io/src/logger.cc",
+                "line": 92,
+                "offset": 60
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/ext_libs/spdlog/include/spdlog/logger.h",
+                "line": 289,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/vowpalwabbit/io/src/logger.cc",
+                "line": 93,
+                "offset": 61
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/ext_libs/spdlog/include/spdlog/logger.h",
+                "line": 295,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/vowpalwabbit/io/src/logger.cc",
+                "line": 94,
+                "offset": 64
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/ext_libs/spdlog/include/spdlog/logger.h",
+                "line": 312,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/VowpalWabbit@@vowpal_wabbit/vowpalwabbit/io/src/logger.cc",
+                "line": 98,
+                "offset": 5
+            },
+            "name": "set_level"
+        }
+    }
+]

@@ -1,0 +1,1 @@
+{"target": "uthcode@@learntosolveit", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "learntosolveit", "version": null, "version_op": null, "unified_name": "learntosolveit", "extractor_type": "cmake", "context": "project(learntosolveit)", "confidence": ""}], "type": "cmake", "libs": []}]}

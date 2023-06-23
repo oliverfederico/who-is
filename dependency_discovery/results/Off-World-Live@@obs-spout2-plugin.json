@@ -1,0 +1,1 @@
+{"target": "Off-World-Live@@obs-spout2-plugin", "extractors": [{"deps": [{"depname": "win", "version": null, "version_op": null, "unified_name": "win", "extractor_type": "cmake", "context": "project(win-spout)", "confidence": ""}], "type": "cmake", "libs": []}]}

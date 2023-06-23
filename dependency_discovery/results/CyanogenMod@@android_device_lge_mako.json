@@ -1,0 +1,1 @@
+{"target": "CyanogenMod@@android_device_lge_mako", "extractors": [{"deps": [{"depname": "camera-hal", "version": "1.0.0", "version_op": null, "unified_name": "camera-hal", "extractor_type": "autoconf", "context": "AC_INIT([camera-hal],1.0.0)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

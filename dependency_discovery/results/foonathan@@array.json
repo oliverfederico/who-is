@@ -1,0 +1,1 @@
+{"target": "foonathan@@array", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "foonathan_array", "version": "0.0.0", "version_op": null, "unified_name": "foonathan_array", "extractor_type": "cmake", "context": "project(foonathan_array version 0.0.0)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

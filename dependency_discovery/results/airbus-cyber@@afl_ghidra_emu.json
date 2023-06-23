@@ -1,0 +1,1 @@
+{"target": "airbus-cyber@@afl_ghidra_emu", "extractors": [{"deps": [], "type": "make"}]}

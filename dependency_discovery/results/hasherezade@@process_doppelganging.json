@@ -1,0 +1,1 @@
+{"target": "hasherezade@@process_doppelganging", "extractors": [{"deps": [{"depname": "proc_doppel", "version": null, "version_op": null, "unified_name": "proc_doppel", "extractor_type": "cmake", "context": "project (proc_doppel)", "confidence": ""}], "type": "cmake", "libs": []}]}

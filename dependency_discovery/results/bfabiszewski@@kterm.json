@@ -1,0 +1,1 @@
+{"target": "bfabiszewski@@kterm", "extractors": [{"deps": [{"depname": "kterm", "version": "2.6", "version_op": null, "unified_name": "kterm", "extractor_type": "autoconf", "context": "AC_INIT([kterm], [2.6])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

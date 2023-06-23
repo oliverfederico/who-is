@@ -1,0 +1,1 @@
+{"target": "maximkulkin@@esp-homekit", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}]}

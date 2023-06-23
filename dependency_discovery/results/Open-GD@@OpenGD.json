@@ -1,0 +1,1 @@
+{"target": "Open-GD@@OpenGD", "extractors": [{"deps": [{"depname": "opengd", "version": null, "version_op": null, "unified_name": "opengd", "extractor_type": "cmake", "context": "project(opengd)", "confidence": ""}], "type": "cmake", "libs": []}]}

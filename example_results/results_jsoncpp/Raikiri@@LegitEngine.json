@@ -1,0 +1,631 @@
+[
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 728,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 29,
+                "offset": 20
+            },
+            "name": "asFloat",
+            "return": "float"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 728,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 29,
+                "offset": 46
+            },
+            "name": "asFloat",
+            "return": "float"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 728,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 29,
+                "offset": 72
+            },
+            "name": "asFloat",
+            "return": "float"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 783,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 29,
+                "offset": 20
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 783,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 29,
+                "offset": 46
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 783,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 29,
+                "offset": 72
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 720,
+                "offset": 7
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 33,
+                "offset": 21
+            },
+            "name": "asInt",
+            "return": "Int"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 720,
+                "offset": 7
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 33,
+                "offset": 45
+            },
+            "name": "asInt",
+            "return": "Int"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 783,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 33,
+                "offset": 21
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 783,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 33,
+                "offset": 45
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 721,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 38,
+                "offset": 21
+            },
+            "name": "asUInt",
+            "return": "UInt"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 721,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 38,
+                "offset": 46
+            },
+            "name": "asUInt",
+            "return": "UInt"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 721,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 38,
+                "offset": 71
+            },
+            "name": "asUInt",
+            "return": "UInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 783,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 38,
+                "offset": 21
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 783,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 38,
+                "offset": 46
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 783,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 38,
+                "offset": 71
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 1372,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 155,
+                "offset": 92
+            },
+            "name": "getFormattedErrorMessages",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/./dependencies/jsoncpp/json/json.h",
+                "line": 809,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Raikiri@@LegitEngine/src/main.cpp",
+                "line": 157,
+                "offset": 17
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    }
+]

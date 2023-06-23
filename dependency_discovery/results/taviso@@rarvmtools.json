@@ -1,0 +1,1 @@
+{"target": "taviso@@rarvmtools", "extractors": [{"deps": [{"depname": "z", "version": null, "version_op": null, "unified_name": "z", "extractor_type": "make", "context": "taviso@@rarvmtools/Makefile:LDLIBS = -lz", "confidence": "High"}], "type": "make"}, {"deps": [], "type": "make"}]}

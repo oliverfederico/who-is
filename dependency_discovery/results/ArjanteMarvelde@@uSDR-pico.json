@@ -1,0 +1,1 @@
+{"target": "ArjanteMarvelde@@uSDR-pico", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "usdr", "version": null, "version_op": null, "unified_name": "usdr", "extractor_type": "cmake", "context": "project(usdr-fft c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}]}

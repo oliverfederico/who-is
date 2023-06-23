@@ -1,0 +1,1 @@
+{"target": "logological@@gpp", "extractors": [{"deps": [{"depname": "GPP", "version": "2.27", "version_op": null, "unified_name": "gpp", "extractor_type": "autoconf", "context": "AC_INIT([GPP], [2.27], [tristan@logological.org], [gpp])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

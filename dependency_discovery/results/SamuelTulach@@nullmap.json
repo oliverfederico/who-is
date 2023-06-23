@@ -1,0 +1,1 @@
+{"target": "SamuelTulach@@nullmap", "extractors": [{"deps": [{"depname": "ntdll", "version": null, "version_op": null, "unified_name": "ntdll", "extractor_type": "ms", "context": "SamuelTulach@@nullmap/nullmap/nullmap/nullmap.vcxproj", "confidence": "High"}], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "willemt@@raft", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "raft", "version": "0.2.0", "version_op": null, "unified_name": "raft", "extractor_type": "clib", "context": "willemt@@raft/package.json", "confidence": "High"}], "type": "clib"}]}

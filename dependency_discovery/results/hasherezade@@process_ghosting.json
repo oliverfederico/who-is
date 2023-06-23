@@ -1,0 +1,1 @@
+{"target": "hasherezade@@process_ghosting", "extractors": [{"deps": [{"depname": "proc_ghost", "version": null, "version_op": null, "unified_name": "proc_ghost", "extractor_type": "cmake", "context": "project (proc_ghost)", "confidence": ""}], "type": "cmake", "libs": []}]}

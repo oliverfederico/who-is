@@ -1,0 +1,1 @@
+{"target": "TartanLlama@@minidbg", "extractors": [{"deps": [{"depname": "minidbg", "version": null, "version_op": null, "unified_name": "minidbg", "extractor_type": "cmake", "context": "project (minidbg)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "hogliux@@semimap", "extractors": [{"deps": [{"depname": "semimap", "version": null, "version_op": null, "unified_name": "semimap", "extractor_type": "cmake", "context": "project (semimap)", "confidence": ""}], "type": "cmake", "libs": []}]}

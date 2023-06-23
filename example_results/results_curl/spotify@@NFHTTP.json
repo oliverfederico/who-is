@@ -1,0 +1,5534 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2016,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 835,
+                "offset": 12
+            },
+            "name": "curl_mime_name"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2016,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 841,
+                "offset": 9
+            },
+            "name": "curl_mime_name"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct Curl_easy *"
+                }
+            },
+            "callExprReturn": "curl_mime *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1988,
+                "offset": 24
+            },
+            "functionDeclReturn": "curl_mime *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 872,
+                "offset": 10
+            },
+            "name": "curl_mime_init"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2088,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 877,
+                "offset": 14
+            },
+            "name": "curl_mime_subparts"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "curl_mimepart *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2007,
+                "offset": 28
+            },
+            "functionDeclReturn": "curl_mimepart *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 884,
+                "offset": 14
+            },
+            "name": "curl_mime_addpart"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct Curl_easy *"
+                }
+            },
+            "callExprReturn": "curl_mime *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1988,
+                "offset": 24
+            },
+            "functionDeclReturn": "curl_mime *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 890,
+                "offset": 21
+            },
+            "name": "curl_mime_init"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2088,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 895,
+                "offset": 18
+            },
+            "name": "curl_mime_subparts"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "curl_mimepart *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2007,
+                "offset": 28
+            },
+            "functionDeclReturn": "curl_mimepart *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 901,
+                "offset": 14
+            },
+            "name": "curl_mime_addpart"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "struct curl_slist *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2097,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 907,
+                "offset": 18
+            },
+            "name": "curl_mime_headers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2035,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 911,
+                "offset": 18
+            },
+            "name": "curl_mime_type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_off_t"
+                },
+                "2": {
+                    "type": "curl_read_callback"
+                },
+                "3": {
+                    "type": "curl_seek_callback"
+                },
+                "4": {
+                    "type": "curl_free_callback"
+                },
+                "5": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2074,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 932,
+                "offset": 22
+            },
+            "name": "curl_mime_data_cb"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2064,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 938,
+                "offset": 22
+            },
+            "name": "curl_mime_filedata"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2025,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 940,
+                "offset": 22
+            },
+            "name": "curl_mime_filename"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2054,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 943,
+                "offset": 20
+            },
+            "name": "curl_mime_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_off_t"
+                },
+                "2": {
+                    "type": "curl_read_callback"
+                },
+                "3": {
+                    "type": "curl_seek_callback"
+                },
+                "4": {
+                    "type": "curl_free_callback"
+                },
+                "5": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2074,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 948,
+                "offset": 20
+            },
+            "name": "curl_mime_data_cb"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2054,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 951,
+                "offset": 20
+            },
+            "name": "curl_mime_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2025,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/formdata.c",
+                "line": 964,
+                "offset": 20
+            },
+            "name": "curl_mime_filename"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/cookie.c",
+                "line": 281,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const time_t *"
+                }
+            },
+            "callExprReturn": "time_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2413,
+                "offset": 20
+            },
+            "functionDeclReturn": "time_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/cookie.c",
+                "line": 630,
+                "offset": 21
+            },
+            "name": "curl_getdate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/cookie.c",
+                "line": 1020,
+                "offset": 10
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/cookie.c",
+                "line": 1422,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/cookie.c",
+                "line": 1428,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/cookie.c",
+                "line": 1467,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 804,
+                "offset": 10
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 851,
+                "offset": 12
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 873,
+                "offset": 14
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 1615,
+                "offset": 14
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 1619,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 1623,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 1628,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 1633,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 1636,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 1639,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "struct curl_slist *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2097,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 1974,
+                "offset": 5
+            },
+            "name": "curl_mime_headers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "struct curl_slist *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2097,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 1977,
+                "offset": 5
+            },
+            "name": "curl_mime_headers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 2136,
+                "offset": 8
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 2812,
+                "offset": 8
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 2819,
+                "offset": 14
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 2851,
+                "offset": 12
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3514,
+                "offset": 8
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3547,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3559,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3616,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3632,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3645,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3676,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3689,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const time_t *"
+                }
+            },
+            "callExprReturn": "time_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2413,
+                "offset": 20
+            },
+            "functionDeclReturn": "time_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3692,
+                "offset": 22
+            },
+            "name": "curl_getdate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3697,
+                "offset": 14
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3699,
+                "offset": 14
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http.c",
+                "line": 3715,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2692,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/ftp.c",
+                "line": 1249,
+                "offset": 15
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2692,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/ftp.c",
+                "line": 1278,
+                "offset": 15
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const time_t *"
+                }
+            },
+            "callExprReturn": "time_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2413,
+                "offset": 20
+            },
+            "functionDeclReturn": "time_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/ftp.c",
+                "line": 2063,
+                "offset": 37
+            },
+            "name": "curl_getdate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2692,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/ftp.c",
+                "line": 3237,
+                "offset": 15
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2692,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/ftp.c",
+                "line": 4060,
+                "offset": 13
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2107,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2108,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2203,
+                "offset": 12
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2205,
+                "offset": 17
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2207,
+                "offset": 17
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2209,
+                "offset": 17
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2211,
+                "offset": 17
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2213,
+                "offset": 17
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2325,
+                "offset": 10
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2332,
+                "offset": 10
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2335,
+                "offset": 15
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2236,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2664,
+                "offset": 10
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2236,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2681,
+                "offset": 12
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2236,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2687,
+                "offset": 13
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2236,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2689,
+                "offset": 15
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2725,
+                "offset": 8
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2727,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2729,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2731,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2733,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2733,
+                "offset": 45
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2735,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct Curl_easy *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                },
+                "3": {
+                    "type": "int *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2276,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2861,
+                "offset": 25
+            },
+            "name": "curl_easy_unescape"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct Curl_easy *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                },
+                "3": {
+                    "type": "int *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2276,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2871,
+                "offset": 29
+            },
+            "name": "curl_easy_unescape"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2236,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2975,
+                "offset": 16
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2236,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/url.c",
+                "line": 2977,
+                "offset": 18
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2245,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/version.c",
+                "line": 86,
+                "offset": 3
+            },
+            "name": "curl_version"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLversion"
+                }
+            },
+            "callExprReturn": "curl_version_info_data *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2681,
+                "offset": 37
+            },
+            "functionDeclReturn": "curl_version_info_data *",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/version.c",
+                "line": 87,
+                "offset": 3
+            },
+            "name": "curl_version_info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2256,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/escape.c",
+                "line": 70,
+                "offset": 10
+            },
+            "name": "curl_easy_escape"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2276,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/escape.c",
+                "line": 76,
+                "offset": 10
+            },
+            "name": "curl_easy_unescape"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2392,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/telnet.c",
+                "line": 836,
+                "offset": 11
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/telnet.c",
+                "line": 838,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2392,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/telnet.c",
+                "line": 868,
+                "offset": 15
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/telnet.c",
+                "line": 911,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/telnet.c",
+                "line": 1294,
+                "offset": 3
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2236,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/netrc.c",
+                "line": 73,
+                "offset": 18
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/easy.c",
+                "line": 978,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http_digest.c",
+                "line": 60,
+                "offset": 7
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/tftp.c",
+                "line": 354,
+                "offset": 8
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/tftp.c",
+                "line": 386,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/slist.c",
+                "line": 118,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "struct curl_slist *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2097,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/imap.c",
+                "line": 735,
+                "offset": 5
+            },
+            "name": "curl_mime_headers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "struct curl_slist *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2097,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/smtp.c",
+                "line": 547,
+                "offset": 5
+            },
+            "name": "curl_mime_headers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/rtsp.c",
+                "line": 794,
+                "offset": 6
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/rtsp.c",
+                "line": 807,
+                "offset": 11
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http_proxy.c",
+                "line": 501,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http_proxy.c",
+                "line": 503,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http_proxy.c",
+                "line": 518,
+                "offset": 17
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http_proxy.c",
+                "line": 533,
+                "offset": 17
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/http_ntlm.c",
+                "line": 75,
+                "offset": 6
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1997,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1096,
+                "offset": 3
+            },
+            "name": "curl_mime_free"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1115,
+                "offset": 3
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1117,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2054,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1155,
+                "offset": 11
+            },
+            "name": "curl_mime_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2064,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1158,
+                "offset": 11
+            },
+            "name": "curl_mime_filedata"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_off_t"
+                },
+                "2": {
+                    "type": "curl_read_callback"
+                },
+                "3": {
+                    "type": "curl_seek_callback"
+                },
+                "4": {
+                    "type": "curl_free_callback"
+                },
+                "5": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2074,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1164,
+                "offset": 11
+            },
+            "name": "curl_mime_data_cb"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct Curl_easy *"
+                }
+            },
+            "callExprReturn": "curl_mime *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1988,
+                "offset": 24
+            },
+            "functionDeclReturn": "curl_mime *",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1170,
+                "offset": 12
+            },
+            "name": "curl_mime_init"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2088,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1171,
+                "offset": 17
+            },
+            "name": "curl_mime_subparts"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "curl_mimepart *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2007,
+                "offset": 28
+            },
+            "functionDeclReturn": "curl_mimepart *",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1175,
+                "offset": 11
+            },
+            "name": "curl_mime_addpart"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "struct curl_slist *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2097,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1193,
+                "offset": 13
+            },
+            "name": "curl_mime_headers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1195,
+                "offset": 9
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2035,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1202,
+                "offset": 11
+            },
+            "name": "curl_mime_type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2016,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1204,
+                "offset": 11
+            },
+            "name": "curl_mime_name"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2025,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1206,
+                "offset": 11
+            },
+            "name": "curl_mime_filename"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1448,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1697,
+                "offset": 3
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1973,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/mime.c",
+                "line": 1746,
+                "offset": 23
+            },
+            "name": "curl_strequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2392,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/setopt.c",
+                "line": 683,
+                "offset": 12
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/setopt.c",
+                "line": 685,
+                "offset": 9
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 1974,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/setopt.c",
+                "line": 773,
+                "offset": 12
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2236,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/vtls/openssl.c",
+                "line": 948,
+                "offset": 24
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2392,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/vtls/openssl.c",
+                "line": 1142,
+                "offset": 11
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/vtls/openssl.c",
+                "line": 1144,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/vtls/vtls.c",
+                "line": 650,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/vtls/vtls.c",
+                "line": 711,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2293,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/vtls/vtls.c",
+                "line": 1294,
+                "offset": 3
+            },
+            "name": "curl_free"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2236,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/vtls/vtls.c",
+                "line": 1277,
+                "offset": 19
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2293,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/lib/vtls/vtls.c",
+                "line": 1286,
+                "offset": 9
+            },
+            "name": "curl_free"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "long"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2305,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/source/ClientCurl.cpp",
+                "line": 44,
+                "offset": 5
+            },
+            "name": "curl_global_init"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2335,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/source/ClientCurl.cpp",
+                "line": 46,
+                "offset": 5
+            },
+            "name": "curl_global_cleanup"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "long"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2305,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/source/ClientCurl.cpp",
+                "line": 138,
+                "offset": 3
+            },
+            "name": "curl_global_init"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2402,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/source/ClientCurl.cpp",
+                "line": 258,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/libraries/curl/include/curl/curl.h",
+                "line": 2392,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/spotify@@NFHTTP/source/ClientCurl.cpp",
+                "line": 274,
+                "offset": 15
+            },
+            "name": "curl_slist_append"
+        }
+    }
+]

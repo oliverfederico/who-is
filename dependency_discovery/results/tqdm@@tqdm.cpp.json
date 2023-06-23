@@ -1,0 +1,1 @@
+{"target": "tqdm@@tqdm.cpp", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "tqdm", "version": null, "version_op": null, "unified_name": "tqdm", "extractor_type": "cmake", "context": "project(tqdm)", "confidence": ""}], "type": "cmake", "libs": []}]}

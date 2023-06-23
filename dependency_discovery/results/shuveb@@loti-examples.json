@@ -1,0 +1,1 @@
+{"target": "shuveb@@loti-examples", "extractors": [{"deps": [{"depname": "liburing_examples", "version": null, "version_op": null, "unified_name": "uring_examples", "extractor_type": "cmake", "context": "project(liburing_examples c)", "confidence": ""}], "type": "cmake", "libs": []}]}

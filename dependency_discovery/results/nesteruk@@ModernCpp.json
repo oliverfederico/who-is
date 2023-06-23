@@ -1,0 +1,1 @@
+{"target": "nesteruk@@ModernCpp", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "moderncpp", "version": null, "version_op": null, "unified_name": "moderncpp", "extractor_type": "cmake", "context": "project(moderncpp)", "confidence": ""}], "type": "cmake", "libs": []}]}

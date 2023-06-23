@@ -1,0 +1,77 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2706,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ryanbinns@@ttwatch/src/ttbin.c",
+                "line": 1074,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ryanbinns@@ttwatch/src/ttbin.c",
+                "line": 1050,
+                "offset": 15
+            },
+            "name": "curl_slist_append"
+        }
+    }
+]

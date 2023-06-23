@@ -1,0 +1,1 @@
+{"target": "st4ckh0und@@AntiOreans-CodeDevirtualizer", "extractors": [{"deps": [{"depname": "ida", "version": null, "version_op": null, "unified_name": "ida", "extractor_type": "ms", "context": "st4ckh0und@@AntiOreans-CodeDevirtualizer/CodeDevirtualizer/CodeDevirtualizer.vcxproj", "confidence": "High"}], "type": "ms"}]}

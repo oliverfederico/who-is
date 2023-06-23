@@ -1,0 +1,1 @@
+{"target": "Wulingtian@@yolov5_tensorrt_int8", "extractors": [{"deps": [{"depname": "yolov5sengine", "version": null, "version_op": null, "unified_name": "yolov5sengine", "extractor_type": "cmake", "context": "project(yolov5sengine)", "confidence": ""}], "type": "cmake", "libs": []}]}

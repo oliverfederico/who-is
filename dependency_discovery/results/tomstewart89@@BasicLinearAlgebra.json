@@ -1,0 +1,1 @@
+{"target": "tomstewart89@@BasicLinearAlgebra", "extractors": [{"deps": [{"depname": "bla_tests", "version": null, "version_op": null, "unified_name": "bla_tests", "extractor_type": "cmake", "context": "project(bla_tests)", "confidence": ""}], "type": "cmake", "libs": []}]}

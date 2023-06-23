@@ -1,0 +1,1 @@
+{"target": "clostra@@newnode", "extractors": [{"deps": [{"depname": "parson", "version": "1.0.2", "version_op": null, "unified_name": "parson", "extractor_type": "clib", "context": "clostra@@newnode/bugsnag/deps/deps/parson/package.json", "confidence": "High"}], "type": "clib"}]}

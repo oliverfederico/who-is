@@ -1,0 +1,1 @@
+{"target": "thunlp@@THULAC", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "thulac", "version": null, "version_op": null, "unified_name": "thulac", "extractor_type": "cmake", "context": "project(thulac)", "confidence": ""}], "type": "cmake", "libs": []}]}

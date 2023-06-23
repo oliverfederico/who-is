@@ -1,0 +1,1 @@
+{"target": "termux@@libandroid-shmem", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

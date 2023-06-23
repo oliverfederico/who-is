@@ -1,0 +1,1 @@
+{"target": "TartanLlama@@function_ref", "extractors": [{"deps": [{"depname": "tl", "version": "1.0.0", "version_op": null, "unified_name": "tl", "extractor_type": "cmake", "context": "project(tl-function_ref version 1.0.0 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}]}

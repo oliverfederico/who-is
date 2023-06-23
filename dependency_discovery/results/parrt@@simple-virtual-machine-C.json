@@ -1,0 +1,1 @@
+{"target": "parrt@@simple-virtual-machine-C", "extractors": [{"deps": [{"depname": "simple_virtual_machine_c", "version": null, "version_op": null, "unified_name": "simple_virtual_machine_c", "extractor_type": "cmake", "context": "project(simple_virtual_machine_c)", "confidence": ""}], "type": "cmake", "libs": []}]}

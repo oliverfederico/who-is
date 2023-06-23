@@ -1,0 +1,1572 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "Json::Value"
+                },
+                "3": {
+                    "type": "_Bool"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/reader.h",
+                "line": 83,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/m_misc.cpp",
+                "line": 164,
+                "offset": 14
+            },
+            "name": "parse",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/reader.h",
+                "line": 112,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/m_misc.cpp",
+                "line": 171,
+                "offset": 8
+            },
+            "name": "getFormattedErrorMessages",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/writer.h",
+                "line": 209,
+                "offset": 23
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": true,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/m_misc.cpp",
+                "line": 193,
+                "offset": 15
+            },
+            "name": "write",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/writer.h",
+                "line": 166,
+                "offset": 23
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": true,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/m_misc.cpp",
+                "line": 197,
+                "offset": 15
+            },
+            "name": "write",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 433,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 474,
+                "offset": 3
+            },
+            "name": "append",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 322,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 458,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 438,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 458,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 322,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 465,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 438,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 465,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 322,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 470,
+                "offset": 4
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 438,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 470,
+                "offset": 4
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 322,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 473,
+                "offset": 4
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 438,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 473,
+                "offset": 4
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 371,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 486,
+                "offset": 8
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 361,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 486,
+                "offset": 31
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 361,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 492,
+                "offset": 6
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 492,
+                "offset": 28
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::ValueConstIterator"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 775,
+                "offset": 13
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 496,
+                "offset": 54
+            },
+            "name": "operator++",
+            "return": "SelfType &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 563,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 496,
+                "offset": 12
+            },
+            "name": "begin",
+            "return": "const_iterator"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::ValueIteratorBase"
+                },
+                "1": {
+                    "type": "const SelfType"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 682,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 496,
+                "offset": 31
+            },
+            "name": "operator!=",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 564,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 496,
+                "offset": 37
+            },
+            "name": "end",
+            "return": "const_iterator"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 322,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 502,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 471,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 502,
+                "offset": 11
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::ValueConstIterator"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 780,
+                "offset": 13
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 502,
+                "offset": 12
+            },
+            "name": "operator*",
+            "return": "reference"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 361,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 503,
+                "offset": 7
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 340,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 506,
+                "offset": 18
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 471,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 506,
+                "offset": 18
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::ValueConstIterator"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 780,
+                "offset": 13
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 506,
+                "offset": 19
+            },
+            "name": "operator*",
+            "return": "reference"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 322,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 509,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 471,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 509,
+                "offset": 11
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::ValueConstIterator"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 780,
+                "offset": 13
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 509,
+                "offset": 12
+            },
+            "name": "operator*",
+            "return": "reference"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 361,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 510,
+                "offset": 8
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 340,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 512,
+                "offset": 24
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 322,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 517,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 471,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 517,
+                "offset": 11
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::ValueConstIterator"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 780,
+                "offset": 13
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 517,
+                "offset": 12
+            },
+            "name": "operator*",
+            "return": "reference"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 361,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 518,
+                "offset": 8
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 340,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 519,
+                "offset": 15
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 322,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 522,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 471,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 522,
+                "offset": 11
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::ValueConstIterator"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 780,
+                "offset": 13
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 522,
+                "offset": 12
+            },
+            "name": "operator*",
+            "return": "reference"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 361,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 523,
+                "offset": 8
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 340,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 524,
+                "offset": 17
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 377,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 909,
+                "offset": 20
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/build/libraries/local/include/jsoncpp/json/value.h",
+                "line": 377,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/odamex@@odamex/server/src/sv_banlist.cpp",
+                "line": 992,
+                "offset": 20
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    }
+]

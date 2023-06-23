@@ -1,0 +1,1 @@
+{"target": "execuc@@u2if", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "u2if", "version": "\"0.6.0\"", "version_op": null, "unified_name": "u2if", "extractor_type": "cmake", "context": "project(u2if version \"0.6.0\")", "confidence": "High"}], "type": "cmake", "libs": []}]}

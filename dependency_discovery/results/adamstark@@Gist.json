@@ -1,0 +1,1 @@
+{"target": "adamstark@@Gist", "extractors": [{"deps": [{"depname": "gist", "version": "1.0.7", "version_op": null, "unified_name": "gist", "extractor_type": "cmake", "context": "project (gist version 1.0.7)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

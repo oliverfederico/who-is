@@ -1,0 +1,1 @@
+{"target": "rosflight@@firmware", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "gtest", "version": null, "version_op": null, "unified_name": "gtest", "extractor_type": "cmake", "context": "find_package(gtest required)", "confidence": "High"}], "type": "cmake", "libs": []}]}

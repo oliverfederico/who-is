@@ -1,0 +1,1 @@
+{"target": "zardus@@preeny", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "preeny", "version": null, "version_op": null, "unified_name": "preeny", "extractor_type": "cmake", "context": "project (preeny)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

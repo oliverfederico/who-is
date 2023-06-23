@@ -1,0 +1,72 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/assimp@@assimp/code/../contrib/rapidjson/include/rapidjson/document.h",
+                "line": 2425,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/assimp@@assimp/test/unit/utglTF2ImportExport.cpp",
+                "line": 800,
+                "offset": 13
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/assimp@@assimp/code/../contrib/rapidjson/include/rapidjson/document.h",
+                "line": 2470,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/assimp@@assimp/test/unit/utglTF2ImportExport.cpp",
+                "line": 801,
+                "offset": 13
+            },
+            "name": "HasParseError"
+        }
+    }
+]

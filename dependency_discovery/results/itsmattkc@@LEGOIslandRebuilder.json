@@ -1,0 +1,1 @@
+{"target": "itsmattkc@@LEGOIslandRebuilder", "extractors": [{"deps": [{"depname": "propertygrid", "version": null, "version_op": null, "unified_name": "propertygrid", "extractor_type": "cmake", "context": "project(propertygrid languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

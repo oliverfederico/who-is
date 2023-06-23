@@ -1,0 +1,1 @@
+{"target": "m0chan@@h4cks", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "ms"}, {"deps": [{"depname": "xpsprint", "version": null, "version_op": null, "unified_name": "xpsprint", "extractor_type": "ms", "context": "m0chan@@h4cks/Windows 0 Days from SandboxEscaper/ALPC-TaskSched-LPE/ALPC-TaskSched-LPE.vcxproj", "confidence": "High"}], "type": "ms"}]}

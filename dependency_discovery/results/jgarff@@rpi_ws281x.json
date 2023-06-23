@@ -1,0 +1,1 @@
+{"target": "jgarff@@rpi_ws281x", "extractors": [{"deps": [{"depname": "rpi_ws281x", "version": "${project_version}", "version_op": null, "unified_name": "rpi_ws281x", "extractor_type": "cmake", "context": "project(rpi_ws281x version ${project_version})", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "control"}]}

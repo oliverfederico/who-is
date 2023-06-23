@@ -1,0 +1,1 @@
+{"target": "bilibili@@libyuv", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["gtest"], "version": "", "fromfile": "bilibili@@libyuv/CMakeLists.txt", "content": "find_library(gtest_library gtest)"}]}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "ast-al@@rangeless", "extractors": [{"deps": [{"depname": "fn", "version": null, "version_op": null, "unified_name": "fn", "extractor_type": "cmake", "context": "project(fn)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

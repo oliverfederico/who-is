@@ -1,0 +1,1 @@
+{"target": "microsoft@@SealPIR", "extractors": [{"deps": [{"depname": "sealpir", "version": "2.2", "version_op": null, "unified_name": "sealpir", "extractor_type": "cmake", "context": "project(sealpir version 2.2 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

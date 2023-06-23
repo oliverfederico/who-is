@@ -1,0 +1,1 @@
+{"target": "yosupo06@@library-checker-problems", "extractors": [{"deps": [{"depname": "librarychecker", "version": null, "version_op": null, "unified_name": "rarychecker", "extractor_type": "cmake", "context": "project(librarychecker)", "confidence": ""}], "type": "cmake", "libs": []}]}

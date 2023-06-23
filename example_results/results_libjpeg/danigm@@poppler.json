@@ -1,0 +1,741 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 911,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 43,
+                "offset": 2
+            },
+            "name": "jpeg_destroy_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 906,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 53,
+                "offset": 2
+            },
+            "name": "jpeg_CreateCompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 56,
+                "offset": 2
+            },
+            "name": "jpeg_stdio_dest"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 928,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 66,
+                "offset": 2
+            },
+            "name": "jpeg_set_defaults"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 951,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 79,
+                "offset": 2
+            },
+            "name": "jpeg_start_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 49,
+                "offset": 14
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 933,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 70,
+                "offset": 3
+            },
+            "name": "jpeg_set_quality"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 945,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 75,
+                "offset": 3
+            },
+            "name": "jpeg_simple_progression"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "unsigned char **"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 953,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 87,
+                "offset": 2
+            },
+            "name": "jpeg_write_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "unsigned char **"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 953,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 95,
+                "offset": 2
+            },
+            "name": "jpeg_write_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 956,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/goo/JpegWriter.cc",
+                "line": 102,
+                "offset": 2
+            },
+            "name": "jpeg_finish_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/poppler/DCTStream.cc",
+                "line": 68,
+                "offset": 3
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/poppler/DCTStream.cc",
+                "line": 80,
+                "offset": 3
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 908,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/poppler/DCTStream.cc",
+                "line": 96,
+                "offset": 5
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/poppler/DCTStream.cc",
+                "line": 109,
+                "offset": 5
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 985,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/poppler/DCTStream.cc",
+                "line": 145,
+                "offset": 5
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 997,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/poppler/DCTStream.cc",
+                "line": 175,
+                "offset": 5
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPARRAY"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 998,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/poppler/DCTStream.cc",
+                "line": 209,
+                "offset": 3
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPARRAY"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 998,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/danigm@@poppler/poppler/DCTStream.cc",
+                "line": 217,
+                "offset": 5
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    }
+]

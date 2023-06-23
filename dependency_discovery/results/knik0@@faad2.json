@@ -1,0 +1,1 @@
+{"target": "knik0@@faad2", "extractors": [{"deps": [{"depname": "libfaad2", "version": null, "version_op": null, "unified_name": "faad2", "extractor_type": "cmake", "context": "project(libfaad2 languages c)", "confidence": ""}], "type": "cmake", "libs": [{"filenames": ["m"], "version": "", "fromfile": "knik0@@faad2/CMakeLists.txt", "content": "find_library(math_library m)"}]}]}

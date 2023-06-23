@@ -1,0 +1,1 @@
+{"target": "ionescu007@@minlzma", "extractors": [{"deps": [{"depname": "minlzma", "version": null, "version_op": null, "unified_name": "minlzma", "extractor_type": "cmake", "context": "project (minlzma)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

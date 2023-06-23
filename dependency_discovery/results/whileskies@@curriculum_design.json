@@ -1,0 +1,1 @@
+{"target": "whileskies@@curriculum_design", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "chat_server_clion", "version": null, "version_op": null, "unified_name": "chat_server_clion", "extractor_type": "cmake", "context": "project(chat_server_clion)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

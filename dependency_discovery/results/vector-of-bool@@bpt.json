@@ -1,0 +1,1 @@
+{"target": "vector-of-bool@@bpt", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "testproject", "version": null, "version_op": null, "unified_name": "testproject", "extractor_type": "cmake", "context": "project(testproject)", "confidence": ""}], "type": "cmake", "libs": []}]}

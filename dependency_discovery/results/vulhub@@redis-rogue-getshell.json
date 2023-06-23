@@ -1,0 +1,1 @@
+{"target": "vulhub@@redis-rogue-getshell", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

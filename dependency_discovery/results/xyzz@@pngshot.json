@@ -1,0 +1,1 @@
+{"target": "xyzz@@pngshot", "extractors": [{"deps": [{"depname": "pngshot", "version": null, "version_op": null, "unified_name": "pngshot", "extractor_type": "cmake", "context": "project(pngshot)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "dalinvip@@cw2vec", "extractors": [{"deps": [{"depname": "cw2vec", "version": null, "version_op": null, "unified_name": "cw2vec", "extractor_type": "cmake", "context": "project(cw2vec)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

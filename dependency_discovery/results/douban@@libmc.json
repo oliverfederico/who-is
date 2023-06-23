@@ -1,0 +1,1 @@
+{"target": "douban@@libmc", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "libmc", "version": null, "version_op": null, "unified_name": "mc", "extractor_type": "cmake", "context": "project(libmc)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "esp8266@@esp8266-wiki", "extractors": [{"deps": [{"depname": "debhelper", "version": "=8.0.0", "version_op": null, "unified_name": "debhelper", "extractor_type": "control", "context": "esp8266@@esp8266-wiki/deb/src/esptool_0.0.2-1.dsc", "confidence": "High"}], "type": "control"}]}

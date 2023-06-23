@@ -1,0 +1,891 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uint8_t *"
+                },
+                "1": {
+                    "type": "uLongf *"
+                },
+                "2": {
+                    "type": "const Bytef *"
+                },
+                "3": {
+                    "type": "uLongf"
+                },
+                "4": {
+                    "type": "int",
+                    "value": "9"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1243,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/AssbinExporter.cpp",
+                "line": 744,
+                "offset": 17
+            },
+            "name": "compress2"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "unsigned char *"
+                },
+                "1": {
+                    "type": "uLongf *"
+                },
+                "2": {
+                    "type": "const Bytef *"
+                },
+                "3": {
+                    "type": "uLongf"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1266,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/AssbinLoader.cpp",
+                "line": 669,
+                "offset": 9
+            },
+            "name": "uncompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1773,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/BlenderLoader.cpp",
+                "line": 203,
+                "offset": 9
+            },
+            "name": "inflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 520,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/BlenderLoader.cpp",
+                "line": 230,
+                "offset": 9
+            },
+            "name": "inflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 400,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/BlenderLoader.cpp",
+                "line": 217,
+                "offset": 19
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1773,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/XGLLoader.cpp",
+                "line": 178,
+                "offset": 9
+            },
+            "name": "inflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 520,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/XGLLoader.cpp",
+                "line": 208,
+                "offset": 9
+            },
+            "name": "inflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 400,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/XGLLoader.cpp",
+                "line": 195,
+                "offset": 19
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 520,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/FBXParser.cpp",
+                "line": 595,
+                "offset": 9
+            },
+            "name": "inflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1767,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/FBXParser.cpp",
+                "line": 579,
+                "offset": 20
+            },
+            "name": "inflateInit_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "4"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 400,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/FBXParser.cpp",
+                "line": 588,
+                "offset": 25
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1773,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/XFileParser.cpp",
+                "line": 183,
+                "offset": 9
+            },
+            "name": "inflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 520,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/XFileParser.cpp",
+                "line": 246,
+                "offset": 9
+            },
+            "name": "inflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 958,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/XFileParser.cpp",
+                "line": 237,
+                "offset": 13
+            },
+            "name": "inflateReset"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 885,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/XFileParser.cpp",
+                "line": 238,
+                "offset": 13
+            },
+            "name": "inflateSetDictionary"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 400,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/code/XFileParser.cpp",
+                "line": 233,
+                "offset": 23
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1773,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/contrib/unzip/unzip.c",
+                "line": 1143,
+                "offset": 11
+            },
+            "name": "inflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const z_crc_t *",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1891,
+                "offset": 37
+            },
+            "functionDeclReturn": "const z_crc_t *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/contrib/unzip/unzip.c",
+                "line": 1177,
+                "offset": 26
+            },
+            "name": "get_crc_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/contrib/unzip/unzip.c",
+                "line": 1332,
+                "offset": 45
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 400,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/contrib/unzip/unzip.c",
+                "line": 1359,
+                "offset": 17
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/contrib/unzip/unzip.c",
+                "line": 1368,
+                "offset": 17
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 520,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JoshuaSenouf@@gl-engine/api/assimp/contrib/unzip/unzip.c",
+                "line": 1523,
+                "offset": 9
+            },
+            "name": "inflateEnd"
+        }
+    }
+]

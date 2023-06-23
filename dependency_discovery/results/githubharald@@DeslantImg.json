@@ -1,0 +1,1 @@
+{"target": "githubharald@@DeslantImg", "extractors": [{"deps": [{"depname": "OpenCL", "version": null, "version_op": null, "unified_name": "opencl", "extractor_type": "make", "context": "githubharald@@DeslantImg/extras/Makefile:LDLIBS += -lOpenCL", "confidence": "High"}], "type": "make"}]}

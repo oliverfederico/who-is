@@ -1,0 +1,1 @@
+{"target": "libfirm@@cparser", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "gitsubmod"}, {"deps": [{"depname": "cparser", "version": null, "version_op": null, "unified_name": "cparser", "extractor_type": "cmake", "context": "project(cparser c)", "confidence": ""}], "type": "cmake", "libs": []}]}

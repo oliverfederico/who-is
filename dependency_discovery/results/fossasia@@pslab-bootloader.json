@@ -1,0 +1,1 @@
+{"target": "fossasia@@pslab-bootloader", "extractors": [{"deps": [{"depname": "pslab_bootloader", "version": null, "version_op": null, "unified_name": "pslab_bootloader", "extractor_type": "cmake", "context": "project(pslab_bootloader languages c asm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

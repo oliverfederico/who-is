@@ -1,0 +1,1 @@
+{"target": "ropery@@xrectsel", "extractors": [{"deps": [{"depname": "xrectsel", "version": "0.3.2", "version_op": null, "unified_name": "xrectsel", "extractor_type": "autoconf", "context": "AC_INIT([xrectsel], [0.3.2])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

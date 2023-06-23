@@ -1,0 +1,1 @@
+{"target": "eminfedar@@async-sockets-cpp", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "exampleprogram", "version": null, "version_op": null, "unified_name": "exampleprogram", "extractor_type": "cmake", "context": "project(exampleprogram)", "confidence": ""}], "type": "cmake", "libs": []}]}

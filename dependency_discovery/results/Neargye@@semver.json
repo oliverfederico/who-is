@@ -1,0 +1,1 @@
+{"target": "Neargye@@semver", "extractors": [{"deps": [{"depname": "semver", "version": "\"0.3.0\"", "version_op": null, "unified_name": "semver", "extractor_type": "cmake", "context": "project(semver version \"0.3.0\" languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

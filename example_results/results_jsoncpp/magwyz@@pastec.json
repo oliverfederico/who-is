@@ -1,0 +1,3378 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 134,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 134,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 805,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 153,
+                "offset": 29
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 153,
+                "offset": 29
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 164,
+                "offset": 21
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 164,
+                "offset": 21
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 168,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 168,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 169,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 169,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 171,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 171,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 179,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 179,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 180,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 180,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 192,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 192,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 201,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 201,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 805,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 219,
+                "offset": 29
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 219,
+                "offset": 29
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 231,
+                "offset": 21
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 231,
+                "offset": 21
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 235,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 235,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 242,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 242,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 898,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 252,
+                "offset": 17
+            },
+            "name": "append",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 250,
+                "offset": 17
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 250,
+                "offset": 34
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 251,
+                "offset": 17
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 251,
+                "offset": 42
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 254,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 254,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 260,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 260,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 266,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 266,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 278,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 278,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 286,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 286,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 898,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 296,
+                "offset": 17
+            },
+            "name": "append",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 294,
+                "offset": 17
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 294,
+                "offset": 34
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 295,
+                "offset": 17
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 295,
+                "offset": 42
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 298,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 298,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 304,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 304,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 310,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 310,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 797,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 321,
+                "offset": 13
+            },
+            "name": "operator==",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 321,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 805,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 322,
+                "offset": 33
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 322,
+                "offset": 33
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 797,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 323,
+                "offset": 18
+            },
+            "name": "operator==",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 323,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 805,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 324,
+                "offset": 34
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 324,
+                "offset": 34
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 797,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 325,
+                "offset": 18
+            },
+            "name": "operator==",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 325,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 805,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 326,
+                "offset": 37
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 326,
+                "offset": 37
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 797,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 327,
+                "offset": 18
+            },
+            "name": "operator==",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 327,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 805,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 328,
+                "offset": 38
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 328,
+                "offset": 38
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 797,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 329,
+                "offset": 18
+            },
+            "name": "operator==",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 329,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 334,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 334,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 342,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 342,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 348,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 348,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 797,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 358,
+                "offset": 13
+            },
+            "name": "operator==",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 358,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 366,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 366,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 371,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 907,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 371,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 386,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::StreamWriterBuilder"
+                },
+                "1": {
+                    "type": "std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 1902,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 386,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 778,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 387,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::StreamWriterBuilder"
+                },
+                "1": {
+                    "type": "std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 1902,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 387,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class StreamWriter::Factory"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 1843,
+                "offset": 25
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 388,
+                "offset": 13
+            },
+            "name": "writeString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class CharReader::Factory"
+                },
+                "1": {
+                    "type": "std::istream"
+                },
+                "2": {
+                    "type": "Json::Value *"
+                },
+                "3": {
+                    "type": "std::string *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/include/json/json.h",
+                "line": 1719,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/magwyz@@pastec/src/requesthandler.cpp",
+                "line": 404,
+                "offset": 5
+            },
+            "name": "parseFromStream",
+            "return": "_Bool"
+        }
+    }
+]

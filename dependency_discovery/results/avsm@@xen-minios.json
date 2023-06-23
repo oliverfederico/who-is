@@ -1,0 +1,1 @@
+{"target": "avsm@@xen-minios", "extractors": [{"deps": [{"depname": "c", "version": null, "version_op": null, "unified_name": "c", "extractor_type": "make", "context": "avsm@@xen-minios/Makefile:LDLIBS += -lc", "confidence": "High"}], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

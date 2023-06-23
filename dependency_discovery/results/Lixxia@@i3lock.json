@@ -1,0 +1,1 @@
+{"target": "Lixxia@@i3lock", "extractors": [{"deps": [{"depname": "i3lock", "version": "2.12", "version_op": null, "unified_name": "i3lock", "extractor_type": "autoconf", "context": "AC_INIT([i3lock], [2.12], [https://github.com/i3/i3lock/issues])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

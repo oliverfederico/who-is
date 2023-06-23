@@ -1,0 +1,1 @@
+{"target": "oscarhiggott@@PyMatching", "extractors": [{"deps": [{"depname": "pymatching2", "version": null, "version_op": null, "unified_name": "pymatching2", "extractor_type": "cmake", "context": "project(pymatching2)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

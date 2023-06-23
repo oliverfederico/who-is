@@ -1,0 +1,1 @@
+{"target": "rxi@@map", "extractors": [{"deps": [{"depname": "map", "version": "0.1.0", "version_op": null, "unified_name": "map", "extractor_type": "clib", "context": "rxi@@map/package.json", "confidence": "High"}], "type": "clib"}]}

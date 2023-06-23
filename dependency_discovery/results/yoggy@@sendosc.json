@@ -1,0 +1,1 @@
+{"target": "yoggy@@sendosc", "extractors": [{"deps": [{"depname": "sendosc", "version": null, "version_op": null, "unified_name": "sendosc", "extractor_type": "cmake", "context": "project(sendosc)", "confidence": ""}], "type": "cmake", "libs": []}]}

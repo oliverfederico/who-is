@@ -1,0 +1,1 @@
+{"target": "tcbrindle@@cpp17_headers", "extractors": [{"deps": [{"depname": "cpp17_headers", "version": null, "version_op": null, "unified_name": "cpp17_headers", "extractor_type": "cmake", "context": "project(cpp17_headers cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

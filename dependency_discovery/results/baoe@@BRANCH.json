@@ -1,0 +1,1 @@
+{"target": "baoe@@BRANCH", "extractors": [{"deps": [{"depname": "LEMON", "version": "1.2.2", "version_op": "=", "unified_name": "lemon", "extractor_type": "pkgconfig", "context": "baoe@@BRANCH/BRANCH/lemon/lib/pkgconfig/lemon.pc", "confidence": "High"}], "type": "pkgconfig"}]}

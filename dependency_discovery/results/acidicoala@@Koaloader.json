@@ -1,0 +1,1 @@
+{"target": "acidicoala@@Koaloader", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [{"depname": "koaloader", "version": "3.0.2", "version_op": null, "unified_name": "koaloader", "extractor_type": "cmake", "context": "project(koaloader version 3.0.2)", "confidence": "High"}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "kaelzhang@@penteract-ocr", "extractors": [{"deps": [], "type": "clib"}, {"deps": [{"depname": "penteract", "version": null, "version_op": null, "unified_name": "penteract", "extractor_type": "cmake", "context": "project(penteract)", "confidence": ""}], "type": "cmake", "libs": []}]}

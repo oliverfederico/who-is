@@ -1,0 +1,1 @@
+{"target": "baotonglu@@dash", "extractors": [{"deps": [{"depname": "dash", "version": null, "version_op": null, "unified_name": "dash", "extractor_type": "cmake", "context": "project(dash)", "confidence": ""}], "type": "cmake", "libs": []}]}

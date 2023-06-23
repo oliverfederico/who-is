@@ -1,0 +1,1 @@
+{"target": "yunnian@@php-nsq", "extractors": [{"deps": [{"depname": "php", "version": null, "version_op": null, "unified_name": "php", "extractor_type": "cmake", "context": "project(php-nsq)", "confidence": ""}], "type": "cmake", "libs": []}]}

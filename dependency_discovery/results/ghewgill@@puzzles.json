@@ -1,0 +1,1 @@
+{"target": "ghewgill@@puzzles", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "puzzles", "version": "6.66", "version_op": null, "unified_name": "puzzles", "extractor_type": "autoconf", "context": "AC_INIT([puzzles], [6.66], [anakin@pobox.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

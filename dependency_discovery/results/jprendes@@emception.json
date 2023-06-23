@@ -1,0 +1,1 @@
+{"target": "jprendes@@emception", "extractors": [{"deps": [], "type": "clib"}, {"deps": [{"depname": "quicknode", "version": "0.1", "version_op": null, "unified_name": "quicknode", "extractor_type": "cmake", "context": "project(quicknode version 0.1 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}]}

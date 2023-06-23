@@ -1,0 +1,1 @@
+{"target": "fholger@@vrperfkit", "extractors": [{"deps": [{"depname": "vrperfkit", "version": null, "version_op": null, "unified_name": "vrperfkit", "extractor_type": "cmake", "context": "project(vrperfkit)", "confidence": ""}], "type": "cmake", "libs": []}]}

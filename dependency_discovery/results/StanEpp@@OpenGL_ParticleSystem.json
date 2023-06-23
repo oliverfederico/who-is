@@ -1,0 +1,1 @@
+{"target": "StanEpp@@OpenGL_ParticleSystem", "extractors": [{"deps": [{"depname": "opengl_particlesystem", "version": null, "version_op": null, "unified_name": "opengl_particlesystem", "extractor_type": "cmake", "context": "project(opengl_particlesystem)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

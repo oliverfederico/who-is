@@ -1,0 +1,1 @@
+{"target": "joseph-montanez@@raylib-php", "extractors": [{"deps": [{"depname": "raylib", "version": null, "version_op": null, "unified_name": "raylib", "extractor_type": "cmake", "context": "project(raylib)", "confidence": ""}], "type": "cmake", "libs": []}]}

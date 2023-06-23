@@ -1,0 +1,1 @@
+{"target": "trailofbits@@Honeybee", "extractors": [{"deps": [{"depname": "honey_hive_generator", "version": null, "version_op": null, "unified_name": "honey_hive_generator", "extractor_type": "cmake", "context": "project(honey_hive_generator c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

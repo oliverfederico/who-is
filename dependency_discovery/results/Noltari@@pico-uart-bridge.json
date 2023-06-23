@@ -1,0 +1,1 @@
+{"target": "Noltari@@pico-uart-bridge", "extractors": [{"deps": [{"depname": "pico_uart_bridge", "version": null, "version_op": null, "unified_name": "pico_uart_bridge", "extractor_type": "cmake", "context": "project(pico_uart_bridge)", "confidence": ""}], "type": "cmake", "libs": []}]}

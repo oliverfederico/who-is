@@ -1,0 +1,1 @@
+{"target": "lvgl@@lv_demos", "extractors": [{"deps": [{"depname": "lv_demos", "version": null, "version_op": null, "unified_name": "lv_demos", "extractor_type": "cmake", "context": "project(lv_demos homepage_url https://github.com/lvgl/lv_demos)", "confidence": ""}], "type": "cmake", "libs": []}]}

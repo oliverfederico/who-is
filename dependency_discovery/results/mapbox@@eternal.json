@@ -1,0 +1,1 @@
+{"target": "mapbox@@eternal", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "eternal", "version": null, "version_op": null, "unified_name": "eternal", "extractor_type": "cmake", "context": "project(eternal languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

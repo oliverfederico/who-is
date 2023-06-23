@@ -1,0 +1,1 @@
+{"target": "NoelFB@@tiny_link", "extractors": [{"deps": [{"depname": "tinylink", "version": null, "version_op": null, "unified_name": "tinylink", "extractor_type": "cmake", "context": "project(tinylink)", "confidence": ""}], "type": "cmake", "libs": []}]}

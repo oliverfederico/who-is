@@ -1,0 +1,1 @@
+{"target": "davidepatti@@noxim", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "noxim", "version": null, "version_op": null, "unified_name": "noxim", "extractor_type": "cmake", "context": "project(noxim)", "confidence": ""}], "type": "cmake", "libs": []}]}

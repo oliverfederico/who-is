@@ -1,0 +1,1 @@
+{"target": "latchset@@tang", "extractors": [{"deps": [{"depname": "jose", "version": "8", "version_op": ">=", "unified_name": "jose", "extractor_type": "meson", "context": "latchset@@tang/meson.build", "confidence": "High"}], "type": "meson"}, {"deps": [], "type": "meson"}, {"deps": [], "type": "meson"}, {"deps": [], "type": "meson"}, {"deps": [], "type": "meson"}]}

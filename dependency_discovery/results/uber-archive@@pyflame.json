@@ -1,0 +1,1 @@
+{"target": "uber-archive@@pyflame", "extractors": [{"deps": [{"depname": "pyflame", "version": "1.6.6", "version_op": null, "unified_name": "pyflame", "extractor_type": "autoconf", "context": "AC_INIT([pyflame], [1.6.6], [evan@eklitzke.org])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

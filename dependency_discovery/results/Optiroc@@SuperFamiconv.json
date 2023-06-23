@@ -1,0 +1,1 @@
+{"target": "Optiroc@@SuperFamiconv", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "superfamiconv", "version": null, "version_op": null, "unified_name": "superfamiconv", "extractor_type": "cmake", "context": "project (superfamiconv)", "confidence": ""}], "type": "cmake", "libs": []}]}

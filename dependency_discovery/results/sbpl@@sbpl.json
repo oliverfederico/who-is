@@ -1,0 +1,1 @@
+{"target": "sbpl@@sbpl", "extractors": [{"deps": [{"depname": "sbpl", "version": null, "version_op": null, "unified_name": "sbpl", "extractor_type": "cmake", "context": "project( sbpl )", "confidence": ""}], "type": "cmake", "libs": []}]}

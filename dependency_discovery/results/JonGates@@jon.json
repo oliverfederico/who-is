@@ -1,0 +1,1 @@
+{"target": "JonGates@@jon", "extractors": [{"deps": [{"depname": "jon", "version": "0.0.1", "version_op": null, "unified_name": "jon", "extractor_type": "autoconf", "context": "AC_INIT([jon], [0.0.1], [2182619@qq.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "benlau@@asyncfuture", "extractors": [{"deps": [{"depname": "qtasyncfuture", "version": "1.0.0", "version_op": null, "unified_name": "qtasyncfuture", "extractor_type": "cmake", "context": "project(qtasyncfuture version 1.0.0 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}]}

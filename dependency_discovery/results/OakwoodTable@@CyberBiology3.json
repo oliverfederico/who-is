@@ -1,0 +1,1 @@
+{"target": "OakwoodTable@@CyberBiology3", "extractors": [{"deps": [{"depname": "cyberbiology", "version": "1.0", "version_op": null, "unified_name": "cyberbiology", "extractor_type": "cmake", "context": "project(cyberbiology version 1.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

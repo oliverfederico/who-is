@@ -1,0 +1,1 @@
+{"target": "Embedded-AMS@@EmbeddedProto", "extractors": [{"deps": [{"depname": "test_embeddedproto", "version": null, "version_op": null, "unified_name": "test_embeddedproto", "extractor_type": "cmake", "context": "project(test_embeddedproto)", "confidence": ""}], "type": "cmake", "libs": []}]}

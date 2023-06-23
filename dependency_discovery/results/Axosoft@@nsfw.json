@@ -1,0 +1,1 @@
+{"target": "Axosoft@@nsfw", "extractors": [{"deps": [], "type": "clib"}, {"deps": [{"depname": "nsfw", "version": null, "version_op": null, "unified_name": "nsfw", "extractor_type": "cmake", "context": "project (nsfw)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

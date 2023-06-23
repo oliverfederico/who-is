@@ -1,0 +1,1 @@
+{"target": "doudar@@SmartSpin2k", "extractors": [{"deps": [{"depname": "webpage_testing", "version": null, "version_op": null, "unified_name": "webpage_testing", "extractor_type": "cmake", "context": "project(webpage_testing)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

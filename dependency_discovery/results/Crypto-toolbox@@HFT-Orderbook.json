@@ -1,0 +1,1 @@
+{"target": "Crypto-toolbox@@HFT-Orderbook", "extractors": [{"deps": [{"depname": "hft_orderbook", "version": null, "version_op": null, "unified_name": "hft_orderbook", "extractor_type": "cmake", "context": "project(hft_orderbook)", "confidence": ""}], "type": "cmake", "libs": []}]}

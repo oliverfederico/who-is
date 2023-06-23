@@ -1,0 +1,1 @@
+{"target": "openstf@@ios-minicap", "extractors": [{"deps": [{"depname": "ios_minicap", "version": null, "version_op": null, "unified_name": "ios_minicap", "extractor_type": "cmake", "context": "project(ios_minicap)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "clib"}]}

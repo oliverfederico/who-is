@@ -1,0 +1,1 @@
+{"target": "qicosmos@@iguana", "extractors": [{"deps": [{"depname": "iguana", "version": null, "version_op": null, "unified_name": "iguana", "extractor_type": "cmake", "context": "project(iguana)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

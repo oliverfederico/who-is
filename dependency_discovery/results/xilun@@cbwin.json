@@ -1,0 +1,1 @@
+{"target": "xilun@@cbwin", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "cbwin", "version": null, "version_op": null, "unified_name": "cbwin", "extractor_type": "cmake", "context": "project(cbwin)", "confidence": ""}], "type": "cmake", "libs": []}]}

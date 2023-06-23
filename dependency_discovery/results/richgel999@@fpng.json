@@ -1,0 +1,1 @@
+{"target": "richgel999@@fpng", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "fpng_test", "version": null, "version_op": null, "unified_name": "fpng_test", "extractor_type": "cmake", "context": "project(fpng_test)", "confidence": ""}], "type": "cmake", "libs": []}]}

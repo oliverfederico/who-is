@@ -1,0 +1,1 @@
+{"target": "Erkaman@@poisson_blend", "extractors": [{"deps": [{"depname": "poisson_blend", "version": null, "version_op": null, "unified_name": "poisson_blend", "extractor_type": "cmake", "context": "project (poisson_blend)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

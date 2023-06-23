@@ -1,0 +1,1 @@
+{"target": "oKcerG@@SortFilterProxyModel", "extractors": [{"deps": [{"depname": "qt5", "version": null, "version_op": null, "unified_name": "qt5", "extractor_type": "cmake", "context": "find_package(qt5 required\n    core\n    qml\n    )", "confidence": "High"}], "type": "cmake", "libs": []}]}

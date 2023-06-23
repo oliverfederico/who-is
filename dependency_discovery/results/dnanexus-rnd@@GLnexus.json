@@ -1,0 +1,1 @@
+{"target": "dnanexus-rnd@@GLnexus", "extractors": [{"deps": [{"depname": "glnexus", "version": null, "version_op": null, "unified_name": "glnexus", "extractor_type": "cmake", "context": "project(glnexus)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

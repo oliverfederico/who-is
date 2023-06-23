@@ -1,0 +1,1 @@
+{"target": "nicm@@fdm", "extractors": [{"deps": [{"depname": "fdm", "version": "2.2", "version_op": null, "unified_name": "fdm", "extractor_type": "autoconf", "context": "AC_INIT(fdm, 2.2)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

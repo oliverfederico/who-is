@@ -1,0 +1,1 @@
+{"target": "ArthurSonzogni@@OpenGL_CMake_Skeleton", "extractors": [{"deps": [{"depname": "opengl", "version": null, "version_op": null, "unified_name": "opengl", "extractor_type": "cmake", "context": "project (opengl-cmake-skeleton)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "youzan@@zan", "extractors": [{"deps": [{"depname": "swoole_server", "version": null, "version_op": null, "unified_name": "swoole_server", "extractor_type": "cmake", "context": "project(swoole_server)", "confidence": ""}], "type": "cmake", "libs": []}]}

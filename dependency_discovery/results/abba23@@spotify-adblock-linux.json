@@ -1,0 +1,1 @@
+{"target": "abba23@@spotify-adblock-linux", "extractors": [{"deps": [{"depname": "dl", "version": null, "version_op": null, "unified_name": "dl", "extractor_type": "make", "context": "abba23@@spotify-adblock-linux/Makefile:LDLIBS=-ldl", "confidence": "High"}], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "microsoft@@onnxruntime-training-examples", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "microsoft@@onnxruntime-training-examples/on_device_training/mobile/android/c-cpp/app/ORTPersonalize/app/src/main/cpp/CMakeLists.txt", "content": "find_library( \n        log-lib\n\n        \n        \n        log)"}]}]}

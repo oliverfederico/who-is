@@ -1,0 +1,1 @@
+{"target": "nmwsharp@@robust-laplacians-py", "extractors": [{"deps": [{"depname": "robust", "version": null, "version_op": null, "unified_name": "robust", "extractor_type": "cmake", "context": "project(robust-laplacian-py)", "confidence": ""}], "type": "cmake", "libs": []}]}

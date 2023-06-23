@@ -1,0 +1,1 @@
+{"target": "hjwdzh@@ManifoldPlus", "extractors": [{"deps": [{"depname": "manifold", "version": null, "version_op": null, "unified_name": "manifold", "extractor_type": "cmake", "context": "project(manifold)", "confidence": ""}], "type": "cmake", "libs": []}]}

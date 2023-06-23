@@ -1,0 +1,1 @@
+{"target": "pfultz2@@Tick", "extractors": [{"deps": [{"depname": "tick", "version": null, "version_op": null, "unified_name": "tick", "extractor_type": "cmake", "context": "project (tick)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

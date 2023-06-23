@@ -1,0 +1,1 @@
+{"target": "tripleslash@@rocket", "extractors": [{"deps": [{"depname": "rocket", "version": null, "version_op": null, "unified_name": "rocket", "extractor_type": "cmake", "context": "project(rocket cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

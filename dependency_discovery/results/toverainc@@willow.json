@@ -1,0 +1,1 @@
+{"target": "toverainc@@willow", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [{"depname": "willow", "version": null, "version_op": null, "unified_name": "willow", "extractor_type": "cmake", "context": "project(willow)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

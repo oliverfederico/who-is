@@ -1,0 +1,1 @@
+{"target": "Farama-Foundation@@MAgent2", "extractors": [{"deps": [{"depname": "magent", "version": null, "version_op": null, "unified_name": "magent", "extractor_type": "cmake", "context": "project(magent)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

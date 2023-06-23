@@ -1,0 +1,1 @@
+{"target": "shlomnissan@@trex-runner", "extractors": [{"deps": [{"depname": "trexrunner", "version": "0.1", "version_op": null, "unified_name": "trexrunner", "extractor_type": "cmake", "context": "project(     trexrunner     version 0.1     languages c )", "confidence": "High"}], "type": "cmake", "libs": []}]}

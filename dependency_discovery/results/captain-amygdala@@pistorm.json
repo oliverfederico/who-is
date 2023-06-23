@@ -1,0 +1,1 @@
+{"target": "captain-amygdala@@pistorm", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "pistorm_i2c_updater", "version": null, "version_op": null, "unified_name": "pistorm_i2c_updater", "extractor_type": "cmake", "context": "project(pistorm_i2c_updater c cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

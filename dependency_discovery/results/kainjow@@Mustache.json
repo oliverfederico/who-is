@@ -1,0 +1,1 @@
+{"target": "kainjow@@Mustache", "extractors": [{"deps": [{"depname": "mustache", "version": null, "version_op": null, "unified_name": "mustache", "extractor_type": "cmake", "context": "project(mustache)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}]}

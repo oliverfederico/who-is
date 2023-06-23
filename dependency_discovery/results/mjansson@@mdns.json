@@ -1,0 +1,1 @@
+{"target": "mjansson@@mdns", "extractors": [{"deps": [{"depname": "mdns", "version": "1.4.2", "version_op": null, "unified_name": "mdns", "extractor_type": "cmake", "context": "project(mdns version 1.4.2 languages c)", "confidence": "High"}], "type": "cmake", "libs": []}]}

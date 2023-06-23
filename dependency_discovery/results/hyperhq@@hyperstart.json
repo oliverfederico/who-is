@@ -1,0 +1,1 @@
+{"target": "hyperhq@@hyperstart", "extractors": [{"deps": [{"depname": "hyperstart", "version": "1.1.0", "version_op": null, "unified_name": "hyperstart", "extractor_type": "autoconf", "context": "AC_INIT([hyperstart], [1.1.0], [www.hyper.sh])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

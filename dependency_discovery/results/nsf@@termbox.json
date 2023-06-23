@@ -1,0 +1,1 @@
+{"target": "nsf@@termbox", "extractors": [{"deps": [{"depname": "termbox", "version": "1.0.1a1", "version_op": null, "unified_name": "termbox", "extractor_type": "clib", "context": "nsf@@termbox/package.json", "confidence": "High"}], "type": "clib"}]}

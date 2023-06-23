@@ -1,0 +1,1 @@
+{"target": "abcz316@@SKRoot-linuxKernelRoot", "extractors": [{"deps": [], "type": "ms"}, {"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "abcz316@@SKRoot-linuxKernelRoot/PermissionManager/app/src/main/cpp/CMakeLists.txt", "content": "find_library( \n        log-lib\n\n        \n        \n        log)"}]}, {"deps": [], "type": "ms"}]}

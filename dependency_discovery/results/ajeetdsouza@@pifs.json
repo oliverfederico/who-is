@@ -1,0 +1,1 @@
+{"target": "ajeetdsouza@@pifs", "extractors": [{"deps": [{"depname": "pifs", "version": null, "version_op": null, "unified_name": "pifs", "extractor_type": "cmake", "context": "project(pifs)", "confidence": ""}], "type": "cmake", "libs": []}]}

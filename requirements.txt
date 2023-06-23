@@ -1,0 +1,6 @@
+pandas
+plotly
+pygit
+pathlib
+requests
+ccscanner==0.1.10

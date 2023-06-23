@@ -1,0 +1,1 @@
+{"target": "openhistogram@@libcircllhist", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "m", "version": null, "version_op": null, "unified_name": "m", "extractor_type": "autoconf", "context": "openhistogram@@libcircllhist/configure.ac", "confidence": "High"}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

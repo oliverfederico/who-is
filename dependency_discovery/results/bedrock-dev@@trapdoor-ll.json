@@ -1,0 +1,1 @@
+{"target": "bedrock-dev@@trapdoor-ll", "extractors": [{"deps": [{"depname": "trapdoor", "version": "0.38.0", "version_op": null, "unified_name": "trapdoor", "extractor_type": "cmake", "context": "project(trapdoor version 0.38.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

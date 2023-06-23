@@ -1,0 +1,1 @@
+{"target": "rszimm@@sprinklers_pi", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "sprinklers_pi", "version": null, "version_op": null, "unified_name": "sprinklers_pi", "extractor_type": "cmake", "context": "project(sprinklers_pi)", "confidence": ""}], "type": "cmake", "libs": []}]}

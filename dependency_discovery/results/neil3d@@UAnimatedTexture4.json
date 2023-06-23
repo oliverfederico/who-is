@@ -1,0 +1,1 @@
+{"target": "neil3d@@UAnimatedTexture4", "extractors": [{"deps": [{"depname": "sdl2", "version": null, "version_op": null, "unified_name": "sdl2", "extractor_type": "cmake", "context": "find_package(sdl2 config required)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "control"}, {"deps": [], "type": "control"}]}

@@ -1,0 +1,1 @@
+{"target": "keith@@dyld-shared-cache-extractor", "extractors": [{"deps": [{"depname": "dyld", "version": null, "version_op": null, "unified_name": "dyld", "extractor_type": "cmake", "context": "project(dyld-shared-cache-extractor languages c)", "confidence": ""}], "type": "cmake", "libs": []}]}

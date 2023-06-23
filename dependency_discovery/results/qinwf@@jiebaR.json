@@ -1,0 +1,1 @@
+{"target": "qinwf@@jiebaR", "extractors": [{"deps": [{"depname": "jiebar", "version": null, "version_op": null, "unified_name": "jiebar", "extractor_type": "cmake", "context": "project(jiebar)", "confidence": ""}], "type": "cmake", "libs": []}]}

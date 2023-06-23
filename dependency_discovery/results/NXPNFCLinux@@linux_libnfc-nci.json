@@ -1,0 +1,1 @@
+{"target": "NXPNFCLinux@@linux_libnfc-nci", "extractors": [{"deps": [{"depname": "libnfc_nci_linux", "version": "1.0", "version_op": null, "unified_name": "nfc_nci_linux", "extractor_type": "autoconf", "context": "AC_INIT([libnfc_nci_linux], [1.0])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

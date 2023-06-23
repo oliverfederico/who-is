@@ -1,0 +1,1 @@
+{"target": "scateu@@kalibrate-hackrf", "extractors": [{"deps": [{"depname": "kalibrate", "version": "0.4.1", "version_op": null, "unified_name": "kalibrate", "extractor_type": "autoconf", "context": "AC_INIT([kalibrate], [0.4.1], [jl@thre.at], [kal])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "arkhipov@@temporal_tables", "extractors": [{"deps": [{"depname": "postgres", "version": null, "version_op": null, "unified_name": "postgres", "extractor_type": "ms", "context": "arkhipov@@temporal_tables/temporal_tables.vcxproj", "confidence": "High"}], "type": "ms"}]}

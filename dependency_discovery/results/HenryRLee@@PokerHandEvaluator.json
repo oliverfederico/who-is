@@ -1,0 +1,1 @@
+{"target": "HenryRLee@@PokerHandEvaluator", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "pokerhandevaluator", "version": "0.5.2", "version_op": null, "unified_name": "pokerhandevaluator", "extractor_type": "cmake", "context": "project(pokerhandevaluator version 0.5.2)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

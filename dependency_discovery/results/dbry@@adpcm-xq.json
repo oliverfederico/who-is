@@ -1,0 +1,1 @@
+{"target": "dbry@@adpcm-xq", "extractors": [{"deps": [{"depname": "adpcm", "version": null, "version_op": null, "unified_name": "adpcm", "extractor_type": "cmake", "context": "project(adpcm-xq)", "confidence": ""}], "type": "cmake", "libs": []}]}

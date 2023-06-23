@@ -1,0 +1,1 @@
+{"target": "containers@@fuse-overlayfs", "extractors": [{"deps": [{"depname": "fuse-overlayfs", "version": "1.13-dev", "version_op": null, "unified_name": "fuse-overlayfs", "extractor_type": "autoconf", "context": "AC_INIT([fuse-overlayfs], [1.13-dev], [giuseppe@scrivano.org])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

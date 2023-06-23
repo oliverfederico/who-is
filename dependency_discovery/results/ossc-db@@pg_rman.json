@@ -1,0 +1,1 @@
+{"target": "ossc-db@@pg_rman", "extractors": [{"deps": [], "type": "make"}]}

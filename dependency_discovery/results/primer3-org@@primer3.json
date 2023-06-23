@@ -1,0 +1,1 @@
+{"target": "primer3-org@@primer3", "extractors": [{"deps": [{"depname": "m", "version": null, "version_op": null, "unified_name": "m", "extractor_type": "make", "context": "primer3-org@@primer3/src/Makefile:LDLIBS     = -lm", "confidence": "High"}], "type": "make"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "dfranx@@SPIRV-VM", "extractors": [{"deps": [{"depname": "spirvvm", "version": null, "version_op": null, "unified_name": "spirvvm", "extractor_type": "cmake", "context": "project(spirvvm)", "confidence": ""}], "type": "cmake", "libs": []}]}

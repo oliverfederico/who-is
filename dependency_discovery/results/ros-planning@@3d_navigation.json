@@ -1,0 +1,1 @@
+{"target": "ros-planning@@3d_navigation", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}]}

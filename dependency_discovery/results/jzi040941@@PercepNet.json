@@ -1,0 +1,1 @@
+{"target": "jzi040941@@PercepNet", "extractors": [{"deps": [{"depname": "percepnet", "version": null, "version_op": null, "unified_name": "percepnet", "extractor_type": "cmake", "context": "project(percepnet)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

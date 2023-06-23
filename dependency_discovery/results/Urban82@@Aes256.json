@@ -1,0 +1,1 @@
+{"target": "Urban82@@Aes256", "extractors": [{"deps": [{"depname": "aes256", "version": null, "version_op": null, "unified_name": "aes256", "extractor_type": "cmake", "context": "project(aes256)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

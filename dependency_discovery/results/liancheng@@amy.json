@@ -1,0 +1,1 @@
+{"target": "liancheng@@amy", "extractors": [{"deps": [{"depname": "amy", "version": null, "version_op": null, "unified_name": "amy", "extractor_type": "cmake", "context": "project(amy cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

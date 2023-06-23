@@ -1,0 +1,2490 @@
+[
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 945,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 131,
+                "offset": 7
+            },
+            "name": "IsUint"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "unsigned int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1646,
+                "offset": 14
+            },
+            "functionDeclReturn": "unsigned int",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 132,
+                "offset": 33
+            },
+            "name": "GetUint"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2459,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 143,
+                "offset": 3
+            },
+            "name": "Empty"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "SizeType",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2457,
+                "offset": 14
+            },
+            "functionDeclReturn": "SizeType",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 144,
+                "offset": 33
+            },
+            "name": "Size"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 941,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 151,
+                "offset": 5
+            },
+            "name": "IsObject"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1137,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 166,
+                "offset": 21
+            },
+            "name": "FindMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                },
+                "1": {
+                    "type": "ConstMemberIterator"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 172,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 167,
+                "offset": 9
+            },
+            "name": "operator!="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1078,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 167,
+                "offset": 21
+            },
+            "name": "MemberEnd"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 972,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 169,
+                "offset": 11
+            },
+            "name": "IsFloat"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 169,
+                "offset": 11
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "float",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1665,
+                "offset": 11
+            },
+            "functionDeclReturn": "float",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 170,
+                "offset": 35
+            },
+            "name": "GetFloat"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 170,
+                "offset": 35
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 942,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 172,
+                "offset": 9
+            },
+            "name": "IsArray"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 172,
+                "offset": 9
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstArray",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1638,
+                "offset": 16
+            },
+            "functionDeclReturn": "ConstArray",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 175,
+                "offset": 30
+            },
+            "name": "GetArray"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 175,
+                "offset": 30
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 972,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 176,
+                "offset": 11
+            },
+            "name": "IsFloat"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "float",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1665,
+                "offset": 11
+            },
+            "functionDeclReturn": "float",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 177,
+                "offset": 33
+            },
+            "name": "GetFloat"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1137,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 193,
+                "offset": 18
+            },
+            "name": "FindMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                },
+                "1": {
+                    "type": "ConstMemberIterator"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 172,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 194,
+                "offset": 11
+            },
+            "name": "operator!="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1078,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 194,
+                "offset": 18
+            },
+            "name": "MemberEnd"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 947,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 195,
+                "offset": 9
+            },
+            "name": "IsUint64"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 195,
+                "offset": 9
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "uint64_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1648,
+                "offset": 14
+            },
+            "functionDeclReturn": "uint64_t",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 196,
+                "offset": 40
+            },
+            "name": "GetUint64"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 196,
+                "offset": 40
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1137,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 200,
+                "offset": 18
+            },
+            "name": "FindMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                },
+                "1": {
+                    "type": "ConstMemberIterator"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 172,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 201,
+                "offset": 11
+            },
+            "name": "operator!="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1078,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 201,
+                "offset": 18
+            },
+            "name": "MemberEnd"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 948,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 202,
+                "offset": 9
+            },
+            "name": "IsDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 202,
+                "offset": 9
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1653,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 203,
+                "offset": 38
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 203,
+                "offset": 38
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1137,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 207,
+                "offset": 18
+            },
+            "name": "FindMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                },
+                "1": {
+                    "type": "ConstMemberIterator"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 172,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 208,
+                "offset": 11
+            },
+            "name": "operator!="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1078,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 208,
+                "offset": 18
+            },
+            "name": "MemberEnd"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 948,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 209,
+                "offset": 9
+            },
+            "name": "IsDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 209,
+                "offset": 9
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1653,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 210,
+                "offset": 35
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 210,
+                "offset": 35
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2239,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 225,
+                "offset": 3
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2284,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 226,
+                "offset": 3
+            },
+            "name": "HasParseError"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2290,
+                "offset": 12
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 227,
+                "offset": 55
+            },
+            "name": "GetErrorOffset"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ParseErrorCode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2287,
+                "offset": 20
+            },
+            "functionDeclReturn": "ParseErrorCode",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 228,
+                "offset": 38
+            },
+            "name": "GetParseError"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 941,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 230,
+                "offset": 3
+            },
+            "name": "IsObject"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 941,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 244,
+                "offset": 5
+            },
+            "name": "IsObject"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstObject",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1459,
+                "offset": 17
+            },
+            "functionDeclReturn": "ConstObject",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/json_importer.cc",
+                "line": 246,
+                "offset": 15
+            },
+            "name": "GetObject"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2239,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/xgboost_json.cc",
+                "line": 79,
+                "offset": 3
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2284,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/xgboost_json.cc",
+                "line": 80,
+                "offset": 3
+            },
+            "name": "HasParseError"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2290,
+                "offset": 12
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/xgboost_json.cc",
+                "line": 81,
+                "offset": 55
+            },
+            "name": "GetErrorOffset"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ParseErrorCode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2287,
+                "offset": 20
+            },
+            "functionDeclReturn": "ParseErrorCode",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/xgboost_json.cc",
+                "line": 82,
+                "offset": 38
+            },
+            "name": "GetParseError"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2239,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/xgboost_json.cc",
+                "line": 109,
+                "offset": 3
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2284,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/xgboost_json.cc",
+                "line": 110,
+                "offset": 3
+            },
+            "name": "HasParseError"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2290,
+                "offset": 12
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/xgboost_json.cc",
+                "line": 111,
+                "offset": 55
+            },
+            "name": "GetErrorOffset"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ParseErrorCode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2287,
+                "offset": 20
+            },
+            "functionDeclReturn": "ParseErrorCode",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/frontend/xgboost_json.cc",
+                "line": 112,
+                "offset": 38
+            },
+            "name": "GetParseError"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 2239,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 18,
+                "offset": 3
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 941,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 20,
+                "offset": 7
+            },
+            "name": "IsObject"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "MemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1132,
+                "offset": 20
+            },
+            "functionDeclReturn": "MemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 21,
+                "offset": 16
+            },
+            "name": "FindMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<false, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                },
+                "1": {
+                    "type": "ConstIterator"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 172,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 22,
+                "offset": 9
+            },
+            "name": "operator!="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 949,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 22,
+                "offset": 45
+            },
+            "name": "IsString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "MemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1084,
+                "offset": 20
+            },
+            "functionDeclReturn": "MemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 22,
+                "offset": 16
+            },
+            "name": "MemberEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<false, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 22,
+                "offset": 45
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1681,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 23,
+                "offset": 32
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<false, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 23,
+                "offset": 32
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "MemberIterator"
+                },
+                "1": {
+                    "type": "const MemberIterator"
+                }
+            },
+            "callExprReturn": "Iterator &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 150,
+                "offset": 15
+            },
+            "functionDeclReturn": "Iterator &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 38,
+                "offset": 5
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "MemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1132,
+                "offset": 20
+            },
+            "functionDeclReturn": "MemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 38,
+                "offset": 11
+            },
+            "name": "FindMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<false, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                },
+                "1": {
+                    "type": "ConstIterator"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 172,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 39,
+                "offset": 9
+            },
+            "name": "operator!="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "MemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1084,
+                "offset": 20
+            },
+            "functionDeclReturn": "MemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 39,
+                "offset": 16
+            },
+            "name": "MemberEnd"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 944,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 40,
+                "offset": 7
+            },
+            "name": "IsInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<false, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 40,
+                "offset": 7
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 1645,
+                "offset": 9
+            },
+            "functionDeclReturn": "int",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 41,
+                "offset": 23
+            },
+            "name": "GetInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<false, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/build/_deps/rapidjson-src/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/dmlc@@treelite/src/gtil/config.cc",
+                "line": 41,
+                "offset": 23
+            },
+            "name": "operator->"
+        }
+    }
+]

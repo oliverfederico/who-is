@@ -1,0 +1,1 @@
+{"target": "omnirom@@android_bootable_recovery", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

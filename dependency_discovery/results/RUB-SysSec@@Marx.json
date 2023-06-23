@@ -1,0 +1,1 @@
+{"target": "RUB-SysSec@@Marx", "extractors": [{"deps": [{"depname": "marx", "version": null, "version_op": null, "unified_name": "marx", "extractor_type": "cmake", "context": "project(marx)", "confidence": ""}], "type": "cmake", "libs": []}]}

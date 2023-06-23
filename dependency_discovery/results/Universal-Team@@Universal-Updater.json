@@ -1,0 +1,1 @@
+{"target": "Universal-Team@@Universal-Updater", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "libarchive", "version": "3.5.1", "version_op": "=", "unified_name": "archive", "extractor_type": "pkgconfig", "context": "Universal-Team@@Universal-Updater/libs/lib/pkgconfig/libarchive.pc", "confidence": "High"}], "type": "pkgconfig"}]}

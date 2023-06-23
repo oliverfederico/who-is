@@ -1,0 +1,1 @@
+{"target": "acaudwell@@Logstalgia", "extractors": [{"deps": [{"depname": "Logstalgia", "version": "1.1.4", "version_op": null, "unified_name": "logstalgia", "extractor_type": "autoconf", "context": "AC_INIT(Logstalgia, 1.1.4, [acaudwell@gmail.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

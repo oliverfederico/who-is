@@ -1,0 +1,1 @@
+{"target": "Fytch@@ProgramOptions.hxx", "extractors": [{"deps": [{"depname": "programoptions", "version": "1.0.0", "version_op": null, "unified_name": "programoptions", "extractor_type": "cmake", "context": "project(programoptions languages cxx version 1.0.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "darrylb123@@usbrelay", "extractors": [{"deps": [{"depname": "hidapi-$(HIDAPI)", "version": null, "version_op": null, "unified_name": "hidapi-$(hidapi)", "extractor_type": "make", "context": "darrylb123@@usbrelay/Makefile:LDLIBS += -lhidapi-$(HIDAPI)", "confidence": "High"}], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

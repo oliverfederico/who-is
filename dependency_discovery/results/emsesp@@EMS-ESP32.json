@@ -1,0 +1,1 @@
+{"target": "emsesp@@EMS-ESP32", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "clib"}]}

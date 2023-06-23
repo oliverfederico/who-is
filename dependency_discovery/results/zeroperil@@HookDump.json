@@ -1,0 +1,1 @@
+{"target": "zeroperil@@HookDump", "extractors": [{"deps": [{"depname": "hookdump", "version": null, "version_op": null, "unified_name": "hookdump", "extractor_type": "cmake", "context": "project(hookdump)", "confidence": ""}], "type": "cmake", "libs": []}]}

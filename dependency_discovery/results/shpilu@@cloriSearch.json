@@ -1,0 +1,1 @@
+{"target": "shpilu@@cloriSearch", "extractors": [{"deps": [{"depname": "clorisearch", "version": null, "version_op": null, "unified_name": "clorisearch", "extractor_type": "cmake", "context": "project(clorisearch cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

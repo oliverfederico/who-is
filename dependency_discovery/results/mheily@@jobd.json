@@ -1,0 +1,1 @@
+{"target": "mheily@@jobd", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "jobd", "version": null, "version_op": null, "unified_name": "jobd", "extractor_type": "cmake", "context": "project(jobd c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

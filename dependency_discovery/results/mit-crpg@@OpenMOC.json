@@ -1,0 +1,1 @@
+{"target": "mit-crpg@@OpenMOC", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

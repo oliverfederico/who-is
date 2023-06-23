@@ -1,0 +1,1 @@
+{"target": "sago007@@PlatformFolders", "extractors": [{"deps": [{"depname": "platform_folders", "version": "4.2.0", "version_op": null, "unified_name": "platform_folders", "extractor_type": "cmake", "context": "project(platform_folders version 4.2.0 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "mc2-project@@mc2", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [{"depname": "openenclave", "version": null, "version_op": null, "unified_name": "openenclave", "extractor_type": "cmake", "context": "find_package(openenclave config required)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

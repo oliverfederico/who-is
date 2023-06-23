@@ -1,0 +1,1 @@
+{"target": "CyberDefenseInstitute@@CDIR", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "%(AdditionalDependencies)", "version": null, "version_op": null, "unified_name": "%(additionaldependencies)", "extractor_type": "ms", "context": "CyberDefenseInstitute@@CDIR/CDIR/CDIR.vcxproj", "confidence": "High"}], "type": "ms"}]}

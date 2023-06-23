@@ -1,0 +1,1 @@
+{"target": "ksvc@@ks265codec", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "ksvc@@ks265codec/Android_demo/KSY265CodecDemo/app/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log )"}]}]}

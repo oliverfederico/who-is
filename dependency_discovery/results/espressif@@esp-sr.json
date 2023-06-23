@@ -1,0 +1,1 @@
+{"target": "espressif@@esp-sr", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

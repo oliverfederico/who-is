@@ -1,0 +1,1 @@
+{"target": "oysteinmyrmo@@bezier", "extractors": [{"deps": [{"depname": "bezier", "version": null, "version_op": null, "unified_name": "bezier", "extractor_type": "cmake", "context": "project(bezier)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

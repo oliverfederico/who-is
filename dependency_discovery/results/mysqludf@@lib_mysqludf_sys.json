@@ -1,0 +1,1 @@
+{"target": "mysqludf@@lib_mysqludf_sys", "extractors": [{"deps": [], "type": "make"}]}

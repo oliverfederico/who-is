@@ -1,0 +1,1 @@
+{"target": "goldsborough@@vector", "extractors": [{"deps": [{"depname": "vector", "version": null, "version_op": null, "unified_name": "vector", "extractor_type": "cmake", "context": "project(vector)", "confidence": ""}], "type": "cmake", "libs": []}]}

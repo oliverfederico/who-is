@@ -1,0 +1,1 @@
+{"target": "m4dEngi@@RemotePlayWhatever", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "wxwidgets", "version": null, "version_op": null, "unified_name": "wxwidgets", "extractor_type": "cmake", "context": "find_package(wxwidgets components core base adv)", "confidence": "High"}], "type": "cmake", "libs": []}]}

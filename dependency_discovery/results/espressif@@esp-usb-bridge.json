@@ -1,0 +1,1 @@
+{"target": "espressif@@esp-usb-bridge", "extractors": [{"deps": [{"depname": "bridge", "version": null, "version_op": null, "unified_name": "bridge", "extractor_type": "cmake", "context": "project(bridge)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

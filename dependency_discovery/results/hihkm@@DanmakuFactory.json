@@ -1,0 +1,1 @@
+{"target": "hihkm@@DanmakuFactory", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "danmakufactory", "version": null, "version_op": null, "unified_name": "danmakufactory", "extractor_type": "cmake", "context": "project(danmakufactory c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}]}

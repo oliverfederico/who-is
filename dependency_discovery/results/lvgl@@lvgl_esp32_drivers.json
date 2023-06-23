@@ -1,0 +1,1 @@
+{"target": "lvgl@@lvgl_esp32_drivers", "extractors": [{"deps": [], "type": "cmake", "libs": []}]}

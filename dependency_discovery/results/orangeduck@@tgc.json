@@ -1,0 +1,1 @@
+{"target": "orangeduck@@tgc", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "tgc", "version": "0.1.0", "version_op": null, "unified_name": "tgc", "extractor_type": "clib", "context": "orangeduck@@tgc/package.json", "confidence": "High"}], "type": "clib"}]}

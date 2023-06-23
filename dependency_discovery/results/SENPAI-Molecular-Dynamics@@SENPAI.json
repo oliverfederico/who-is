@@ -1,0 +1,1 @@
+{"target": "SENPAI-Molecular-Dynamics@@SENPAI", "extractors": [{"deps": [{"depname": "m", "version": null, "version_op": null, "unified_name": "m", "extractor_type": "make", "context": "SENPAI-Molecular-Dynamics@@SENPAI/Makefile:LDLIBS := -lm -fopenmp", "confidence": "High"}], "type": "make"}]}

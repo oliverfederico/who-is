@@ -1,0 +1,1 @@
+{"target": "FT-Labs@@pdwm", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "Dynamic dwm config", "version": null, "version_op": "=", "unified_name": "dynamic dwm config", "extractor_type": "pkgconfig", "context": "FT-Labs@@pdwm/dwm-conf.pc", "confidence": "High"}], "type": "pkgconfig"}]}

@@ -1,0 +1,1 @@
+{"target": "layeh@@kjv", "extractors": [{"deps": [{"depname": "readline", "version": null, "version_op": null, "unified_name": "readline", "extractor_type": "make", "context": "layeh@@kjv/Makefile:LDLIBS += -lreadline", "confidence": "High"}], "type": "make"}]}

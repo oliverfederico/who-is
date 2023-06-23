@@ -1,0 +1,1 @@
+{"target": "geohot@@kvm-kext", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "autoconf"}]}

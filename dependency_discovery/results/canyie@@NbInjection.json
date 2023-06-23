@@ -1,0 +1,1 @@
+{"target": "canyie@@NbInjection", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "canyie@@NbInjection/module/src/main/cpp/CMakeLists.txt", "content": "find_library(log-lib log)"}]}]}

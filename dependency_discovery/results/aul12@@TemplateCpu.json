@@ -1,0 +1,1 @@
+{"target": "aul12@@TemplateCpu", "extractors": [{"deps": [{"depname": "templatecpu", "version": null, "version_op": null, "unified_name": "templatecpu", "extractor_type": "cmake", "context": "project(templatecpu)", "confidence": ""}], "type": "cmake", "libs": []}]}

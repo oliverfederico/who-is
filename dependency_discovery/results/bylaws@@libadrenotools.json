@@ -1,0 +1,1 @@
+{"target": "bylaws@@libadrenotools", "extractors": [{"deps": [{"depname": "adrenotools", "version": null, "version_op": null, "unified_name": "adrenotools", "extractor_type": "cmake", "context": "project(adrenotools languages cxx c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

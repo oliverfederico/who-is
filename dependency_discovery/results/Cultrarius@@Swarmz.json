@@ -1,0 +1,1 @@
+{"target": "Cultrarius@@Swarmz", "extractors": [{"deps": [{"depname": "swarmz", "version": null, "version_op": null, "unified_name": "swarmz", "extractor_type": "cmake", "context": "project(swarmz)", "confidence": ""}], "type": "cmake", "libs": []}]}

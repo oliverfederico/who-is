@@ -1,0 +1,1 @@
+{"target": "Toccata-Lang@@toccata", "extractors": [{"deps": [{"depname": "toccata", "version": null, "version_op": null, "unified_name": "toccata", "extractor_type": "cmake", "context": "project(toccata)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "Kharacternyk@@pacwall", "extractors": [{"deps": [{"depname": "m", "version": null, "version_op": null, "unified_name": "m", "extractor_type": "make", "context": "Kharacternyk@@pacwall/src/Makefile:LDLIBS += $(shell pkg-config --libs-only-l $(DEPS)) -lm", "confidence": "High"}], "type": "make"}]}

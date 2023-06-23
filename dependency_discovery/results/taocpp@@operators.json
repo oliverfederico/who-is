@@ -1,0 +1,1 @@
+{"target": "taocpp@@operators", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "taocpp", "version": "1.2.2", "version_op": null, "unified_name": "taocpp", "extractor_type": "cmake", "context": "project(taocpp-operators version 1.2.2 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

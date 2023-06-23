@@ -1,0 +1,1 @@
+{"target": "andrewhou1@@Shadow-Mask-Face-Relighting", "extractors": [{"deps": [{"depname": "libRayIntersection", "version": null, "version_op": null, "unified_name": "rayintersection", "extractor_type": "ms", "context": "andrewhou1@@Shadow-Mask-Face-Relighting/shadow_mask/Project1/Project1.vcxproj", "confidence": "High"}], "type": "ms"}]}

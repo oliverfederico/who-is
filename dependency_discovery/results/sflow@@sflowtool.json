@@ -1,0 +1,1 @@
+{"target": "sflow@@sflowtool", "extractors": [{"deps": [{"depname": "sflowtool", "version": "6.02", "version_op": null, "unified_name": "sflowtool", "extractor_type": "autoconf", "context": "AC_INIT([sflowtool],[6.02])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

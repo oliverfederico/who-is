@@ -1,0 +1,1 @@
+{"target": "KYHSGeekCode@@Android-Disassembler", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "KYHSGeekCode@@Android-Disassembler/app/CMakeLists.txt", "content": "find_library( \n        \n        log-lib\n\n        \n        \n        log)"}]}]}

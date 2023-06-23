@@ -1,0 +1,1 @@
+{"target": "akavel@@goluago", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "Lua", "version": "${R}", "version_op": "=", "unified_name": "lua", "extractor_type": "pkgconfig", "context": "akavel@@goluago/lua-5.1.4/etc/lua.pc", "confidence": "High"}], "type": "pkgconfig"}, {"deps": [], "type": "make"}]}

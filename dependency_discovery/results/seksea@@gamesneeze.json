@@ -1,0 +1,1 @@
+{"target": "seksea@@gamesneeze", "extractors": [{"deps": [{"depname": "gamesneeze", "version": null, "version_op": null, "unified_name": "gamesneeze", "extractor_type": "cmake", "context": "project(gamesneeze)", "confidence": ""}], "type": "cmake", "libs": []}]}

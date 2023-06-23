@@ -1,0 +1,1 @@
+{"target": "lmclmc@@base-components-tool", "extractors": [{"deps": [{"depname": "lmcbase", "version": "1.2.9", "version_op": null, "unified_name": "lmcbase", "extractor_type": "cmake", "context": "project(lmcbase version 1.2.9)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

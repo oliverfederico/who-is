@@ -1,0 +1,1 @@
+{"target": "Qix-@@tortellini", "extractors": [{"deps": [{"depname": "tortellini", "version": null, "version_op": null, "unified_name": "tortellini", "extractor_type": "cmake", "context": "project (tortellini)", "confidence": ""}], "type": "cmake", "libs": []}]}

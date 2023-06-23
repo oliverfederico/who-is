@@ -1,0 +1,1 @@
+{"target": "darthcloud@@BlueRetro", "extractors": [{"deps": [{"depname": "blueretro", "version": null, "version_op": null, "unified_name": "blueretro", "extractor_type": "cmake", "context": "project(blueretro)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

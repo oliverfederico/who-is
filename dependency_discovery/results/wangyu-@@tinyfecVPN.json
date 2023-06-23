@@ -1,0 +1,1 @@
+{"target": "wangyu-@@tinyfecVPN", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "tinyvpn", "version": null, "version_op": null, "unified_name": "tinyvpn", "extractor_type": "cmake", "context": "project(tinyvpn)", "confidence": ""}], "type": "cmake", "libs": []}]}

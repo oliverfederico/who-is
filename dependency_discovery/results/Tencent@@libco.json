@@ -1,0 +1,1 @@
+{"target": "Tencent@@libco", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "libco", "version": null, "version_op": null, "unified_name": "co", "extractor_type": "cmake", "context": "project(libco)", "confidence": ""}], "type": "cmake", "libs": []}]}

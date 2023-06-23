@@ -1,0 +1,1 @@
+{"target": "Zer0Mem0ry@@Detour", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "detours", "version": null, "version_op": null, "unified_name": "detours", "extractor_type": "ms", "context": "Zer0Mem0ry@@Detour/dll/dll.vcxproj", "confidence": "High"}], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "eggs-cpp@@variant", "extractors": [{"deps": [{"depname": "eggs", "version": null, "version_op": null, "unified_name": "eggs", "extractor_type": "cmake", "context": "project(eggs.variant cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

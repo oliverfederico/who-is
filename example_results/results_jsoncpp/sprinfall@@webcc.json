@@ -1,0 +1,2849 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class CharReader::Factory"
+                },
+                "1": {
+                    "type": "std::istream"
+                },
+                "2": {
+                    "type": "Json::Value *"
+                },
+                "3": {
+                    "type": "std::string *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 1744,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/github_client.cc",
+                "line": 25,
+                "offset": 8
+            },
+            "name": "parseFromStream",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "ostream *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 1851,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": true,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": true,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/github_client.cc",
+                "line": 40,
+                "offset": 3
+            },
+            "name": "write",
+            "return": "int"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/github_client.cc",
+                "line": 37,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::StreamWriterBuilder"
+                },
+                "1": {
+                    "type": "std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 1932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/github_client.cc",
+                "line": 37,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 1924,
+                "offset": 17
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/github_client.cc",
+                "line": 39,
+                "offset": 46
+            },
+            "name": "newStreamWriter",
+            "return": "StreamWriter *"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class StreamWriter::Factory"
+                },
+                "1": {
+                    "type": "const Json::Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 1868,
+                "offset": 25
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 12,
+                "offset": 10
+            },
+            "name": "writeString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class CharReader::Factory"
+                },
+                "1": {
+                    "type": "std::istream"
+                },
+                "2": {
+                    "type": "Json::Value *"
+                },
+                "3": {
+                    "type": "std::string *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 1744,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 21,
+                "offset": 8
+            },
+            "name": "parseFromStream",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 30,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 30,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 31,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 31,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 32,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 32,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 848,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 40,
+                "offset": 5
+            },
+            "name": "asDouble",
+            "return": "double"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 848,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 40,
+                "offset": 5
+            },
+            "name": "asDouble",
+            "return": "double"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 38,
+                "offset": 5
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 38,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 39,
+                "offset": 5
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 39,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 40,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 38,
+                "offset": 5
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 38,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 39,
+                "offset": 5
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 39,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.cc",
+                "line": 40,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 926,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/views.cc",
+                "line": 35,
+                "offset": 5
+            },
+            "name": "append",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Book"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.h",
+                "line": 14,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/views.cc",
+                "line": 35,
+                "offset": 17
+            },
+            "name": "BookToJson",
+            "return": "Json::Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.h",
+                "line": 10,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/views.cc",
+                "line": 40,
+                "offset": 45
+            },
+            "name": "JsonToString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                },
+                "1": {
+                    "type": "Book *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.h",
+                "line": 20,
+                "offset": 6
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/views.cc",
+                "line": 45,
+                "offset": 7
+            },
+            "name": "JsonStringToBook",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/views.cc",
+                "line": 49,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/views.cc",
+                "line": 49,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.h",
+                "line": 10,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/views.cc",
+                "line": 51,
+                "offset": 52
+            },
+            "name": "JsonToString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Book"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.h",
+                "line": 18,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/views.cc",
+                "line": 93,
+                "offset": 13
+            },
+            "name": "BookToJsonString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                },
+                "1": {
+                    "type": "Book *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/book_json.h",
+                "line": 20,
+                "offset": 6
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_server/views.cc",
+                "line": 106,
+                "offset": 8
+            },
+            "name": "JsonStringToBook",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class StreamWriter::Factory"
+                },
+                "1": {
+                    "type": "const Json::Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 1868,
+                "offset": 25
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 12,
+                "offset": 10
+            },
+            "name": "writeString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class CharReader::Factory"
+                },
+                "1": {
+                    "type": "std::istream"
+                },
+                "2": {
+                    "type": "Json::Value *"
+                },
+                "3": {
+                    "type": "std::string *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 1744,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 21,
+                "offset": 8
+            },
+            "name": "parseFromStream",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 30,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 30,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 31,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 31,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 32,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 32,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 33,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 33,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 848,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 41,
+                "offset": 5
+            },
+            "name": "asDouble",
+            "return": "double"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 848,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 41,
+                "offset": 5
+            },
+            "name": "asDouble",
+            "return": "double"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 39,
+                "offset": 5
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 39,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 40,
+                "offset": 5
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 40,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 41,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 42,
+                "offset": 5
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 42,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 39,
+                "offset": 5
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 39,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 40,
+                "offset": 5
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 40,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 41,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 42,
+                "offset": 5
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 935,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.cc",
+                "line": 42,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.h",
+                "line": 12,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 24,
+                "offset": 24
+            },
+            "name": "StringToJson",
+            "return": "Json::Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 861,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 26,
+                "offset": 10
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 867,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 30,
+                "offset": 38
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.h",
+                "line": 16,
+                "offset": 6
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 31,
+                "offset": 24
+            },
+            "name": "JsonToBook",
+            "return": "Book"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Json::ArrayIndex"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 894,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 31,
+                "offset": 35
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 45,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 45,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 46,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 46,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.h",
+                "line": 10,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 50,
+                "offset": 33
+            },
+            "name": "JsonToString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.h",
+                "line": 12,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 56,
+                "offset": 28
+            },
+            "name": "StringToJson",
+            "return": "Json::Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 830,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 57,
+                "offset": 11
+            },
+            "name": "asString",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 57,
+                "offset": 11
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                },
+                "1": {
+                    "type": "Book *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.h",
+                "line": 20,
+                "offset": 6
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 79,
+                "offset": 12
+            },
+            "name": "JsonStringToBook",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 90,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 90,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 803,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 91,
+                "offset": 3
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/third_party/src/jsoncpp/json/json.h",
+                "line": 932,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 91,
+                "offset": 3
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_json.h",
+                "line": 10,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sprinfall@@webcc/examples/book_client/book_client.cc",
+                "line": 95,
+                "offset": 33
+            },
+            "name": "JsonToString",
+            "return": "std::string"
+        }
+    }
+]

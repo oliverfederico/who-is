@@ -1,0 +1,1 @@
+{"target": "chzach@@SSBA", "extractors": [{"deps": [{"depname": "v3d", "version": null, "version_op": null, "unified_name": "v3d", "extractor_type": "cmake", "context": "project(v3d)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

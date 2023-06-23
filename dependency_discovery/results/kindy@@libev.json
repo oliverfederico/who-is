@@ -1,0 +1,1 @@
+{"target": "kindy@@libev", "extractors": [{"deps": [{"depname": "libev", "version": "4.33", "version_op": null, "unified_name": "ev", "extractor_type": "autoconf", "context": "AC_INIT([libev], [4.33])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

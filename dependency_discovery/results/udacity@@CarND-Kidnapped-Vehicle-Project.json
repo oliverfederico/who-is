@@ -1,0 +1,1 @@
+{"target": "udacity@@CarND-Kidnapped-Vehicle-Project", "extractors": [{"deps": [{"depname": "particle_filter", "version": null, "version_op": null, "unified_name": "particle_filter", "extractor_type": "cmake", "context": "project(particle_filter)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "stolk@@diskgraph", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "debhelper-compat", "version": "=13", "version_op": null, "unified_name": "debhelper-compat", "extractor_type": "control", "context": "stolk@@diskgraph/debian/control", "confidence": "High"}], "type": "control"}]}

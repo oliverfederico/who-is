@@ -1,0 +1,1 @@
+{"target": "Dewb@@monome-rack", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "simple", "version": null, "version_op": null, "unified_name": "simple", "extractor_type": "cmake", "context": "project (simple-svg)", "confidence": ""}], "type": "cmake", "libs": []}]}

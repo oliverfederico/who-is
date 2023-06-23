@@ -1,0 +1,1 @@
+{"target": "sylefeb@@VoxSurf", "extractors": [{"deps": [{"depname": "voxsurf", "version": null, "version_op": null, "unified_name": "voxsurf", "extractor_type": "cmake", "context": "project(voxsurf)", "confidence": ""}], "type": "cmake", "libs": []}]}

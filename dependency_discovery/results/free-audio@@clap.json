@@ -1,0 +1,1 @@
+{"target": "free-audio@@clap", "extractors": [{"deps": [{"depname": "clap", "version": "${cmake_match_1}.${cmake_match_1}.${cmake_match_1}", "version_op": null, "unified_name": "clap", "extractor_type": "cmake", "context": "project(clap languages c cxx version ${cmake_match_1}.${cmake_match_1}.${cmake_match_1})", "confidence": "High"}], "type": "cmake", "libs": []}]}

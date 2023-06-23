@@ -1,0 +1,1 @@
+{"target": "badlogic@@r96", "extractors": [{"deps": [{"depname": "r96", "version": null, "version_op": null, "unified_name": "r96", "extractor_type": "cmake", "context": "project(r96)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "kspalaiologos@@bzip3", "extractors": [{"deps": [{"depname": "bzip3", "version": "m4_esyscmd(build-aux/git-version-gen .tarball-version", "version_op": null, "unified_name": "bzip3", "extractor_type": "autoconf", "context": "AC_INIT([bzip3], [m4_esyscmd(build-aux/git-version-gen .tarball-version)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

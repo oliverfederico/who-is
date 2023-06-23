@@ -1,0 +1,1 @@
+{"target": "svengong@@xcubebase", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "svengong@@xcubebase/app/src/main/cpp/CMakeLists.txt", "content": "find_library(log-lib log)"}]}]}

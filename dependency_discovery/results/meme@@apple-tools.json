@@ -1,0 +1,1 @@
+{"target": "meme@@apple-tools", "extractors": [{"deps": [{"depname": "openssl", "version": null, "version_op": null, "unified_name": "openssl", "extractor_type": "meson", "context": "meme@@apple-tools/dsmos-dump/meson.build", "confidence": "High"}], "type": "meson"}, {"deps": [], "type": "make"}, {"deps": [], "type": "meson"}, {"deps": [], "type": "meson"}]}

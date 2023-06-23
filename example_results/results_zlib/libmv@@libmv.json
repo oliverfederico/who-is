@@ -1,0 +1,987 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 242,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngwrite.c",
+                "line": 976,
+                "offset": 13
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 328,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngwrite.c",
+                "line": 1100,
+                "offset": 4
+            },
+            "name": "deflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 1285,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/png.c",
+                "line": 205,
+                "offset": 19
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "png_uint_32"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 1285,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/png.c",
+                "line": 231,
+                "offset": 22
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 789,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/png.c",
+                "line": 771,
+                "offset": 12
+            },
+            "name": "inflateReset"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 363,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngpread.c",
+                "line": 833,
+                "offset": 13
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 789,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngpread.c",
+                "line": 1417,
+                "offset": 7
+            },
+            "name": "inflateReset"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 363,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngpread.c",
+                "line": 1356,
+                "offset": 16
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 789,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngpread.c",
+                "line": 1359,
+                "offset": 13
+            },
+            "name": "inflateReset"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 789,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngrutil.c",
+                "line": 369,
+                "offset": 7
+            },
+            "name": "inflateReset"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 363,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngrutil.c",
+                "line": 245,
+                "offset": 16
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 789,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngrutil.c",
+                "line": 252,
+                "offset": 13
+            },
+            "name": "inflateReset"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 789,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngrutil.c",
+                "line": 3034,
+                "offset": 4
+            },
+            "name": "inflateReset"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 363,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngrutil.c",
+                "line": 3005,
+                "offset": 16
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 242,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngwutil.c",
+                "line": 225,
+                "offset": 13
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "4"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 242,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngwutil.c",
+                "line": 281,
+                "offset": 13
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 595,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngwutil.c",
+                "line": 376,
+                "offset": 4
+            },
+            "name": "deflateReset"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "int"
+                },
+                "6": {
+                    "type": "const char *"
+                },
+                "7": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 1321,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngwutil.c",
+                "line": 538,
+                "offset": 10
+            },
+            "name": "deflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 595,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngwutil.c",
+                "line": 1927,
+                "offset": 4
+            },
+            "name": "deflateReset"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "4"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 242,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngwutil.c",
+                "line": 1899,
+                "offset": 13
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 242,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngwutil.c",
+                "line": 2744,
+                "offset": 13
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 1319,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngread.c",
+                "line": 148,
+                "offset": 12
+            },
+            "name": "inflateInit_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 1319,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngread.c",
+                "line": 304,
+                "offset": 12
+            },
+            "name": "inflateInit_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 363,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngread.c",
+                "line": 719,
+                "offset": 13
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/zlib/zlib.h",
+                "line": 462,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/libmv@@libmv/src/third_party/png/pngread.c",
+                "line": 1265,
+                "offset": 4
+            },
+            "name": "inflateEnd"
+        }
+    }
+]

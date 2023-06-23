@@ -1,0 +1,4499 @@
+[
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 408,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 75,
+                "offset": 10
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 418,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 75,
+                "offset": 28
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 407,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 79,
+                "offset": 10
+            },
+            "name": "isString",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 79,
+                "offset": 10
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 407,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 79,
+                "offset": 33
+            },
+            "name": "isString",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 79,
+                "offset": 33
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 83,
+                "offset": 24
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 83,
+                "offset": 24
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 84,
+                "offset": 10
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 84,
+                "offset": 10
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 408,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 84,
+                "offset": 31
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 84,
+                "offset": 31
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 86,
+                "offset": 13
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 86,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 90,
+                "offset": 33
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 90,
+                "offset": 33
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 93,
+                "offset": 20
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 93,
+                "offset": 20
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 97,
+                "offset": 14
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 97,
+                "offset": 14
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 99,
+                "offset": 13
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 99,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 103,
+                "offset": 18
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 103,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 408,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 114,
+                "offset": 9
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 114,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 115,
+                "offset": 13
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 115,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 418,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 120,
+                "offset": 32
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 120,
+                "offset": 32
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 418,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 122,
+                "offset": 21
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 122,
+                "offset": 21
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "2"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 454,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 132,
+                "offset": 40
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/Criteria.cc",
+                "line": 135,
+                "offset": 27
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 408,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/RestfulController.cc",
+                "line": 22,
+                "offset": 10
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 408,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/RestfulController.cc",
+                "line": 29,
+                "offset": 14
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 408,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/RestfulController.cc",
+                "line": 36,
+                "offset": 18
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 418,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/RestfulController.cc",
+                "line": 36,
+                "offset": 39
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/RestfulController.cc",
+                "line": 43,
+                "offset": 51
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 446,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/RestfulController.cc",
+                "line": 43,
+                "offset": 51
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 353,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/RestfulController.cc",
+                "line": 46,
+                "offset": 21
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 446,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/orm_lib/src/RestfulController.cc",
+                "line": 46,
+                "offset": 21
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 353,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/benchmark/JsonCtrl.cc",
+                "line": 7,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 475,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/benchmark/JsonCtrl.cc",
+                "line": 7,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 353,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 8,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 475,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 8,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 353,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 17,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 475,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 17,
+                "offset": 5
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 353,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 58,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 475,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 58,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 352,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 135,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const String"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 481,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 135,
+                "offset": 9
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "typename std::remove_reference<class Value &>::type"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 353,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 155,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 408,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 187,
+                "offset": 17
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 446,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 189,
+                "offset": 38
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 190,
+                "offset": 21
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "class std::basic_string<char> const"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 481,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 197,
+                "offset": 38
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/jsonstore/main.cc",
+                "line": 198,
+                "offset": 21
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/reader.h",
+                "line": 339,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/redis/controllers/Client.cc",
+                "line": 25,
+                "offset": 40
+            },
+            "name": "newCharReader",
+            "return": "CharReader *"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "Json::Value *"
+                },
+                "3": {
+                    "type": "std::string *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/reader.h",
+                "line": 263,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": true,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": true,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/redis/controllers/Client.cc",
+                "line": 31,
+                "offset": 17
+            },
+            "name": "parse",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 353,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/redis/controllers/Client.cc",
+                "line": 38,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 475,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/redis/controllers/Client.cc",
+                "line": 38,
+                "offset": 13
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 352,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/redis/controllers/Client.cc",
+                "line": 41,
+                "offset": 17
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 475,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/redis/controllers/Client.cc",
+                "line": 41,
+                "offset": 17
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/redis/controllers/Client.cc",
+                "line": 71,
+                "offset": 25
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "element_type"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 475,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/examples/redis/controllers/Client.cc",
+                "line": 71,
+                "offset": 25
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 396,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 72,
+                "offset": 20
+            },
+            "name": "asBool",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 72,
+                "offset": 20
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 478,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 77,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 78,
+                "offset": 9
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 408,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 82,
+                "offset": 10
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 396,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 108,
+                "offset": 20
+            },
+            "name": "asBool",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 108,
+                "offset": 20
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 478,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 111,
+                "offset": 18
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 112,
+                "offset": 9
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 408,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 114,
+                "offset": 10
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 801,
+                "offset": 19
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 801,
+                "offset": 19
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 478,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 806,
+                "offset": 29
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 478,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 807,
+                "offset": 43
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 478,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 808,
+                "offset": 45
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 813,
+                "offset": 21
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 813,
+                "offset": 21
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 387,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 814,
+                "offset": 21
+            },
+            "name": "asUInt",
+            "return": "UInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 814,
+                "offset": 21
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 815,
+                "offset": 23
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 815,
+                "offset": 23
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 823,
+                "offset": 21
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 823,
+                "offset": 21
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 830,
+                "offset": 25
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 830,
+                "offset": 25
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 833,
+                "offset": 24
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 833,
+                "offset": 24
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 847,
+                "offset": 29
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 847,
+                "offset": 29
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 854,
+                "offset": 23
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 854,
+                "offset": 23
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 478,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 876,
+                "offset": 27
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 418,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 877,
+                "offset": 28
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 418,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 886,
+                "offset": 42
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 888,
+                "offset": 38
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 446,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 888,
+                "offset": 38
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1031,
+                "offset": 25
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1031,
+                "offset": 25
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 478,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1061,
+                "offset": 27
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 418,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1062,
+                "offset": 28
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 418,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1070,
+                "offset": 42
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1072,
+                "offset": 38
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 446,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1072,
+                "offset": 38
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "IStream"
+                },
+                "1": {
+                    "type": "Json::Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/reader.h",
+                "line": 395,
+                "offset": 19
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1154,
+                "offset": 13
+            },
+            "name": "operator>>",
+            "return": "IStream &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1203,
+                "offset": 9
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 396,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1205,
+                "offset": 10
+            },
+            "name": "asBool",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1205,
+                "offset": 10
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 396,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1210,
+                "offset": 9
+            },
+            "name": "asBool",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1210,
+                "offset": 9
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1214,
+                "offset": 9
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1214,
+                "offset": 9
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1222,
+                "offset": 28
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1222,
+                "offset": 28
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 478,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1238,
+                "offset": 20
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1239,
+                "offset": 9
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 422,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1239,
+                "offset": 29
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 408,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1239,
+                "offset": 49
+            },
+            "name": "isArray",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1249,
+                "offset": 31
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 478,
+                "offset": 16
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1254,
+                "offset": 27
+            },
+            "name": "operator[]",
+            "return": "const Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1255,
+                "offset": 9
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 422,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1255,
+                "offset": 36
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1262,
+                "offset": 27
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1262,
+                "offset": 27
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 396,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1263,
+                "offset": 23
+            },
+            "name": "asBool",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1263,
+                "offset": 23
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1267,
+                "offset": 16
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/drogonframework@@drogon/drogon_ctl/create_model.cc",
+                "line": 1267,
+                "offset": 16
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    }
+]

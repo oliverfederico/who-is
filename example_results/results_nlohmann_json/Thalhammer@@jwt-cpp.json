@@ -1,0 +1,254 @@
+[
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "builder<traits::nlohmann_json>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Thalhammer@@jwt-cpp/include/jwt-cpp/traits/nlohmann-json/defaults.h",
+                "line": 30,
+                "offset": 40
+            },
+            "functionDeclReturn": "builder<traits::nlohmann_json>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Thalhammer@@jwt-cpp/example/partial-claim-verifier.cpp",
+                "line": 37,
+                "offset": 15
+            },
+            "name": "create"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "decoded_jwt<traits::nlohmann_json>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Thalhammer@@jwt-cpp/include/jwt-cpp/traits/nlohmann-json/defaults.h",
+                "line": 40,
+                "offset": 44
+            },
+            "functionDeclReturn": "decoded_jwt<traits::nlohmann_json>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Thalhammer@@jwt-cpp/example/partial-claim-verifier.cpp",
+                "line": 58,
+                "offset": 17
+            },
+            "name": "decode"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const class nlohmann::basic_json<>"
+                }
+            },
+            "callExprReturn": "std::ostream &",
+            "definition": {
+                "file": "/usr/include/nlohmann/json.hpp",
+                "line": 3611,
+                "offset": 26
+            },
+            "functionDeclReturn": "std::ostream &",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Thalhammer@@jwt-cpp/example/partial-claim-verifier.cpp",
+                "line": 61,
+                "offset": 3
+            },
+            "name": "operator<<"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "decltype(std::declval<const basic_json_t &>().template get_impl<class std::vector<class nlohmann::basic_json<> > >(detail::priority_tag<4>{}))",
+            "definition": {
+                "file": "/usr/include/nlohmann/json.hpp",
+                "line": 1736,
+                "offset": 10
+            },
+            "functionDeclReturn": "decltype(std::declval<const basic_json_t &>().template get_impl<class std::vector<class nlohmann::basic_json<> > >(detail::priority_tag<4>{}))",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Thalhammer@@jwt-cpp/example/partial-claim-verifier.cpp",
+                "line": 73,
+                "offset": 18
+            },
+            "name": "get"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value_type"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "reference",
+            "definition": {
+                "file": "/usr/include/nlohmann/json.hpp",
+                "line": 2116,
+                "offset": 15
+            },
+            "functionDeclReturn": "reference",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Thalhammer@@jwt-cpp/example/partial-claim-verifier.cpp",
+                "line": 73,
+                "offset": 18
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "typename struct nlohmann_json::value_type"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "reference",
+            "definition": {
+                "file": "/usr/include/nlohmann/json.hpp",
+                "line": 2116,
+                "offset": 15
+            },
+            "functionDeclReturn": "reference",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Thalhammer@@jwt-cpp/example/partial-claim-verifier.cpp",
+                "line": 73,
+                "offset": 18
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "verifier<default_clock, traits::nlohmann_json>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Thalhammer@@jwt-cpp/include/jwt-cpp/traits/nlohmann-json/defaults.h",
+                "line": 23,
+                "offset": 56
+            },
+            "functionDeclReturn": "verifier<default_clock, traits::nlohmann_json>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Thalhammer@@jwt-cpp/example/partial-claim-verifier.cpp",
+                "line": 80,
+                "offset": 18
+            },
+            "name": "verify"
+        }
+    }
+]

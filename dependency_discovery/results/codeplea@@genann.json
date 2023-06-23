@@ -1,0 +1,1 @@
+{"target": "codeplea@@genann", "extractors": [{"deps": [{"depname": "m", "version": null, "version_op": null, "unified_name": "m", "extractor_type": "make", "context": "codeplea@@genann/Makefile:LDLIBS = -lm", "confidence": "High"}], "type": "make"}]}

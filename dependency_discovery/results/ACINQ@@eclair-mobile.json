@@ -1,0 +1,1 @@
+{"target": "ACINQ@@eclair-mobile", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "ACINQ@@eclair-mobile/app/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log )"}]}]}

@@ -1,0 +1,1 @@
+{"target": "dbzhang800@@QtXlsxWriter", "extractors": [{"deps": [{"depname": "qmake_cmake_files", "version": null, "version_op": null, "unified_name": "qmake_cmake_files", "extractor_type": "cmake", "context": "project(qmake_cmake_files)", "confidence": ""}], "type": "cmake", "libs": []}]}

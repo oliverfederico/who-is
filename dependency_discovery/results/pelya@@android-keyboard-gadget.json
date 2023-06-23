@@ -1,0 +1,1 @@
+{"target": "pelya@@android-keyboard-gadget", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,4323 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1034,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcapimin.c",
+                "line": 90,
+                "offset": 3
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1033,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcapimin.c",
+                "line": 102,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1033,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcapimin.c",
+                "line": 180,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 930,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcapistd.c",
+                "line": 44,
+                "offset": 5
+            },
+            "name": "jpeg_suppress_tables"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 933,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jchuff.c",
+                "line": 868,
+                "offset": 13
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 933,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jchuff.c",
+                "line": 875,
+                "offset": 13
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JQUANT_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 932,
+                "offset": 22
+            },
+            "functionDeclReturn": "JQUANT_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcparam.c",
+                "line": 46,
+                "offset": 16
+            },
+            "name": "jpeg_alloc_quant_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 933,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcparam.c",
+                "line": 159,
+                "offset": 16
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 918,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcparam.c",
+                "line": 350,
+                "offset": 3
+            },
+            "name": "jpeg_default_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcparam.c",
+                "line": 363,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcparam.c",
+                "line": 366,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcparam.c",
+                "line": 369,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcparam.c",
+                "line": 372,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcparam.c",
+                "line": 375,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcparam.c",
+                "line": 378,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 933,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jcphuff.c",
+                "line": 801,
+                "offset": 20
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 930,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jctrans.c",
+                "line": 43,
+                "offset": 3
+            },
+            "name": "jpeg_suppress_tables"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 914,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jctrans.c",
+                "line": 80,
+                "offset": 3
+            },
+            "name": "jpeg_set_defaults"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jctrans.c",
+                "line": 84,
+                "offset": 3
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JQUANT_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 932,
+                "offset": 22
+            },
+            "functionDeclReturn": "JQUANT_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jctrans.c",
+                "line": 92,
+                "offset": 13
+            },
+            "name": "jpeg_alloc_quant_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1034,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jdapimin.c",
+                "line": 93,
+                "offset": 3
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1033,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jdapimin.c",
+                "line": 105,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 993,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jdapimin.c",
+                "line": 249,
+                "offset": 13
+            },
+            "name": "jpeg_consume_input"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1033,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jdapimin.c",
+                "line": 262,
+                "offset": 5
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1033,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jdapimin.c",
+                "line": 393,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 933,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jdmarker.c",
+                "line": 475,
+                "offset": 18
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JQUANT_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 932,
+                "offset": 22
+            },
+            "functionDeclReturn": "JQUANT_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jdmarker.c",
+                "line": 513,
+                "offset": 34
+            },
+            "name": "jpeg_alloc_quant_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1034,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jerror.c",
+                "line": 76,
+                "offset": 3
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 288,
+                "offset": 7
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 928,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 337,
+                "offset": 24
+            },
+            "name": "jpeg_quality_scaling"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 919,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 425,
+                "offset": 5
+            },
+            "name": "jpeg_set_quality"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 929,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 442,
+                "offset": 7
+            },
+            "name": "jpeg_simple_progression"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "62"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 900,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 485,
+                "offset": 3
+            },
+            "name": "jpeg_CreateCompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 914,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 503,
+                "offset": 3
+            },
+            "name": "jpeg_set_defaults"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 918,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 571,
+                "offset": 3
+            },
+            "name": "jpeg_default_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 910,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 577,
+                "offset": 3
+            },
+            "name": "jpeg_stdio_dest"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 936,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 580,
+                "offset": 3
+            },
+            "name": "jpeg_start_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 941,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 590,
+                "offset": 3
+            },
+            "name": "jpeg_finish_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 905,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 591,
+                "offset": 3
+            },
+            "name": "jpeg_destroy_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 884,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 484,
+                "offset": 15
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPARRAY"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 938,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/cjpeg.c",
+                "line": 585,
+                "offset": 12
+            },
+            "name": "jpeg_write_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "62"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 902,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/djpeg.c",
+                "line": 448,
+                "offset": 3
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "254"
+                },
+                "2": {
+                    "type": "boolean (*)(j_decompress_ptr)"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1010,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/djpeg.c",
+                "line": 460,
+                "offset": 3
+            },
+            "name": "jpeg_set_marker_processor"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "boolean (*)(j_decompress_ptr)"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1010,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/djpeg.c",
+                "line": 461,
+                "offset": 3
+            },
+            "name": "jpeg_set_marker_processor"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 911,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/djpeg.c",
+                "line": 529,
+                "offset": 3
+            },
+            "name": "jpeg_stdio_src"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 906,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/djpeg.c",
+                "line": 601,
+                "offset": 3
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 884,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/djpeg.c",
+                "line": 447,
+                "offset": 15
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 962,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/djpeg.c",
+                "line": 532,
+                "offset": 10
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 975,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/djpeg.c",
+                "line": 576,
+                "offset": 10
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPARRAY"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 976,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/djpeg.c",
+                "line": 583,
+                "offset": 21
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 979,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/djpeg.c",
+                "line": 600,
+                "offset": 10
+            },
+            "name": "jpeg_finish_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 929,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 315,
+                "offset": 7
+            },
+            "name": "jpeg_simple_progression"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "62"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 902,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 359,
+                "offset": 3
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "62"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 900,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 362,
+                "offset": 3
+            },
+            "name": "jpeg_CreateCompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 911,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 434,
+                "offset": 3
+            },
+            "name": "jpeg_stdio_src"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1018,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 453,
+                "offset": 3
+            },
+            "name": "jpeg_copy_critical_parameters"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 910,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 470,
+                "offset": 3
+            },
+            "name": "jpeg_stdio_dest"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "jvirt_barray_ptr *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1016,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 473,
+                "offset": 3
+            },
+            "name": "jpeg_write_coefficients"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 941,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 486,
+                "offset": 3
+            },
+            "name": "jpeg_finish_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 905,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 487,
+                "offset": 3
+            },
+            "name": "jpeg_destroy_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 906,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 489,
+                "offset": 3
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 884,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 358,
+                "offset": 17
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 884,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 361,
+                "offset": 17
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 962,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 440,
+                "offset": 10
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "jvirt_barray_ptr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1015,
+                "offset": 28
+            },
+            "functionDeclReturn": "jvirt_barray_ptr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 450,
+                "offset": 21
+            },
+            "name": "jpeg_read_coefficients"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 979,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/jpegtran.c",
+                "line": 488,
+                "offset": 10
+            },
+            "name": "jpeg_finish_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const unsigned int *"
+                },
+                "3": {
+                    "type": "int"
+                },
+                "4": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 924,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/rdswitch.c",
+                "line": 111,
+                "offset": 5
+            },
+            "name": "jpeg_add_quant_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/transupp.c",
+                "line": 752,
+                "offset": 7
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "254"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1005,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/transupp.c",
+                "line": 868,
+                "offset": 5
+            },
+            "name": "jpeg_save_markers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1005,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/transupp.c",
+                "line": 873,
+                "offset": 7
+            },
+            "name": "jpeg_save_markers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const JOCTET *"
+                },
+                "3": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 949,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/transupp.c",
+                "line": 924,
+                "offset": 5
+            },
+            "name": "jpeg_write_marker"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1002,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/wrppm.c",
+                "line": 231,
+                "offset": 3
+            },
+            "name": "jpeg_calc_output_dimensions"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1002,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/wrgif.c",
+                "line": 386,
+                "offset": 3
+            },
+            "name": "jpeg_calc_output_dimensions"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1002,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/wrtarga.c",
+                "line": 237,
+                "offset": 3
+            },
+            "name": "jpeg_calc_output_dimensions"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/./jpeglib.h",
+                "line": 1002,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/jpeg-6b/wrbmp.c",
+                "line": 415,
+                "offset": 3
+            },
+            "name": "jpeg_calc_output_dimensions"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1059,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 224,
+                "offset": 2
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1059,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 262,
+                "offset": 13
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 282,
+                "offset": 20
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 906,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 289,
+                "offset": 9
+            },
+            "name": "jpeg_CreateCompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 296,
+                "offset": 20
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 908,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 303,
+                "offset": 9
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 928,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 309,
+                "offset": 9
+            },
+            "name": "jpeg_set_defaults"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 930,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 315,
+                "offset": 9
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 933,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 321,
+                "offset": 9
+            },
+            "name": "jpeg_set_quality"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 946,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 328,
+                "offset": 9
+            },
+            "name": "jpeg_suppress_tables"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 951,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 334,
+                "offset": 9
+            },
+            "name": "jpeg_start_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPARRAY"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 953,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 341,
+                "offset": 9
+            },
+            "name": "jpeg_write_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPIMAGE"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 964,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 348,
+                "offset": 9
+            },
+            "name": "jpeg_write_raw_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 956,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 355,
+                "offset": 9
+            },
+            "name": "jpeg_finish_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 976,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 361,
+                "offset": 9
+            },
+            "name": "jpeg_write_tables"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 985,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 367,
+                "offset": 9
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1012,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 373,
+                "offset": 9
+            },
+            "name": "jpeg_has_multiple_scans"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 997,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 388,
+                "offset": 9
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPARRAY"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 998,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 394,
+                "offset": 9
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPIMAGE"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1008,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 401,
+                "offset": 9
+            },
+            "name": "jpeg_read_raw_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1005,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 408,
+                "offset": 9
+            },
+            "name": "jpeg_finish_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_common_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1059,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 414,
+                "offset": 9
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_common_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1060,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_jpeg.c",
+                "line": 420,
+                "offset": 9
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_ojpeg.c",
+                "line": 1164,
+                "offset": 2
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_common_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1060,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_ojpeg.c",
+                "line": 1251,
+                "offset": 2
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 908,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_ojpeg.c",
+                "line": 2404,
+                "offset": 3
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 985,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_ojpeg.c",
+                "line": 2417,
+                "offset": 3
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 997,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_ojpeg.c",
+                "line": 2430,
+                "offset": 3
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPARRAY"
+                },
+                "2": {
+                    "type": "uint32"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 998,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_ojpeg.c",
+                "line": 2443,
+                "offset": 3
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPIMAGE"
+                },
+                "2": {
+                    "type": "uint32"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1008,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/3rdparty/libtiff/libtiff/tif_ojpeg.c",
+                "line": 2456,
+                "offset": 3
+            },
+            "name": "jpeg_read_raw_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *(*)(void)"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/../../3rdparty/jpeg-6b/jpeglib.h",
+                "line": 1097,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/gmdata/imagereader/gmimagereader_jpg.cpp",
+                "line": 67,
+                "offset": 2
+            },
+            "name": "jpeg_set_temp_directory_name_ptr"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "62"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/../../3rdparty/jpeg-6b/jpeglib.h",
+                "line": 902,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/gmdata/imagereader/gmimagereader_jpg.cpp",
+                "line": 90,
+                "offset": 2
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/../../3rdparty/jpeg-6b/jpeglib.h",
+                "line": 962,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/gmdata/imagereader/gmimagereader_jpg.cpp",
+                "line": 97,
+                "offset": 2
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/../../3rdparty/jpeg-6b/jpeglib.h",
+                "line": 975,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/gmdata/imagereader/gmimagereader_jpg.cpp",
+                "line": 100,
+                "offset": 2
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/../../3rdparty/jpeg-6b/jpeglib.h",
+                "line": 906,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/gmdata/imagereader/gmimagereader_jpg.cpp",
+                "line": 173,
+                "offset": 2
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/../../3rdparty/jpeg-6b/jpeglib.h",
+                "line": 884,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/gmdata/imagereader/gmimagereader_jpg.cpp",
+                "line": 87,
+                "offset": 14
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "GMbyte **"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/../../3rdparty/jpeg-6b/jpeglib.h",
+                "line": 976,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/gmdata/imagereader/gmimagereader_jpg.cpp",
+                "line": 129,
+                "offset": 16
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "GMbyte **"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/../../3rdparty/jpeg-6b/jpeglib.h",
+                "line": 976,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Froser@@gamemachine/src/gamemachine/src/gmdata/imagereader/gmimagereader_jpg.cpp",
+                "line": 153,
+                "offset": 16
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    }
+]

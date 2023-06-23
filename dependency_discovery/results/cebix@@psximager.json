@@ -1,0 +1,1 @@
+{"target": "cebix@@psximager", "extractors": [{"deps": [{"depname": "PSXImager", "version": "2.0", "version_op": null, "unified_name": "psximager", "extractor_type": "autoconf", "context": "AC_INIT([PSXImager], [2.0], [cb@cebix.net], [psximager])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

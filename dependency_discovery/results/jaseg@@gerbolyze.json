@@ -1,0 +1,1 @@
+{"target": "jaseg@@gerbolyze", "extractors": [{"deps": [{"depname": "polyclipping", "version": null, "version_op": null, "unified_name": "polyclipping", "extractor_type": "cmake", "context": "project(polyclipping)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "make"}]}

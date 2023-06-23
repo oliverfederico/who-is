@@ -1,0 +1,1 @@
+{"target": "sysprog21@@kvm-host", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "gitsubmod"}]}

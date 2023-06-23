@@ -1,0 +1,1 @@
+{"target": "yocover@@start-learning-opengl", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}]}

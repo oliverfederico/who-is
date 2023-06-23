@@ -1,0 +1,1 @@
+{"target": "hutusi@@rethink-c", "extractors": [{"deps": [{"depname": "rethink", "version": null, "version_op": null, "unified_name": "rethink", "extractor_type": "cmake", "context": "project(rethink)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

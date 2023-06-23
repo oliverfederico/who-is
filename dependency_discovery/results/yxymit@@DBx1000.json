@@ -1,0 +1,1 @@
+{"target": "yxymit@@DBx1000", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "dbx1000", "version": null, "version_op": null, "unified_name": "dbx1000", "extractor_type": "cmake", "context": "project(dbx1000)", "confidence": ""}], "type": "cmake", "libs": []}]}

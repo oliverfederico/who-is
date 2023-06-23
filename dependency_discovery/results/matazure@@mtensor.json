@@ -1,0 +1,1 @@
+{"target": "matazure@@mtensor", "extractors": [{"deps": [{"depname": "mtensor", "version": null, "version_op": null, "unified_name": "mtensor", "extractor_type": "cmake", "context": "project(mtensor cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

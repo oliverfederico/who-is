@@ -1,0 +1,1 @@
+{"target": "tair-opensource@@TairString", "extractors": [{"deps": [{"depname": "tairstring_module", "version": null, "version_op": null, "unified_name": "tairstring_module", "extractor_type": "cmake", "context": "project(tairstring_module)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

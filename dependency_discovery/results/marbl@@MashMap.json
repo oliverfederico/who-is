@@ -1,0 +1,1 @@
+{"target": "marbl@@MashMap", "extractors": [{"deps": [{"depname": "mashmap", "version": "3.0.0", "version_op": null, "unified_name": "mashmap", "extractor_type": "cmake", "context": "project(mashmap version 3.0.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

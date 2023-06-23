@@ -1,0 +1,1 @@
+{"target": "wqvbjhc@@libuv_tcp", "extractors": [{"deps": [{"depname": "libuv_tcp", "version": null, "version_op": null, "unified_name": "uv_tcp", "extractor_type": "cmake", "context": "project(libuv_tcp)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "DarkEnergyProcessor@@HonokaMiku", "extractors": [{"deps": [{"depname": "honokamiku", "version": null, "version_op": null, "unified_name": "honokamiku", "extractor_type": "cmake", "context": "project(honokamiku languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

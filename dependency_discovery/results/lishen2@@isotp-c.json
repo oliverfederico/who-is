@@ -1,0 +1,1 @@
+{"target": "lishen2@@isotp-c", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "isotp", "version": null, "version_op": null, "unified_name": "isotp", "extractor_type": "cmake", "context": "project(isotp languages c)", "confidence": ""}], "type": "cmake", "libs": []}]}

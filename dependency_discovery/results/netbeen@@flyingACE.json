@@ -1,0 +1,1 @@
+{"target": "netbeen@@flyingACE", "extractors": [{"deps": [{"depname": "mygame", "version": null, "version_op": null, "unified_name": "mygame", "extractor_type": "cmake", "context": "project (mygame)", "confidence": ""}], "type": "cmake", "libs": []}]}

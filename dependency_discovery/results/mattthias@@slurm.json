@@ -1,0 +1,1 @@
+{"target": "mattthias@@slurm", "extractors": [{"deps": [{"depname": "curses", "version": "5", "version_op": ">=", "unified_name": "curses", "extractor_type": "meson", "context": "mattthias@@slurm/meson.build", "confidence": "High"}], "type": "meson"}]}

@@ -1,0 +1,1 @@
+{"target": "wallix@@redemption", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "%BUILD_DEPENDS%", "version": "", "version_op": null, "unified_name": "%build_depends%", "extractor_type": "control", "context": "wallix@@redemption/packaging/template/debian/control", "confidence": "High"}], "type": "control"}]}

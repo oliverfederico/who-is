@@ -1,0 +1,1 @@
+{"target": "cpuimage@@resampler", "extractors": [{"deps": [{"depname": "resampler", "version": null, "version_op": null, "unified_name": "resampler", "extractor_type": "cmake", "context": "project(resampler languages c)", "confidence": ""}], "type": "cmake", "libs": []}]}

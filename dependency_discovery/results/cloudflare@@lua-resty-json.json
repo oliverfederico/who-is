@@ -1,0 +1,1 @@
+{"target": "cloudflare@@lua-resty-json", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

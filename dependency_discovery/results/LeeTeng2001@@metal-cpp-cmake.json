@@ -1,0 +1,1 @@
+{"target": "LeeTeng2001@@metal-cpp-cmake", "extractors": [{"deps": [{"depname": "metal_cpp_try", "version": null, "version_op": null, "unified_name": "metal_cpp_try", "extractor_type": "cmake", "context": "project(metal_cpp_try)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

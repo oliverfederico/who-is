@@ -1,0 +1,1 @@
+{"target": "CHINA-JIGE@@Shoot-The-Chicken-3D", "extractors": [{"deps": [{"depname": "winmm", "version": null, "version_op": null, "unified_name": "winmm", "extractor_type": "ms", "context": "CHINA-JIGE@@Shoot-The-Chicken-3D/Source/console-soft-renderer-3D.vcxproj", "confidence": "High"}], "type": "ms"}]}

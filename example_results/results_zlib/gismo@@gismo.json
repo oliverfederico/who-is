@@ -1,0 +1,1331 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/zlib/zlib.h",
+                "line": 1725,
+                "offset": 27
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/gzstream/gzstream.cpp",
+                "line": 61,
+                "offset": 12
+            },
+            "name": "gzopen"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/zlib/zlib.h",
+                "line": 1511,
+                "offset": 24
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/gzstream/gzstream.cpp",
+                "line": 72,
+                "offset": 14
+            },
+            "name": "gzclose"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                },
+                "1": {
+                    "type": "voidp"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/zlib/zlib.h",
+                "line": 1313,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/gzstream/gzstream.cpp",
+                "line": 90,
+                "offset": 15
+            },
+            "name": "gzread"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                },
+                "1": {
+                    "type": "voidpc"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/zlib/zlib.h",
+                "line": 1341,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/gzstream/gzstream.cpp",
+                "line": 107,
+                "offset": 10
+            },
+            "name": "gzwrite"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 1633,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_compress.cpp",
+                "line": 71,
+                "offset": 16
+            },
+            "name": "deflateInit_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 246,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_compress.cpp",
+                "line": 148,
+                "offset": 11
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 353,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_compress.cpp",
+                "line": 283,
+                "offset": 3
+            },
+            "name": "deflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "4"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 246,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_compress.cpp",
+                "line": 235,
+                "offset": 11
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 1635,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_compress.cpp",
+                "line": 388,
+                "offset": 16
+            },
+            "name": "inflateInit_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 392,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_compress.cpp",
+                "line": 466,
+                "offset": 11
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 508,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_compress.cpp",
+                "line": 601,
+                "offset": 3
+            },
+            "name": "inflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "4"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 392,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_compress.cpp",
+                "line": 553,
+                "offset": 11
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 246,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 296,
+                "offset": 11
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 392,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 494,
+                "offset": 11
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 1633,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 587,
+                "offset": 20
+            },
+            "name": "deflateInit_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 1635,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 600,
+                "offset": 20
+            },
+            "name": "inflateInit_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 508,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 621,
+                "offset": 5
+            },
+            "name": "inflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 353,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 625,
+                "offset": 5
+            },
+            "name": "deflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.h",
+                "line": 111,
+                "offset": 8
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 662,
+                "offset": 3
+            },
+            "name": "Destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class ON_CompressedBuffer"
+                },
+                "1": {
+                    "type": "const ON_CompressedBuffer"
+                }
+            },
+            "callExprReturn": "ON_CompressedBuffer &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.h",
+                "line": 57,
+                "offset": 24
+            },
+            "functionDeclReturn": "ON_CompressedBuffer &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 675,
+                "offset": 3
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.h",
+                "line": 111,
+                "offset": 8
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 682,
+                "offset": 5
+            },
+            "name": "Destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ON_CompressedBufferHelper *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.h",
+                "line": 120,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 866,
+                "offset": 11
+            },
+            "name": "CompressionInit"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ON_CompressedBufferHelper *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.h",
+                "line": 121,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 868,
+                "offset": 7
+            },
+            "name": "CompressionEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ON_CompressedBufferHelper *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.h",
+                "line": 121,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 875,
+                "offset": 7
+            },
+            "name": "CompressionEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ON_CompressedBufferHelper *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "const void *"
+                }
+            },
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.h",
+                "line": 122,
+                "offset": 10
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 874,
+                "offset": 34
+            },
+            "name": "DeflateHelper"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ON_CompressedBufferHelper *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.h",
+                "line": 120,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 971,
+                "offset": 12
+            },
+            "name": "CompressionInit"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ON_CompressedBufferHelper *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.h",
+                "line": 121,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 975,
+                "offset": 9
+            },
+            "name": "CompressionEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ON_CompressedBufferHelper *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.h",
+                "line": 127,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 974,
+                "offset": 14
+            },
+            "name": "InflateHelper"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 246,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 1155,
+                "offset": 11
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 392,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 1288,
+                "offset": 11
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 1633,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 1377,
+                "offset": 20
+            },
+            "name": "deflateInit_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 1635,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 1390,
+                "offset": 20
+            },
+            "name": "inflateInit_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 353,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 1415,
+                "offset": 7
+            },
+            "name": "deflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/./zlib/zlib.h",
+                "line": 508,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/gismo@@gismo/external/onurbs/opennurbs_zlib.cpp",
+                "line": 1421,
+                "offset": 7
+            },
+            "name": "inflateEnd"
+        }
+    }
+]

@@ -1,0 +1,1 @@
+{"target": "Presburger@@qmc-decoder", "extractors": [{"deps": [{"depname": "qmc", "version": null, "version_op": null, "unified_name": "qmc", "extractor_type": "cmake", "context": "project(qmc-decoder)", "confidence": ""}], "type": "cmake", "libs": []}]}

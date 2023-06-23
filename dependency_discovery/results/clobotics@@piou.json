@@ -1,0 +1,1 @@
+{"target": "clobotics@@piou", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "pixel_weights", "version": null, "version_op": null, "unified_name": "pixel_weights", "extractor_type": "cmake", "context": "project(pixel_weights)", "confidence": ""}], "type": "cmake", "libs": []}]}

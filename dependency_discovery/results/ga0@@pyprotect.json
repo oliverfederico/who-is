@@ -1,0 +1,1 @@
+{"target": "ga0@@pyprotect", "extractors": [{"deps": [{"depname": "pyprotect", "version": null, "version_op": null, "unified_name": "pyprotect", "extractor_type": "cmake", "context": "project(pyprotect)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "catid@@TimeSync", "extractors": [{"deps": [{"depname": "timesync", "version": null, "version_op": null, "unified_name": "timesync", "extractor_type": "cmake", "context": "project(timesync)", "confidence": ""}], "type": "cmake", "libs": []}]}

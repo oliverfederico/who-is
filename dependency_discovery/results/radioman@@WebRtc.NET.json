@@ -1,0 +1,1 @@
+{"target": "radioman@@WebRtc.NET", "extractors": [{"deps": [{"depname": "%(AdditionalDependencies)", "version": null, "version_op": null, "unified_name": "%(additionaldependencies)", "extractor_type": "ms", "context": "radioman@@WebRtc.NET/WebRtc.NET/WebRtc.NET.vcxproj", "confidence": "High"}], "type": "ms"}]}

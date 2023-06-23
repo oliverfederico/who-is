@@ -1,0 +1,1 @@
+{"target": "hasherezade@@transacted_hollowing", "extractors": [{"deps": [{"depname": "transacted_hollowing", "version": null, "version_op": null, "unified_name": "transacted_hollowing", "extractor_type": "cmake", "context": "project (transacted_hollowing)", "confidence": ""}], "type": "cmake", "libs": []}]}

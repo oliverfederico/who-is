@@ -1,0 +1,1 @@
+{"target": "cpuimage@@WebRTC_AGC", "extractors": [{"deps": [{"depname": "agc", "version": null, "version_op": null, "unified_name": "agc", "extractor_type": "cmake", "context": "project(agc)", "confidence": ""}], "type": "cmake", "libs": []}]}

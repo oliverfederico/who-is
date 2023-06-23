@@ -1,0 +1,1 @@
+{"target": "imageworks@@pystring", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "pystring", "version": null, "version_op": null, "unified_name": "pystring", "extractor_type": "cmake", "context": "project(pystring cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

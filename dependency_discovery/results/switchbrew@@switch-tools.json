@@ -1,0 +1,1 @@
+{"target": "switchbrew@@switch-tools", "extractors": [{"deps": [{"depname": "switch-tools", "version": "1.12.0", "version_op": null, "unified_name": "switch-tools", "extractor_type": "autoconf", "context": "AC_INIT([switch-tools],[1.12.0],[https://github.com/switchbrew/switch-tools/issues])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

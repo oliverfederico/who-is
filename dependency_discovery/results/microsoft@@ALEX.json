@@ -1,0 +1,1 @@
+{"target": "microsoft@@ALEX", "extractors": [{"deps": [{"depname": "alex", "version": null, "version_op": null, "unified_name": "alex", "extractor_type": "cmake", "context": "project(alex)", "confidence": ""}], "type": "cmake", "libs": []}]}

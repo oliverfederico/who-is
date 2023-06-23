@@ -1,0 +1,1 @@
+{"target": "batman-nair@@IRCIS", "extractors": [{"deps": [{"depname": "ircis", "version": null, "version_op": null, "unified_name": "ircis", "extractor_type": "cmake", "context": "project(ircis)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

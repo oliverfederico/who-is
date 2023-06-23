@@ -1,0 +1,1 @@
+{"target": "gentilkiwi@@wanadecrypt", "extractors": [{"deps": [{"depname": "shlwapi", "version": null, "version_op": null, "unified_name": "shlwapi", "extractor_type": "ms", "context": "gentilkiwi@@wanadecrypt/wanadecrypt.vcxproj", "confidence": "High"}], "type": "ms"}]}

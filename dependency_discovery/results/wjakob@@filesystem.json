@@ -1,0 +1,1 @@
+{"target": "wjakob@@filesystem", "extractors": [{"deps": [{"depname": "path", "version": null, "version_op": null, "unified_name": "path", "extractor_type": "cmake", "context": "project(path)", "confidence": ""}], "type": "cmake", "libs": []}]}

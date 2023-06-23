@@ -1,0 +1,1 @@
+{"target": "ohmu@@node-posix", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}]}

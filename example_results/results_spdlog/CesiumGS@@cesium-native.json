@@ -1,0 +1,4147 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 118,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 318,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 327,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 340,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 355,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 410,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 419,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 430,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 439,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 473,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 482,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 493,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 504,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 518,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 529,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 542,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 556,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 569,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 582,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 595,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 607,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 627,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 636,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 653,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 674,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 683,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 695,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 716,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 725,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 736,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 748,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 764,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 776,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/src/SqliteCache.cpp",
+                "line": 792,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<ParseErrorCode, unsigned long>"
+                },
+                "3": {
+                    "type": "ParseErrorCode"
+                },
+                "4": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/CesiumIonTilesetLoader.cpp",
+                "line": 57,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const basic_string<char> &>"
+                },
+                "3": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/GltfConverters.cpp",
+                "line": 15,
+                "offset": 3
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "spdlog::logger *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 126,
+                "offset": 28
+            },
+            "functionDeclReturn": "spdlog::logger *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/GltfConverters.cpp",
+                "line": 15,
+                "offset": 3
+            },
+            "name": "default_logger_raw"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const basic_string<char> &>"
+                },
+                "3": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/GltfConverters.cpp",
+                "line": 22,
+                "offset": 3
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "spdlog::logger *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 126,
+                "offset": 28
+            },
+            "functionDeclReturn": "spdlog::logger *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/GltfConverters.cpp",
+                "line": 22,
+                "offset": 3
+            },
+            "name": "default_logger_raw"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const basic_string<char> &>"
+                },
+                "3": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/ImplicitOctreeLoader.cpp",
+                "line": 177,
+                "offset": 11
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<unsigned short &, const basic_string<char> &>"
+                },
+                "3": {
+                    "type": "uint16_t"
+                },
+                "4": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/ImplicitOctreeLoader.cpp",
+                "line": 187,
+                "offset": 11
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const basic_string<char> &>"
+                },
+                "3": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/ImplicitQuadtreeLoader.cpp",
+                "line": 177,
+                "offset": 11
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<unsigned short &, const basic_string<char> &>"
+                },
+                "3": {
+                    "type": "uint16_t"
+                },
+                "4": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/ImplicitQuadtreeLoader.cpp",
+                "line": 187,
+                "offset": 11
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const basic_string<char> &>"
+                },
+                "3": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/LayerJsonTerrainLoader.cpp",
+                "line": 711,
+                "offset": 9
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/RasterOverlayCollection.cpp",
+                "line": 127,
+                "offset": 11
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const char (&)[5], basic_string<char> >"
+                },
+                "3": {
+                    "type": "const char[5]",
+                    "value": "TODO"
+                },
+                "4": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/RasterOverlayTileProvider.cpp",
+                "line": 243,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const char (&)[5], basic_string<char> >"
+                },
+                "3": {
+                    "type": "const char[5]",
+                    "value": "TODO"
+                },
+                "4": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/RasterOverlayTileProvider.cpp",
+                "line": 255,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/SubtreeAvailability.cpp",
+                "line": 232,
+                "offset": 9
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/SubtreeAvailability.cpp",
+                "line": 245,
+                "offset": 11
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<ParseErrorCode, unsigned long>"
+                },
+                "3": {
+                    "type": "ParseErrorCode"
+                },
+                "4": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/SubtreeAvailability.cpp",
+                "line": 309,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/SubtreeAvailability.cpp",
+                "line": 343,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/SubtreeAvailability.cpp",
+                "line": 354,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/SubtreeAvailability.cpp",
+                "line": 364,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<ParseErrorCode, unsigned long>"
+                },
+                "3": {
+                    "type": "ParseErrorCode"
+                },
+                "4": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/SubtreeAvailability.cpp",
+                "line": 377,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<basic_string<char> &>"
+                },
+                "3": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetContentManager.cpp",
+                "line": 412,
+                "offset": 7
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const basic_string<char> &, basic_string<char> >"
+                },
+                "3": {
+                    "type": "const std::string"
+                },
+                "4": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetContentManager.cpp",
+                "line": 524,
+                "offset": 17
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<basic_string<char> >"
+                },
+                "3": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetContentManager.cpp",
+                "line": 530,
+                "offset": 17
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const basic_string<char> &, basic_string<char> >"
+                },
+                "3": {
+                    "type": "const std::string"
+                },
+                "4": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetContentManager.cpp",
+                "line": 539,
+                "offset": 17
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<basic_string<char> >"
+                },
+                "3": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetContentManager.cpp",
+                "line": 546,
+                "offset": 17
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const char *>"
+                },
+                "3": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetContentManager.cpp",
+                "line": 728,
+                "offset": 11
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const char *>"
+                },
+                "3": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetContentManager.cpp",
+                "line": 800,
+                "offset": 11
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const char *>"
+                },
+                "3": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetContentManager.cpp",
+                "line": 943,
+                "offset": 9
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<basic_string<char> &>"
+                },
+                "3": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetJsonLoader.cpp",
+                "line": 100,
+                "offset": 3
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetJsonLoader.cpp",
+                "line": 405,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "string_view_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 125,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetJsonLoader.cpp",
+                "line": 425,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<basic_string<char> &, basic_string<char> &>"
+                },
+                "3": {
+                    "type": "std::string"
+                },
+                "4": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetJsonLoader.cpp",
+                "line": 458,
+                "offset": 9
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<basic_string<char> &>"
+                },
+                "3": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetJsonLoader.cpp",
+                "line": 466,
+                "offset": 9
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<const basic_string<char> &>"
+                },
+                "3": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetJsonLoader.cpp",
+                "line": 796,
+                "offset": 15
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::source_loc"
+                },
+                "1": {
+                    "type": "enum spdlog::level::level_enum"
+                },
+                "2": {
+                    "type": "format_string_t<unsigned short &, const basic_string<char> &>"
+                },
+                "3": {
+                    "type": "uint16_t"
+                },
+                "4": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 88,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/src/TilesetJsonLoader.cpp",
+                "line": 806,
+                "offset": 15
+            },
+            "name": "log"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestImplicitOctreeLoader.cpp",
+                "line": 53,
+                "offset": 9
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestImplicitOctreeLoader.cpp",
+                "line": 84,
+                "offset": 9
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestImplicitOctreeLoader.cpp",
+                "line": 135,
+                "offset": 9
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestImplicitOctreeLoader.cpp",
+                "line": 187,
+                "offset": 9
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestImplicitQuadtreeLoader.cpp",
+                "line": 53,
+                "offset": 9
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestImplicitQuadtreeLoader.cpp",
+                "line": 84,
+                "offset": 9
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestImplicitQuadtreeLoader.cpp",
+                "line": 135,
+                "offset": 9
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestImplicitQuadtreeLoader.cpp",
+                "line": 187,
+                "offset": 9
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestLayerJsonTerrainLoader.cpp",
+                "line": 61,
+                "offset": 7
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestQuadtreeRasterOverlayTileProvider.cpp",
+                "line": 142,
+                "offset": 11
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestSubtreeAvailability.cpp",
+                "line": 287,
+                "offset": 7
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestSubtreeAvailability.cpp",
+                "line": 541,
+                "offset": 9
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestTilesetJsonLoader.cpp",
+                "line": 100,
+                "offset": 7
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestTilesetJsonLoader.cpp",
+                "line": 521,
+                "offset": 11
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestTilesetJsonLoader.cpp",
+                "line": 539,
+                "offset": 11
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::vector<sink_ptr> &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 338,
+                "offset": 28
+            },
+            "functionDeclReturn": "std::vector<sink_ptr> &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestUpgradeBatchTableToExtFeatureMetadata.cpp",
+                "line": 2002,
+                "offset": 3
+            },
+            "name": "sinks"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestUpgradeBatchTableToExtFeatureMetadata.cpp",
+                "line": 2002,
+                "offset": 3
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::vector<sink_ptr> &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/logger.h",
+                "line": 338,
+                "offset": 28
+            },
+            "functionDeclReturn": "std::vector<sink_ptr> &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestUpgradeBatchTableToExtFeatureMetadata.cpp",
+                "line": 2094,
+                "offset": 3
+            },
+            "name": "sinks"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/Cesium3DTilesSelection/test/TestUpgradeBatchTableToExtFeatureMetadata.cpp",
+                "line": 2094,
+                "offset": 3
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 115,
+                "offset": 15
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 153,
+                "offset": 15
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 191,
+                "offset": 15
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 227,
+                "offset": 15
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 263,
+                "offset": 15
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 299,
+                "offset": 15
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 333,
+                "offset": 15
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 368,
+                "offset": 15
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 406,
+                "offset": 13
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 444,
+                "offset": 13
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 479,
+                "offset": 13
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 556,
+                "offset": 13
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 645,
+                "offset": 13
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestCacheAssetAccessor.cpp",
+                "line": 739,
+                "offset": 13
+            },
+            "name": "default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::logger>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/extern/spdlog/include/spdlog/spdlog.h",
+                "line": 124,
+                "offset": 44
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/CesiumGS@@cesium-native/CesiumAsync/test/TestDiskCache.cpp",
+                "line": 14,
+                "offset": 25
+            },
+            "name": "default_logger"
+        }
+    }
+]

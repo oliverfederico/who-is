@@ -1,0 +1,1655 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1092,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcapimin.c",
+                "line": 98,
+                "offset": 3
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1091,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcapimin.c",
+                "line": 110,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1091,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcapimin.c",
+                "line": 188,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 984,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcapistd.c",
+                "line": 44,
+                "offset": 5
+            },
+            "name": "jpeg_suppress_tables"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 987,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jchuff.c",
+                "line": 1424,
+                "offset": 15
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 987,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jchuff.c",
+                "line": 1435,
+                "offset": 15
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JQUANT_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 986,
+                "offset": 22
+            },
+            "functionDeclReturn": "JQUANT_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcparam.c",
+                "line": 47,
+                "offset": 16
+            },
+            "name": "jpeg_alloc_quant_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 987,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcparam.c",
+                "line": 176,
+                "offset": 16
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 970,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcparam.c",
+                "line": 372,
+                "offset": 3
+            },
+            "name": "jpeg_default_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 968,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcparam.c",
+                "line": 385,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 968,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcparam.c",
+                "line": 388,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 968,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcparam.c",
+                "line": 391,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 968,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcparam.c",
+                "line": 394,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 968,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcparam.c",
+                "line": 397,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 968,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jcparam.c",
+                "line": 400,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 984,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jctrans.c",
+                "line": 44,
+                "offset": 3
+            },
+            "name": "jpeg_suppress_tables"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 966,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jctrans.c",
+                "line": 85,
+                "offset": 3
+            },
+            "name": "jpeg_set_defaults"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 968,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jctrans.c",
+                "line": 89,
+                "offset": 3
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JQUANT_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 986,
+                "offset": 22
+            },
+            "functionDeclReturn": "JQUANT_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jctrans.c",
+                "line": 97,
+                "offset": 13
+            },
+            "name": "jpeg_alloc_quant_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1092,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jdapimin.c",
+                "line": 94,
+                "offset": 3
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1091,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jdapimin.c",
+                "line": 106,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1050,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jdapimin.c",
+                "line": 250,
+                "offset": 13
+            },
+            "name": "jpeg_consume_input"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1091,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jdapimin.c",
+                "line": 263,
+                "offset": 5
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1091,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jdapimin.c",
+                "line": 394,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 987,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jdmarker.c",
+                "line": 480,
+                "offset": 18
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JQUANT_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 986,
+                "offset": 22
+            },
+            "functionDeclReturn": "JQUANT_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jdmarker.c",
+                "line": 520,
+                "offset": 34
+            },
+            "name": "jpeg_alloc_quant_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1059,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jdmaster.c",
+                "line": 103,
+                "offset": 3
+            },
+            "name": "jpeg_core_output_dimensions"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1059,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jdtrans.c",
+                "line": 104,
+                "offset": 3
+            },
+            "name": "jpeg_core_output_dimensions"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1092,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jerror.c",
+                "line": 76,
+                "offset": 3
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 950,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 64,
+                "offset": 3
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 928,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 45,
+                "offset": 15
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 946,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 48,
+                "offset": 5
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "unsigned char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 961,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 50,
+                "offset": 5
+            },
+            "name": "jpeg_mem_src"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1019,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 51,
+                "offset": 5
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 950,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 61,
+                "offset": 5
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 950,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 113,
+                "offset": 3
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 928,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 73,
+                "offset": 15
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 946,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 83,
+                "offset": 5
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "unsigned char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 961,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 85,
+                "offset": 5
+            },
+            "name": "jpeg_mem_src"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1019,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 86,
+                "offset": 5
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1032,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 87,
+                "offset": 5
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1036,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 104,
+                "offset": 5
+            },
+            "name": "jpeg_finish_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPROW *"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 1033,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 100,
+                "offset": 7
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/external/libjpeg/jpeg-8d/jpeglib.h",
+                "line": 950,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apple@@turicreate/src/core/data/image/jpeg_io.cpp",
+                "line": 110,
+                "offset": 5
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    }
+]

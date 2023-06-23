@@ -1,0 +1,1 @@
+{"target": "lcodecorex@@KeepAlive", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "lcodecorex@@KeepAlive/library/src/main/cpp/CMakeLists.txt", "content": "find_library(log-lib log)"}]}]}

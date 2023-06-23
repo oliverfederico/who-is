@@ -1,0 +1,1 @@
+{"target": "nlohmann@@fifo_map", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "fifo_map", "version": null, "version_op": null, "unified_name": "fifo_map", "extractor_type": "cmake", "context": "project(fifo_map languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

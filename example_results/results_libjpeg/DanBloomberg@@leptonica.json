@@ -1,0 +1,1842 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 908,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 311,
+                "offset": 5
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 917,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 312,
+                "offset": 5
+            },
+            "name": "jpeg_stdio_src"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 985,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 313,
+                "offset": 5
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1029,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 316,
+                "offset": 5
+            },
+            "name": "jpeg_calc_output_dimensions"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1005,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 482,
+                "offset": 5
+            },
+            "name": "jpeg_finish_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 483,
+                "offset": 5
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 300,
+                "offset": 17
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 304,
+                "offset": 9
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 331,
+                "offset": 9
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 346,
+                "offset": 9
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 997,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 359,
+                "offset": 9
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 997,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 363,
+                "offset": 13
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 997,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 367,
+                "offset": 13
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPROW *"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 998,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 395,
+                "offset": 22
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 401,
+                "offset": 13
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 908,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 580,
+                "offset": 5
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 917,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 581,
+                "offset": 5
+            },
+            "name": "jpeg_stdio_src"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 985,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 582,
+                "offset": 5
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1029,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 583,
+                "offset": 5
+            },
+            "name": "jpeg_calc_output_dimensions"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 601,
+                "offset": 5
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 573,
+                "offset": 17
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 588,
+                "offset": 9
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 908,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 647,
+                "offset": 5
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 917,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 648,
+                "offset": 5
+            },
+            "name": "jpeg_stdio_src"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 985,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 649,
+                "offset": 5
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 661,
+                "offset": 5
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 640,
+                "offset": 17
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 908,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 706,
+                "offset": 5
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "254"
+                },
+                "2": {
+                    "type": "boolean (*)(j_decompress_ptr)"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1036,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 707,
+                "offset": 5
+            },
+            "name": "jpeg_set_marker_processor"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 917,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 708,
+                "offset": 5
+            },
+            "name": "jpeg_stdio_src"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 985,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 709,
+                "offset": 5
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 912,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 713,
+                "offset": 5
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 696,
+                "offset": 17
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 906,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 853,
+                "offset": 5
+            },
+            "name": "jpeg_CreateCompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 916,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 854,
+                "offset": 5
+            },
+            "name": "jpeg_stdio_dest"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 928,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 870,
+                "offset": 5
+            },
+            "name": "jpeg_set_defaults"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "l_int32"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 933,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 886,
+                "offset": 5
+            },
+            "name": "jpeg_set_quality"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 951,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 907,
+                "offset": 5
+            },
+            "name": "jpeg_start_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 956,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 952,
+                "offset": 5
+            },
+            "name": "jpeg_finish_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 911,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 957,
+                "offset": 5
+            },
+            "name": "jpeg_destroy_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 843,
+                "offset": 17
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 945,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 888,
+                "offset": 9
+            },
+            "name": "jpeg_simple_progression"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "254"
+                },
+                "2": {
+                    "type": "const JOCTET *"
+                },
+                "3": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 968,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 917,
+                "offset": 9
+            },
+            "name": "jpeg_write_marker"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPROW *"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 953,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 938,
+                "offset": 17
+            },
+            "name": "jpeg_write_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPROW *"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 953,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 950,
+                "offset": 13
+            },
+            "name": "jpeg_write_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1060,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 1204,
+                "offset": 5
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1060,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/jpegio.c",
+                "line": 1223,
+                "offset": 5
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 891,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DanBloomberg@@leptonica/src/libversions.c",
+                "line": 127,
+                "offset": 17
+            },
+            "name": "jpeg_std_error"
+        }
+    }
+]

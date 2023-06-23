@@ -1,0 +1,1 @@
+{"target": "chipx86@@gtkparasite", "extractors": [{"deps": [{"depname": "gtkparasite", "version": "0.3.0", "version_op": null, "unified_name": "gtkparasite", "extractor_type": "autoconf", "context": "AC_INIT([gtkparasite],[0.3.0],[chipx86@chipx86.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

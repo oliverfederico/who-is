@@ -1,0 +1,1 @@
+{"target": "cursey@@ue4genny", "extractors": [{"deps": [{"depname": "ue4genny", "version": null, "version_op": null, "unified_name": "ue4genny", "extractor_type": "cmake", "context": "project(ue4genny)", "confidence": ""}], "type": "cmake", "libs": []}]}

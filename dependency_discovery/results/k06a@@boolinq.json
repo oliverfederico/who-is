@@ -1,0 +1,1 @@
+{"target": "k06a@@boolinq", "extractors": [{"deps": [{"depname": "boolinq", "version": "3.0.0", "version_op": null, "unified_name": "boolinq", "extractor_type": "cmake", "context": "project (boolinq version 3.0.0 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

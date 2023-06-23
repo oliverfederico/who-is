@@ -1,0 +1,1 @@
+{"target": "atomic14@@self-organising-leds", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}]}

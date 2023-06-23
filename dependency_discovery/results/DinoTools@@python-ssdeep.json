@@ -1,0 +1,1 @@
+{"target": "DinoTools@@python-ssdeep", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "ssdeep", "version": "2.14.1", "version_op": null, "unified_name": "ssdeep", "extractor_type": "autoconf", "context": "AC_INIT([ssdeep],[2.14.1],[floss_ssdeep@irq.a4lg.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

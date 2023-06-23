@@ -1,0 +1,1 @@
+{"target": "semistrict@@libcoro", "extractors": [{"deps": [{"depname": "libcoro", "version": null, "version_op": null, "unified_name": "coro", "extractor_type": "cmake", "context": "project (libcoro)", "confidence": ""}], "type": "cmake", "libs": []}]}

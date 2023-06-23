@@ -1,0 +1,1 @@
+{"target": "amadvance@@snapraid", "extractors": [{"deps": [{"depname": "snapraid", "version": "git_revision", "version_op": null, "unified_name": "snapraid", "extractor_type": "autoconf", "context": "AC_INIT([snapraid], [git_revision], [], [], [http://www.snapraid.it])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

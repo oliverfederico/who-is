@@ -1,0 +1,1 @@
+{"target": "covscript@@covscript", "extractors": [{"deps": [{"depname": "covscript", "version": null, "version_op": null, "unified_name": "covscript", "extractor_type": "cmake", "context": "project(covscript)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "maxlicheng@@stm32f4_ucosii_lwip_mqtt", "extractors": [{"deps": [], "type": "cmake", "libs": []}]}

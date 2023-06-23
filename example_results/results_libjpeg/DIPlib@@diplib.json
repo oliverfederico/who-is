@@ -1,0 +1,2965 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "90"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 966,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 80,
+                "offset": 10
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 975,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 82,
+                "offset": 10
+            },
+            "name": "jpeg_stdio_src"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1039,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 83,
+                "offset": 10
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 948,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 77,
+                "offset": 23
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 970,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 91,
+                "offset": 13
+            },
+            "name": "jpeg_destroy_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "90"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 964,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 125,
+                "offset": 10
+            },
+            "name": "jpeg_CreateCompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "FILE *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 974,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 127,
+                "offset": 10
+            },
+            "name": "jpeg_stdio_dest"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 948,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 122,
+                "offset": 23
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 969,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 135,
+                "offset": 13
+            },
+            "name": "jpeg_destroy_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1052,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 198,
+                "offset": 4
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1056,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 224,
+                "offset": 4
+            },
+            "name": "jpeg_finish_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                },
+                "1": {
+                    "type": "JSAMPLE **"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1053,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 205,
+                "offset": 7
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 986,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 264,
+                "offset": 4
+            },
+            "name": "jpeg_set_defaults"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1010,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 275,
+                "offset": 4
+            },
+            "name": "jpeg_start_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1015,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 294,
+                "offset": 4
+            },
+            "name": "jpeg_finish_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 991,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 265,
+                "offset": 4
+            },
+            "name": "jpeg_set_quality"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "JSAMPLE **"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1012,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/src/file_io/jpeg.cpp",
+                "line": 291,
+                "offset": 7
+            },
+            "name": "jpeg_write_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1112,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcapimin.c",
+                "line": 98,
+                "offset": 3
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1111,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcapimin.c",
+                "line": 110,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1111,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcapimin.c",
+                "line": 188,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1004,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcapistd.c",
+                "line": 45,
+                "offset": 5
+            },
+            "name": "jpeg_suppress_tables"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1007,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jchuff.c",
+                "line": 1421,
+                "offset": 15
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1007,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jchuff.c",
+                "line": 1432,
+                "offset": 15
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JQUANT_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1006,
+                "offset": 22
+            },
+            "functionDeclReturn": "JQUANT_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 47,
+                "offset": 16
+            },
+            "name": "jpeg_alloc_quant_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1007,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 176,
+                "offset": 16
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 990,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 377,
+                "offset": 3
+            },
+            "name": "jpeg_default_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 988,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 390,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 988,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 393,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 988,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 396,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 988,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 399,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 988,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 402,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 988,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 405,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 988,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 409,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 988,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jcparam.c",
+                "line": 412,
+                "offset": 5
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1004,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jctrans.c",
+                "line": 44,
+                "offset": 3
+            },
+            "name": "jpeg_suppress_tables"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 986,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jctrans.c",
+                "line": 85,
+                "offset": 3
+            },
+            "name": "jpeg_set_defaults"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 988,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jctrans.c",
+                "line": 94,
+                "offset": 3
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JQUANT_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1006,
+                "offset": 22
+            },
+            "functionDeclReturn": "JQUANT_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jctrans.c",
+                "line": 103,
+                "offset": 13
+            },
+            "name": "jpeg_alloc_quant_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1112,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jdapimin.c",
+                "line": 94,
+                "offset": 3
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1111,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jdapimin.c",
+                "line": 106,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1070,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jdapimin.c",
+                "line": 253,
+                "offset": 13
+            },
+            "name": "jpeg_consume_input"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1111,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jdapimin.c",
+                "line": 266,
+                "offset": 5
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1111,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jdapimin.c",
+                "line": 397,
+                "offset": 3
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JHUFF_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1007,
+                "offset": 21
+            },
+            "functionDeclReturn": "JHUFF_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jdmarker.c",
+                "line": 517,
+                "offset": 18
+            },
+            "name": "jpeg_alloc_huff_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "JQUANT_TBL *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1006,
+                "offset": 22
+            },
+            "functionDeclReturn": "JQUANT_TBL *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jdmarker.c",
+                "line": 557,
+                "offset": 34
+            },
+            "name": "jpeg_alloc_quant_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1079,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jdmaster.c",
+                "line": 116,
+                "offset": 3
+            },
+            "name": "jpeg_core_output_dimensions"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1079,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jdtrans.c",
+                "line": 104,
+                "offset": 3
+            },
+            "name": "jpeg_core_output_dimensions"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1112,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jerror.c",
+                "line": 77,
+                "offset": 3
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1111,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 224,
+                "offset": 2
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_common_ptr"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1111,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 262,
+                "offset": 13
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 948,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 282,
+                "offset": 20
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "90"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 964,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 289,
+                "offset": 9
+            },
+            "name": "jpeg_CreateCompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 948,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 296,
+                "offset": 20
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "90"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 966,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 303,
+                "offset": 9
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 986,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 309,
+                "offset": 9
+            },
+            "name": "jpeg_set_defaults"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "J_COLOR_SPACE"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 988,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 315,
+                "offset": 9
+            },
+            "name": "jpeg_set_colorspace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 991,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 321,
+                "offset": 9
+            },
+            "name": "jpeg_set_quality"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1004,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 328,
+                "offset": 9
+            },
+            "name": "jpeg_suppress_tables"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1010,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 334,
+                "offset": 9
+            },
+            "name": "jpeg_start_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPARRAY"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1012,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 341,
+                "offset": 9
+            },
+            "name": "jpeg_write_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPIMAGE"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1021,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 348,
+                "offset": 9
+            },
+            "name": "jpeg_write_raw_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1015,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 355,
+                "offset": 9
+            },
+            "name": "jpeg_finish_compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_compress_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1036,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 361,
+                "offset": 9
+            },
+            "name": "jpeg_write_tables"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1039,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 367,
+                "offset": 9
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1064,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 373,
+                "offset": 9
+            },
+            "name": "jpeg_has_multiple_scans"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1052,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 388,
+                "offset": 9
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPARRAY"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1053,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 394,
+                "offset": 9
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPIMAGE"
+                },
+                "2": {
+                    "type": "JDIMENSION"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1059,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 401,
+                "offset": 9
+            },
+            "name": "jpeg_read_raw_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1056,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 408,
+                "offset": 9
+            },
+            "name": "jpeg_finish_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_common_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1111,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 414,
+                "offset": 9
+            },
+            "name": "jpeg_abort"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct jpeg_common_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1112,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_jpeg.c",
+                "line": 420,
+                "offset": 9
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_error_mgr *"
+                }
+            },
+            "callExprReturn": "struct jpeg_error_mgr *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 948,
+                "offset": 33
+            },
+            "functionDeclReturn": "struct jpeg_error_mgr *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_ojpeg.c",
+                "line": 1165,
+                "offset": 2
+            },
+            "name": "jpeg_std_error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_common_struct *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1112,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_ojpeg.c",
+                "line": 1252,
+                "offset": 2
+            },
+            "name": "jpeg_destroy"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "90"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 966,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_ojpeg.c",
+                "line": 2413,
+                "offset": 3
+            },
+            "name": "jpeg_CreateDecompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "boolean"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1039,
+                "offset": 13
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_ojpeg.c",
+                "line": 2426,
+                "offset": 3
+            },
+            "name": "jpeg_read_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                }
+            },
+            "callExprReturn": "boolean",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1052,
+                "offset": 17
+            },
+            "functionDeclReturn": "boolean",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_ojpeg.c",
+                "line": 2439,
+                "offset": 3
+            },
+            "name": "jpeg_start_decompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPARRAY"
+                },
+                "2": {
+                    "type": "uint32"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1053,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_ojpeg.c",
+                "line": 2452,
+                "offset": 3
+            },
+            "name": "jpeg_read_scanlines"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "jpeg_decompress_struct *"
+                },
+                "1": {
+                    "type": "JSAMPIMAGE"
+                },
+                "2": {
+                    "type": "uint32"
+                }
+            },
+            "callExprReturn": "JDIMENSION",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libjpeg/jpeglib.h",
+                "line": 1059,
+                "offset": 20
+            },
+            "functionDeclReturn": "JDIMENSION",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/DIPlib@@diplib/dependencies/libtiff/libtiff/tif_ojpeg.c",
+                "line": 2465,
+                "offset": 3
+            },
+            "name": "jpeg_read_raw_data"
+        }
+    }
+]

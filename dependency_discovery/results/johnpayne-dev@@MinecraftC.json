@@ -1,0 +1,1 @@
+{"target": "johnpayne-dev@@MinecraftC", "extractors": [{"deps": [{"depname": "minecraftc", "version": null, "version_op": null, "unified_name": "minecraftc", "extractor_type": "cmake", "context": "project(minecraftc)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

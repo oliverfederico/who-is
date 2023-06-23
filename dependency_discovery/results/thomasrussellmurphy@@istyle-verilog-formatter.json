@@ -1,0 +1,1 @@
+{"target": "thomasrussellmurphy@@istyle-verilog-formatter", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "istyle", "version": "0.0.1", "version_op": null, "unified_name": "istyle", "extractor_type": "cmake", "context": "project(istyle version 0.0.1  languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}]}

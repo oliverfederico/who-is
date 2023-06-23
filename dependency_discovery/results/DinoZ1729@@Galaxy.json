@@ -1,0 +1,1 @@
+{"target": "DinoZ1729@@Galaxy", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "galaxy", "version": null, "version_op": null, "unified_name": "galaxy", "extractor_type": "cmake", "context": "project (galaxy)", "confidence": ""}], "type": "cmake", "libs": []}]}

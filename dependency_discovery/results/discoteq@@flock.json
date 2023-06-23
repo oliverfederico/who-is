@@ -1,0 +1,1 @@
+{"target": "discoteq@@flock", "extractors": [{"deps": [{"depname": "flock", "version": "0.4.0", "version_op": null, "unified_name": "flock", "extractor_type": "autoconf", "context": "AC_INIT([flock],\n\t[0.4.0],\n\t[joseph@josephholsten.com],,\n\t[https://github.com/josephholsten/flock])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

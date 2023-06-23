@@ -1,0 +1,1 @@
+{"target": "PragmaTwice@@proxinject", "extractors": [{"deps": [{"depname": "proxinject", "version": null, "version_op": null, "unified_name": "proxinject", "extractor_type": "cmake", "context": "project(proxinject)", "confidence": ""}], "type": "cmake", "libs": []}]}

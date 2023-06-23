@@ -1,0 +1,1 @@
+{"target": "tomwimmenhove@@subarufobrob", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["rtlsdr"], "version": "", "fromfile": "tomwimmenhove@@subarufobrob/CMakeLists.txt", "content": "find_library(usb_lib rtlsdr)"}]}]}

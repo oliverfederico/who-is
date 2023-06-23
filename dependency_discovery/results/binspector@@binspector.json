@@ -1,0 +1,1 @@
+{"target": "binspector@@binspector", "extractors": [{"deps": [{"depname": "binspector", "version": null, "version_op": null, "unified_name": "binspector", "extractor_type": "cmake", "context": "project(binspector)", "confidence": ""}], "type": "cmake", "libs": []}]}

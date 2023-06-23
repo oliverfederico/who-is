@@ -1,0 +1,1 @@
+{"target": "nmwsharp@@nonmanifold-laplacian", "extractors": [{"deps": [{"depname": "nonmanifold", "version": null, "version_op": null, "unified_name": "nonmanifold", "extractor_type": "cmake", "context": "project(nonmanifold-laplace-demo)", "confidence": ""}], "type": "cmake", "libs": []}]}

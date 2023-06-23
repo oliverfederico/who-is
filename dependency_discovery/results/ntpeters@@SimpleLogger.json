@@ -1,0 +1,1 @@
+{"target": "ntpeters@@SimpleLogger", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "simplog", "version": null, "version_op": null, "unified_name": "simplog", "extractor_type": "cmake", "context": "project(simplog)", "confidence": ""}], "type": "cmake", "libs": []}]}

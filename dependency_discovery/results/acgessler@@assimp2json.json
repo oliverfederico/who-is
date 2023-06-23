@@ -1,0 +1,1 @@
+{"target": "acgessler@@assimp2json", "extractors": [{"deps": [{"depname": "assimp2json", "version": null, "version_op": null, "unified_name": "assimp2json", "extractor_type": "cmake", "context": "project (assimp2json)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,3690 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 91,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 95,
+                "offset": 8
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "int32_t"
+                },
+                "2": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 181,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 104,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "typename std::enable_if<sizeof...(Ts) != 1, void>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "int32_t"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 145,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 106,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 154,
+                "offset": 11
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 164,
+                "offset": 11
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 176,
+                "offset": 11
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 188,
+                "offset": 11
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 213,
+                "offset": 16
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 218,
+                "offset": 41
+            },
+            "name": "ScratchBuf",
+            "return": "std::string &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 213,
+                "offset": 16
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 225,
+                "offset": 41
+            },
+            "name": "ScratchBuf",
+            "return": "std::string &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 228,
+                "offset": 11
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "<dependent type>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 209,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 237,
+                "offset": 9
+            },
+            "name": "WriteBase64",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "<dependent type>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 209,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 239,
+                "offset": 9
+            },
+            "name": "WriteBase64",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 266,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 117,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 267,
+                "offset": 3
+            },
+            "name": "Push",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 118,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 292,
+                "offset": 3
+            },
+            "name": "Pop",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 296,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "_Bool"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 201,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 287,
+                "offset": 5
+            },
+            "name": "WriteComma",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 288,
+                "offset": 5
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 294,
+                "offset": 5
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 213,
+                "offset": 16
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 341,
+                "offset": 41
+            },
+            "name": "ScratchBuf",
+            "return": "std::string &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 378,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 117,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 379,
+                "offset": 3
+            },
+            "name": "Push",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 118,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 406,
+                "offset": 3
+            },
+            "name": "Pop",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 410,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "_Bool"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 201,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 396,
+                "offset": 5
+            },
+            "name": "WriteComma",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 397,
+                "offset": 5
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 400,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 188,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 401,
+                "offset": 5
+            },
+            "name": "Whitespace",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 408,
+                "offset": 5
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "_Bool"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 201,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 427,
+                "offset": 3
+            },
+            "name": "WriteComma",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 428,
+                "offset": 3
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 188,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 452,
+                "offset": 3
+            },
+            "name": "Whitespace",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 432,
+                "offset": 14
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 442,
+                "offset": 9
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Quoted<char, basic_string_view<char, char_traits<char> > >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 181,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 445,
+                "offset": 7
+            },
+            "name": "Write",
+            "return": "typename std::enable_if<sizeof...(Ts) != 1, void>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "char"
+                },
+                "1": {
+                    "type": "basic_string_view<char>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 106,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": true,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 445,
+                "offset": 20
+            },
+            "name": "MakeQuoted",
+            "return": "Quoted<char, basic_string_view<char, char_traits<char> > >"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Quoted<basic_string_view<char, char_traits<char> > >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 181,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 449,
+                "offset": 7
+            },
+            "name": "Write",
+            "return": "typename std::enable_if<sizeof...(Ts) != 1, void>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class std::basic_string_view<char>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 106,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": true,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 449,
+                "offset": 20
+            },
+            "name": "MakeQuoted",
+            "return": "Quoted<basic_string_view<char, char_traits<char> > >"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 460,
+                "offset": 5
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 465,
+                "offset": 7
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 484,
+                "offset": 9
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 525,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 213,
+                "offset": 16
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 550,
+                "offset": 46
+            },
+            "name": "ScratchBuf",
+            "return": "std::string &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "__sv_type"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 648,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "__sv_type"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 660,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "char",
+                    "value": 34
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 129,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 718,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "char",
+                    "value": 34
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 129,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 746,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "_Bool"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 201,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 722,
+                "offset": 5
+            },
+            "name": "WriteComma",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 213,
+                "offset": 16
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 723,
+                "offset": 48
+            },
+            "name": "ScratchBuf",
+            "return": "std::string &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "char"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 129,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 728,
+                "offset": 9
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "char"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 129,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 730,
+                "offset": 9
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 732,
+                "offset": 33
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 735,
+                "offset": 19
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "char"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 129,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 741,
+                "offset": 9
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "char",
+                    "value": 95
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 129,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 739,
+                "offset": 11
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 768,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 117,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 769,
+                "offset": 3
+            },
+            "name": "Push",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 773,
+                "offset": 3
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 774,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 188,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 775,
+                "offset": 3
+            },
+            "name": "Whitespace",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 760,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 115,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 764,
+                "offset": 29
+            },
+            "name": "options",
+            "return": "const WriterOptions &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 213,
+                "offset": 16
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 771,
+                "offset": 53
+            },
+            "name": "ScratchBuf",
+            "return": "std::string &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 213,
+                "offset": 16
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 784,
+                "offset": 46
+            },
+            "name": "ScratchBuf",
+            "return": "std::string &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 118,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 805,
+                "offset": 15
+            },
+            "name": "Pop",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 809,
+                "offset": 15
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "_Bool"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 201,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 795,
+                "offset": 17
+            },
+            "name": "WriteComma",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 796,
+                "offset": 17
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 797,
+                "offset": 17
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 188,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 798,
+                "offset": 17
+            },
+            "name": "Whitespace",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 807,
+                "offset": 17
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 841,
+                "offset": 7
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 117,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 842,
+                "offset": 7
+            },
+            "name": "Push",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 118,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 845,
+                "offset": 7
+            },
+            "name": "Pop",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 849,
+                "offset": 7
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 847,
+                "offset": 9
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 868,
+                "offset": 3
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 194,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/unparser.cc",
+                "line": 929,
+                "offset": 3
+            },
+            "name": "NewLine",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 52,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 54,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 56,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 78,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 106,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 85,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 95,
+                "offset": 7
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 102,
+                "offset": 7
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uint16_t"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 228,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 316,
+                "offset": 5
+            },
+            "name": "WriteUEscape",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uint16_t"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 228,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 317,
+                "offset": 5
+            },
+            "name": "WriteUEscape",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 298,
+                "offset": 7
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 303,
+                "offset": 7
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uint16_t"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 228,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 308,
+                "offset": 7
+            },
+            "name": "WriteUEscape",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "absl::string_view"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.h",
+                "line": 127,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/json/internal/writer.cc",
+                "line": 324,
+                "offset": 3
+            },
+            "name": "Write",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/zip_writer.h",
+                "line": 51,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/command_line_interface.cc",
+                "line": 661,
+                "offset": 3
+            },
+            "name": "WriteDirectory",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class std::basic_string<char>"
+                },
+                "1": {
+                    "type": "const class std::basic_string<char>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/zip_writer.h",
+                "line": 50,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/command_line_interface.cc",
+                "line": 658,
+                "offset": 5
+            },
+            "name": "Write",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "io::Printer *"
+                },
+                "1": {
+                    "type": "_Bool"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 63,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 533,
+                "offset": 3
+            },
+            "name": "PrintRuntimeImports",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "io::Printer *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 62,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 564,
+                "offset": 3
+            },
+            "name": "PrintFileImports",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const FileDescriptor *"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 56,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 503,
+                "offset": 7
+            },
+            "name": "AddFile",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 57,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 484,
+                "offset": 9
+            },
+            "name": "AddRuntimeImport",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 57,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 485,
+                "offset": 9
+            },
+            "name": "AddRuntimeImport",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 57,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 486,
+                "offset": 9
+            },
+            "name": "AddRuntimeImport",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 57,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 488,
+                "offset": 9
+            },
+            "name": "AddRuntimeImport",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const FileDescriptor *"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 56,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 493,
+                "offset": 11
+            },
+            "name": "AddFile",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const FileDescriptor *"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 56,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 497,
+                "offset": 11
+            },
+            "name": "AddFile",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 57,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 502,
+                "offset": 7
+            },
+            "name": "AddRuntimeImport",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const FileDescriptor *"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 56,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 515,
+                "offset": 13
+            },
+            "name": "AddFile",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class google::protobuf::FileDescriptor *"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 56,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/file.cc",
+                "line": 523,
+                "offset": 5
+            },
+            "name": "AddFile",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const FileDescriptor *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 60,
+                "offset": 15
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.cc",
+                "line": 143,
+                "offset": 22
+            },
+            "name": "ModuleForFile",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.h",
+                "line": 66,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/protocolbuffers@@protobuf/src/google/protobuf/compiler/objectivec/import_writer.cc",
+                "line": 170,
+                "offset": 5
+            },
+            "name": "ParseFrameworkMappings",
+            "return": "void"
+        }
+    }
+]

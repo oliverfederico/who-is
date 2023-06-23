@@ -1,0 +1,1 @@
+{"target": "0xTriboulet@@Revenant", "extractors": [{"deps": [{"depname": "revenant", "version": null, "version_op": null, "unified_name": "revenant", "extractor_type": "cmake", "context": "        project(revenant c)", "confidence": ""}], "type": "cmake", "libs": []}]}

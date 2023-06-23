@@ -1,0 +1,1 @@
+{"target": "frida@@cryptoshark", "extractors": [{"deps": [], "type": "clib"}]}

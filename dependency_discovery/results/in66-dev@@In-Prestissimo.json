@@ -1,0 +1,1 @@
+{"target": "in66-dev@@In-Prestissimo", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "in66-dev@@In-Prestissimo/android/Detect/app/CMakeLists.txt", "content": "find_library(log-lib log)"}]}]}

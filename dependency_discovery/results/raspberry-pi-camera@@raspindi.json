@@ -1,0 +1,1 @@
+{"target": "raspberry-pi-camera@@raspindi", "extractors": [{"deps": [{"depname": "raspindi", "version": null, "version_op": null, "unified_name": "raspindi", "extractor_type": "cmake", "context": "project(raspindi c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

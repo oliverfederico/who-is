@@ -1,0 +1,1 @@
+{"target": "fz-lyu@@modbuspp", "extractors": [{"deps": [{"depname": "modbuspp", "version": null, "version_op": null, "unified_name": "modbuspp", "extractor_type": "cmake", "context": "project(modbuspp)", "confidence": ""}], "type": "cmake", "libs": []}]}

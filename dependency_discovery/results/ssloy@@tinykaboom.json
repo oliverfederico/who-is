@@ -1,0 +1,1 @@
+{"target": "ssloy@@tinykaboom", "extractors": [{"deps": [{"depname": "tinykaboom", "version": null, "version_op": null, "unified_name": "tinykaboom", "extractor_type": "cmake", "context": "project (tinykaboom)", "confidence": ""}], "type": "cmake", "libs": []}]}

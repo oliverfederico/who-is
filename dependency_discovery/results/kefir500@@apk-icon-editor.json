@@ -1,0 +1,1 @@
+{"target": "kefir500@@apk-icon-editor", "extractors": [{"deps": [{"depname": "debhelper", "version": "=9", "version_op": null, "unified_name": "debhelper", "extractor_type": "control", "context": "kefir500@@apk-icon-editor/setup/linux/deb/debian/control", "confidence": "High"}], "type": "control"}]}

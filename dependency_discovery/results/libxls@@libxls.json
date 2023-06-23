@@ -1,0 +1,1 @@
+{"target": "libxls@@libxls", "extractors": [{"deps": [{"depname": "libxls", "version": "1.6.2", "version_op": null, "unified_name": "xls", "extractor_type": "autoconf", "context": "AC_INIT([libxls],[1.6.2],[https://github.com/libxls/libxls/issues], [libxls], [https://github.com/libxls/libxls])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

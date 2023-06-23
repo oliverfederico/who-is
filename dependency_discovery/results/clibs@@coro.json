@@ -1,0 +1,1 @@
+{"target": "clibs@@coro", "extractors": [{"deps": [{"depname": "coro", "version": "2012-12-21", "version_op": null, "unified_name": "coro", "extractor_type": "clib", "context": "clibs@@coro/package.json", "confidence": "High"}], "type": "clib"}]}

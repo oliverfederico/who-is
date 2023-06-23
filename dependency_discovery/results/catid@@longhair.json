@@ -1,0 +1,1 @@
+{"target": "catid@@longhair", "extractors": [{"deps": [{"depname": "longhair", "version": null, "version_op": null, "unified_name": "longhair", "extractor_type": "cmake", "context": "project(longhair)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}]}

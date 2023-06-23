@@ -1,0 +1,1 @@
+{"target": "ameenmaali@@urldedupe", "extractors": [{"deps": [{"depname": "urldedupe", "version": null, "version_op": null, "unified_name": "urldedupe", "extractor_type": "cmake", "context": "project(urldedupe)", "confidence": ""}], "type": "cmake", "libs": []}]}

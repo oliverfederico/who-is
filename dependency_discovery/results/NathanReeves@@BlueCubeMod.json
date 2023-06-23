@@ -1,0 +1,1 @@
+{"target": "NathanReeves@@BlueCubeMod", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "bluecubemodv2", "version": null, "version_op": null, "unified_name": "bluecubemodv2", "extractor_type": "cmake", "context": "project(bluecubemodv2)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

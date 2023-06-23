@@ -1,0 +1,1 @@
+{"target": "nimble-dev@@nimble", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "cmake", "libs": []}]}

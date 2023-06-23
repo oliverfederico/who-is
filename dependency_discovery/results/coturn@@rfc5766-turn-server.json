@@ -1,0 +1,1 @@
+{"target": "coturn@@rfc5766-turn-server", "extractors": [{"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}]}

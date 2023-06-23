@@ -1,0 +1,1 @@
+{"target": "cruegge@@pam-gnupg", "extractors": [{"deps": [{"depname": "pam-gnupg", "version": "0.1", "version_op": null, "unified_name": "pam-gnupg", "extractor_type": "autoconf", "context": "AC_INIT([pam-gnupg], [0.1])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

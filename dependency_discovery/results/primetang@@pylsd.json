@@ -1,0 +1,1 @@
+{"target": "primetang@@pylsd", "extractors": [{"deps": [{"depname": "lsd", "version": null, "version_op": null, "unified_name": "lsd", "extractor_type": "cmake", "context": "project(lsd)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "queueRAM@@sm64tools", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "sm64tools", "version": null, "version_op": null, "unified_name": "sm64tools", "extractor_type": "cmake", "context": "project(sm64tools c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

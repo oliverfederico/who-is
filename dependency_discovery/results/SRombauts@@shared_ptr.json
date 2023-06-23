@@ -1,0 +1,1 @@
+{"target": "SRombauts@@shared_ptr", "extractors": [{"deps": [{"depname": "shared_ptr", "version": null, "version_op": null, "unified_name": "shared_ptr", "extractor_type": "cmake", "context": "project(shared_ptr)", "confidence": ""}], "type": "cmake", "libs": []}]}

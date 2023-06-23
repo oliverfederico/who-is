@@ -1,0 +1,1 @@
+{"target": "deepsadness@@MediaProjectionDemo", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "deepsadness@@MediaProjectionDemo/rtmp/CMakeLists.txt", "content": "find_library( \n        log-lib\n        log)"}]}, {"deps": [], "type": "make"}]}

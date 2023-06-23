@@ -1,0 +1,1 @@
+{"target": "Ft-Available@@RX5808-Div", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "rx5808", "version": null, "version_op": null, "unified_name": "rx5808", "extractor_type": "cmake", "context": "project(rx5808)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

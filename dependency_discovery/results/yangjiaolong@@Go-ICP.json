@@ -1,0 +1,1 @@
+{"target": "yangjiaolong@@Go-ICP", "extractors": [{"deps": [{"depname": "goicp", "version": null, "version_op": null, "unified_name": "goicp", "extractor_type": "cmake", "context": "project(goicp)", "confidence": ""}], "type": "cmake", "libs": []}]}

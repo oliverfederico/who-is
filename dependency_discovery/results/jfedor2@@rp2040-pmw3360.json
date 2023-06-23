@@ -1,0 +1,1 @@
+{"target": "jfedor2@@rp2040-pmw3360", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "trackball", "version": null, "version_op": null, "unified_name": "trackball", "extractor_type": "cmake", "context": "project(trackball)", "confidence": ""}], "type": "cmake", "libs": []}]}

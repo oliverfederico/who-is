@@ -1,0 +1,1 @@
+{"target": "McNopper@@GLUS", "extractors": [{"deps": [{"depname": "glus", "version": null, "version_op": null, "unified_name": "glus", "extractor_type": "cmake", "context": "project(glus)", "confidence": ""}], "type": "cmake", "libs": []}]}

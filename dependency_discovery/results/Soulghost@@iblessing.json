@@ -1,0 +1,1 @@
+{"target": "Soulghost@@iblessing", "extractors": [{"deps": [{"depname": "iblessing", "version": "1.0", "version_op": null, "unified_name": "iblessing", "extractor_type": "cmake", "context": "project(iblessing version 1.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

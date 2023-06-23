@@ -1,0 +1,453 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 1641,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/unzip.c",
+                "line": 1584,
+                "offset": 11
+            },
+            "name": "inflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 1600,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/unzip.c",
+                "line": 1784,
+                "offset": 45
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 392,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/unzip.c",
+                "line": 1854,
+                "offset": 17
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 1600,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/unzip.c",
+                "line": 1865,
+                "offset": 17
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 508,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/unzip.c",
+                "line": 2030,
+                "offset": 9
+            },
+            "name": "inflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "int"
+                },
+                "6": {
+                    "type": "const char *"
+                },
+                "7": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 1637,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/zip.c",
+                "line": 1221,
+                "offset": 17
+            },
+            "name": "deflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const z_crc_t *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 1748,
+                "offset": 37
+            },
+            "functionDeclReturn": "const z_crc_t *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/zip.c",
+                "line": 1249,
+                "offset": 30
+            },
+            "name": "get_crc_table"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 1600,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/zip.c",
+                "line": 1414,
+                "offset": 20
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 246,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/zip.c",
+                "line": 1473,
+                "offset": 19
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "4"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 246,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/zip.c",
+                "line": 1543,
+                "offset": 37
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/../zlib/zlib.h",
+                "line": 353,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/sourcey@@libsourcey/vendor/minizip/zip.c",
+                "line": 1585,
+                "offset": 23
+            },
+            "name": "deflateEnd"
+        }
+    }
+]

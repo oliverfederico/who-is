@@ -1,0 +1,1 @@
+{"target": "agalakhov@@captdriver", "extractors": [{"deps": [{"depname": "captdriver", "version": "0.1.3", "version_op": null, "unified_name": "captdriver", "extractor_type": "autoconf", "context": "AC_INIT([captdriver], [0.1.3])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

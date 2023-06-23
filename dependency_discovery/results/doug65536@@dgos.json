@@ -1,0 +1,1 @@
+{"target": "doug65536@@dgos", "extractors": [{"deps": [{"depname": "dgos", "version": "0.8", "version_op": null, "unified_name": "dgos", "extractor_type": "autoconf", "context": "AC_INIT([dgos], [0.8])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

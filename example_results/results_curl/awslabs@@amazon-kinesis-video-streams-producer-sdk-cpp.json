@@ -1,0 +1,367 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "long"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/open-source/local/include/curl/curl.h",
+                "line": 2427,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/dependency/libkvscproducer/kvscproducer-src/src/source/Common/Curl/CurlCall.c",
+                "line": 25,
+                "offset": 5
+            },
+            "name": "curl_global_init"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/open-source/local/include/curl/curl.h",
+                "line": 2837,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/dependency/libkvscproducer/kvscproducer-src/src/source/Common/Curl/CurlCall.c",
+                "line": 79,
+                "offset": 9
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/open-source/local/include/curl/curl.h",
+                "line": 2524,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/dependency/libkvscproducer/kvscproducer-src/src/source/Common/Curl/CurlCall.c",
+                "line": 88,
+                "offset": 9
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/open-source/local/include/curl/curl.h",
+                "line": 2514,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/dependency/libkvscproducer/kvscproducer-src/src/source/Common/Curl/CurlCall.c",
+                "line": 157,
+                "offset": 23
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "long"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/open-source/local/include/curl/curl.h",
+                "line": 2427,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/dependency/libkvscproducer/kvscproducer-src/src/source/CurlApiCallbacks.c",
+                "line": 136,
+                "offset": 5
+            },
+            "name": "curl_global_init"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/open-source/local/include/curl/curl.h",
+                "line": 2457,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/dependency/libkvscproducer/kvscproducer-src/src/source/CurlApiCallbacks.c",
+                "line": 234,
+                "offset": 5
+            },
+            "name": "curl_global_cleanup"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/open-source/local/include/curl/curl.h",
+                "line": 2524,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/dependency/libkvscproducer/kvscproducer-src/src/source/Response.c",
+                "line": 244,
+                "offset": 9
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/open-source/local/include/curl/curl.h",
+                "line": 2859,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/dependency/libkvscproducer/kvscproducer-src/src/source/Response.c",
+                "line": 276,
+                "offset": 13
+            },
+            "name": "curl_easy_pause"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/open-source/local/include/curl/curl.h",
+                "line": 2837,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/dependency/libkvscproducer/kvscproducer-src/src/source/Response.c",
+                "line": 416,
+                "offset": 9
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/open-source/local/include/curl/curl.h",
+                "line": 2859,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/awslabs@@amazon-kinesis-video-streams-producer-sdk-cpp/dependency/libkvscproducer/kvscproducer-src/src/source/Response.c",
+                "line": 462,
+                "offset": 22
+            },
+            "name": "curl_easy_pause"
+        }
+    }
+]

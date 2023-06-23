@@ -1,0 +1,1 @@
+{"target": "blend2d@@blend2d", "extractors": [{"deps": [{"depname": "blend2d", "version": null, "version_op": null, "unified_name": "blend2d", "extractor_type": "cmake", "context": "  project(blend2d c cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,577 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "rapidjson::IStreamWrapper"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 2174,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/config/json.cpp",
+                "line": 41,
+                "offset": 5
+            },
+            "name": "ParseStream"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 2284,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/config/json.cpp",
+                "line": 43,
+                "offset": 9
+            },
+            "name": "HasParseError"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 2290,
+                "offset": 12
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/config/json.cpp",
+                "line": 45,
+                "offset": 46
+            },
+            "name": "GetErrorOffset"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ParseErrorCode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 2287,
+                "offset": 20
+            },
+            "functionDeclReturn": "ParseErrorCode",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/config/json.cpp",
+                "line": 46,
+                "offset": 48
+            },
+            "name": "GetParseError"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "StringRefType"
+                },
+                "1": {
+                    "type": "enum rapidjson::Type"
+                },
+                "2": {
+                    "type": "rapidjson::MemoryPoolAllocator<>"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::OrExpr<internal::IsPointer<Type>, internal::IsGenericValue<Type> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 1328,
+                "offset": 5
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::OrExpr<internal::IsPointer<Type>, internal::IsGenericValue<Type> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 44,
+                "offset": 9
+            },
+            "name": "AddMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const_pointer"
+                },
+                "1": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "GenericStringRef<char>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 366,
+                "offset": 35
+            },
+            "functionDeclReturn": "GenericStringRef<char>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 44,
+                "offset": 24
+            },
+            "name": "StringRef"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const_pointer"
+                },
+                "1": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "GenericStringRef<char>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 366,
+                "offset": 35
+            },
+            "functionDeclReturn": "GenericStringRef<char>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 55,
+                "offset": 24
+            },
+            "name": "StringRef"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "StringRefType"
+                },
+                "1": {
+                    "type": "StringRefType"
+                },
+                "2": {
+                    "type": "rapidjson::MemoryPoolAllocator<>"
+                }
+            },
+            "callExprReturn": "GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 1304,
+                "offset": 19
+            },
+            "functionDeclReturn": "GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 59,
+                "offset": 9
+            },
+            "name": "AddMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const_pointer"
+                },
+                "1": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "GenericStringRef<char>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 366,
+                "offset": 35
+            },
+            "functionDeclReturn": "GenericStringRef<char>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 59,
+                "offset": 24
+            },
+            "name": "StringRef"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const_pointer"
+                },
+                "1": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "GenericStringRef<char>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 366,
+                "offset": 35
+            },
+            "functionDeclReturn": "GenericStringRef<char>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 60,
+                "offset": 13
+            },
+            "name": "StringRef"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "StringRefType"
+                },
+                "1": {
+                    "type": "rapidjson::Value"
+                },
+                "2": {
+                    "type": "rapidjson::MemoryPoolAllocator<>"
+                }
+            },
+            "callExprReturn": "GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 1273,
+                "offset": 19
+            },
+            "functionDeclReturn": "GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 65,
+                "offset": 9
+            },
+            "name": "AddMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const_pointer"
+                },
+                "1": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "GenericStringRef<char>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 366,
+                "offset": 35
+            },
+            "functionDeclReturn": "GenericStringRef<char>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 65,
+                "offset": 24
+            },
+            "name": "StringRef"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "StringRefType"
+                },
+                "1": {
+                    "type": "class std::basic_string<char>"
+                },
+                "2": {
+                    "type": "rapidjson::MemoryPoolAllocator<>"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::OrExpr<internal::IsPointer<basic_string<char> >, internal::IsGenericValue<basic_string<char> > >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 1328,
+                "offset": 5
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::OrExpr<internal::IsPointer<basic_string<char> >, internal::IsGenericValue<basic_string<char> > >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 73,
+                "offset": 9
+            },
+            "name": "AddMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const_pointer"
+                },
+                "1": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "GenericStringRef<char>",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 366,
+                "offset": 35
+            },
+            "functionDeclReturn": "GenericStringRef<char>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 73,
+                "offset": 24
+            },
+            "name": "StringRef"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/foreign/rapidjson/include/rapidjson/document.h",
+                "line": 1013,
+                "offset": 19
+            },
+            "functionDeclReturn": "GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/3Hren@@blackhole/src/formatter/json.cpp",
+                "line": 380,
+                "offset": 5
+            },
+            "name": "SetObject"
+        }
+    }
+]

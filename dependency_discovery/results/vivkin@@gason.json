@@ -1,0 +1,1 @@
+{"target": "vivkin@@gason", "extractors": [{"deps": [{"depname": "gason", "version": null, "version_op": null, "unified_name": "gason", "extractor_type": "cmake", "context": "project(gason)", "confidence": ""}], "type": "cmake", "libs": []}]}

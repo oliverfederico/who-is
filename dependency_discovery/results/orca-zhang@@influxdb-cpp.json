@@ -1,0 +1,1 @@
+{"target": "orca-zhang@@influxdb-cpp", "extractors": [{"deps": [{"depname": "influxdb_cpp_ut", "version": null, "version_op": null, "unified_name": "influxdb_cpp_ut", "extractor_type": "cmake", "context": "project(influxdb_cpp_ut)", "confidence": ""}], "type": "cmake", "libs": []}]}

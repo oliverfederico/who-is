@@ -1,0 +1,1 @@
+{"target": "Sergey1560@@Marlin_FB4S", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "marlin", "version": null, "version_op": null, "unified_name": "marlin", "extractor_type": "cmake", "context": "project(marlin c cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

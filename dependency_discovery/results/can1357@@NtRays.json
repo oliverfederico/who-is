@@ -1,0 +1,1 @@
+{"target": "can1357@@NtRays", "extractors": [{"deps": [{"depname": "%(AdditionalDependencies)", "version": null, "version_op": null, "unified_name": "%(additionaldependencies)", "extractor_type": "ms", "context": "can1357@@NtRays/NtRays.vcxproj", "confidence": "High"}], "type": "ms"}]}

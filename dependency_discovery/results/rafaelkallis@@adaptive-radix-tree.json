@@ -1,0 +1,1 @@
+{"target": "rafaelkallis@@adaptive-radix-tree", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "art", "version": null, "version_op": null, "unified_name": "art", "extractor_type": "cmake", "context": "project(art)", "confidence": ""}], "type": "cmake", "libs": []}]}

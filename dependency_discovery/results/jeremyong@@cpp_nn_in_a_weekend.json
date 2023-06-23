@@ -1,0 +1,1 @@
+{"target": "jeremyong@@cpp_nn_in_a_weekend", "extractors": [{"deps": [{"depname": "nn_in_a_weekend", "version": null, "version_op": null, "unified_name": "nn_in_a_weekend", "extractor_type": "cmake", "context": "project(nn_in_a_weekend languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}]}

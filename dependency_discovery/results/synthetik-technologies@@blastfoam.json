@@ -1,0 +1,1 @@
+{"target": "synthetik-technologies@@blastfoam", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "debhelper", "version": "=11~", "version_op": null, "unified_name": "debhelper", "extractor_type": "control", "context": "synthetik-technologies@@blastfoam/debian/control", "confidence": "High"}], "type": "control"}, {"deps": [], "type": "control"}]}

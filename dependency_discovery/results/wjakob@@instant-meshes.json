@@ -1,0 +1,1 @@
+{"target": "wjakob@@instant-meshes", "extractors": [{"deps": [{"depname": "instantmeshes", "version": null, "version_op": null, "unified_name": "instantmeshes", "extractor_type": "cmake", "context": "project(instantmeshes)", "confidence": ""}], "type": "cmake", "libs": []}]}

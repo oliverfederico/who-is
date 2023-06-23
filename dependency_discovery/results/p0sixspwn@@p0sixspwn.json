@@ -1,0 +1,1 @@
+{"target": "p0sixspwn@@p0sixspwn", "extractors": [{"deps": [{"depname": "pris0nbarake", "version": "1.0", "version_op": null, "unified_name": "pris0nbarake", "extractor_type": "autoconf", "context": "AC_INIT(pris0nbarake, 1.0)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

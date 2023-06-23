@@ -1,0 +1,1 @@
+{"target": "puffnfresh@@toggle-osx-shadows", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "toggle-osx-shadows", "version": "0.0.1", "version_op": null, "unified_name": "toggle-osx-shadows", "extractor_type": "clib", "context": "puffnfresh@@toggle-osx-shadows/package.json", "confidence": "High"}], "type": "clib"}]}

@@ -1,0 +1,1 @@
+{"target": "icethrush@@repulsive-curves", "extractors": [{"deps": [{"depname": "self_avoiding", "version": null, "version_op": null, "unified_name": "self_avoiding", "extractor_type": "cmake", "context": "project(self_avoiding)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "PierfrancescoSoffritti@@handy", "extractors": [{"deps": [{"depname": "opencv_world341d", "version": null, "version_op": null, "unified_name": "opencv_world341d", "extractor_type": "ms", "context": "PierfrancescoSoffritti@@handy/Handy/Handy.vcxproj", "confidence": "High"}], "type": "ms"}]}

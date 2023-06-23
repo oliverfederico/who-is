@@ -1,0 +1,1 @@
+{"target": "Electry@@PSVshell", "extractors": [{"deps": [{"depname": "psvshell", "version": null, "version_op": null, "unified_name": "psvshell", "extractor_type": "cmake", "context": "project(psvshell)", "confidence": ""}], "type": "cmake", "libs": []}]}

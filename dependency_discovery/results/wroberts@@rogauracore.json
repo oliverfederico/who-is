@@ -1,0 +1,1 @@
+{"target": "wroberts@@rogauracore", "extractors": [{"deps": [{"depname": "rogauracore", "version": "1.6", "version_op": null, "unified_name": "rogauracore", "extractor_type": "autoconf", "context": "AC_INIT([rogauracore], [1.6], [wildwilhelm@gmail.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

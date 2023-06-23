@@ -1,0 +1,1 @@
+{"target": "pixos@@poptrie", "extractors": [{"deps": [{"depname": "poptrie", "version": "0.2.0", "version_op": null, "unified_name": "poptrie", "extractor_type": "autoconf", "context": "AC_INIT([poptrie], [0.2.0], [asai@jar.jp])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

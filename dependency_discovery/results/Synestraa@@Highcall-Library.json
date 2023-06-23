@@ -1,0 +1,1 @@
+{"target": "Synestraa@@Highcall-Library", "extractors": [{"deps": [{"depname": "\n", "version": null, "version_op": null, "unified_name": "\n", "extractor_type": "ms", "context": "Synestraa@@Highcall-Library/Current/Current.vcxproj", "confidence": "High"}], "type": "ms"}, {"deps": [], "type": "ms"}]}

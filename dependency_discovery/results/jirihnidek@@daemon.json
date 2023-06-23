@@ -1,0 +1,1 @@
+{"target": "jirihnidek@@daemon", "extractors": [{"deps": [{"depname": "daemon", "version": null, "version_op": null, "unified_name": "daemon", "extractor_type": "cmake", "context": "project (daemon)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "cmake", "libs": []}]}

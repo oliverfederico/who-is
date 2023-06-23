@@ -1,0 +1,1 @@
+{"target": "graphitemaster@@gmqcc", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "gmqcc", "version": null, "version_op": null, "unified_name": "gmqcc", "extractor_type": "cmake", "context": "project(gmqcc)", "confidence": ""}], "type": "cmake", "libs": []}]}

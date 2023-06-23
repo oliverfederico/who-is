@@ -1,0 +1,1 @@
+{"target": "terminal29@@Simple-OpenVR-Driver-Tutorial", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["openvr_api"], "version": "", "fromfile": "terminal29@@Simple-OpenVR-Driver-Tutorial/CMakeLists.txt", "content": "find_library(openvr_lib openvr_api hints \"${cmake_current_source_dir}/libraries/openvr/lib/osx32/\" no_default_path )"}]}]}

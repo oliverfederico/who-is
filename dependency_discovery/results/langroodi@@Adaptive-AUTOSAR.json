@@ -1,0 +1,1 @@
+{"target": "langroodi@@Adaptive-AUTOSAR", "extractors": [{"deps": [{"depname": "adaptive_platform", "version": null, "version_op": null, "unified_name": "adaptive_platform", "extractor_type": "cmake", "context": "project(adaptive_platform)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "fsaadatmand@@The-C-Programming-Language", "extractors": [{"deps": [{"depname": "kr", "version": null, "version_op": null, "unified_name": "kr", "extractor_type": "cmake", "context": "project(kr c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

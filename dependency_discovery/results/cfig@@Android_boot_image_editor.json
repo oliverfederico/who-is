@@ -1,0 +1,1 @@
+{"target": "cfig@@Android_boot_image_editor", "extractors": [{"deps": [], "type": "meson"}, {"deps": [], "type": "make"}]}

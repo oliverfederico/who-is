@@ -1,0 +1,4842 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 3029,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/src/Etterna/Singletons/DownloadManager.cpp",
+                "line": 85,
+                "offset": 17
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2683,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/src/Etterna/Singletons/DownloadManager.cpp",
+                "line": 218,
+                "offset": 10
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_httppost **"
+                },
+                "1": {
+                    "type": "curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2482,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/src/Etterna/Singletons/DownloadManager.cpp",
+                "line": 245,
+                "offset": 2
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2583,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/src/Etterna/Singletons/DownloadManager.cpp",
+                "line": 314,
+                "offset": 2
+            },
+            "name": "curl_free"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2546,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/src/Etterna/Singletons/DownloadManager.cpp",
+                "line": 312,
+                "offset": 18
+            },
+            "name": "curl_easy_escape"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2583,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/src/Etterna/Singletons/DownloadManager.cpp",
+                "line": 327,
+                "offset": 2
+            },
+            "name": "curl_free"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2566,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/src/Etterna/Singletons/DownloadManager.cpp",
+                "line": 324,
+                "offset": 36
+            },
+            "name": "curl_easy_unescape"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "long"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2595,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/src/Etterna/Singletons/DownloadManager.cpp",
+                "line": 334,
+                "offset": 2
+            },
+            "name": "curl_global_init"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2625,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/src/Etterna/Singletons/DownloadManager.cpp",
+                "line": 353,
+                "offset": 2
+            },
+            "name": "curl_global_cleanup"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_httppost *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2516,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/src/Etterna/Singletons/DownloadManager.cpp",
+                "line": 633,
+                "offset": 6
+            },
+            "name": "curl_formfree"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/cookie.c",
+                "line": 348,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/cookie.c",
+                "line": 1219,
+                "offset": 10
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/cookie.c",
+                "line": 1715,
+                "offset": 9
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/cookie.c",
+                "line": 1721,
+                "offset": 9
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 3029,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/cookie.c",
+                "line": 1758,
+                "offset": 46
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/cookie.c",
+                "line": 1764,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 3029,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/doh.c",
+                "line": 198,
+                "offset": 35
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/doh.c",
+                "line": 202,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2683,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/doh.c",
+                "line": 397,
+                "offset": 5
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/doh.c",
+                "line": 422,
+                "offset": 3
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/easy.c",
+                "line": 940,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2546,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/escape.c",
+                "line": 69,
+                "offset": 10
+            },
+            "name": "curl_easy_escape"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2566,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/escape.c",
+                "line": 75,
+                "offset": 10
+            },
+            "name": "curl_easy_unescape"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2323,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 779,
+                "offset": 12
+            },
+            "name": "curl_mime_name"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2323,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 785,
+                "offset": 9
+            },
+            "name": "curl_mime_name"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct Curl_easy *"
+                }
+            },
+            "callExprReturn": "curl_mime *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2295,
+                "offset": 24
+            },
+            "functionDeclReturn": "curl_mime *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 815,
+                "offset": 10
+            },
+            "name": "curl_mime_init"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2395,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 820,
+                "offset": 14
+            },
+            "name": "curl_mime_subparts"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "curl_mimepart *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2314,
+                "offset": 28
+            },
+            "functionDeclReturn": "curl_mimepart *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 827,
+                "offset": 14
+            },
+            "name": "curl_mime_addpart"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct Curl_easy *"
+                }
+            },
+            "callExprReturn": "curl_mime *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2295,
+                "offset": 24
+            },
+            "functionDeclReturn": "curl_mime *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 833,
+                "offset": 21
+            },
+            "name": "curl_mime_init"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2395,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 838,
+                "offset": 18
+            },
+            "name": "curl_mime_subparts"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "curl_mimepart *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2314,
+                "offset": 28
+            },
+            "functionDeclReturn": "curl_mimepart *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 844,
+                "offset": 14
+            },
+            "name": "curl_mime_addpart"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "struct curl_slist *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2404,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 850,
+                "offset": 18
+            },
+            "name": "curl_mime_headers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2342,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 854,
+                "offset": 18
+            },
+            "name": "curl_mime_type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_off_t"
+                },
+                "2": {
+                    "type": "curl_read_callback"
+                },
+                "3": {
+                    "type": "curl_seek_callback"
+                },
+                "4": {
+                    "type": "curl_free_callback"
+                },
+                "5": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2381,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 873,
+                "offset": 22
+            },
+            "name": "curl_mime_data_cb"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2371,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 880,
+                "offset": 22
+            },
+            "name": "curl_mime_filedata"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2332,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 882,
+                "offset": 22
+            },
+            "name": "curl_mime_filename"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2361,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 885,
+                "offset": 20
+            },
+            "name": "curl_mime_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_off_t"
+                },
+                "2": {
+                    "type": "curl_read_callback"
+                },
+                "3": {
+                    "type": "curl_seek_callback"
+                },
+                "4": {
+                    "type": "curl_free_callback"
+                },
+                "5": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2381,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 892,
+                "offset": 20
+            },
+            "name": "curl_mime_data_cb"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2361,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 901,
+                "offset": 20
+            },
+            "name": "curl_mime_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2332,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/formdata.c",
+                "line": 909,
+                "offset": 20
+            },
+            "name": "curl_mime_filename"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 990,
+                "offset": 10
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1028,
+                "offset": 12
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1050,
+                "offset": 14
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1064,
+                "offset": 16
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1892,
+                "offset": 14
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1896,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1900,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1905,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1910,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1913,
+                "offset": 19
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1916,
+                "offset": 20
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 1917,
+                "offset": 20
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "struct curl_slist *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2404,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 2330,
+                "offset": 5
+            },
+            "name": "curl_mime_headers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "struct curl_slist *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2404,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 2333,
+                "offset": 5
+            },
+            "name": "curl_mime_headers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3313,
+                "offset": 10
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3382,
+                "offset": 29
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3407,
+                "offset": 11
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3470,
+                "offset": 32
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3494,
+                "offset": 32
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3509,
+                "offset": 11
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3523,
+                "offset": 32
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3554,
+                "offset": 11
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3573,
+                "offset": 32
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3579,
+                "offset": 12
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3581,
+                "offset": 12
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3614,
+                "offset": 11
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3643,
+                "offset": 25
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http.c",
+                "line": 3659,
+                "offset": 24
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http_digest.c",
+                "line": 59,
+                "offset": 7
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http_ntlm.c",
+                "line": 77,
+                "offset": 6
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http_proxy.c",
+                "line": 567,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http_proxy.c",
+                "line": 569,
+                "offset": 13
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http_proxy.c",
+                "line": 584,
+                "offset": 17
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/http_proxy.c",
+                "line": 600,
+                "offset": 17
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2304,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1150,
+                "offset": 3
+            },
+            "name": "curl_mime_free"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1169,
+                "offset": 3
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1171,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2361,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1209,
+                "offset": 11
+            },
+            "name": "curl_mime_data"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2371,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1212,
+                "offset": 11
+            },
+            "name": "curl_mime_filedata"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_off_t"
+                },
+                "2": {
+                    "type": "curl_read_callback"
+                },
+                "3": {
+                    "type": "curl_seek_callback"
+                },
+                "4": {
+                    "type": "curl_free_callback"
+                },
+                "5": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2381,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1218,
+                "offset": 11
+            },
+            "name": "curl_mime_data_cb"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct Curl_easy *"
+                }
+            },
+            "callExprReturn": "curl_mime *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2295,
+                "offset": 24
+            },
+            "functionDeclReturn": "curl_mime *",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1224,
+                "offset": 12
+            },
+            "name": "curl_mime_init"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2395,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1225,
+                "offset": 17
+            },
+            "name": "curl_mime_subparts"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mime *"
+                }
+            },
+            "callExprReturn": "curl_mimepart *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2314,
+                "offset": 28
+            },
+            "functionDeclReturn": "curl_mimepart *",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1229,
+                "offset": 11
+            },
+            "name": "curl_mime_addpart"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "struct curl_slist *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "1"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2404,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1247,
+                "offset": 13
+            },
+            "name": "curl_mime_headers"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1249,
+                "offset": 9
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2342,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1256,
+                "offset": 11
+            },
+            "name": "curl_mime_type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2323,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1259,
+                "offset": 11
+            },
+            "name": "curl_mime_name"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_mimepart *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2332,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1261,
+                "offset": 11
+            },
+            "name": "curl_mime_filename"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1503,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1778,
+                "offset": 3
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2277,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/mime.c",
+                "line": 1827,
+                "offset": 23
+            },
+            "name": "curl_strequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2526,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/netrc.c",
+                "line": 239,
+                "offset": 19
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2683,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/setopt.c",
+                "line": 744,
+                "offset": 12
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/setopt.c",
+                "line": 746,
+                "offset": 9
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/setopt.c",
+                "line": 754,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/setopt.c",
+                "line": 851,
+                "offset": 12
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/slist.c",
+                "line": 118,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 3029,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/socks.c",
+                "line": 392,
+                "offset": 13
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/transfer.c",
+                "line": 201,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/transfer.c",
+                "line": 197,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/url.c",
+                "line": 466,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2526,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/url.c",
+                "line": 2362,
+                "offset": 10
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2526,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/url.c",
+                "line": 2379,
+                "offset": 12
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2526,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/url.c",
+                "line": 2388,
+                "offset": 13
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2526,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/url.c",
+                "line": 2391,
+                "offset": 15
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2526,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/url.c",
+                "line": 2637,
+                "offset": 16
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2526,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/url.c",
+                "line": 2640,
+                "offset": 18
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/urlapi.c",
+                "line": 888,
+                "offset": 12
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/urlapi.c",
+                "line": 889,
+                "offset": 12
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/urlapi.c",
+                "line": 1106,
+                "offset": 10
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/urlapi.c",
+                "line": 1108,
+                "offset": 15
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/urlapi.c",
+                "line": 1110,
+                "offset": 15
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/urlapi.c",
+                "line": 1112,
+                "offset": 15
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/urlapi.c",
+                "line": 1114,
+                "offset": 15
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "unsigned long"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2278,
+                "offset": 17
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/urlapi.c",
+                "line": 1116,
+                "offset": 15
+            },
+            "name": "curl_strnequal"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2546,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/urlapi.c",
+                "line": 1350,
+                "offset": 21
+            },
+            "name": "curl_easy_escape"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2526,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/vtls/keylog.c",
+                "line": 51,
+                "offset": 24
+            },
+            "name": "curl_getenv"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2683,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/vtls/openssl.c",
+                "line": 1438,
+                "offset": 11
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/vtls/openssl.c",
+                "line": 1440,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/vtls/vtls.c",
+                "line": 800,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2693,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/vtls/vtls.c",
+                "line": 861,
+                "offset": 5
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/include/curl/curl.h",
+                "line": 2526,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/etternagame@@etterna/extern/curl/lib/vtls/vtls.c",
+                "line": 1441,
+                "offset": 19
+            },
+            "name": "curl_getenv"
+        }
+    }
+]

@@ -1,0 +1,1 @@
+{"target": "dgatf@@msrc", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "msrc", "version": null, "version_op": null, "unified_name": "msrc", "extractor_type": "cmake", "context": "project(msrc-rp2040)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

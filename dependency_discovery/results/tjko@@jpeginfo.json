@@ -1,0 +1,1 @@
+{"target": "tjko@@jpeginfo", "extractors": [{"deps": [{"depname": "jpeg", "version": null, "version_op": null, "unified_name": "jpeg", "extractor_type": "autoconf", "context": "tjko@@jpeginfo/configure.in", "confidence": "High"}], "type": "autoconf"}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}]}

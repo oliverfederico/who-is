@@ -1,0 +1,1 @@
+{"target": "TUDSSL@@BFree", "extractors": [{"deps": [], "type": "autoconf"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "nvm", "version": null, "version_op": null, "unified_name": "nvm", "extractor_type": "cmake", "context": "project(nvm-controller c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

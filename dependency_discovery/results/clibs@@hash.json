@@ -1,0 +1,1 @@
+{"target": "clibs@@hash", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "hash", "version": "0.0.1", "version_op": null, "unified_name": "hash", "extractor_type": "clib", "context": "clibs@@hash/package.json", "confidence": "High"}], "type": "clib"}]}

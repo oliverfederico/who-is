@@ -1,0 +1,1 @@
+{"target": "acidicoala@@SmokeAPI", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [{"depname": "smokeapi", "version": "2.0.5", "version_op": null, "unified_name": "smokeapi", "extractor_type": "cmake", "context": "project(smokeapi version 2.0.5)", "confidence": "High"}], "type": "cmake", "libs": []}]}

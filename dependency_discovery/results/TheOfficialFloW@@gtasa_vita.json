@@ -1,0 +1,1 @@
+{"target": "TheOfficialFloW@@gtasa_vita", "extractors": [{"deps": [{"depname": "gtasa", "version": null, "version_op": null, "unified_name": "gtasa", "extractor_type": "cmake", "context": "project(gtasa.elf c cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

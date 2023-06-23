@@ -1,0 +1,452 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1631,
+                "offset": 24
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/external/pufferfish/src/FastxParser.cpp",
+                "line": 212,
+                "offset": 5
+            },
+            "name": "gzclose"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1873,
+                "offset": 27
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/external/pufferfish/src/FastxParser.cpp",
+                "line": 157,
+                "offset": 17
+            },
+            "name": "gzopen"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1631,
+                "offset": 24
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/external/pufferfish/src/FastxParser.cpp",
+                "line": 306,
+                "offset": 5
+            },
+            "name": "gzclose"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1631,
+                "offset": 24
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/external/pufferfish/src/FastxParser.cpp",
+                "line": 307,
+                "offset": 5
+            },
+            "name": "gzclose"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1873,
+                "offset": 27
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/external/pufferfish/src/FastxParser.cpp",
+                "line": 249,
+                "offset": 17
+            },
+            "name": "gzopen"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1873,
+                "offset": 27
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/external/pufferfish/src/FastxParser.cpp",
+                "line": 250,
+                "offset": 18
+            },
+            "name": "gzopen"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1631,
+                "offset": 24
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/src/FastxParser.cpp",
+                "line": 212,
+                "offset": 5
+            },
+            "name": "gzclose"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1873,
+                "offset": 27
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/src/FastxParser.cpp",
+                "line": 157,
+                "offset": 17
+            },
+            "name": "gzopen"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1631,
+                "offset": 24
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/src/FastxParser.cpp",
+                "line": 306,
+                "offset": 5
+            },
+            "name": "gzclose"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1631,
+                "offset": 24
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/src/FastxParser.cpp",
+                "line": 307,
+                "offset": 5
+            },
+            "name": "gzclose"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1873,
+                "offset": 27
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/src/FastxParser.cpp",
+                "line": 249,
+                "offset": 17
+            },
+            "name": "gzopen"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1873,
+                "offset": 27
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/COMBINE-lab@@salmon/src/FastxParser.cpp",
+                "line": 250,
+                "offset": 18
+            },
+            "name": "gzopen"
+        }
+    }
+]

@@ -1,0 +1,1 @@
+{"target": "Tarsnap@@scrypt", "extractors": [{"deps": [{"depname": "scrypt", "version": "m4_esyscmd([sh get-version.sh", "version_op": null, "unified_name": "scrypt", "extractor_type": "autoconf", "context": "AC_INIT([scrypt],[m4_esyscmd([sh get-version.sh])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

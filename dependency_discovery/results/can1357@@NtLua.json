@@ -1,0 +1,1 @@
+{"target": "can1357@@NtLua", "extractors": [{"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}, {"deps": [{"depname": "\n", "version": null, "version_op": null, "unified_name": "\n", "extractor_type": "ms", "context": "can1357@@NtLua/LuaLib/LuaLib.vcxproj", "confidence": "High"}], "type": "ms"}]}

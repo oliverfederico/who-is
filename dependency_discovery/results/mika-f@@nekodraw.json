@@ -1,0 +1,1 @@
+{"target": "mika-f@@nekodraw", "extractors": [{"deps": [{"depname": "nekodraw", "version": null, "version_op": null, "unified_name": "nekodraw", "extractor_type": "cmake", "context": "project(nekodraw)", "confidence": ""}], "type": "cmake", "libs": []}]}

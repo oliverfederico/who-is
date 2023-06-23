@@ -1,0 +1,1 @@
+{"target": "arduino@@ArduinoCore-API", "extractors": [{"deps": [{"depname": "test", "version": null, "version_op": null, "unified_name": "test", "extractor_type": "cmake", "context": "project(test-arduinocore-api)", "confidence": ""}], "type": "cmake", "libs": []}]}

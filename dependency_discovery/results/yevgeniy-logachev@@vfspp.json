@@ -1,0 +1,1 @@
+{"target": "yevgeniy-logachev@@vfspp", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [{"depname": "vfspp", "version": "1.0.0", "version_op": null, "unified_name": "vfspp", "extractor_type": "cmake", "context": "project(vfspp)", "confidence": ""}], "type": "cmake", "libs": []}]}

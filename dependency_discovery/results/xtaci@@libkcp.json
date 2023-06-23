@@ -1,0 +1,1 @@
+{"target": "xtaci@@libkcp", "extractors": [{"deps": [{"depname": "kcp", "version": null, "version_op": null, "unified_name": "kcp", "extractor_type": "cmake", "context": "project(kcp)", "confidence": ""}], "type": "cmake", "libs": []}]}

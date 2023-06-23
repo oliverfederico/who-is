@@ -1,0 +1,1 @@
+{"target": "madushadhanushka@@simple-sqlite", "extractors": [{"deps": [{"depname": "simple_sqlite", "version": null, "version_op": null, "unified_name": "simple_sqlite", "extractor_type": "cmake", "context": "project(simple_sqlite c)", "confidence": ""}], "type": "cmake", "libs": []}]}

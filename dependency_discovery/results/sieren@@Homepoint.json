@@ -1,0 +1,1 @@
+{"target": "sieren@@Homepoint", "extractors": [{"deps": [{"depname": "homepoint", "version": null, "version_op": null, "unified_name": "homepoint", "extractor_type": "cmake", "context": "project(homepoint)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

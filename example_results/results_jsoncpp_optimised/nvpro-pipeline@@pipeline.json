@@ -1,0 +1,2862 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "std::istream"
+                },
+                "1": {
+                    "type": "Json::Value"
+                }
+            },
+            "callExprReturn": "std::istream &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/reader.h",
+                "line": 396,
+                "offset": 27
+            },
+            "functionDeclReturn": "std::istream &",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 118,
+                "offset": 3
+            },
+            "name": "operator>>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 137,
+                "offset": 32
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Members",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 547,
+                "offset": 11
+            },
+            "functionDeclReturn": "Members",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 138,
+                "offset": 27
+            },
+            "name": "getMemberNames"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "class std::basic_string<char> const"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 452,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 140,
+                "offset": 48
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 144,
+                "offset": 36
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Members",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 547,
+                "offset": 11
+            },
+            "functionDeclReturn": "Members",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 145,
+                "offset": 27
+            },
+            "name": "getMemberNames"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "class std::basic_string<char> const"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 452,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 147,
+                "offset": 47
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 151,
+                "offset": 24
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Members",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 547,
+                "offset": 11
+            },
+            "functionDeclReturn": "Members",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 152,
+                "offset": 25
+            },
+            "name": "getMemberNames"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 448,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 154,
+                "offset": 40
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 158,
+                "offset": 23
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Members",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 547,
+                "offset": 11
+            },
+            "functionDeclReturn": "Members",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 159,
+                "offset": 25
+            },
+            "name": "getMemberNames"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 448,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 161,
+                "offset": 39
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Members",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 547,
+                "offset": 11
+            },
+            "functionDeclReturn": "Members",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 165,
+                "offset": 25
+            },
+            "name": "getMemberNames"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 167,
+                "offset": 35
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 448,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 167,
+                "offset": 35
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 375,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 168,
+                "offset": 9
+            },
+            "name": "isArray"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 173,
+                "offset": 41
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 179,
+                "offset": 30
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 179,
+                "offset": 30
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 448,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 180,
+                "offset": 27
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 180,
+                "offset": 27
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 183,
+                "offset": 31
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 185,
+                "offset": 34
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "UInt64",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 357,
+                "offset": 10
+            },
+            "functionDeclReturn": "UInt64",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 202,
+                "offset": 23
+            },
+            "name": "asUInt64"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 202,
+                "offset": 23
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "UInt64",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 357,
+                "offset": 10
+            },
+            "functionDeclReturn": "UInt64",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 203,
+                "offset": 27
+            },
+            "name": "asUInt64"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 203,
+                "offset": 27
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 204,
+                "offset": 37
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 204,
+                "offset": 37
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "UInt",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 354,
+                "offset": 8
+            },
+            "functionDeclReturn": "UInt",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 214,
+                "offset": 19
+            },
+            "name": "asUInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 214,
+                "offset": 19
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 216,
+                "offset": 36
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 216,
+                "offset": 36
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 227,
+                "offset": 35
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "float",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 361,
+                "offset": 9
+            },
+            "functionDeclReturn": "float",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 232,
+                "offset": 36
+            },
+            "name": "asFloat"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 426,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 232,
+                "offset": 36
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 237,
+                "offset": 31
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 375,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 238,
+                "offset": 7
+            },
+            "name": "isArray"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 242,
+                "offset": 40
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 448,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 298,
+                "offset": 26
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 298,
+                "offset": 26
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 301,
+                "offset": 46
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 301,
+                "offset": 46
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 304,
+                "offset": 36
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 304,
+                "offset": 36
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 353,
+                "offset": 7
+            },
+            "functionDeclReturn": "Int",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 304,
+                "offset": 97
+            },
+            "name": "asInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 304,
+                "offset": 97
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 353,
+                "offset": 7
+            },
+            "functionDeclReturn": "Int",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 305,
+                "offset": 98
+            },
+            "name": "asInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 305,
+                "offset": 98
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 353,
+                "offset": 7
+            },
+            "functionDeclReturn": "Int",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 305,
+                "offset": 131
+            },
+            "name": "asInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 305,
+                "offset": 131
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 353,
+                "offset": 7
+            },
+            "functionDeclReturn": "Int",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 305,
+                "offset": 163
+            },
+            "name": "asInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 305,
+                "offset": 163
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 448,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 321,
+                "offset": 26
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 321,
+                "offset": 26
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 322,
+                "offset": 46
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 322,
+                "offset": 46
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "UInt",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 354,
+                "offset": 8
+            },
+            "functionDeclReturn": "UInt",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 323,
+                "offset": 42
+            },
+            "name": "asUInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 323,
+                "offset": 42
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "UInt",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 354,
+                "offset": 8
+            },
+            "functionDeclReturn": "UInt",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 323,
+                "offset": 101
+            },
+            "name": "asUInt"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 442,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 323,
+                "offset": 101
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 338,
+                "offset": 22
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 338,
+                "offset": 22
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 339,
+                "offset": 25
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 341,
+                "offset": 37
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Members",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 547,
+                "offset": 11
+            },
+            "functionDeclReturn": "Members",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 342,
+                "offset": 45
+            },
+            "name": "getMemberNames"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Json::Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 452,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 344,
+                "offset": 38
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 347,
+                "offset": 136
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 352,
+                "offset": 134
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 358,
+                "offset": 136
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 363,
+                "offset": 141
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 368,
+                "offset": 133
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 373,
+                "offset": 143
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 380,
+                "offset": 79
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 445,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 384,
+                "offset": 34
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 365,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 385,
+                "offset": 10
+            },
+            "name": "isNull"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::string",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/3rdparty/jsoncpp/include/json/value.h",
+                "line": 344,
+                "offset": 18
+            },
+            "functionDeclReturn": "std::string",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/nvpro-pipeline@@pipeline/dp/sg/io/glTF/Loader/glTFLoader.cpp",
+                "line": 387,
+                "offset": 54
+            },
+            "name": "asString"
+        }
+    }
+]

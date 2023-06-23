@@ -1,0 +1,1 @@
+{"target": "quora@@qmf", "extractors": [{"deps": [{"depname": "qmf", "version": null, "version_op": null, "unified_name": "qmf", "extractor_type": "cmake", "context": "project(qmf)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

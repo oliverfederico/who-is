@@ -1,0 +1,1 @@
+{"target": "protobuf-c@@protobuf-c-rpc", "extractors": [{"deps": [{"depname": "protobuf-c-rpc", "version": "0.1", "version_op": null, "unified_name": "protobuf-c-rpc", "extractor_type": "autoconf", "context": "AC_INIT([protobuf-c-rpc], [0.1])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

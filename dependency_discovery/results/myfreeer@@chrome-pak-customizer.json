@@ -1,0 +1,1 @@
+{"target": "myfreeer@@chrome-pak-customizer", "extractors": [{"deps": [{"depname": "chrome", "version": null, "version_op": null, "unified_name": "chrome", "extractor_type": "cmake", "context": "project(chrome-pak c)", "confidence": ""}], "type": "cmake", "libs": []}]}

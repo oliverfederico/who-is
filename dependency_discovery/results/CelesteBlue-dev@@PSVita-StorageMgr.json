@@ -1,0 +1,1 @@
+{"target": "CelesteBlue-dev@@PSVita-StorageMgr", "extractors": [{"deps": [{"depname": "storagemgr", "version": null, "version_op": null, "unified_name": "storagemgr", "extractor_type": "cmake", "context": "project(storagemgr)", "confidence": ""}], "type": "cmake", "libs": []}]}

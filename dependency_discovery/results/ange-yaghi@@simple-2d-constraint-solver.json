@@ -1,0 +1,1 @@
+{"target": "ange-yaghi@@simple-2d-constraint-solver", "extractors": [{"deps": [{"depname": "simple", "version": null, "version_op": null, "unified_name": "simple", "extractor_type": "cmake", "context": "project(simple-2d-constraint-solver)", "confidence": ""}], "type": "cmake", "libs": []}]}

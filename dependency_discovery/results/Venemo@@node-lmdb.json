@@ -1,0 +1,1 @@
+{"target": "Venemo@@node-lmdb", "extractors": [{"deps": [], "type": "clib"}, {"deps": [], "type": "make"}]}

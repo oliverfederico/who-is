@@ -1,0 +1,1 @@
+{"target": "ands@@spherical_harmonics_playground", "extractors": [{"deps": [{"depname": "playground", "version": null, "version_op": null, "unified_name": "playground", "extractor_type": "cmake", "context": "project(playground)", "confidence": ""}], "type": "cmake", "libs": []}]}

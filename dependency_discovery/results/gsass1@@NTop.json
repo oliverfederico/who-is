@@ -1,0 +1,1 @@
+{"target": "gsass1@@NTop", "extractors": [{"deps": [{"depname": "ntop", "version": null, "version_op": null, "unified_name": "ntop", "extractor_type": "cmake", "context": "project(ntop c)", "confidence": ""}], "type": "cmake", "libs": []}]}

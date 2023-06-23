@@ -1,0 +1,1 @@
+{"target": "sickill@@stderred", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "stderred", "version": null, "version_op": null, "unified_name": "stderred", "extractor_type": "cmake", "context": "project(stderred)", "confidence": ""}], "type": "cmake", "libs": []}]}

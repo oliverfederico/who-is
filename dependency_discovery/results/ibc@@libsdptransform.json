@@ -1,0 +1,1 @@
+{"target": "ibc@@libsdptransform", "extractors": [{"deps": [{"depname": "sdptransform", "version": "1.2.10", "version_op": null, "unified_name": "sdptransform", "extractor_type": "cmake", "context": "project(sdptransform version 1.2.10)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "hasherezade@@antianalysis_demos", "extractors": [{"deps": [{"depname": "antianalysis_demos", "version": null, "version_op": null, "unified_name": "antianalysis_demos", "extractor_type": "cmake", "context": "project ( antianalysis_demos )", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "PfAndrey@@supermariohd", "extractors": [{"deps": [{"depname": "supermario", "version": "0.99", "version_op": null, "unified_name": "supermario", "extractor_type": "cmake", "context": "project(supermario version 0.99 languages c cxx)", "confidence": "High"}], "type": "cmake", "libs": []}]}

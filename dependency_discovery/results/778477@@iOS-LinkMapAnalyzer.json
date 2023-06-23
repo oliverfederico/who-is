@@ -1,0 +1,1 @@
+{"target": "778477@@iOS-LinkMapAnalyzer", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "LinkMapAnalyzerModule", "version": null, "version_op": null, "unified_name": "linkmapanalyzermodule", "extractor_type": "bazel", "context": "778477@@iOS-LinkMapAnalyzer/iOS-LinkMapAnalyzer/BUILD:\":LinkMapAnalyzerModule\"", "confidence": "High"}], "type": "bazel"}]}

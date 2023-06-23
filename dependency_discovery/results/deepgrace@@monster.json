@@ -1,0 +1,1 @@
+{"target": "deepgrace@@monster", "extractors": [{"deps": [{"depname": "monster", "version": null, "version_op": null, "unified_name": "monster", "extractor_type": "cmake", "context": "project(monster)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

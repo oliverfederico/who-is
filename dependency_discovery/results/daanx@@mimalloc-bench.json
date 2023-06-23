@@ -1,0 +1,1 @@
+{"target": "daanx@@mimalloc-bench", "extractors": [{"deps": [{"depname": "mimalloc", "version": null, "version_op": null, "unified_name": "mimalloc", "extractor_type": "cmake", "context": "project(mimalloc-bench cxx c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

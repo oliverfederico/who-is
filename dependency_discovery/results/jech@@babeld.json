@@ -1,0 +1,1 @@
+{"target": "jech@@babeld", "extractors": [{"deps": [{"depname": "rt", "version": null, "version_op": null, "unified_name": "rt", "extractor_type": "make", "context": "jech@@babeld/Makefile:LDLIBS = -lrt", "confidence": "High"}], "type": "make"}]}

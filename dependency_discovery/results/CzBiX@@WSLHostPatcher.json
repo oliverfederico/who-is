@@ -1,0 +1,1 @@
+{"target": "CzBiX@@WSLHostPatcher", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "detours", "version": null, "version_op": null, "unified_name": "detours", "extractor_type": "vcpkg", "context": "CzBiX@@WSLHostPatcher/dll/vcpkg.json", "confidence": "High"}], "type": "vcpkg"}, {"deps": [], "type": "ms"}]}

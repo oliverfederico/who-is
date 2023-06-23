@@ -1,0 +1,1 @@
+{"target": "sheredom@@subprocess.h", "extractors": [{"deps": [{"depname": "process", "version": null, "version_op": null, "unified_name": "process", "extractor_type": "cmake", "context": "project(process)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,557 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 3043,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcMultistream.cc",
+                "line": 463,
+                "offset": 54
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 3043,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcMultistream.cc",
+                "line": 465,
+                "offset": 30
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2706,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcState.cc",
+                "line": 20,
+                "offset": 13
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLversion"
+                }
+            },
+            "callExprReturn": "curl_version_info_data *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 3032,
+                "offset": 37
+            },
+            "functionDeclReturn": "curl_version_info_data *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcState.cc",
+                "line": 79,
+                "offset": 40
+            },
+            "name": "curl_version_info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcState.cc",
+                "line": 97,
+                "offset": 20
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcState.cc",
+                "line": 104,
+                "offset": 20
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcState.cc",
+                "line": 251,
+                "offset": 32
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURL *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "char *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2559,
+                "offset": 19
+            },
+            "functionDeclReturn": "char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcTPC.cc",
+                "line": 204,
+                "offset": 19
+            },
+            "name": "curl_easy_escape"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2596,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcTPC.cc",
+                "line": 213,
+                "offset": 13
+            },
+            "name": "curl_free"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 3043,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcTPC.cc",
+                "line": 452,
+                "offset": 51
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 3043,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcTPC.cc",
+                "line": 455,
+                "offset": 106
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 3043,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcTPC.cc",
+                "line": 464,
+                "offset": 42
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 3043,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcTPC.cc",
+                "line": 764,
+                "offset": 44
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 3043,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcTPC.cc",
+                "line": 766,
+                "offset": 30
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "long"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2608,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/xrootd@@xrootd/src/XrdTpc/XrdTpcTPC.cc",
+                "line": 1057,
+                "offset": 9
+            },
+            "name": "curl_global_init"
+        }
+    }
+]

@@ -1,0 +1,1 @@
+{"target": "GANESH-ICMC@@esp32-deauther", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "deauther", "version": null, "version_op": null, "unified_name": "deauther", "extractor_type": "cmake", "context": "project(deauther)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

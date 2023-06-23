@@ -1,0 +1,1 @@
+{"target": "rgerganov@@footswitch", "extractors": [{"deps": [{"depname": "hidapi", "version": null, "version_op": null, "unified_name": "hidapi", "extractor_type": "make", "context": "rgerganov@@footswitch/Makefile:LDLIBS = -lhidapi", "confidence": "High"}], "type": "make"}]}

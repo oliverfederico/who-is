@@ -1,0 +1,1 @@
+{"target": "stevemk14ebr@@RETools", "extractors": [{"deps": [{"depname": "demumble", "version": null, "version_op": null, "unified_name": "demumble", "extractor_type": "cmake", "context": "project(demumble cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}]}

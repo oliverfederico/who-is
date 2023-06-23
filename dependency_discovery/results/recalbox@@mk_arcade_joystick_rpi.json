@@ -1,0 +1,1 @@
+{"target": "recalbox@@mk_arcade_joystick_rpi", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "control"}]}

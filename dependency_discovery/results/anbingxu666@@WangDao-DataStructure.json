@@ -1,0 +1,1 @@
+{"target": "anbingxu666@@WangDao-DataStructure", "extractors": [{"deps": [{"depname": "one", "version": null, "version_op": null, "unified_name": "one", "extractor_type": "cmake", "context": "project(one)", "confidence": ""}], "type": "cmake", "libs": []}]}

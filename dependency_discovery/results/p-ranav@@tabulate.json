@@ -1,0 +1,1 @@
+{"target": "p-ranav@@tabulate", "extractors": [{"deps": [{"depname": "tabulate", "version": "1.5.0", "version_op": null, "unified_name": "tabulate", "extractor_type": "cmake", "context": "project(tabulate version 1.5.0 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

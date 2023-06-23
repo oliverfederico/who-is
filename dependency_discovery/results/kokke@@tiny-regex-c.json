@@ -1,0 +1,1 @@
+{"target": "kokke@@tiny-regex-c", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "tiny-regex-c", "version": "0.1.0", "version_op": null, "unified_name": "tiny-regex-c", "extractor_type": "clib", "context": "kokke@@tiny-regex-c/clib.json", "confidence": "High"}], "type": "clib"}]}

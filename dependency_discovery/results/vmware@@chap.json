@@ -1,0 +1,1 @@
+{"target": "vmware@@chap", "extractors": [{"deps": [{"depname": "chap", "version": null, "version_op": null, "unified_name": "chap", "extractor_type": "cmake", "context": "project(chap languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

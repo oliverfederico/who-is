@@ -1,0 +1,1 @@
+{"target": "zer0condition@@ReverseKit", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "%(AdditionalDependencies)", "version": null, "version_op": null, "unified_name": "%(additionaldependencies)", "extractor_type": "ms", "context": "zer0condition@@ReverseKit/ReverseKit/ReverseKit.vcxproj", "confidence": "High"}], "type": "ms"}, {"deps": [], "type": "ms"}]}

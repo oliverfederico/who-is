@@ -1,0 +1,1 @@
+{"target": "yangkun19921001@@AVEditor", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "yangkun19921001@@AVEditor/aveditor/src/main/cpp/CMakeLists.txt", "content": "find_library(\n        log-lib\n        log\n)"}]}, {"deps": [], "type": "ms"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "rhboot@@efibootmgr", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

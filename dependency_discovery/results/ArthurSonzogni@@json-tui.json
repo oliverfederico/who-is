@@ -1,0 +1,1 @@
+{"target": "ArthurSonzogni@@json-tui", "extractors": [{"deps": [{"depname": "json", "version": "1.3.0", "version_op": null, "unified_name": "json", "extractor_type": "cmake", "context": "project(json-tui   languages cxx   version 1.3.0 )", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

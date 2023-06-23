@@ -1,0 +1,1 @@
+{"target": "bedrock-dev@@TrapDoor", "extractors": [{"deps": [{"depname": "mod", "version": null, "version_op": null, "unified_name": "mod", "extractor_type": "cmake", "context": "project(mod)", "confidence": ""}], "type": "cmake", "libs": []}]}

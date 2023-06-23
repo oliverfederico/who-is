@@ -1,0 +1,1 @@
+{"target": "eXpl0it3r@@bnkextr", "extractors": [{"deps": [{"depname": "bnkextr", "version": null, "version_op": null, "unified_name": "bnkextr", "extractor_type": "cmake", "context": "project(bnkextr languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

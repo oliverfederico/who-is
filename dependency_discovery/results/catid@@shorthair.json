@@ -1,0 +1,1 @@
+{"target": "catid@@shorthair", "extractors": [{"deps": [{"depname": "shorthair", "version": null, "version_op": null, "unified_name": "shorthair", "extractor_type": "cmake", "context": "project(shorthair)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}]}

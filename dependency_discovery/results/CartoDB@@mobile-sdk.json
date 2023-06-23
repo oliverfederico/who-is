@@ -1,0 +1,1 @@
+{"target": "CartoDB@@mobile-sdk", "extractors": [{"deps": [{"depname": "carto_mobile_sdk", "version": null, "version_op": null, "unified_name": "carto_mobile_sdk", "extractor_type": "cmake", "context": "project(carto_mobile_sdk)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "hydromisc@@hydromisc", "extractors": [{"deps": [{"depname": "simple", "version": null, "version_op": null, "unified_name": "simple", "extractor_type": "cmake", "context": "project(simple)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

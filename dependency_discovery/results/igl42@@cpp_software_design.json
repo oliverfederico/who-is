@@ -1,0 +1,1 @@
+{"target": "igl42@@cpp_software_design", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "cppsoftwaredesign", "version": null, "version_op": null, "unified_name": "cppsoftwaredesign", "extractor_type": "cmake", "context": "project(cppsoftwaredesign cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "kfish@@xsel", "extractors": [{"deps": [{"depname": "xsel", "version": "1.2.1", "version_op": null, "unified_name": "xsel", "extractor_type": "autoconf", "context": "AC_INIT([xsel],[1.2.1])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

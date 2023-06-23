@@ -1,0 +1,1 @@
+{"target": "cMiraka@@Guarded-Regions-Bypass-Valorant", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "ntoskrnl", "version": null, "version_op": null, "unified_name": "ntoskrnl", "extractor_type": "ms", "context": "cMiraka@@Guarded-Regions-Bypass-Valorant/Kernel/Kernel.vcxproj", "confidence": "High"}], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "tj@@histo", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "histo", "version": "0.0.1", "version_op": null, "unified_name": "histo", "extractor_type": "clib", "context": "tj@@histo/package.json", "confidence": "High"}], "type": "clib"}]}

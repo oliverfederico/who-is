@@ -1,0 +1,1 @@
+{"target": "yuki-koyama@@bigger", "extractors": [{"deps": [{"depname": "bigger", "version": null, "version_op": null, "unified_name": "bigger", "extractor_type": "cmake", "context": "project(bigger cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

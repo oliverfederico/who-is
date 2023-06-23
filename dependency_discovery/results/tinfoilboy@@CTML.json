@@ -1,0 +1,1 @@
+{"target": "tinfoilboy@@CTML", "extractors": [{"deps": [{"depname": "ctml", "version": null, "version_op": null, "unified_name": "ctml", "extractor_type": "cmake", "context": "project(ctml)", "confidence": ""}], "type": "cmake", "libs": []}]}

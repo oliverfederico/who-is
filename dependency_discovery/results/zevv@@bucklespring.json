@@ -1,0 +1,1 @@
+{"target": "zevv@@bucklespring", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "OpenAL", "version": "1.17.2", "version_op": "=", "unified_name": "openal", "extractor_type": "pkgconfig", "context": "zevv@@bucklespring/mac/lib/pkgconfig/openal.pc", "confidence": "High"}], "type": "pkgconfig"}]}

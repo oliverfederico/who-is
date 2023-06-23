@@ -1,0 +1,1 @@
+{"target": "Unity-Technologies@@HLSLcc", "extractors": [{"deps": [{"depname": "hlslcc", "version": null, "version_op": null, "unified_name": "hlslcc", "extractor_type": "cmake", "context": "project(hlslcc)", "confidence": ""}], "type": "cmake", "libs": []}]}

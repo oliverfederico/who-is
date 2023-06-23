@@ -1,0 +1,1 @@
+{"target": "can1357@@linux-pe", "extractors": [{"deps": [{"depname": "linux", "version": null, "version_op": null, "unified_name": "linux", "extractor_type": "cmake", "context": "project(linux-pe)", "confidence": ""}], "type": "cmake", "libs": []}]}

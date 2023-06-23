@@ -1,0 +1,1 @@
+{"target": "microshow@@AiSound", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "microshow@@AiSound/aisound/CMakeLists.txt", "content": "find_library( log-lib\n              log)"}]}]}

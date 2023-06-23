@@ -1,0 +1,1 @@
+{"target": "ipxe@@wimboot", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

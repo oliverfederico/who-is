@@ -1,0 +1,1 @@
+{"target": "intel@@msr-tools", "extractors": [{"deps": [{"depname": "msr-tools", "version": "1.3.0", "version_op": null, "unified_name": "msr-tools", "extractor_type": "autoconf", "context": "AC_INIT([msr-tools], [1.3.0], [https://01.org/msr-tools])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

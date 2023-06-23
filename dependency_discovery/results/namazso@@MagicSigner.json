@@ -1,0 +1,1 @@
+{"target": "namazso@@MagicSigner", "extractors": [{"deps": [{"depname": "magicsigner", "version": null, "version_op": null, "unified_name": "magicsigner", "extractor_type": "cmake", "context": "project(magicsigner)", "confidence": ""}], "type": "cmake", "libs": []}]}

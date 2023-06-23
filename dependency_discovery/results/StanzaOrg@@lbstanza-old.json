@@ -1,0 +1,1 @@
+{"target": "StanzaOrg@@lbstanza-old", "extractors": [{"deps": [{"depname": "asmjit", "version": null, "version_op": null, "unified_name": "asmjit", "extractor_type": "cmake", "context": "  project(asmjit cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

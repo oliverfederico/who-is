@@ -1,0 +1,1 @@
+{"target": "vi@@tcpsocks", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "bolderflight@@invensense-imu", "extractors": [{"deps": [{"depname": "invensenseimu", "version": "6.0.3", "version_op": null, "unified_name": "invensenseimu", "extractor_type": "cmake", "context": "  project(invensenseimu     version 6.0.3     description \"invensense imu sensor driver\"     languages cxx   )", "confidence": "High"}], "type": "cmake", "libs": []}]}

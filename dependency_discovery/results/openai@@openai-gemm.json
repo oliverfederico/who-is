@@ -1,0 +1,1 @@
+{"target": "openai@@openai-gemm", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "bazel"}]}

@@ -1,0 +1,1 @@
+{"target": "tie@@oneko", "extractors": [{"deps": [{"depname": "oneko", "version": null, "version_op": null, "unified_name": "oneko", "extractor_type": "cmake", "context": "project(oneko c)", "confidence": ""}], "type": "cmake", "libs": []}]}

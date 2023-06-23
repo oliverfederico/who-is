@@ -1,0 +1,1 @@
+{"target": "arrayfire@@arrayfire-js", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "clib"}, {"deps": [{"depname": "arrayfire_js", "version": null, "version_op": null, "unified_name": "arrayfire_js", "extractor_type": "cmake", "context": "project (arrayfire_js)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

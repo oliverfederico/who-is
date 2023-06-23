@@ -1,0 +1,1 @@
+{"target": "bootsector@@stm32-hid-bootloader", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

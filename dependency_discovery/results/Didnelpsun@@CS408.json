@@ -1,0 +1,1 @@
+{"target": "Didnelpsun@@CS408", "extractors": [{"deps": [{"depname": "code", "version": null, "version_op": null, "unified_name": "code", "extractor_type": "cmake", "context": "project(code)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}]}

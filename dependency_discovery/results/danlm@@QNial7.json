@@ -1,0 +1,1 @@
+{"target": "danlm@@QNial7", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "control"}, {"deps": [{"depname": "nial", "version": null, "version_op": null, "unified_name": "nial", "extractor_type": "cmake", "context": "project(nial)", "confidence": ""}], "type": "cmake", "libs": []}]}

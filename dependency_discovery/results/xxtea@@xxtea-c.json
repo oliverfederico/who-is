@@ -1,0 +1,1 @@
+{"target": "xxtea@@xxtea-c", "extractors": [{"deps": [{"depname": "xxtea", "version": null, "version_op": null, "unified_name": "xxtea", "extractor_type": "cmake", "context": "project(xxtea)", "confidence": ""}], "type": "cmake", "libs": []}]}

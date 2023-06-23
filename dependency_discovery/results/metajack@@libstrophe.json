@@ -1,0 +1,1 @@
+{"target": "metajack@@libstrophe", "extractors": [{"deps": [{"depname": "libstrophe", "version": "0.8-snapshot", "version_op": null, "unified_name": "strophe", "extractor_type": "autoconf", "context": "AC_INIT([libstrophe], [0.8-snapshot], [jack@metajack.im])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

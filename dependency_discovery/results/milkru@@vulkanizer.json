@@ -1,0 +1,1 @@
+{"target": "milkru@@vulkanizer", "extractors": [{"deps": [{"depname": "vulkanizer", "version": null, "version_op": null, "unified_name": "vulkanizer", "extractor_type": "cmake", "context": "project(vulkanizer)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "bytedance@@tailor", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "bytedance@@tailor/library/CMakeLists.txt", "content": "find_library(\n        \n        log-lib\n\n        \n        \n        log\n)"}]}]}

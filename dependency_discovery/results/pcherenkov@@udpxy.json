@@ -1,0 +1,1 @@
+{"target": "pcherenkov@@udpxy", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "bazel"}]}

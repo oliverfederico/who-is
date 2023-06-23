@@ -1,0 +1,1 @@
+{"target": "AimTuxOfficial@@AimTux", "extractors": [{"deps": [{"depname": "aimtux", "version": null, "version_op": null, "unified_name": "aimtux", "extractor_type": "cmake", "context": "project(aimtux)", "confidence": ""}], "type": "cmake", "libs": []}]}

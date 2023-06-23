@@ -1,0 +1,1 @@
+{"target": "AlexDenisov@@ToyClangPlugin", "extractors": [{"deps": [{"depname": "toyclangplugin", "version": null, "version_op": null, "unified_name": "toyclangplugin", "extractor_type": "cmake", "context": "project (toyclangplugin)", "confidence": ""}], "type": "cmake", "libs": []}]}

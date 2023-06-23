@@ -1,0 +1,1 @@
+{"target": "Wunkolo@@qreverse", "extractors": [{"deps": [{"depname": "qreversetest", "version": null, "version_op": null, "unified_name": "qreversetest", "extractor_type": "cmake", "context": "project( qreversetest )", "confidence": ""}], "type": "cmake", "libs": []}]}

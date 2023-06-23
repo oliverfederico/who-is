@@ -1,0 +1,1 @@
+{"target": "ssloy@@triador", "extractors": [{"deps": [{"depname": "triador", "version": null, "version_op": null, "unified_name": "triador", "extractor_type": "cmake", "context": "project (triador)", "confidence": ""}], "type": "cmake", "libs": []}]}

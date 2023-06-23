@@ -1,0 +1,1 @@
+{"target": "fredrikwidlund@@libreactor", "extractors": [{"deps": [{"depname": "libreactor", "version": "3.0.0", "version_op": null, "unified_name": "reactor", "extractor_type": "autoconf", "context": "AC_INIT([libreactor],[3.0.0],[fredrik.widlund@gmail.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

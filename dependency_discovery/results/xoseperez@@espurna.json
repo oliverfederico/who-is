@@ -1,0 +1,1 @@
+{"target": "xoseperez@@espurna", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "clib"}, {"deps": [{"depname": "host", "version": "1", "version_op": null, "unified_name": "host", "extractor_type": "cmake", "context": "project(host-test version 1 languages c cxx)", "confidence": "High"}], "type": "cmake", "libs": []}]}

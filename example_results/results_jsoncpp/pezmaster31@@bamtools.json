@@ -1,0 +1,629 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 353,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 697,
+                "offset": 9
+            },
+            "name": "operator=",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 510,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 697,
+                "offset": 25
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::Value"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 373,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 698,
+                "offset": 13
+            },
+            "name": "operator!=",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 699,
+                "offset": 59
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class CharReader::Factory"
+                },
+                "1": {
+                    "type": "IStream"
+                },
+                "2": {
+                    "type": "Json::Value *"
+                },
+                "3": {
+                    "type": "std::string *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/reader.h",
+                "line": 368,
+                "offset": 15
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 721,
+                "offset": 21
+            },
+            "name": "parseFromStream",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 475,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 734,
+                "offset": 33
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 735,
+                "offset": 10
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 581,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 739,
+                "offset": 51
+            },
+            "name": "begin",
+            "return": "const_iterator"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 582,
+                "offset": 18
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 740,
+                "offset": 50
+            },
+            "name": "end",
+            "return": "const_iterator"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::ValueIteratorBase"
+                },
+                "1": {
+                    "type": "const SelfType"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 755,
+                "offset": 8
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 741,
+                "offset": 16
+            },
+            "name": "operator!=",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::class Value::const_iterator"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 859,
+                "offset": 13
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 741,
+                "offset": 43
+            },
+            "name": "operator++",
+            "return": "SelfType &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::ValueConstIterator"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 864,
+                "offset": 13
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 742,
+                "offset": 35
+            },
+            "name": "operator*",
+            "return": "reference"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 475,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 748,
+                "offset": 36
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 749,
+                "offset": 18
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 750,
+                "offset": 30
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 475,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 766,
+                "offset": 34
+            },
+            "name": "operator[]",
+            "return": "Value &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 407,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 767,
+                "offset": 13
+            },
+            "name": "isString",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pezmaster31@@bamtools/src/toolkit/bamtools_filter.cpp",
+                "line": 768,
+                "offset": 26
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    }
+]

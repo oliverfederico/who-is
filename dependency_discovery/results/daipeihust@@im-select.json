@@ -1,0 +1,1 @@
+{"target": "daipeihust@@im-select", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "im", "version": null, "version_op": null, "unified_name": "im", "extractor_type": "cmake", "context": "project(im-select-mspy)", "confidence": ""}], "type": "cmake", "libs": []}]}

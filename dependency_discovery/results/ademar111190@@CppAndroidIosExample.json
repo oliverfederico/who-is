@@ -1,0 +1,1 @@
+{"target": "ademar111190@@CppAndroidIosExample", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "ademar111190@@CppAndroidIosExample/Android/app/CMakeLists.txt", "content": "find_library(\n    log-lib\n    log\n)"}]}]}

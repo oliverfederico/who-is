@@ -1,0 +1,1 @@
+{"target": "gishi523@@kd-tree", "extractors": [{"deps": [{"depname": "opencv", "version": null, "version_op": null, "unified_name": "opencv", "extractor_type": "cmake", "context": "find_package(opencv required)", "confidence": "High"}], "type": "cmake", "libs": []}]}

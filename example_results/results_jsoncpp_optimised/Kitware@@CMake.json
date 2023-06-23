@@ -1,0 +1,1766 @@
+[
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 402,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 39,
+                "offset": 8
+            },
+            "name": "isBool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 399,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 42,
+                "offset": 8
+            },
+            "name": "asBool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 404,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 47,
+                "offset": 8
+            },
+            "name": "isInt64"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Int64",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 392,
+                "offset": 9
+            },
+            "functionDeclReturn": "Int64",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 50,
+                "offset": 8
+            },
+            "name": "asInt64"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 409,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 55,
+                "offset": 8
+            },
+            "name": "isNumeric"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 398,
+                "offset": 10
+            },
+            "functionDeclReturn": "double",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 58,
+                "offset": 8
+            },
+            "name": "asDouble"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 410,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 63,
+                "offset": 8
+            },
+            "name": "isString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "String",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 384,
+                "offset": 10
+            },
+            "functionDeclReturn": "String",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 66,
+                "offset": 8
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ArrayIndex",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 421,
+                "offset": 14
+            },
+            "functionDeclReturn": "ArrayIndex",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 71,
+                "offset": 14
+            },
+            "name": "size"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const_iterator"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "SelfType",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 845,
+                "offset": 12
+            },
+            "functionDeclReturn": "SelfType",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 72,
+                "offset": 50
+            },
+            "name": "operator++"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const_iterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 584,
+                "offset": 18
+            },
+            "functionDeclReturn": "const_iterator",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 72,
+                "offset": 17
+            },
+            "name": "begin"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::ValueIteratorBase"
+                },
+                "1": {
+                    "type": "const SelfType"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 758,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 72,
+                "offset": 32
+            },
+            "name": "operator!="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const_iterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 585,
+                "offset": 18
+            },
+            "functionDeclReturn": "const_iterator",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 72,
+                "offset": 37
+            },
+            "name": "end"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class Json::ValueConstIterator"
+                }
+            },
+            "callExprReturn": "reference",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 867,
+                "offset": 13
+            },
+            "functionDeclReturn": "reference",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 73,
+                "offset": 28
+            },
+            "name": "operator*"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "String",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 775,
+                "offset": 10
+            },
+            "functionDeclReturn": "String",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 78,
+                "offset": 10
+            },
+            "name": "name"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 402,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 84,
+                "offset": 7
+            },
+            "name": "isBool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 399,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 85,
+                "offset": 23
+            },
+            "name": "asBool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ValueType",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 368,
+                "offset": 13
+            },
+            "functionDeclReturn": "ValueType",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 86,
+                "offset": 14
+            },
+            "name": "type"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 398,
+                "offset": 10
+            },
+            "functionDeclReturn": "double",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 89,
+                "offset": 22
+            },
+            "name": "asDouble"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 404,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 90,
+                "offset": 14
+            },
+            "name": "isInt64"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "Int64",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 392,
+                "offset": 9
+            },
+            "functionDeclReturn": "Int64",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 91,
+                "offset": 23
+            },
+            "name": "asInt64"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 410,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 92,
+                "offset": 14
+            },
+            "name": "isString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "String",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 384,
+                "offset": 10
+            },
+            "functionDeclReturn": "String",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 93,
+                "offset": 10
+            },
+            "name": "asString"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 412,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 94,
+                "offset": 14
+            },
+            "name": "isObject"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 411,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 100,
+                "offset": 14
+            },
+            "name": "isArray"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 401,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 106,
+                "offset": 14
+            },
+            "name": "isNull"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ArrayIndex",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 421,
+                "offset": 14
+            },
+            "functionDeclReturn": "ArrayIndex",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 115,
+                "offset": 10
+            },
+            "name": "size"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 411,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 120,
+                "offset": 8
+            },
+            "name": "isArray"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 412,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 135,
+                "offset": 8
+            },
+            "name": "isObject"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "const Value *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 517,
+                "offset": 16
+            },
+            "functionDeclReturn": "const Value *",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 138,
+                "offset": 16
+            },
+            "name": "find"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "CharReader *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/reader.h",
+                "line": 342,
+                "offset": 15
+            },
+            "functionDeclReturn": "CharReader *",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": true,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 148,
+                "offset": 55
+            },
+            "name": "newCharReader"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                },
+                "2": {
+                    "type": "Json::Value *"
+                },
+                "3": {
+                    "type": "std::string *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/reader.h",
+                "line": 266,
+                "offset": 16
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": true,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": true,
+            "isVirtualCXXMethodDecl": true,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 151,
+                "offset": 8
+            },
+            "name": "parse"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class StreamWriter::Factory"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "callExprReturn": "String",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/writer.h",
+                "line": 74,
+                "offset": 17
+            },
+            "functionDeclReturn": "String",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 173,
+                "offset": 10
+            },
+            "name": "writeString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 177,
+                "offset": 3
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 182,
+                "offset": 3
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 187,
+                "offset": 3
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 192,
+                "offset": 3
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 412,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 197,
+                "offset": 8
+            },
+            "name": "isObject"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Json::Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 198,
+                "offset": 5
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const class std::basic_string<char>"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 484,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 201,
+                "offset": 26
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 211,
+                "offset": 5
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 213,
+                "offset": 5
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 215,
+                "offset": 5
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 217,
+                "offset": 5
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Json::Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 236,
+                "offset": 3
+            },
+            "name": "operator="
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Json::class Value::ArrayIndex"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 448,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 238,
+                "offset": 26
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 484,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 253,
+                "offset": 28
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 530,
+                "offset": 8
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 256,
+                "offset": 9
+            },
+            "name": "removeMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Json::Value"
+                },
+                "1": {
+                    "type": "Json::Value"
+                }
+            },
+            "callExprReturn": "Value &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmjsoncpp/include/json/value.h",
+                "line": 356,
+                "offset": 10
+            },
+            "functionDeclReturn": "Value &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Kitware@@CMake/Utilities/cmcppdap/src/jsoncpp_json_serializer.cpp",
+                "line": 262,
+                "offset": 3
+            },
+            "name": "operator="
+        }
+    }
+]

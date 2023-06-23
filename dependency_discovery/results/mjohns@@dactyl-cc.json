@@ -1,0 +1,1 @@
+{"target": "mjohns@@dactyl-cc", "extractors": [{"deps": [{"depname": "dactyl", "version": null, "version_op": null, "unified_name": "dactyl", "extractor_type": "cmake", "context": "project(dactyl)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

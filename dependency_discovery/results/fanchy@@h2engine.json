@@ -1,0 +1,1 @@
+{"target": "fanchy@@h2engine", "extractors": [{"deps": [{"depname": "h2engine", "version": null, "version_op": null, "unified_name": "h2engine", "extractor_type": "cmake", "context": "project(h2engine)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

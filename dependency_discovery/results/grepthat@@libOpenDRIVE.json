@@ -1,0 +1,1 @@
+{"target": "grepthat@@libOpenDRIVE", "extractors": [{"deps": [{"depname": "libopendrive", "version": "0.3.0", "version_op": null, "unified_name": "opendrive", "extractor_type": "cmake", "context": "project(libopendrive version 0.3.0 description \".xodr library\")", "confidence": "High"}], "type": "cmake", "libs": []}]}

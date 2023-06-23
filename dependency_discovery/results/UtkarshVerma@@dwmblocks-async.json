@@ -1,0 +1,1 @@
+{"target": "UtkarshVerma@@dwmblocks-async", "extractors": [{"deps": [{"depname": "X11", "version": null, "version_op": null, "unified_name": "x11", "extractor_type": "make", "context": "UtkarshVerma@@dwmblocks-async/Makefile:LDLIBS := -lX11", "confidence": "High"}], "type": "make"}]}

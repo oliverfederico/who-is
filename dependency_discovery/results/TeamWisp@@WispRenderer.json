@@ -1,0 +1,1 @@
+{"target": "TeamWisp@@WispRenderer", "extractors": [{"deps": [{"depname": "wisp", "version": null, "version_op": null, "unified_name": "wisp", "extractor_type": "cmake", "context": "project(wisp)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

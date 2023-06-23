@@ -1,0 +1,1 @@
+{"target": "protomaps@@OSMExpress", "extractors": [{"deps": [{"depname": "osmexpress", "version": null, "version_op": null, "unified_name": "osmexpress", "extractor_type": "cmake", "context": "project(osmexpress)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "zxvnme@@zgui", "extractors": [{"deps": [{"depname": "zgui", "version": null, "version_op": null, "unified_name": "zgui", "extractor_type": "cmake", "context": "project(zgui cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

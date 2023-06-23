@@ -1,0 +1,1 @@
+{"target": "ricab@@scope_guard", "extractors": [{"deps": [{"depname": "scope_guard", "version": null, "version_op": null, "unified_name": "scope_guard", "extractor_type": "cmake", "context": "project(scope_guard)", "confidence": ""}], "type": "cmake", "libs": []}]}

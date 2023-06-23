@@ -1,0 +1,1 @@
+{"target": "Atmosphere-NX@@Atmosphere-libs", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

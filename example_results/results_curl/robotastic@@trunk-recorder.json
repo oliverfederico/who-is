@@ -1,0 +1,1730 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "char *"
+                },
+                "6": {
+                    "type": "int"
+                },
+                "7": {
+                    "type": "const char *"
+                },
+                "8": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/openmhz_uploader/openmhz_uploader.cc",
+                "line": 111,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/openmhz_uploader/openmhz_uploader.cc",
+                "line": 118,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/openmhz_uploader/openmhz_uploader.cc",
+                "line": 124,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/openmhz_uploader/openmhz_uploader.cc",
+                "line": 130,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/openmhz_uploader/openmhz_uploader.cc",
+                "line": 148,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/openmhz_uploader/openmhz_uploader.cc",
+                "line": 166,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/openmhz_uploader/openmhz_uploader.cc",
+                "line": 172,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/openmhz_uploader/openmhz_uploader.cc",
+                "line": 182,
+                "offset": 18
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2529,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/openmhz_uploader/openmhz_uploader.cc",
+                "line": 274,
+                "offset": 7
+            },
+            "name": "curl_formfree"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2706,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/openmhz_uploader/openmhz_uploader.cc",
+                "line": 277,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2706,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 108,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 96,
+                "offset": 17
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 98,
+                "offset": 17
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 100,
+                "offset": 17
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "char *"
+                },
+                "6": {
+                    "type": "int"
+                },
+                "7": {
+                    "type": "const char *"
+                },
+                "8": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 137,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 145,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 157,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 163,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 151,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 173,
+                "offset": 18
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2529,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 266,
+                "offset": 7
+            },
+            "name": "curl_formfree"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2706,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 269,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 3043,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/broadcastify_uploader/broadcastify_uploader.cc",
+                "line": 305,
+                "offset": 190
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "char *"
+                },
+                "6": {
+                    "type": "int"
+                },
+                "7": {
+                    "type": "const char *"
+                },
+                "8": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 161,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const value_type *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 168,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 174,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 186,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 192,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 198,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 204,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 240,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 246,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost **"
+                },
+                "1": {
+                    "type": "struct curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2495,
+                "offset": 26
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 252,
+                "offset": 5
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2696,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 262,
+                "offset": 18
+            },
+            "name": "curl_slist_append"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_httppost *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2529,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 351,
+                "offset": 7
+            },
+            "name": "curl_formfree"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/x86_64-linux-gnu/curl/curl.h",
+                "line": 2706,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/robotastic@@trunk-recorder/plugins/rdioscanner_uploader/rdioscanner_uploader.cc",
+                "line": 354,
+                "offset": 7
+            },
+            "name": "curl_slist_free_all"
+        }
+    }
+]

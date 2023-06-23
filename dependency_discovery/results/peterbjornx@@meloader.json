@@ -1,0 +1,1 @@
+{"target": "peterbjornx@@meloader", "extractors": [{"deps": [{"depname": "meloader", "version": null, "version_op": null, "unified_name": "meloader", "extractor_type": "cmake", "context": "project(meloader c)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "GRAYKEY@@mobilefacenet_android", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "GRAYKEY@@mobilefacenet_android/app/CMakeLists.txt", "content": "find_library(  log-lib log )"}]}]}

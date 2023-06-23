@@ -1,0 +1,1 @@
+{"target": "adafruit@@Adafruit_BusIO", "extractors": [{"deps": [{"depname": "adafruit_busio", "version": null, "version_op": null, "unified_name": "adafruit_busio", "extractor_type": "cmake", "context": "project(adafruit_busio)", "confidence": ""}], "type": "cmake", "libs": []}]}

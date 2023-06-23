@@ -1,0 +1,1 @@
+{"target": "nemtrif@@utfcpp", "extractors": [{"deps": [{"depname": "utf8cpp", "version": "3.2.2", "version_op": null, "unified_name": "utf8cpp", "extractor_type": "cmake", "context": "project (utf8cpp version 3.2.2 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

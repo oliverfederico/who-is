@@ -1,0 +1,1 @@
+{"target": "willemt@@cbuffer", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "circular buffer", "version": "0.0.1", "version_op": null, "unified_name": "circular buffer", "extractor_type": "clib", "context": "willemt@@cbuffer/package.json", "confidence": "High"}], "type": "clib"}]}

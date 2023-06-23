@@ -1,0 +1,1 @@
+{"target": "nowrep@@vita-shellbat", "extractors": [{"deps": [{"depname": "shellbat", "version": null, "version_op": null, "unified_name": "shellbat", "extractor_type": "cmake", "context": "project(shellbat)", "confidence": ""}], "type": "cmake", "libs": []}]}

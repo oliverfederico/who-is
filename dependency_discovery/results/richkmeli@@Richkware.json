@@ -1,0 +1,1 @@
+{"target": "richkmeli@@Richkware", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "richkware", "version": null, "version_op": null, "unified_name": "richkware", "extractor_type": "cmake", "context": "project(richkware)", "confidence": ""}], "type": "cmake", "libs": []}]}

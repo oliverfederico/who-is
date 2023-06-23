@@ -1,0 +1,1 @@
+{"target": "jll63@@yomm11", "extractors": [{"deps": [{"depname": "yomm11", "version": null, "version_op": null, "unified_name": "yomm11", "extractor_type": "cmake", "context": "project (yomm11)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

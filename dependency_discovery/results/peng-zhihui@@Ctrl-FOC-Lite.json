@@ -1,0 +1,1 @@
+{"target": "peng-zhihui@@Ctrl-FOC-Lite", "extractors": [{"deps": [{"depname": "ctrl", "version": null, "version_op": null, "unified_name": "ctrl", "extractor_type": "cmake", "context": "project(ctrl-foc-lite-fw c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

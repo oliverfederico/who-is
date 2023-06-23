@@ -1,0 +1,1 @@
+{"target": "JanosGit@@Schrammel_OJD", "extractors": [{"deps": [{"depname": "schrammel_ojd", "version": "0.9.8", "version_op": null, "unified_name": "schrammel_ojd", "extractor_type": "cmake", "context": "project (schrammel_ojd version 0.9.8)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

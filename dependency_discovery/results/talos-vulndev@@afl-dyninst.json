@@ -1,0 +1,1 @@
+{"target": "talos-vulndev@@afl-dyninst", "extractors": [{"deps": [], "type": "make"}]}

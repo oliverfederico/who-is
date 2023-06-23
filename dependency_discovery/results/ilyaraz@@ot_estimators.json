@@ -1,0 +1,1 @@
+{"target": "ilyaraz@@ot_estimators", "extractors": [{"deps": [{"depname": "otestimators", "version": null, "version_op": null, "unified_name": "otestimators", "extractor_type": "cmake", "context": "project(otestimators)", "confidence": ""}], "type": "cmake", "libs": []}]}

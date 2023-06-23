@@ -1,0 +1,1 @@
+{"target": "FlyGoat@@RyzenAdj", "extractors": [{"deps": [{"depname": "ryzenadj", "version": null, "version_op": null, "unified_name": "ryzenadj", "extractor_type": "cmake", "context": "project(ryzenadj)", "confidence": ""}], "type": "cmake", "libs": []}]}

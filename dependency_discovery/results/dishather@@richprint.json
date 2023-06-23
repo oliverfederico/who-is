@@ -1,0 +1,1 @@
+{"target": "dishather@@richprint", "extractors": [{"deps": [{"depname": "richprint", "version": null, "version_op": null, "unified_name": "richprint", "extractor_type": "cmake", "context": "project( richprint )", "confidence": ""}], "type": "cmake", "libs": []}]}

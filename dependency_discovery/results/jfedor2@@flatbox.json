@@ -1,0 +1,1 @@
+{"target": "jfedor2@@flatbox", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "flatbox", "version": null, "version_op": null, "unified_name": "flatbox", "extractor_type": "cmake", "context": "project(flatbox)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "tenox7@@ttyplot", "extractors": [{"deps": [{"depname": "tinfo'`", "version": null, "version_op": null, "unified_name": "tinfo'`", "extractor_type": "make", "context": "tenox7@@ttyplot/Makefile:LDLIBS += `pkg-config --libs ncurses 2>/dev/null || echo '-lcurses -ltinfo'`", "confidence": "High"}], "type": "make"}]}

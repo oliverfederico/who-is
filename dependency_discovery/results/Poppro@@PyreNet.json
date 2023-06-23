@@ -1,0 +1,1 @@
+{"target": "Poppro@@PyreNet", "extractors": [{"deps": [{"depname": "pyrenet", "version": null, "version_op": null, "unified_name": "pyrenet", "extractor_type": "cmake", "context": "project(pyrenet)", "confidence": ""}], "type": "cmake", "libs": []}]}

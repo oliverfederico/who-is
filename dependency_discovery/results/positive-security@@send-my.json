@@ -1,0 +1,1 @@
+{"target": "positive-security@@send-my", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "openhaystack", "version": null, "version_op": null, "unified_name": "openhaystack", "extractor_type": "cmake", "context": "project(openhaystack)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

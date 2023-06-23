@@ -1,0 +1,1 @@
+{"target": "google@@ihmehimmeli", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "tempcoding", "version": null, "version_op": null, "unified_name": "tempcoding", "extractor_type": "cmake", "context": "project(tempcoding)", "confidence": ""}], "type": "cmake", "libs": []}]}

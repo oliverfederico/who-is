@@ -1,0 +1,1 @@
+{"target": "mattbierner@@STT-C-Compile-Time-Snake", "extractors": [{"deps": [{"depname": "stt", "version": null, "version_op": null, "unified_name": "stt", "extractor_type": "cmake", "context": "project(stt-snake)", "confidence": ""}], "type": "cmake", "libs": []}]}

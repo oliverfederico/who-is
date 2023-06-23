@@ -1,0 +1,1 @@
+{"target": "nvim-telescope@@telescope-fzf-native.nvim", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "fzf", "version": null, "version_op": null, "unified_name": "fzf", "extractor_type": "cmake", "context": "project(fzf languages c)", "confidence": ""}], "type": "cmake", "libs": []}]}

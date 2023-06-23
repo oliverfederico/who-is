@@ -1,0 +1,1 @@
+{"target": "TeamHypersomnia@@rectpack2D", "extractors": [{"deps": [{"depname": "rectpack2d", "version": null, "version_op": null, "unified_name": "rectpack2d", "extractor_type": "cmake", "context": "project(rectpack2d)", "confidence": ""}], "type": "cmake", "libs": []}]}

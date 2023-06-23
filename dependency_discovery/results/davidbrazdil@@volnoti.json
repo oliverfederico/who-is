@@ -1,0 +1,1 @@
+{"target": "davidbrazdil@@volnoti", "extractors": [{"deps": [{"depname": "volnoti", "version": "0.2", "version_op": null, "unified_name": "volnoti", "extractor_type": "autoconf", "context": "AC_INIT([volnoti], [0.2], [])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

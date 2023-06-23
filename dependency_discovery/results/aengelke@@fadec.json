@@ -1,0 +1,1 @@
+{"target": "aengelke@@fadec", "extractors": [{"deps": [{"depname": "fadec", "version": null, "version_op": null, "unified_name": "fadec", "extractor_type": "meson", "context": "aengelke@@fadec/meson.build", "confidence": "High"}], "type": "meson"}]}

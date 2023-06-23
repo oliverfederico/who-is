@@ -1,0 +1,1 @@
+{"target": "mtrebi@@thread-pool", "extractors": [{"deps": [{"depname": "thread", "version": null, "version_op": null, "unified_name": "thread", "extractor_type": "cmake", "context": "project (thread-pool)", "confidence": ""}], "type": "cmake", "libs": []}]}

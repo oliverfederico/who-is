@@ -1,0 +1,1 @@
+{"target": "jiejieTop@@DoraOS", "extractors": [{"deps": [{"depname": "doxygen", "version": null, "version_op": null, "unified_name": "doxygen", "extractor_type": "cmake", "context": "find_package(doxygen)", "confidence": "High"}], "type": "cmake", "libs": []}]}

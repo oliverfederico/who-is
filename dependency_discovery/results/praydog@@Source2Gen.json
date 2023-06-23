@@ -1,0 +1,1 @@
+{"target": "praydog@@Source2Gen", "extractors": [{"deps": [{"depname": "source2gen", "version": null, "version_op": null, "unified_name": "source2gen", "extractor_type": "cmake", "context": "project(source2gen)", "confidence": ""}], "type": "cmake", "libs": []}]}

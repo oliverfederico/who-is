@@ -1,0 +1,1 @@
+{"target": "sunshaoce@@rvcc", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "rvcc", "version": null, "version_op": null, "unified_name": "rvcc", "extractor_type": "cmake", "context": "project( rvcc c )", "confidence": ""}], "type": "cmake", "libs": []}]}

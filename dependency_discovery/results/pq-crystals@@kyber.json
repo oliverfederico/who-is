@@ -1,0 +1,1 @@
+{"target": "pq-crystals@@kyber", "extractors": [{"deps": [{"depname": "kyber", "version": null, "version_op": null, "unified_name": "kyber", "extractor_type": "cmake", "context": "project(kyber c asm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}]}

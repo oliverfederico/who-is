@@ -1,0 +1,1 @@
+{"target": "fvollmer@@open-desk-lamp-firmware", "extractors": [{"deps": [{"depname": "xiaomi_desk_lamp", "version": null, "version_op": null, "unified_name": "xiaomi_desk_lamp", "extractor_type": "cmake", "context": "project(xiaomi_desk_lamp languages c)", "confidence": ""}], "type": "cmake", "libs": []}]}

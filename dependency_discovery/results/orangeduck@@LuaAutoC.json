@@ -1,0 +1,1 @@
+{"target": "orangeduck@@LuaAutoC", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "LuaAutoC", "version": "2.0.1", "version_op": null, "unified_name": "luaautoc", "extractor_type": "clib", "context": "orangeduck@@LuaAutoC/package.json", "confidence": "High"}], "type": "clib"}]}

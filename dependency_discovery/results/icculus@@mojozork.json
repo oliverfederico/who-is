@@ -1,0 +1,1 @@
+{"target": "icculus@@mojozork", "extractors": [{"deps": [{"depname": "mojozork", "version": null, "version_op": null, "unified_name": "mojozork", "extractor_type": "cmake", "context": "project(mojozork)", "confidence": ""}], "type": "cmake", "libs": []}]}

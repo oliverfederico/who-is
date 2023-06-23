@@ -1,0 +1,1 @@
+{"target": "ChunelFeng@@CThreadPool", "extractors": [{"deps": [{"depname": "cthreadpool", "version": "1.2.0", "version_op": null, "unified_name": "cthreadpool", "extractor_type": "cmake", "context": "project(cthreadpool version 1.2.0)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

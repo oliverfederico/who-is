@@ -1,0 +1,1 @@
+{"target": "takemaru@@graphillion", "extractors": [{"deps": [{"depname": "graphillion", "version": null, "version_op": null, "unified_name": "graphillion", "extractor_type": "cmake", "context": "project(graphillion)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "nmslib@@hnswlib", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "hnsw_lib", "version": null, "version_op": null, "unified_name": "hnsw_lib", "extractor_type": "cmake", "context": "project(hnsw_lib\n    languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

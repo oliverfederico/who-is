@@ -1,0 +1,1 @@
+{"target": "byungsook@@vectornet", "extractors": [{"deps": [{"depname": "gco", "version": null, "version_op": null, "unified_name": "gco", "extractor_type": "cmake", "context": "project(gco)", "confidence": ""}], "type": "cmake", "libs": []}]}

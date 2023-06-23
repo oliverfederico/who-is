@@ -1,0 +1,367 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "long"
+                }
+            },
+            "callExprReturn": "CURLcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/build/vcpkg_installed/x64-linux/include/curl/curl.h",
+                "line": 2696,
+                "offset": 22
+            },
+            "functionDeclReturn": "CURLcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/Dice/Dice.cpp",
+                "line": 230,
+                "offset": 8
+            },
+            "name": "curl_global_init"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/build/vcpkg_installed/x64-linux/include/curl/curl.h",
+                "line": 2726,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/Dice/Dice.cpp",
+                "line": 1068,
+                "offset": 2
+            },
+            "name": "curl_global_cleanup"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_httppost **"
+                },
+                "1": {
+                    "type": "curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/build/vcpkg_installed/x64-linux/include/curl/curl.h",
+                "line": 2579,
+                "offset": 1
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/Dice/DiceJob.cpp",
+                "line": 478,
+                "offset": 2
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_httppost *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/build/vcpkg_installed/x64-linux/include/curl/curl.h",
+                "line": 2615,
+                "offset": 1
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/Dice/DiceJob.cpp",
+                "line": 494,
+                "offset": 2
+            },
+            "name": "curl_formfree"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "curl_httppost **"
+                },
+                "1": {
+                    "type": "curl_httppost **"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "const char *"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "const char *"
+                },
+                "6": {
+                    "type": "int"
+                },
+                "7": {
+                    "type": "const char *"
+                },
+                "8": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "CURLFORMcode",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/build/vcpkg_installed/x64-linux/include/curl/curl.h",
+                "line": 2579,
+                "offset": 1
+            },
+            "functionDeclReturn": "CURLFORMcode",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": true,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/Dice/DiceJob.cpp",
+                "line": 482,
+                "offset": 2
+            },
+            "name": "curl_formadd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/build/vcpkg_installed/x64-linux/include/curl/curl.h",
+                "line": 3155,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/Dice/DiceJob.cpp",
+                "line": 493,
+                "offset": 37
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "CURLcode"
+                }
+            },
+            "callExprReturn": "const char *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/build/vcpkg_installed/x64-linux/include/curl/curl.h",
+                "line": 3155,
+                "offset": 25
+            },
+            "functionDeclReturn": "const char *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/Dice/DiceNetwork.cpp",
+                "line": 115,
+                "offset": 10
+            },
+            "name": "curl_easy_strerror"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/build/vcpkg_installed/x64-linux/include/curl/curl.h",
+                "line": 2794,
+                "offset": 18
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/Dice/DiceNetwork.cpp",
+                "line": 258,
+                "offset": 4
+            },
+            "name": "curl_slist_free_all"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "struct curl_slist *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "struct curl_slist *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/build/vcpkg_installed/x64-linux/include/curl/curl.h",
+                "line": 2784,
+                "offset": 32
+            },
+            "functionDeclReturn": "struct curl_slist *",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Dice-Developer-Team@@Dice/Dice/DiceNetwork.cpp",
+                "line": 242,
+                "offset": 13
+            },
+            "name": "curl_slist_append"
+        }
+    }
+]

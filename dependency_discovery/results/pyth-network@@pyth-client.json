@@ -1,0 +1,1 @@
+{"target": "pyth-network@@pyth-client", "extractors": [{"deps": [{"depname": "pyth", "version": null, "version_op": null, "unified_name": "pyth", "extractor_type": "cmake", "context": "project( pyth-client )", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

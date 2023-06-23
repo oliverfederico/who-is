@@ -1,0 +1,1 @@
+{"target": "lvonasek@@tango", "extractors": [{"deps": [{"depname": "libjpeg-turbo", "version": "1.4.1", "version_op": null, "unified_name": "jpeg-turbo", "extractor_type": "autoconf", "context": "AC_INIT([libjpeg-turbo], [1.4.1])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "Chobolabs@@chobo-shl", "extractors": [{"deps": [{"depname": "chobo", "version": null, "version_op": null, "unified_name": "chobo", "extractor_type": "cmake", "context": "project(chobo-shl-test)", "confidence": ""}], "type": "cmake", "libs": []}]}

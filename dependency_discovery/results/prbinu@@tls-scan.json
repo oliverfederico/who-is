@@ -1,0 +1,1 @@
+{"target": "prbinu@@tls-scan", "extractors": [{"deps": [{"depname": "tls-scan", "version": "1.4.1", "version_op": null, "unified_name": "tls-scan", "extractor_type": "autoconf", "context": "AC_INIT([tls-scan], [1.4.1], [])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

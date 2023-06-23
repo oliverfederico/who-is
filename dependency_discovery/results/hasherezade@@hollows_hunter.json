@@ -1,0 +1,1 @@
+{"target": "hasherezade@@hollows_hunter", "extractors": [{"deps": [{"depname": "hollows_hunter", "version": null, "version_op": null, "unified_name": "hollows_hunter", "extractor_type": "cmake", "context": "project (hollows_hunter)", "confidence": ""}], "type": "cmake", "libs": []}]}

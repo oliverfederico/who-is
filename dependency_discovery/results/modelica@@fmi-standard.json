@@ -1,0 +1,1 @@
+{"target": "modelica@@fmi-standard", "extractors": [{"deps": [{"depname": "snippets", "version": null, "version_op": null, "unified_name": "snippets", "extractor_type": "cmake", "context": "project (snippets)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "sgorsten@@linalg", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "linalg", "version": null, "version_op": null, "unified_name": "linalg", "extractor_type": "cmake", "context": "project(linalg)", "confidence": ""}], "type": "cmake", "libs": []}]}

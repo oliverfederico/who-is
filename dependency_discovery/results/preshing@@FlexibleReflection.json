@@ -1,0 +1,1 @@
+{"target": "preshing@@FlexibleReflection", "extractors": [{"deps": [{"depname": "flexiblereflection", "version": null, "version_op": null, "unified_name": "flexiblereflection", "extractor_type": "cmake", "context": "project(flexiblereflection)", "confidence": ""}], "type": "cmake", "libs": []}]}

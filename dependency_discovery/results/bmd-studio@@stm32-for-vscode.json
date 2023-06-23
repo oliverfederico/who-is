@@ -1,0 +1,1 @@
+{"target": "bmd-studio@@stm32-for-vscode", "extractors": [{"deps": [], "type": "clib"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

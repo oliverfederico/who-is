@@ -1,0 +1,1 @@
+{"target": "kingyoPiyo@@Pico-10BASE-T", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "pico", "version": null, "version_op": null, "unified_name": "pico", "extractor_type": "cmake", "context": "project(pico-10base-t)", "confidence": ""}], "type": "cmake", "libs": []}]}

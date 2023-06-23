@@ -1,0 +1,1 @@
+{"target": "tj@@mon", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "mon", "version": "1.2.2", "version_op": null, "unified_name": "mon", "extractor_type": "clib", "context": "tj@@mon/package.json", "confidence": "High"}], "type": "clib"}]}

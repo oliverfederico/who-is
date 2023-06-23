@@ -1,0 +1,1 @@
+{"target": "aiekick@@ImGuiFileDialog", "extractors": [{"deps": [{"depname": "imguifiledialog", "version": null, "version_op": null, "unified_name": "imguifiledialog", "extractor_type": "cmake", "context": "project(imguifiledialog)", "confidence": ""}], "type": "cmake", "libs": []}]}

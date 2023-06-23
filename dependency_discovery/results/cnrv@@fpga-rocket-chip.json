@@ -1,0 +1,1 @@
+{"target": "cnrv@@fpga-rocket-chip", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "wind2412@@wind_jvm", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "wind_jvm", "version": null, "version_op": null, "unified_name": "wind_jvm", "extractor_type": "cmake", "context": "project(wind_jvm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

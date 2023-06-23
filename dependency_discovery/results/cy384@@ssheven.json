@@ -1,0 +1,1 @@
+{"target": "cy384@@ssheven", "extractors": [{"deps": [{"depname": "ssheven", "version": null, "version_op": null, "unified_name": "ssheven", "extractor_type": "cmake", "context": "project(ssheven)", "confidence": ""}], "type": "cmake", "libs": []}]}

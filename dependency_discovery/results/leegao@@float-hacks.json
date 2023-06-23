@@ -1,0 +1,1 @@
+{"target": "leegao@@float-hacks", "extractors": [{"deps": [{"depname": "fast_inverse_cube_root", "version": null, "version_op": null, "unified_name": "fast_inverse_cube_root", "extractor_type": "cmake", "context": "project(fast_inverse_cube_root)", "confidence": ""}], "type": "cmake", "libs": []}]}

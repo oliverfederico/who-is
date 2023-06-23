@@ -1,0 +1,1 @@
+{"target": "ArosyW@@JVM", "extractors": [{"deps": [{"depname": "jvm", "version": null, "version_op": null, "unified_name": "jvm", "extractor_type": "cmake", "context": "project(jvm)", "confidence": ""}], "type": "cmake", "libs": []}]}

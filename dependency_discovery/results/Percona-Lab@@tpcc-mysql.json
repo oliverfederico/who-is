@@ -1,0 +1,1 @@
+{"target": "Percona-Lab@@tpcc-mysql", "extractors": [{"deps": [], "type": "make"}]}

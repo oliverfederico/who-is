@@ -1,0 +1,1 @@
+{"target": "perl11@@potion", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

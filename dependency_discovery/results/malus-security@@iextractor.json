@@ -1,0 +1,1 @@
+{"target": "malus-security@@iextractor", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "crypto", "version": null, "version_op": null, "unified_name": "crypto", "extractor_type": "make", "context": "malus-security@@iextractor/tools/vfdecrypt/Makefile:LDLIBS = -lcrypto", "confidence": "High"}], "type": "make"}]}

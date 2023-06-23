@@ -1,0 +1,1 @@
+{"target": "UKTailwind@@PicoMite", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "test_project", "version": null, "version_op": null, "unified_name": "test_project", "extractor_type": "cmake", "context": "project(test_project c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}]}

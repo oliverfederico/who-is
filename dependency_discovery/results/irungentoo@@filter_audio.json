@@ -1,0 +1,1 @@
+{"target": "irungentoo@@filter_audio", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "filteraudio", "version": "__VERSION__", "version_op": "=", "unified_name": "filteraudio", "extractor_type": "pkgconfig", "context": "irungentoo@@filter_audio/filteraudio.pc", "confidence": "High"}], "type": "pkgconfig"}]}

@@ -1,0 +1,1 @@
+{"target": "msuiche@@porosity", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "ms"}, {"deps": [], "type": "cmake", "libs": []}]}

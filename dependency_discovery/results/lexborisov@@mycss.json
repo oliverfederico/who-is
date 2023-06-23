@@ -1,0 +1,1 @@
+{"target": "lexborisov@@mycss", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "mycss", "version": null, "version_op": null, "unified_name": "mycss", "extractor_type": "cmake", "context": "project(mycss)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

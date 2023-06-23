@@ -1,0 +1,1 @@
+{"target": "jibsen@@tinf", "extractors": [{"deps": [{"depname": "tinf", "version": null, "version_op": null, "unified_name": "tinf", "extractor_type": "cmake", "context": "project(tinf c)", "confidence": ""}], "type": "cmake", "libs": []}]}

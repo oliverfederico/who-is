@@ -1,0 +1,1 @@
+{"target": "royhills@@arp-scan", "extractors": [{"deps": [{"depname": "arp-scan", "version": "1.10.1-git", "version_op": null, "unified_name": "arp-scan", "extractor_type": "autoconf", "context": "AC_INIT([arp-scan],[1.10.1-git],[https://github.com/royhills/arp-scan])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

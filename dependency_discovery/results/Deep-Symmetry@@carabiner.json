@@ -1,0 +1,1 @@
+{"target": "Deep-Symmetry@@carabiner", "extractors": [{"deps": [{"depname": "carabiner", "version": null, "version_op": null, "unified_name": "carabiner", "extractor_type": "cmake", "context": "project(carabiner)", "confidence": ""}], "type": "cmake", "libs": []}]}

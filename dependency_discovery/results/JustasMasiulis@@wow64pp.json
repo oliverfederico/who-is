@@ -1,0 +1,1 @@
+{"target": "JustasMasiulis@@wow64pp", "extractors": [{"deps": [{"depname": "wow64pp", "version": null, "version_op": null, "unified_name": "wow64pp", "extractor_type": "cmake", "context": "project(wow64pp)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

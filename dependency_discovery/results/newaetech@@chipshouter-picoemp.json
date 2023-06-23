@@ -1,0 +1,1 @@
+{"target": "newaetech@@chipshouter-picoemp", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "picoemp", "version": null, "version_op": null, "unified_name": "picoemp", "extractor_type": "cmake", "context": "project(picoemp)", "confidence": ""}], "type": "cmake", "libs": []}]}

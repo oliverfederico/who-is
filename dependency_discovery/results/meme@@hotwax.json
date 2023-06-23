@@ -1,0 +1,1 @@
+{"target": "meme@@hotwax", "extractors": [{"deps": [{"depname": "threads", "version": null, "version_op": null, "unified_name": "threads", "extractor_type": "meson", "context": "meme@@hotwax/meson.build", "confidence": "High"}], "type": "meson"}, {"deps": [], "type": "meson"}]}

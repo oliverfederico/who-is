@@ -1,0 +1,1 @@
+{"target": "chendotjs@@lotos", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "lotos", "version": null, "version_op": null, "unified_name": "lotos", "extractor_type": "cmake", "context": "project(lotos)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

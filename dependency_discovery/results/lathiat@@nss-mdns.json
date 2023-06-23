@@ -1,0 +1,1 @@
+{"target": "lathiat@@nss-mdns", "extractors": [{"deps": [{"depname": "nss-mdns", "version": "0.15.1", "version_op": null, "unified_name": "nss-mdns", "extractor_type": "autoconf", "context": "AC_INIT([nss-mdns],[0.15.1],[https://github.com/lathiat/nss-mdns/issues])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

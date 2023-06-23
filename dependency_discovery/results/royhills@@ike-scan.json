@@ -1,0 +1,1 @@
+{"target": "royhills@@ike-scan", "extractors": [{"deps": [{"depname": "ike-scan", "version": "1.9.6", "version_op": null, "unified_name": "ike-scan", "extractor_type": "autoconf", "context": "AC_INIT([ike-scan],[1.9.6],[https://github.com/royhills/ike-scan])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

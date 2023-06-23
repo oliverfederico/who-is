@@ -1,0 +1,1 @@
+{"target": "richgel999@@bc7enc", "extractors": [{"deps": [{"depname": "bc7enc", "version": null, "version_op": null, "unified_name": "bc7enc", "extractor_type": "cmake", "context": "project(bc7enc)", "confidence": ""}], "type": "cmake", "libs": []}]}

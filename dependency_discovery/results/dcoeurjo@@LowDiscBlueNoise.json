@@ -1,0 +1,1 @@
+{"target": "dcoeurjo@@LowDiscBlueNoise", "extractors": [{"deps": [{"depname": "lowdiscbluenoise", "version": null, "version_op": null, "unified_name": "lowdiscbluenoise", "extractor_type": "cmake", "context": "project(lowdiscbluenoise)", "confidence": ""}], "type": "cmake", "libs": []}]}

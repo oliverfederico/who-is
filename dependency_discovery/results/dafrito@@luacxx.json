@@ -1,0 +1,1 @@
+{"target": "dafrito@@luacxx", "extractors": [{"deps": [{"depname": "luacxx", "version": "3.0", "version_op": null, "unified_name": "luacxx", "extractor_type": "autoconf", "context": "AC_INIT([luacxx], [3.0], [dafrito@gmail.com], [luacxx], [http://www.github.com/dafrito/luacxx])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

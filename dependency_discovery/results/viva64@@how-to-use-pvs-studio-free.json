@@ -1,0 +1,1 @@
+{"target": "viva64@@how-to-use-pvs-studio-free", "extractors": [{"deps": [{"depname": "how", "version": null, "version_op": null, "unified_name": "how", "extractor_type": "cmake", "context": "project(how-to-use-pvs-studio-free cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

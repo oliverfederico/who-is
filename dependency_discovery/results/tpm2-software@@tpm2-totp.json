@@ -1,0 +1,1 @@
+{"target": "tpm2-software@@tpm2-totp", "extractors": [{"deps": [{"depname": "tpm2-totp", "version": "m4_esyscmd_s([cat ./VERSION", "version_op": null, "unified_name": "tpm2-totp", "extractor_type": "autoconf", "context": "AC_INIT([tpm2-totp],\n        [m4_esyscmd_s([cat ./VERSION])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

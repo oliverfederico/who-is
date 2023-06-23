@@ -1,0 +1,1 @@
+{"target": "canokeys@@canokey-stm32", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "canokey", "version": null, "version_op": null, "unified_name": "canokey", "extractor_type": "cmake", "context": "project(canokey c asm)", "confidence": ""}], "type": "cmake", "libs": []}]}

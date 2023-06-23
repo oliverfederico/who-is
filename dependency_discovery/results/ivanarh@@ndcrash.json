@@ -1,0 +1,1 @@
+{"target": "ivanarh@@ndcrash", "extractors": [{"deps": [{"depname": "ndcrash", "version": null, "version_op": null, "unified_name": "ndcrash", "extractor_type": "cmake", "context": "project(ndcrash)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "ea@@bosch_headunit_root", "extractors": [{"deps": [{"depname": "dl", "version": null, "version_op": null, "unified_name": "dl", "extractor_type": "make", "context": "ea@@bosch_headunit_root/rtos_interaction/Makefile:LDLIBS = -ldl", "confidence": "High"}], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "nldzsz@@ffmpeg-demo", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "nldzsz@@ffmpeg-demo/demo-android/app/CMakeLists.txt", "content": "find_library( \n              log-lib\n              \n              \n              log )"}]}]}

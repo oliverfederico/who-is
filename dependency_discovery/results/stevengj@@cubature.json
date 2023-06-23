@@ -1,0 +1,1 @@
+{"target": "stevengj@@cubature", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "cubature", "version": null, "version_op": null, "unified_name": "cubature", "extractor_type": "cmake", "context": "project( cubature )", "confidence": ""}], "type": "cmake", "libs": []}]}

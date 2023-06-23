@@ -1,0 +1,1 @@
+{"target": "saccharineboi@@CursedGL", "extractors": [{"deps": [{"depname": "cursedgl", "version": null, "version_op": null, "unified_name": "cursedgl", "extractor_type": "cmake", "context": "project(cursedgl)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "wysaid@@android-gpuimage-plus", "extractors": [{"deps": [{"depname": "cge", "version": null, "version_op": null, "unified_name": "cge", "extractor_type": "cmake", "context": "project(cge)", "confidence": ""}], "type": "cmake", "libs": []}]}

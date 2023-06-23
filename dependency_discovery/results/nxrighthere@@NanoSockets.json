@@ -1,0 +1,1 @@
+{"target": "nxrighthere@@NanoSockets", "extractors": [{"deps": [{"depname": "nanosockets", "version": null, "version_op": null, "unified_name": "nanosockets", "extractor_type": "cmake", "context": "project(nanosockets c)", "confidence": ""}], "type": "cmake", "libs": []}]}

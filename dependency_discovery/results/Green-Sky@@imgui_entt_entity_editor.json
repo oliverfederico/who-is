@@ -1,0 +1,1 @@
+{"target": "Green-Sky@@imgui_entt_entity_editor", "extractors": [{"deps": [{"depname": "imgui_entt_entity_editor", "version": null, "version_op": null, "unified_name": "imgui_entt_entity_editor", "extractor_type": "cmake", "context": "project(imgui_entt_entity_editor cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

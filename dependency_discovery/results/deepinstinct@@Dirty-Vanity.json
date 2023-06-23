@@ -1,0 +1,1 @@
+{"target": "deepinstinct@@Dirty-Vanity", "extractors": [{"deps": [{"depname": "%(AdditionalDependencies)", "version": null, "version_op": null, "unified_name": "%(additionaldependencies)", "extractor_type": "ms", "context": "deepinstinct@@Dirty-Vanity/DirtyVanity/DirtyVanity.vcxproj", "confidence": "High"}], "type": "ms"}, {"deps": [], "type": "ms"}]}

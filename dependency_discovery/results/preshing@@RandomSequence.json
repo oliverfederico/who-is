@@ -1,0 +1,1 @@
+{"target": "preshing@@RandomSequence", "extractors": [{"deps": [{"depname": "randomsequence", "version": null, "version_op": null, "unified_name": "randomsequence", "extractor_type": "cmake", "context": "project(randomsequence)", "confidence": ""}], "type": "cmake", "libs": []}]}

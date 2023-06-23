@@ -1,0 +1,1 @@
+{"target": "r-barnes@@dggridR", "extractors": [{"deps": [{"depname": "dggridr", "version": null, "version_op": null, "unified_name": "dggridr", "extractor_type": "cmake", "context": "project(dggridr\n  languages c cxx\n)", "confidence": ""}], "type": "cmake", "libs": []}]}

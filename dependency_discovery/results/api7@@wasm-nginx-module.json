@@ -1,0 +1,1 @@
+{"target": "api7@@wasm-nginx-module", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}]}

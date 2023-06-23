@@ -1,0 +1,1 @@
+{"target": "devnoname120@@vitabright", "extractors": [{"deps": [{"depname": "vitabright", "version": null, "version_op": null, "unified_name": "vitabright", "extractor_type": "cmake", "context": "project(vitabright)", "confidence": ""}], "type": "cmake", "libs": []}]}

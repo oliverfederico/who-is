@@ -1,0 +1,917 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[18]",
+                    "value": "aces tone mapping"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/tracer/src/core/post_processor/aces.cpp",
+                "line": 59,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const int"
+                },
+                "2": {
+                    "type": "const int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/tracer/src/core/post_processor/resize_img.cpp",
+                "line": 35,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/tracer/src/core/post_processor/save_gbuffer.cpp",
+                "line": 17,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/tracer/src/core/post_processor/save_gbuffer.cpp",
+                "line": 36,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const class std::basic_string<char>"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/tracer/src/core/post_processor/save_to_img.cpp",
+                "line": 45,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/tracer/src/core/reporter/stdout.cpp",
+                "line": 32,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/creator/geometry_creators.cpp",
+                "line": 160,
+                "offset": 13
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const size_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/creator/geometry_creators.cpp",
+                "line": 162,
+                "offset": 13
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[23]",
+                    "value": "creating render target"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/utility/render_session.cpp",
+                "line": 22,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const int"
+                },
+                "2": {
+                    "type": "const int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/utility/render_session.cpp",
+                "line": 29,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[16]",
+                    "value": "creating camera"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/utility/render_session.cpp",
+                "line": 31,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[18]",
+                    "value": "creating renderer"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/utility/render_session.cpp",
+                "line": 36,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[27]",
+                    "value": "creating progress reporter"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/utility/render_session.cpp",
+                "line": 40,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[18]",
+                    "value": "no post processor"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/utility/render_session.cpp",
+                "line": 60,
+                "offset": 13
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[25]",
+                    "value": "creating post processors"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/utility/render_session.cpp",
+                "line": 46,
+                "offset": 13
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[16]",
+                    "value": "start rendering"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/utility/render_session.cpp",
+                "line": 78,
+                "offset": 5
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[24]",
+                    "value": "running post processors"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/factory/src/utility/render_session.cpp",
+                "line": 92,
+                "offset": 5
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/cli/src/main.cpp",
+                "line": 34,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/cli/src/main.cpp",
+                "line": 40,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/cli/src/main.cpp",
+                "line": 57,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "string_view_t"
+                },
+                "1": {
+                    "type": "const unsigned long"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 151,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/cli/src/main.cpp",
+                "line": 60,
+                "offset": 13
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[34]",
+                    "value": ">>> Atrc Renderer by AirGuanZ <<<"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/cli/src/main.cpp",
+                "line": 86,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[17]",
+                    "value": "USE_EMBREE = OFF"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/cli/src/main.cpp",
+                "line": 91,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[15]",
+                    "value": "USE_OIDN = OFF"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/lib/spdlog/include/spdlog/spdlog.h",
+                "line": 199,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/AirGuanZ@@Atrc/src/cli/src/main.cpp",
+                "line": 97,
+                "offset": 9
+            },
+            "name": "info"
+        }
+    }
+]

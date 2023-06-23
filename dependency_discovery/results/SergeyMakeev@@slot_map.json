@@ -1,0 +1,1 @@
+{"target": "SergeyMakeev@@slot_map", "extractors": [{"deps": [{"depname": "slotmaptest", "version": null, "version_op": null, "unified_name": "slotmaptest", "extractor_type": "cmake", "context": "project(slotmaptest)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

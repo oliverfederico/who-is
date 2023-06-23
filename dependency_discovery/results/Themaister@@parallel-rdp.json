@@ -1,0 +1,1 @@
+{"target": "Themaister@@parallel-rdp", "extractors": [{"deps": [{"depname": "rdp", "version": null, "version_op": null, "unified_name": "rdp", "extractor_type": "cmake", "context": "project(rdp-replayer languages cxx c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

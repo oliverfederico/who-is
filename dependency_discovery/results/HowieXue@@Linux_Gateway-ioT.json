@@ -1,0 +1,1 @@
+{"target": "HowieXue@@Linux_Gateway-ioT", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "SQLite", "version": "3.7.3", "version_op": "=", "unified_name": "sqlite", "extractor_type": "pkgconfig", "context": "HowieXue@@Linux_Gateway-ioT/lib/pkgconfig/sqlite3.pc", "confidence": "High"}], "type": "pkgconfig"}]}

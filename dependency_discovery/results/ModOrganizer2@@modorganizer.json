@@ -1,0 +1,1 @@
+{"target": "ModOrganizer2@@modorganizer", "extractors": [{"deps": [{"depname": "organizer", "version": null, "version_op": null, "unified_name": "organizer", "extractor_type": "cmake", "context": "project(organizer)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

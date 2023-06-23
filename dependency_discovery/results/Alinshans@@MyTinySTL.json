@@ -1,0 +1,1 @@
+{"target": "Alinshans@@MyTinySTL", "extractors": [{"deps": [{"depname": "mytinystl", "version": null, "version_op": null, "unified_name": "mytinystl", "extractor_type": "cmake", "context": "project(mytinystl)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "emc2314@@YANSOllvm", "extractors": [{"deps": [{"depname": "python3", "version": null, "version_op": null, "unified_name": "python3", "extractor_type": "cmake", "context": "find_package (python3 components interpreter)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

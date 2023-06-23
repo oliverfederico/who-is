@@ -1,0 +1,1 @@
+{"target": "zpl-c@@librg", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}, {"deps": [{"depname": "librg", "version": null, "version_op": null, "unified_name": "rg", "extractor_type": "cmake", "context": "project(librg)", "confidence": ""}], "type": "cmake", "libs": []}]}

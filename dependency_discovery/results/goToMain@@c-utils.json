@@ -1,0 +1,1 @@
+{"target": "goToMain@@c-utils", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "utils", "version": "0.1.0", "version_op": null, "unified_name": "utils", "extractor_type": "cmake", "context": "project(utils version 0.1.0 languages c)", "confidence": "High"}], "type": "cmake", "libs": []}]}

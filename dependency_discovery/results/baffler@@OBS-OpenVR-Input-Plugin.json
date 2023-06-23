@@ -1,0 +1,1 @@
+{"target": "baffler@@OBS-OpenVR-Input-Plugin", "extractors": [{"deps": [{"depname": "win", "version": null, "version_op": null, "unified_name": "win", "extractor_type": "cmake", "context": "project(win-openvr)", "confidence": ""}], "type": "cmake", "libs": []}]}

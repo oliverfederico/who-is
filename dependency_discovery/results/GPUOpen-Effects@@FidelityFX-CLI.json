@@ -1,0 +1,1 @@
+{"target": "GPUOpen-Effects@@FidelityFX-CLI", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [{"depname": "fidelityfx_cli", "version": null, "version_op": null, "unified_name": "fidelityfx_cli", "extractor_type": "cmake", "context": "project(fidelityfx_cli)", "confidence": ""}], "type": "cmake", "libs": []}]}

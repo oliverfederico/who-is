@@ -1,0 +1,1 @@
+{"target": "amiremohamadi@@DuckX", "extractors": [{"deps": [{"depname": "duckx", "version": "0.2", "version_op": null, "unified_name": "duckx", "extractor_type": "cmake", "context": "project(duckx version 0.2)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}]}

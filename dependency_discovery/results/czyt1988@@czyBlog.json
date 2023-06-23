@@ -1,0 +1,1 @@
+{"target": "czyt1988@@czyBlog", "extractors": [{"deps": [{"depname": "lambda_trap", "version": null, "version_op": null, "unified_name": "lambda_trap", "extractor_type": "cmake", "context": "project(lambda_trap)", "confidence": ""}], "type": "cmake", "libs": []}]}

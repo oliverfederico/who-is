@@ -1,0 +1,1 @@
+{"target": "JuDelCo@@Entitas-Cpp", "extractors": [{"deps": [{"depname": "entitaspp", "version": null, "version_op": null, "unified_name": "entitaspp", "extractor_type": "cmake", "context": "project(entitaspp cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

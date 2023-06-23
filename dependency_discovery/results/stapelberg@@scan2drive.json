@@ -1,0 +1,1 @@
+{"target": "stapelberg@@scan2drive", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "libturbojpeg", "version": "2.1.2", "version_op": "=", "unified_name": "turbojpeg", "extractor_type": "pkgconfig", "context": "stapelberg@@scan2drive/_bundled_turbojpeg/libturbojpeg.pc", "confidence": "High"}], "type": "pkgconfig"}, {"deps": [], "type": "make"}]}

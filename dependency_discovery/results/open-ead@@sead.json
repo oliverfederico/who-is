@@ -1,0 +1,1 @@
+{"target": "open-ead@@sead", "extractors": [{"deps": [{"depname": "sead", "version": null, "version_op": null, "unified_name": "sead", "extractor_type": "cmake", "context": "project(sead cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "ascon@@ascon-c", "extractors": [{"deps": [{"depname": "ascon", "version": null, "version_op": null, "unified_name": "ascon", "extractor_type": "cmake", "context": "project(ascon languages c asm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

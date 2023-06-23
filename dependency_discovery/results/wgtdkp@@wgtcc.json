@@ -1,0 +1,1 @@
+{"target": "wgtdkp@@wgtcc", "extractors": [{"deps": [{"depname": "wgtcc", "version": null, "version_op": null, "unified_name": "wgtcc", "extractor_type": "cmake", "context": "project(wgtcc)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

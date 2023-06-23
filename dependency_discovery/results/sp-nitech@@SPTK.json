@@ -1,0 +1,1 @@
+{"target": "sp-nitech@@SPTK", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "sptk", "version": "4.1", "version_op": null, "unified_name": "sptk", "extractor_type": "cmake", "context": "project(sptk version 4.1)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "PX4@@PX4-Matrix", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [{"depname": "matrix", "version": null, "version_op": null, "unified_name": "matrix", "extractor_type": "cmake", "context": "project(matrix cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

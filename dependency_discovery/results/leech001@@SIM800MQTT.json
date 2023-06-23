@@ -1,0 +1,1 @@
+{"target": "leech001@@SIM800MQTT", "extractors": [{"deps": [{"depname": "mqttsub", "version": null, "version_op": null, "unified_name": "mqttsub", "extractor_type": "cmake", "context": "project(mqttsub c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}]}

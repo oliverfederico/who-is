@@ -1,0 +1,1 @@
+{"target": "Limeoats@@BigNumber", "extractors": [{"deps": [{"depname": "bignumber", "version": null, "version_op": null, "unified_name": "bignumber", "extractor_type": "cmake", "context": "project(bignumber)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "xerpi@@ds4vita", "extractors": [{"deps": [{"depname": "ds4vita", "version": null, "version_op": null, "unified_name": "ds4vita", "extractor_type": "cmake", "context": "project(ds4vita)", "confidence": ""}], "type": "cmake", "libs": []}]}

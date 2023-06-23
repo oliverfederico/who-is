@@ -1,0 +1,1 @@
+{"target": "baruch@@libwire", "extractors": [{"deps": [{"depname": "libwire", "version": null, "version_op": null, "unified_name": "wire", "extractor_type": "cmake", "context": "project (libwire)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "leutloff@@diff-match-patch-cpp-stl", "extractors": [{"deps": [{"depname": "diff", "version": null, "version_op": null, "unified_name": "diff", "extractor_type": "cmake", "context": "project (diff-match-patch-cpp-stl cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

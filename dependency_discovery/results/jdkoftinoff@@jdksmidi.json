@@ -1,0 +1,1 @@
+{"target": "jdkoftinoff@@jdksmidi", "extractors": [{"deps": [], "type": "autoconf"}, {"deps": [{"depname": "jdksmidi", "version": null, "version_op": null, "unified_name": "jdksmidi", "extractor_type": "cmake", "context": "project (jdksmidi)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}]}

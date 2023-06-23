@@ -1,0 +1,1 @@
+{"target": "jiangdongguo@@OpenCV4Android", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "jiangdongguo@@OpenCV4Android/app/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log)"}]}]}

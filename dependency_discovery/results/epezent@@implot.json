@@ -1,0 +1,1 @@
+{"target": "epezent@@implot", "extractors": [{"deps": [{"depname": "implot", "version": null, "version_op": null, "unified_name": "implot", "extractor_type": "cmake", "context": "project(implot)", "confidence": ""}], "type": "cmake", "libs": []}]}

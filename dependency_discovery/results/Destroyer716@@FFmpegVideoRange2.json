@@ -1,0 +1,1 @@
+{"target": "Destroyer716@@FFmpegVideoRange2", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "Destroyer716@@FFmpegVideoRange2/myplayer/src/main/cpp/CMakeLists.txt", "content": "find_library(\n              log-lib\n              log )"}]}, {"deps": [], "type": "make"}]}

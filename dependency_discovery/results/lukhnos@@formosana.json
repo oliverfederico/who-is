@@ -1,0 +1,1 @@
+{"target": "lukhnos@@formosana", "extractors": [{"deps": [{"depname": "formosana", "version": null, "version_op": null, "unified_name": "formosana", "extractor_type": "cmake", "context": "project(formosana)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

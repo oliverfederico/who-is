@@ -1,0 +1,1 @@
+{"target": "SPuerBRead@@shovel", "extractors": [{"deps": [{"depname": "shovel", "version": null, "version_op": null, "unified_name": "shovel", "extractor_type": "cmake", "context": "project(shovel c)", "confidence": ""}], "type": "cmake", "libs": []}]}

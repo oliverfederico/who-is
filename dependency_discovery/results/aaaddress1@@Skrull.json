@@ -1,0 +1,1 @@
+{"target": "aaaddress1@@Skrull", "extractors": [{"deps": [{"depname": "ntdll", "version": null, "version_op": null, "unified_name": "ntdll", "extractor_type": "ms", "context": "aaaddress1@@Skrull/src/Skrull.vcxproj", "confidence": "High"}], "type": "ms"}]}

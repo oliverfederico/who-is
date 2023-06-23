@@ -1,0 +1,1 @@
+{"target": "NationalSecurityAgency@@DCP", "extractors": [{"deps": [{"depname": "dcp", "version": "m4_esyscmd([tr -d '\\n' < VERSION", "version_op": null, "unified_name": "dcp", "extractor_type": "autoconf", "context": "AC_INIT([dcp], m4_esyscmd([tr -d '\\n' < VERSION])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

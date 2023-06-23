@@ -1,0 +1,1 @@
+{"target": "PCMan@@gtk3-nocsd", "extractors": [{"deps": [{"depname": "dl", "version": null, "version_op": null, "unified_name": "dl", "extractor_type": "make", "context": "PCMan@@gtk3-nocsd/Makefile:LDLIBS = -ldl", "confidence": "High"}], "type": "make"}]}

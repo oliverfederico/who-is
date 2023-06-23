@@ -1,0 +1,1 @@
+{"target": "linsalrob@@fastq-pair", "extractors": [{"deps": [{"depname": "fastq_pair", "version": null, "version_op": null, "unified_name": "fastq_pair", "extractor_type": "cmake", "context": "project(fastq_pair)", "confidence": ""}], "type": "cmake", "libs": []}]}

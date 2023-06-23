@@ -1,0 +1,1 @@
+{"target": "cinit@@WSAPatch", "extractors": [{"deps": [{"depname": "wsapatch", "version": null, "version_op": null, "unified_name": "wsapatch", "extractor_type": "cmake", "context": "project(wsapatch)", "confidence": ""}], "type": "cmake", "libs": []}]}

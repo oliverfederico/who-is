@@ -1,0 +1,1 @@
+{"target": "twitter@@fatcache", "extractors": [{"deps": [{"depname": "fatcache", "version": "FC_MAJOR.FC_MINOR.FC_PATCH", "version_op": null, "unified_name": "fatcache", "extractor_type": "autoconf", "context": "AC_INIT([fatcache], [FC_MAJOR.FC_MINOR.FC_PATCH], [FC_BUGS])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

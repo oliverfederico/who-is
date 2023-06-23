@@ -1,0 +1,1 @@
+{"target": "sheredom@@ubench.h", "extractors": [{"deps": [{"depname": "ubench", "version": null, "version_op": null, "unified_name": "ubench", "extractor_type": "cmake", "context": "project(ubench)", "confidence": ""}], "type": "cmake", "libs": []}]}

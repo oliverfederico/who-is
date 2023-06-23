@@ -1,0 +1,1 @@
+{"target": "intel@@iotg_tsn_ref_sw", "extractors": [{"deps": [{"depname": "iotg-tsn-ref-sw", "version": "1.0", "version_op": null, "unified_name": "iotg-tsn-ref-sw", "extractor_type": "autoconf", "context": "AC_INIT([iotg-tsn-ref-sw], [1.0])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

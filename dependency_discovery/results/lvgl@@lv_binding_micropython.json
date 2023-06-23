@@ -1,0 +1,1 @@
+{"target": "lvgl@@lv_binding_micropython", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": [{"filenames": ["awk"], "version": "", "fromfile": "lvgl@@lv_binding_micropython/mkrules.cmake", "content": "find_program(awk awk mawk gawk)"}]}]}

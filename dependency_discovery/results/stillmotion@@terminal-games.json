@@ -1,0 +1,1 @@
+{"target": "stillmotion@@terminal-games", "extractors": [{"deps": [{"depname": "termbox", "version": null, "version_op": null, "unified_name": "termbox", "extractor_type": "make", "context": "stillmotion@@terminal-games/Makefile:LDLIBS := -s -ltermbox", "confidence": "High"}], "type": "make"}]}

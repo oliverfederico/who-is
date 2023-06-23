@@ -1,0 +1,1 @@
+{"target": "dcjones@@hat-trie", "extractors": [{"deps": [{"depname": "hat-trie", "version": "0.1.2", "version_op": null, "unified_name": "hat-trie", "extractor_type": "autoconf", "context": "AC_INIT([hat-trie], [0.1.2], [dcjones@cs.washington.edu])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

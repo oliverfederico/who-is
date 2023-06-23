@@ -1,0 +1,1 @@
+{"target": "diegomacario@@Super-Sunshine", "extractors": [{"deps": [{"depname": "freeimage", "version": null, "version_op": null, "unified_name": "freeimage", "extractor_type": "make", "context": "diegomacario@@Super-Sunshine/Makefile:LDLIBS=-lfreeimage", "confidence": "High"}], "type": "make"}]}

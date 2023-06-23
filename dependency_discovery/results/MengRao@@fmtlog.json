@@ -1,0 +1,1 @@
+{"target": "MengRao@@fmtlog", "extractors": [{"deps": [{"depname": "fmtlog", "version": null, "version_op": null, "unified_name": "fmtlog", "extractor_type": "cmake", "context": "project(fmtlog cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

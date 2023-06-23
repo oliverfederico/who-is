@@ -1,0 +1,1 @@
+{"target": "descampsa@@yuv2rgb", "extractors": [{"deps": [{"depname": "yuv_rgb", "version": null, "version_op": null, "unified_name": "yuv_rgb", "extractor_type": "cmake", "context": "project (yuv_rgb)", "confidence": ""}], "type": "cmake", "libs": []}]}

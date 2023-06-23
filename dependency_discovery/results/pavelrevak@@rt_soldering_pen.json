@@ -1,0 +1,1 @@
+{"target": "pavelrevak@@rt_soldering_pen", "extractors": [{"deps": [{"depname": "rt", "version": null, "version_op": null, "unified_name": "rt", "extractor_type": "cmake", "context": "project(rt-soldering-pen)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

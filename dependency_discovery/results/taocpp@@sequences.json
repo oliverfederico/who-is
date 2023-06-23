@@ -1,0 +1,1 @@
+{"target": "taocpp@@sequences", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "taocpp", "version": "2.0.1", "version_op": null, "unified_name": "taocpp", "extractor_type": "cmake", "context": "project (taocpp-sequences version 2.0.1 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

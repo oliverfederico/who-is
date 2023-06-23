@@ -1,0 +1,1 @@
+{"target": "aldenml@@libtorrent4j", "extractors": [{"deps": [{"depname": "libtorrent4j", "version": "2.0.0", "version_op": null, "unified_name": "torrent4j", "extractor_type": "cmake", "context": "project(libtorrent4j     description \"libtorrent jni swig binding\"     version 2.0.0     languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}]}

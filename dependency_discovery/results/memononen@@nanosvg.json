@@ -1,0 +1,1 @@
+{"target": "memononen@@nanosvg", "extractors": [{"deps": [{"depname": "nanosvg", "version": null, "version_op": null, "unified_name": "nanosvg", "extractor_type": "cmake", "context": "project(nanosvg c)", "confidence": ""}], "type": "cmake", "libs": [{"filenames": ["m"], "version": "", "fromfile": "memononen@@nanosvg/CMakeLists.txt", "content": "find_library(math_library m)"}]}]}

@@ -1,0 +1,1 @@
+{"target": "espressif@@esp32-nesemu", "extractors": [{"deps": [], "type": "make"}]}

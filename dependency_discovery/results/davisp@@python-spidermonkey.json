@@ -1,0 +1,1 @@
+{"target": "davisp@@python-spidermonkey", "extractors": [{"deps": [{"depname": "nspr", "version": "4.8.6", "version_op": "=", "unified_name": "nspr", "extractor_type": "pkgconfig", "context": "davisp@@python-spidermonkey/extra/nspr.pc", "confidence": "High"}], "type": "pkgconfig"}]}

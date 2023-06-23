@@ -1,0 +1,1 @@
+{"target": "torbjoernk@@CppKoans", "extractors": [{"deps": [{"depname": "cppkoans", "version": null, "version_op": null, "unified_name": "cppkoans", "extractor_type": "cmake", "context": "project(cppkoans)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "kem0x@@raider3.5", "extractors": [{"deps": [{"depname": "%(AdditionalDependencies)", "version": null, "version_op": null, "unified_name": "%(additionaldependencies)", "extractor_type": "ms", "context": "kem0x@@raider3.5/Raider/Raider.vcxproj", "confidence": "High"}], "type": "ms"}]}

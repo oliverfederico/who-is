@@ -1,0 +1,1 @@
+{"target": "arduino-libraries@@ArduinoBLE", "extractors": [{"deps": [{"depname": "testarduinoble", "version": null, "version_op": null, "unified_name": "testarduinoble", "extractor_type": "cmake", "context": "project(testarduinoble)", "confidence": ""}], "type": "cmake", "libs": []}]}

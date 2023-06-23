@@ -1,0 +1,1 @@
+{"target": "XboxDev@@extract-xiso", "extractors": [{"deps": [{"depname": "extract", "version": null, "version_op": null, "unified_name": "extract", "extractor_type": "cmake", "context": "project(extract-xiso)", "confidence": ""}], "type": "cmake", "libs": []}]}

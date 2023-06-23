@@ -1,0 +1,1 @@
+{"target": "idea4good@@GuiLite", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "guilite", "version": null, "version_op": null, "unified_name": "guilite", "extractor_type": "cmake", "context": "project(guilite)", "confidence": ""}], "type": "cmake", "libs": []}]}

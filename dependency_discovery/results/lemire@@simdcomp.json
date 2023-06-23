@@ -1,0 +1,1 @@
+{"target": "lemire@@simdcomp", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "simdcomp", "version": "0.0.3", "version_op": null, "unified_name": "simdcomp", "extractor_type": "clib", "context": "lemire@@simdcomp/package.json", "confidence": "High"}], "type": "clib"}]}

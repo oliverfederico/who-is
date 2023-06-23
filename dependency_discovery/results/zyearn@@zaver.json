@@ -1,0 +1,1 @@
+{"target": "zyearn@@zaver", "extractors": [{"deps": [{"depname": "zaver", "version": null, "version_op": null, "unified_name": "zaver", "extractor_type": "cmake", "context": "project (zaver)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

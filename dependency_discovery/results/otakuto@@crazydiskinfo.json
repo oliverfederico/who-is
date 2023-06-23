@@ -1,0 +1,1 @@
+{"target": "otakuto@@crazydiskinfo", "extractors": [{"deps": [{"depname": "crazydiskinfo", "version": null, "version_op": null, "unified_name": "crazydiskinfo", "extractor_type": "cmake", "context": "project(crazydiskinfo cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

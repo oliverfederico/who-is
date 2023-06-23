@@ -1,0 +1,1 @@
+{"target": "AndreRenaud@@PDFGen", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "pdfgen", "version": "0.1.0", "version_op": null, "unified_name": "pdfgen", "extractor_type": "clib", "context": "AndreRenaud@@PDFGen/package.json", "confidence": "High"}], "type": "clib"}]}

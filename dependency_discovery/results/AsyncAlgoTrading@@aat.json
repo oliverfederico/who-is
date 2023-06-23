@@ -1,0 +1,1 @@
+{"target": "AsyncAlgoTrading@@aat", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "aat", "version": null, "version_op": null, "unified_name": "aat", "extractor_type": "cmake", "context": "project(aat)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

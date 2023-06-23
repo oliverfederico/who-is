@@ -1,0 +1,1 @@
+{"target": "ttvd@@spatial-collision-datastructures", "extractors": [{"deps": [{"depname": "spatial", "version": null, "version_op": null, "unified_name": "spatial", "extractor_type": "cmake", "context": "project(spatial-benchmark)", "confidence": ""}], "type": "cmake", "libs": []}]}

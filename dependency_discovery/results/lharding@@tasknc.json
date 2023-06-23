@@ -1,0 +1,1 @@
+{"target": "lharding@@tasknc", "extractors": [{"deps": [{"depname": "ncursesw", "version": null, "version_op": null, "unified_name": "ncursesw", "extractor_type": "make", "context": "lharding@@tasknc/Makefile:LDLIBS \t\t?= -lncursesw", "confidence": "High"}], "type": "make"}]}

@@ -1,0 +1,683 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 971,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 112,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_header"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "73"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 119,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "67"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 120,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "67"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 121,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "95"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 122,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "80"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 123,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "82"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 124,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "79"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 125,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "70"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 126,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "73"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 127,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "76"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 128,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "69"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 129,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 130,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 133,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 134,
+                "offset": 5
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_compress_ptr"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 973,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 138,
+                "offset": 7
+            },
+            "name": "jpeg_write_m_byte"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "j_decompress_ptr"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/jpeglib.h",
+                "line": 1032,
+                "offset": 14
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/ukoethe@@vigra/src/impex/iccjpeg.c",
+                "line": 154,
+                "offset": 3
+            },
+            "name": "jpeg_save_markers"
+        }
+    }
+]

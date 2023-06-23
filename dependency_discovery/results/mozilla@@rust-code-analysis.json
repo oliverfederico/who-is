@@ -1,0 +1,1 @@
+{"target": "mozilla@@rust-code-analysis", "extractors": [{"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}]}

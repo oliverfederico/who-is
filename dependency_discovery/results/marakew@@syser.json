@@ -1,0 +1,1 @@
+{"target": "marakew@@syser", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "syser", "version": null, "version_op": null, "unified_name": "syser", "extractor_type": "cmake", "context": "project(syser cxx c asm_masm rc)", "confidence": ""}], "type": "cmake", "libs": []}]}

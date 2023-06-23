@@ -1,0 +1,1 @@
+{"target": "NevermindZZT@@letter-shell", "extractors": [{"deps": [{"depname": "lettershell", "version": "0.1.0", "version_op": null, "unified_name": "lettershell", "extractor_type": "cmake", "context": "project(lettershell version 0.1.0)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

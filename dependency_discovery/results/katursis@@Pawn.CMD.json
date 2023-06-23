@@ -1,0 +1,1 @@
+{"target": "katursis@@Pawn.CMD", "extractors": [{"deps": [{"depname": "pawncmd", "version": null, "version_op": null, "unified_name": "pawncmd", "extractor_type": "cmake", "context": "project(pawncmd)", "confidence": ""}], "type": "cmake", "libs": []}]}

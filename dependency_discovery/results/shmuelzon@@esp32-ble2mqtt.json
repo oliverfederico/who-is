@@ -1,0 +1,1 @@
+{"target": "shmuelzon@@esp32-ble2mqtt", "extractors": [{"deps": [{"depname": "ble2mqtt", "version": null, "version_op": null, "unified_name": "ble2mqtt", "extractor_type": "cmake", "context": "project(ble2mqtt)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

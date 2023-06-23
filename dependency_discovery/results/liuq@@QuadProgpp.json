@@ -1,0 +1,1 @@
+{"target": "liuq@@QuadProgpp", "extractors": [{"deps": [{"depname": "quadprog", "version": null, "version_op": null, "unified_name": "quadprog", "extractor_type": "cmake", "context": "project(quadprog++ cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "moretension@@duti", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "dh", "version": "INTERNAL", "version_op": null, "unified_name": "dh", "extractor_type": "autoconf", "context": "AC_INIT(dh, INTERNAL, nosupport@all)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

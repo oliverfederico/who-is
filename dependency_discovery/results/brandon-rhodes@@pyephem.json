@@ -1,0 +1,1 @@
+{"target": "brandon-rhodes@@pyephem", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "ephem", "version": null, "version_op": null, "unified_name": "ephem", "extractor_type": "cmake", "context": "project(ephem)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

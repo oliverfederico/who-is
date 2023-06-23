@@ -1,0 +1,1 @@
+{"target": "Baidu-AIP@@speech-vad-demo", "extractors": [{"deps": [{"depname": "vad", "version": null, "version_op": null, "unified_name": "vad", "extractor_type": "cmake", "context": "project(vad-demo)", "confidence": ""}], "type": "cmake", "libs": []}]}

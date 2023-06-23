@@ -1,0 +1,1 @@
+{"target": "willemt@@bipbuffer", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "bipbuffer", "version": "0.0.1", "version_op": null, "unified_name": "bipbuffer", "extractor_type": "clib", "context": "willemt@@bipbuffer/package.json", "confidence": "High"}], "type": "clib"}]}

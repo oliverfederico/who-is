@@ -1,0 +1,1 @@
+{"target": "nxrighthere@@Smmalloc-CSharp", "extractors": [{"deps": [{"depname": "smmalloc", "version": null, "version_op": null, "unified_name": "smmalloc", "extractor_type": "cmake", "context": "project(smmalloc cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

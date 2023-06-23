@@ -1,0 +1,1 @@
+{"target": "autotrace@@autotrace", "extractors": [{"deps": [{"depname": "autotrace", "version": "0.40.0", "version_op": null, "unified_name": "autotrace", "extractor_type": "autoconf", "context": "AC_INIT([autotrace], [0.40.0])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

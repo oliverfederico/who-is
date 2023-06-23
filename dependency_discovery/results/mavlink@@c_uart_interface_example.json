@@ -1,0 +1,1 @@
+{"target": "mavlink@@c_uart_interface_example", "extractors": [{"deps": [], "type": "make"}]}

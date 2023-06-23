@@ -1,0 +1,1 @@
+{"target": "SMotlaq@@open-watch", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "SMotlaq@@open-watch/open-watch-android-app/OpenWatch/app/src/main/jni/CMakeLists.txt", "content": "find_library(log-lib log)"}]}]}

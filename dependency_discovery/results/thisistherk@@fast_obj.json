@@ -1,0 +1,1 @@
+{"target": "thisistherk@@fast_obj", "extractors": [{"deps": [{"depname": "fast_obj", "version": null, "version_op": null, "unified_name": "fast_obj", "extractor_type": "cmake", "context": "project(fast_obj)", "confidence": ""}], "type": "cmake", "libs": []}]}

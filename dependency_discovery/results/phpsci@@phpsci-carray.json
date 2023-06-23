@@ -1,0 +1,1 @@
+{"target": "phpsci@@phpsci-carray", "extractors": [{"deps": [{"depname": "carray", "version": null, "version_op": null, "unified_name": "carray", "extractor_type": "cmake", "context": "project(carray c)", "confidence": ""}], "type": "cmake", "libs": []}]}

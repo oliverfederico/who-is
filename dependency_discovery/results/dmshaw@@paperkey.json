@@ -1,0 +1,1 @@
+{"target": "dmshaw@@paperkey", "extractors": [{"deps": [{"depname": "paperkey", "version": "1.7-devel", "version_op": null, "unified_name": "paperkey", "extractor_type": "autoconf", "context": "AC_INIT([paperkey],[1.7-devel],[dshaw@jabberwocky.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

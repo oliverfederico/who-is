@@ -1,0 +1,1 @@
+{"target": "gityf@@crc", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "crc", "version": null, "version_op": null, "unified_name": "crc", "extractor_type": "cmake", "context": "project(crc)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

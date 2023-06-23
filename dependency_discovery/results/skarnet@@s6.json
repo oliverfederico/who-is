@@ -1,0 +1,1 @@
+{"target": "skarnet@@s6", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "autoconf"}]}

@@ -1,0 +1,1 @@
+{"target": "alutov@@ESP32-R4sGate-for-Redmond", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "r4sgate", "version": null, "version_op": null, "unified_name": "r4sgate", "extractor_type": "cmake", "context": "project(r4sgate)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

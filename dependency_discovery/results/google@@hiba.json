@@ -1,0 +1,1 @@
+{"target": "google@@hiba", "extractors": [{"deps": [{"depname": "HIBA", "version": "MAJOR.MINOR", "version_op": null, "unified_name": "hiba", "extractor_type": "autoconf", "context": "AC_INIT([HIBA], [MAJOR.MINOR], [hibassh@google.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

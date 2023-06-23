@@ -1,0 +1,1 @@
+{"target": "richgel999@@jpeg-compressor", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "jpge", "version": null, "version_op": null, "unified_name": "jpge", "extractor_type": "cmake", "context": "project(jpge)", "confidence": ""}], "type": "cmake", "libs": []}]}

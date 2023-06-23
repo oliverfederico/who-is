@@ -1,0 +1,1 @@
+{"target": "enjiushi@@VulkanLearn", "extractors": [{"deps": [{"depname": "vulkanlearn", "version": null, "version_op": null, "unified_name": "vulkanlearn", "extractor_type": "cmake", "context": "project(vulkanlearn cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

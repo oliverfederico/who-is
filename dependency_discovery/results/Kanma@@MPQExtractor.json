@@ -1,0 +1,1 @@
+{"target": "Kanma@@MPQExtractor", "extractors": [{"deps": [{"depname": "mpqextractor", "version": null, "version_op": null, "unified_name": "mpqextractor", "extractor_type": "cmake", "context": "project(mpqextractor)", "confidence": ""}], "type": "cmake", "libs": []}]}

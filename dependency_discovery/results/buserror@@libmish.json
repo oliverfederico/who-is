@@ -1,0 +1,1 @@
+{"target": "buserror@@libmish", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "libmish", "version": "VERSION", "version_op": "=", "unified_name": "mish", "extractor_type": "pkgconfig", "context": "buserror@@libmish/mish.pc", "confidence": "High"}], "type": "pkgconfig"}, {"deps": [], "type": "make"}]}

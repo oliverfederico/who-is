@@ -1,0 +1,1 @@
+{"target": "aviggiano@@redis-roaring", "extractors": [{"deps": [{"depname": "redis", "version": null, "version_op": null, "unified_name": "redis", "extractor_type": "cmake", "context": "project(redis-roaring)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "Helidium@@Mitol", "extractors": [{"deps": [{"depname": "mns", "version": null, "version_op": null, "unified_name": "mns", "extractor_type": "cmake", "context": "project(mns)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "clib"}]}

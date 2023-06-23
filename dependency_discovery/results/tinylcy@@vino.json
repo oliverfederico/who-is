@@ -1,0 +1,1 @@
+{"target": "tinylcy@@vino", "extractors": [{"deps": [{"depname": "vino", "version": null, "version_op": null, "unified_name": "vino", "extractor_type": "cmake", "context": "project(vino)", "confidence": ""}], "type": "cmake", "libs": []}]}

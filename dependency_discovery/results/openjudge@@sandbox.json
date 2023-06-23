@@ -1,0 +1,1 @@
+{"target": "openjudge@@sandbox", "extractors": [{"deps": [{"depname": "sandbox", "version": "0.3.5", "version_op": null, "unified_name": "sandbox", "extractor_type": "autoconf", "context": "openjudge@@sandbox/libsandbox/configure", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

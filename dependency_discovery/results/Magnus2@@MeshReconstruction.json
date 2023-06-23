@@ -1,0 +1,1 @@
+{"target": "Magnus2@@MeshReconstruction", "extractors": [{"deps": [{"depname": "meshreconstruction", "version": null, "version_op": null, "unified_name": "meshreconstruction", "extractor_type": "cmake", "context": "project (meshreconstruction)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

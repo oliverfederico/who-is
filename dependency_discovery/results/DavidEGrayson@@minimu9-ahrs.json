@@ -1,0 +1,1 @@
+{"target": "DavidEGrayson@@minimu9-ahrs", "extractors": [{"deps": [{"depname": "boost_program_options", "version": null, "version_op": null, "unified_name": "boost_program_options", "extractor_type": "make", "context": "DavidEGrayson@@minimu9-ahrs/Makefile:LDLIBS += -lboost_program_options", "confidence": "High"}], "type": "make"}]}

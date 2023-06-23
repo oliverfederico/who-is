@@ -1,0 +1,1 @@
+{"target": "jbenet@@bson-cpp", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "bson-cpp", "version": "0.1", "version_op": null, "unified_name": "bson-cpp", "extractor_type": "autoconf", "context": "AC_INIT([bson-cpp], [0.1], [jbenet@cs.stanford.edu])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "ms"}]}

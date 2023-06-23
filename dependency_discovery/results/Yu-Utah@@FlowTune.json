@@ -1,0 +1,1 @@
+{"target": "Yu-Utah@@FlowTune", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "abc", "version": null, "version_op": null, "unified_name": "abc", "extractor_type": "cmake", "context": "project(abc)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

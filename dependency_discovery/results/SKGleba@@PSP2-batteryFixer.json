@@ -1,0 +1,1 @@
+{"target": "SKGleba@@PSP2-batteryFixer", "extractors": [{"deps": [{"depname": "batteryfixer", "version": null, "version_op": null, "unified_name": "batteryfixer", "extractor_type": "cmake", "context": "project(batteryfixer)", "confidence": ""}], "type": "cmake", "libs": []}]}

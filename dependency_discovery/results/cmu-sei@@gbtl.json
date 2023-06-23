@@ -1,0 +1,1 @@
+{"target": "cmu-sei@@gbtl", "extractors": [{"deps": [{"depname": "graphblas_template_library_3", "version": null, "version_op": null, "unified_name": "graphblas_template_library_3", "extractor_type": "cmake", "context": "project(graphblas_template_library_3)", "confidence": ""}], "type": "cmake", "libs": []}]}

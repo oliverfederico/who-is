@@ -1,0 +1,1 @@
+{"target": "Limingrui0@@Luogu_answers", "extractors": [{"deps": [{"depname": "answersfor_luogu", "version": null, "version_op": null, "unified_name": "answersfor_luogu", "extractor_type": "cmake", "context": "project(answersfor_luogu)", "confidence": ""}], "type": "cmake", "libs": []}]}

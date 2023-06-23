@@ -1,0 +1,1 @@
+{"target": "JulienBernard3383279@@pico-rectangle", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "pico_rectangle", "version": null, "version_op": null, "unified_name": "pico_rectangle", "extractor_type": "cmake", "context": "project(pico_rectangle cxx c)", "confidence": ""}], "type": "cmake", "libs": []}]}

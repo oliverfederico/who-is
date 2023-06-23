@@ -1,0 +1,1 @@
+{"target": "danmar@@simplecpp", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "simplecpp", "version": null, "version_op": null, "unified_name": "simplecpp", "extractor_type": "cmake", "context": "project (simplecpp languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

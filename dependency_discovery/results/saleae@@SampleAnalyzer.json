@@ -1,0 +1,1 @@
+{"target": "saleae@@SampleAnalyzer", "extractors": [{"deps": [{"depname": "simpleserialanalyzer", "version": null, "version_op": null, "unified_name": "simpleserialanalyzer", "extractor_type": "cmake", "context": "project(simpleserialanalyzer)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

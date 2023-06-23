@@ -1,0 +1,1 @@
+{"target": "osxfuse@@sshfs", "extractors": [{"deps": [{"depname": "sshfs", "version": "2.9", "version_op": null, "unified_name": "sshfs", "extractor_type": "autoconf", "context": "AC_INIT(sshfs, 2.9)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

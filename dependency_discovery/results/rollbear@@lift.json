@@ -1,0 +1,1 @@
+{"target": "rollbear@@lift", "extractors": [{"deps": [{"depname": "lift", "version": null, "version_op": null, "unified_name": "lift", "extractor_type": "cmake", "context": "project(lift)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "kjn@@lbzip2", "extractors": [{"deps": [{"depname": "lbzip2", "version": "2.5", "version_op": null, "unified_name": "lbzip2", "extractor_type": "autoconf", "context": "AC_INIT([lbzip2], [2.5])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

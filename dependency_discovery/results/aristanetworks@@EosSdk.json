@@ -1,0 +1,1 @@
+{"target": "aristanetworks@@EosSdk", "extractors": [{"deps": [{"depname": "_NAME_-stubs", "version": "_VERSION_", "version_op": null, "unified_name": "_name_-stubs", "extractor_type": "autoconf", "context": "AC_INIT(_NAME_-stubs, _VERSION_, [], _NAME_-stubs)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

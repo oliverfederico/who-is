@@ -1,0 +1,1 @@
+{"target": "wangyu-@@udp2raw-multiplatform", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "udp2raw_tunnel", "version": null, "version_op": null, "unified_name": "udp2raw_tunnel", "extractor_type": "cmake", "context": "project(udp2raw_tunnel)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}]}

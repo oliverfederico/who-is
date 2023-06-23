@@ -1,0 +1,1 @@
+{"target": "rAzoR8@@SpvGenTwo", "extractors": [{"deps": [{"depname": "spvgentwo", "version": "1.0", "version_op": null, "unified_name": "spvgentwo", "extractor_type": "cmake", "context": "project(spvgentwo version 1.0 description \"spir-v codegen library\")", "confidence": "High"}], "type": "cmake", "libs": []}]}

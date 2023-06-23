@@ -1,0 +1,1 @@
+{"target": "foonathan@@string_id", "extractors": [{"deps": [{"depname": "foonathan_string_id", "version": null, "version_op": null, "unified_name": "foonathan_string_id", "extractor_type": "cmake", "context": "project(foonathan_string_id)", "confidence": ""}], "type": "cmake", "libs": []}]}

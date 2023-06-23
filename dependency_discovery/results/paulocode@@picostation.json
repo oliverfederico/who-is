@@ -1,0 +1,1 @@
+{"target": "paulocode@@picostation", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "picostation", "version": null, "version_op": null, "unified_name": "picostation", "extractor_type": "cmake", "context": "project(picostation)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

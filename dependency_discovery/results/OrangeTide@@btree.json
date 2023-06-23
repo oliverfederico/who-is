@@ -1,0 +1,1 @@
+{"target": "OrangeTide@@btree", "extractors": [{"deps": [{"depname": "btree", "version": "0.4.0", "version_op": null, "unified_name": "btree", "extractor_type": "autoconf", "context": "AC_INIT([btree], [0.4.0], [bug-report@cobra-kai.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

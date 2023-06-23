@@ -1,0 +1,1 @@
+{"target": "kentindell@@canhack", "extractors": [{"deps": [{"depname": "firmware", "version": null, "version_op": null, "unified_name": "firmware", "extractor_type": "cmake", "context": "project(firmware)", "confidence": ""}], "type": "cmake", "libs": []}]}

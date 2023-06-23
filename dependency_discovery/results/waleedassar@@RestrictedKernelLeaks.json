@@ -1,0 +1,1 @@
+{"target": "waleedassar@@RestrictedKernelLeaks", "extractors": [{"deps": [{"depname": "ntdll", "version": null, "version_op": null, "unified_name": "ntdll", "extractor_type": "ms", "context": "waleedassar@@RestrictedKernelLeaks/RestrictedKernelLeaks/RestrictedKernelLeaks.vcxproj", "confidence": "High"}], "type": "ms"}]}

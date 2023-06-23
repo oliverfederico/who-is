@@ -1,0 +1,1 @@
+{"target": "mras0@@mjs", "extractors": [{"deps": [{"depname": "mjs", "version": null, "version_op": null, "unified_name": "mjs", "extractor_type": "cmake", "context": "project(mjs cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

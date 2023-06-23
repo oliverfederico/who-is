@@ -1,0 +1,1 @@
+{"target": "thesolarnomad@@lora-serialization", "extractors": [{"deps": [], "type": "clib"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "catchselftest", "version": null, "version_op": null, "unified_name": "catchselftest", "extractor_type": "cmake", "context": "project(catchselftest)", "confidence": ""}], "type": "cmake", "libs": []}]}

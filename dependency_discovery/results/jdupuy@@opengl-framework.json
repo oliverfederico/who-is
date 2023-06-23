@@ -1,0 +1,1 @@
+{"target": "jdupuy@@opengl-framework", "extractors": [{"deps": [{"depname": "opengl", "version": null, "version_op": null, "unified_name": "opengl", "extractor_type": "cmake", "context": "project (opengl)", "confidence": ""}], "type": "cmake", "libs": []}]}

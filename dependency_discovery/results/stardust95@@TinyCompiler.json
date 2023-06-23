@@ -1,0 +1,1 @@
+{"target": "stardust95@@TinyCompiler", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "tinycompiler", "version": null, "version_op": null, "unified_name": "tinycompiler", "extractor_type": "cmake", "context": "project(tinycompiler)", "confidence": ""}], "type": "cmake", "libs": []}]}

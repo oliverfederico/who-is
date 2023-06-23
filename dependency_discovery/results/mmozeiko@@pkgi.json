@@ -1,0 +1,1 @@
+{"target": "mmozeiko@@pkgi", "extractors": [{"deps": [{"depname": "pkgi", "version": null, "version_op": null, "unified_name": "pkgi", "extractor_type": "cmake", "context": "project(pkgi)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}]}

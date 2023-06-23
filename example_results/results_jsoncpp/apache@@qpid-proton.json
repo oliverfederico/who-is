@@ -1,0 +1,5468 @@
+[
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 90,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map.cpp",
+                "line": 115,
+                "offset": 14
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 93,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map.cpp",
+                "line": 117,
+                "offset": 13
+            },
+            "name": "clear",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 90,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map.cpp",
+                "line": 129,
+                "offset": 16
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 90,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map.cpp",
+                "line": 138,
+                "offset": 9
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 93,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map.cpp",
+                "line": 144,
+                "offset": 9
+            },
+            "name": "clear",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 93,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map.cpp",
+                "line": 189,
+                "offset": 5
+            },
+            "name": "clear",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 90,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map.cpp",
+                "line": 197,
+                "offset": 9
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "pn_data_t *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 118,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map.cpp",
+                "line": 207,
+                "offset": 5
+            },
+            "name": "reset",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 90,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connection.cpp",
+                "line": 209,
+                "offset": 10
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                },
+                "1": {
+                    "type": "std::map<symbol, value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 131,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connection.cpp",
+                "line": 210,
+                "offset": 9
+            },
+            "name": "get",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class std::vector<class proton::symbol>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connection_options.cpp",
+                "line": 110,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "typename assignable<class vector<class symbol>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class std::vector<class proton::symbol>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connection_options.cpp",
+                "line": 112,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "typename assignable<class vector<class symbol>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class std::map<class proton::symbol, class proton::value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connection_options.cpp",
+                "line": 114,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "typename assignable<class map<class symbol, class value>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/value.hpp",
+                "line": 45,
+                "offset": 21
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/decoder.cpp",
+                "line": 46,
+                "offset": 12
+            },
+            "name": "data",
+            "return": "internal::data &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/value.hpp",
+                "line": 45,
+                "offset": 21
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/decoder.cpp",
+                "line": 153,
+                "offset": 14
+            },
+            "name": "data",
+            "return": "internal::data &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 45,
+                "offset": 21
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/encoder.cpp",
+                "line": 50,
+                "offset": 50
+            },
+            "name": "data",
+            "return": "internal::data &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 105,
+                "offset": 29
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/error_condition.cpp",
+                "line": 93,
+                "offset": 12
+            },
+            "name": "operator==",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 90,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/link.cpp",
+                "line": 89,
+                "offset": 10
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                },
+                "1": {
+                    "type": "std::map<symbol, value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 131,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/link.cpp",
+                "line": 90,
+                "offset": 9
+            },
+            "name": "get",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "pn_data_t *"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 118,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message.cpp",
+                "line": 51,
+                "offset": 9
+            },
+            "name": "reset",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 71,
+                "offset": 26
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message.cpp",
+                "line": 79,
+                "offset": 49
+            },
+            "name": "operator=",
+            "return": "value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 71,
+                "offset": 26
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message.cpp",
+                "line": 240,
+                "offset": 38
+            },
+            "name": "operator=",
+            "return": "value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class proton::map<class proton::symbol, class proton::value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/node_options.cpp",
+                "line": 113,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "typename assignable<class map<class symbol, class value>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class std::vector<class proton::symbol>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/node_options.cpp",
+                "line": 116,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "typename assignable<class vector<class symbol>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class proton::map<class proton::symbol, class proton::value>"
+                },
+                "1": {
+                    "type": "map<symbol, value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 134,
+                "offset": 40
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/node_options.cpp",
+                "line": 120,
+                "offset": 13
+            },
+            "name": "get",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class proton::map<class proton::symbol, class proton::value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/node_options.cpp",
+                "line": 121,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "typename assignable<class map<class symbol, class value>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class std::vector<class proton::symbol>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/node_options.cpp",
+                "line": 171,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "typename assignable<class vector<class symbol>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class proton::map<class proton::symbol, class proton::value>"
+                },
+                "1": {
+                    "type": "map<symbol, value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 134,
+                "offset": 40
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/node_options.cpp",
+                "line": 175,
+                "offset": 13
+            },
+            "name": "get",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class proton::map<class proton::symbol, class proton::value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/node_options.cpp",
+                "line": 176,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "typename assignable<class map<class symbol, class value>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/null.cpp",
+                "line": 31,
+                "offset": 11
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 73,
+                "offset": 26
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/proton_bits.cpp",
+                "line": 72,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class std::map<class proton::symbol, class proton::value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/receiver_options.cpp",
+                "line": 95,
+                "offset": 17
+            },
+            "name": "operator=",
+            "return": "typename assignable<class map<class symbol, class value>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class std::map<class proton::symbol, class proton::value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/sender_options.cpp",
+                "line": 86,
+                "offset": 17
+            },
+            "name": "operator=",
+            "return": "typename assignable<class map<class symbol, class value>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 90,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/terminus.cpp",
+                "line": 61,
+                "offset": 12
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 171,
+                "offset": 28
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/terminus.cpp",
+                "line": 61,
+                "offset": 51
+            },
+            "name": "get",
+            "return": "class std::vector<class proton::symbol>"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 90,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/terminus.cpp",
+                "line": 67,
+                "offset": 10
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class proton::value"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 71,
+                "offset": 26
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value.cpp",
+                "line": 38,
+                "offset": 32
+            },
+            "name": "operator=",
+            "return": "value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class proton::value"
+                },
+                "1": {
+                    "type": "value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 101,
+                "offset": 29
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value.cpp",
+                "line": 39,
+                "offset": 27
+            },
+            "name": "swap",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class proton::value"
+                },
+                "1": {
+                    "type": "value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 101,
+                "offset": 29
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value.cpp",
+                "line": 40,
+                "offset": 38
+            },
+            "name": "swap",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 90,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value.cpp",
+                "line": 44,
+                "offset": 13
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 93,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value.cpp",
+                "line": 45,
+                "offset": 13
+            },
+            "name": "clear",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 45,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value.cpp",
+                "line": 47,
+                "offset": 13
+            },
+            "name": "data",
+            "return": "internal::data &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value.cpp",
+                "line": 185,
+                "offset": 21
+            },
+            "name": "get",
+            "return": "class proton::scalar"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 365,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 69,
+                "offset": 9
+            },
+            "name": "type",
+            "return": "ValueType"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 365,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 70,
+                "offset": 80
+            },
+            "name": "type",
+            "return": "ValueType"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 75,
+                "offset": 15
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 76,
+                "offset": 12
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 396,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 80,
+                "offset": 12
+            },
+            "name": "asBool",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 84,
+                "offset": 12
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 98,
+                "offset": 10
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 99,
+                "offset": 23
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 365,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 100,
+                "offset": 17
+            },
+            "name": "type",
+            "return": "ValueType"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 104,
+                "offset": 37
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 418,
+                "offset": 14
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 108,
+                "offset": 41
+            },
+            "name": "size",
+            "return": "ArrayIndex"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ArrayIndex"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 459,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 109,
+                "offset": 29
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 112,
+                "offset": 24
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 365,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 118,
+                "offset": 83
+            },
+            "name": "type",
+            "return": "ValueType"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 422,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 128,
+                "offset": 14
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 396,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 129,
+                "offset": 20
+            },
+            "name": "asBool",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 422,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 139,
+                "offset": 21
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 422,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 144,
+                "offset": 17
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 501,
+                "offset": 9
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 165,
+                "offset": 18
+            },
+            "name": "get",
+            "return": "Value"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 365,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 166,
+                "offset": 13
+            },
+            "name": "type",
+            "return": "ValueType"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 168,
+                "offset": 17
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 387,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 171,
+                "offset": 17
+            },
+            "name": "asUInt",
+            "return": "UInt"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 365,
+                "offset": 13
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 173,
+                "offset": 72
+            },
+            "name": "type",
+            "return": "ValueType"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 177,
+                "offset": 10
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 177,
+                "offset": 35
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 398,
+                "offset": 8
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 179,
+                "offset": 10
+            },
+            "name": "isNull",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/value.h",
+                "line": 381,
+                "offset": 10
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 179,
+                "offset": 43
+            },
+            "name": "asString",
+            "return": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "IStream"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/reader.h",
+                "line": 395,
+                "offset": 19
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 226,
+                "offset": 13
+            },
+            "name": "operator>>",
+            "return": "IStream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "IStream"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/reader.h",
+                "line": 395,
+                "offset": 19
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 230,
+                "offset": 13
+            },
+            "name": "operator>>",
+            "return": "IStream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "std::istream"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/reader.h",
+                "line": 395,
+                "offset": 19
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 249,
+                "offset": 9
+            },
+            "name": "operator>>",
+            "return": "IStream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "IStream"
+                },
+                "1": {
+                    "type": "Value"
+                }
+            },
+            "definition": {
+                "file": "/usr/include/jsoncpp/json/reader.h",
+                "line": 395,
+                "offset": 19
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/connect_config.cpp",
+                "line": 278,
+                "offset": 9
+            },
+            "name": "operator>>",
+            "return": "IStream &"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 90,
+                "offset": 24
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 43,
+                "offset": 5
+            },
+            "name": "empty",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 67,
+                "offset": 21
+            },
+            "name": "get",
+            "return": "class std::basic_string<char>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 90,
+                "offset": 5
+            },
+            "name": "get",
+            "return": "class std::basic_string<char>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 105,
+                "offset": 5
+            },
+            "name": "get",
+            "return": "class std::basic_string<char>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 123,
+                "offset": 5
+            },
+            "name": "get",
+            "return": "class std::basic_string<char>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 138,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 125,
+                "offset": 5
+            },
+            "name": "coerce",
+            "return": "class std::basic_string<char>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 138,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 128,
+                "offset": 5
+            },
+            "name": "coerce",
+            "return": "class std::basic_string<char>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 138,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 129,
+                "offset": 5
+            },
+            "name": "coerce",
+            "return": "long"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 138,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 130,
+                "offset": 5
+            },
+            "name": "coerce",
+            "return": "double"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class proton::value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 148,
+                "offset": 5
+            },
+            "name": "get",
+            "return": "signed char"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 171,
+                "offset": 28
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 149,
+                "offset": 5
+            },
+            "name": "get",
+            "return": "signed char"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 171,
+                "offset": 28
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 177,
+                "offset": 17
+            },
+            "name": "get",
+            "return": "signed char"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 171,
+                "offset": 28
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/message_test.cpp",
+                "line": 181,
+                "offset": 9
+            },
+            "name": "get",
+            "return": "signed char"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class proton::map<class std::basic_string<char>, class proton::scalar>"
+                },
+                "1": {
+                    "type": "std::map<string, scalar>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 134,
+                "offset": 40
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map_test.cpp",
+                "line": 40,
+                "offset": 5
+            },
+            "name": "get",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class proton::map<class std::basic_string<char>, class proton::scalar>"
+                },
+                "1": {
+                    "type": "std::map<string, scalar>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 134,
+                "offset": 40
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map_test.cpp",
+                "line": 77,
+                "offset": 5
+            },
+            "name": "get",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class proton::map<class std::basic_string<char>, class proton::scalar>"
+                },
+                "1": {
+                    "type": "vector<pair<string, scalar> >"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 134,
+                "offset": 40
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map_test.cpp",
+                "line": 98,
+                "offset": 5
+            },
+            "name": "get",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const char[4]",
+                    "value": "foo"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/map_test.cpp",
+                "line": 107,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<char[4], value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "value"
+                },
+                "1": {
+                    "type": "const class proton::scalar"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/scalar_test.cpp",
+                "line": 34,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<class scalar, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/scalar_test.cpp",
+                "line": 36,
+                "offset": 5
+            },
+            "name": "get",
+            "return": "class std::basic_string<char>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/scalar_test.cpp",
+                "line": 37,
+                "offset": 17
+            },
+            "name": "get",
+            "return": "class proton::scalar"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 87,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 37,
+                "offset": 5
+            },
+            "name": "type",
+            "return": "type_id"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 87,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 52,
+                "offset": 5
+            },
+            "name": "type",
+            "return": "type_id"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 106,
+                "offset": 29
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 62,
+                "offset": 5
+            },
+            "name": "operator<",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 65,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 87,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 71,
+                "offset": 5
+            },
+            "name": "type",
+            "return": "type_id"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 76,
+                "offset": 9
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 81,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 84,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 87,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 93,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "mapped_type"
+                },
+                "1": {
+                    "type": "const int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 96,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<int, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "mapped_type"
+                },
+                "1": {
+                    "type": "const int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 97,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<int, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "mapped_type"
+                },
+                "1": {
+                    "type": "const int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 98,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<int, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 100,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 105,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 105,
+                "offset": 29
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 108,
+                "offset": 5
+            },
+            "name": "operator==",
+            "return": "_Bool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 109,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 111,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 113,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 167,
+                "offset": 27
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/value_test.cpp",
+                "line": 115,
+                "offset": 5
+            },
+            "name": "to_string",
+            "return": "std::string"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "mapped_type"
+                },
+                "1": {
+                    "type": "const char[13]",
+                    "value": "test_process"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/container_test.cpp",
+                "line": 193,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<char[13], value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "mapped_type"
+                },
+                "1": {
+                    "type": "const int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/container_test.cpp",
+                "line": 194,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<int, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "mapped_type"
+                },
+                "1": {
+                    "type": "const char[16]",
+                    "value": "receiver_string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/container_test.cpp",
+                "line": 411,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<char[16], value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "mapped_type"
+                },
+                "1": {
+                    "type": "const char[14]",
+                    "value": "sender_string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/container_test.cpp",
+                "line": 416,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<char[14], value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "mapped_type"
+                },
+                "1": {
+                    "type": "const int"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/src/container_test.cpp",
+                "line": 417,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<int, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ostream"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/helloworld.cpp",
+                "line": 56,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ostream"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/simple_recv.cpp",
+                "line": 64,
+                "offset": 13
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ostream"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/reconnect_client.cpp",
+                "line": 76,
+                "offset": 13
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class proton::map<class std::basic_string<char>, class proton::scalar>"
+                },
+                "1": {
+                    "type": "property_map"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 134,
+                "offset": 40
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/message_properties.cpp",
+                "line": 67,
+                "offset": 9
+            },
+            "name": "get",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class proton::scalar"
+                },
+                "1": {
+                    "type": "int16_t"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 134,
+                "offset": 40
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/message_properties.cpp",
+                "line": 42,
+                "offset": 9
+            },
+            "name": "get",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ostream"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/direct_recv.cpp",
+                "line": 66,
+                "offset": 13
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/client.cpp",
+                "line": 71,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/server.cpp",
+                "line": 63,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/server.cpp",
+                "line": 69,
+                "offset": 29
+            },
+            "name": "get",
+            "return": "class std::basic_string<char>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/server_direct.cpp",
+                "line": 89,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/server_direct.cpp",
+                "line": 101,
+                "offset": 33
+            },
+            "name": "get",
+            "return": "class std::basic_string<char>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ostream"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/queue_browser.cpp",
+                "line": 51,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ostream"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/selected_recv.cpp",
+                "line": 71,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/flow_control.cpp",
+                "line": 182,
+                "offset": 13
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ostream"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/ssl.cpp",
+                "line": 76,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ostream"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/ssl_client_cert.cpp",
+                "line": 73,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "proton::value"
+                },
+                "1": {
+                    "type": "const class std::vector<int>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 71,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<class vector<int>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                },
+                "1": {
+                    "type": "std::list<int>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 131,
+                "offset": 24
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 74,
+                "offset": 5
+            },
+            "name": "get",
+            "return": "void"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "proton::value"
+                },
+                "1": {
+                    "type": "const class std::map<class std::basic_string<char>, int>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 86,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<class map<class basic_string<char>, int>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "proton::value"
+                },
+                "1": {
+                    "type": "const class std::vector<struct std::pair<class std::basic_string<char>, int> >"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 94,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<class vector<struct pair<class basic_string<char>, int> >, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "proton::value"
+                },
+                "1": {
+                    "type": "const class std::vector<class proton::value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 109,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<class vector<class value>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "proton::value"
+                },
+                "1": {
+                    "type": "const list_cref<list<int, allocator<int> > >"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 78,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<struct list_cref<class list<int> >, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 80,
+                "offset": 18
+            },
+            "name": "get",
+            "return": "class std::vector<int>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 88,
+                "offset": 18
+            },
+            "name": "get",
+            "return": "class std::map<class std::basic_string<char>, int>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "proton::value"
+                },
+                "1": {
+                    "type": "const class std::vector<class proton::value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 122,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "typename assignable<class vector<class value>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "proton::value"
+                },
+                "1": {
+                    "type": "const class std::map<class proton::value, class proton::value>"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 129,
+                "offset": 50
+            },
+            "name": "operator=",
+            "return": "typename assignable<class map<class value, class value>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 124,
+                "offset": 37
+            },
+            "name": "get",
+            "return": "class std::vector<class proton::value>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "mapped_type"
+                },
+                "1": {
+                    "type": "proton::value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 73,
+                "offset": 26
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 128,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "mapped_type"
+                },
+                "1": {
+                    "type": "proton::value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 73,
+                "offset": 26
+            },
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 129,
+                "offset": 5
+            },
+            "name": "operator=",
+            "return": "value &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 124,
+                "offset": 21
+            },
+            "hasBody": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 132,
+                "offset": 18
+            },
+            "name": "get",
+            "return": "class std::map<class proton::value, class proton::value>"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/encode_decode.cpp",
+                "line": 238,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "proton::value"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 80,
+                "offset": 61
+            },
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/service_bus.cpp",
+                "line": 138,
+                "offset": 13
+            },
+            "name": "operator=",
+            "return": "typename assignable<class basic_string<char>, value &>::type"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/service_bus.cpp",
+                "line": 172,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/service_bus.cpp",
+                "line": 179,
+                "offset": 9
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/service_bus.cpp",
+                "line": 239,
+                "offset": 13
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/multithreaded_client.cpp",
+                "line": 160,
+                "offset": 21
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/multithreaded_client.cpp",
+                "line": 168,
+                "offset": 21
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "basic_ostream<char, char_traits<char> >"
+                },
+                "1": {
+                    "type": "const value"
+                }
+            },
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/include/proton/internal/.././value.hpp",
+                "line": 113,
+                "offset": 38
+            },
+            "hasBody": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apache@@qpid-proton/cpp/examples/multithreaded_client_flow_control.cpp",
+                "line": 257,
+                "offset": 13
+            },
+            "name": "operator<<",
+            "return": "std::ostream &"
+        }
+    }
+]

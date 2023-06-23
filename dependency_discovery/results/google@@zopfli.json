@@ -1,0 +1,1 @@
+{"target": "google@@zopfli", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "zopfli", "version": null, "version_op": null, "unified_name": "zopfli", "extractor_type": "cmake", "context": "project(zopfli)", "confidence": ""}], "type": "cmake", "libs": []}]}

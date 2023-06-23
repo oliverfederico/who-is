@@ -1,0 +1,1 @@
+{"target": "raspberrypi@@picoprobe", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "picoprobe", "version": null, "version_op": null, "unified_name": "picoprobe", "extractor_type": "cmake", "context": "project(picoprobe)", "confidence": ""}], "type": "cmake", "libs": []}]}

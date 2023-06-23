@@ -1,0 +1,1 @@
+{"target": "libthinkpad@@dockd", "extractors": [{"deps": [{"depname": "dockd", "version": null, "version_op": null, "unified_name": "dockd", "extractor_type": "cmake", "context": "project(dockd)", "confidence": ""}], "type": "cmake", "libs": []}]}

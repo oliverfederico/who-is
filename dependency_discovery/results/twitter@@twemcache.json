@@ -1,0 +1,1 @@
+{"target": "twitter@@twemcache", "extractors": [{"deps": [{"depname": "twemcache", "version": "MC_MAJOR.MC_MINOR.MC_PATCH", "version_op": null, "unified_name": "twemcache", "extractor_type": "autoconf", "context": "AC_INIT([twemcache], [MC_MAJOR.MC_MINOR.MC_PATCH], [MC_BUGS])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

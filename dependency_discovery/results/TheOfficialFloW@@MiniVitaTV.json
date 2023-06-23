@@ -1,0 +1,1 @@
+{"target": "TheOfficialFloW@@MiniVitaTV", "extractors": [{"deps": [{"depname": "minivitatv", "version": null, "version_op": null, "unified_name": "minivitatv", "extractor_type": "cmake", "context": "project(minivitatv)", "confidence": ""}], "type": "cmake", "libs": []}]}

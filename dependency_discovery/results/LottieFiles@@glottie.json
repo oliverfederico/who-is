@@ -1,0 +1,1 @@
+{"target": "LottieFiles@@glottie", "extractors": [{"deps": [{"depname": "glottie", "version": "0.1", "version_op": null, "unified_name": "glottie", "extractor_type": "cmake", "context": "project(glottie version 0.1)", "confidence": "High"}], "type": "cmake", "libs": []}]}

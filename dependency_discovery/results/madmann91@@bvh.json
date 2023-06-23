@@ -1,0 +1,1 @@
+{"target": "madmann91@@bvh", "extractors": [{"deps": [{"depname": "bvh", "version": null, "version_op": null, "unified_name": "bvh", "extractor_type": "cmake", "context": "project(bvh)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

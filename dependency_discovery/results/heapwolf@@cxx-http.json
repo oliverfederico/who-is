@@ -1,0 +1,1 @@
+{"target": "heapwolf@@cxx-http", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "nodeuv-http", "version": "0.1.0", "version_op": null, "unified_name": "nodeuv-http", "extractor_type": "clib", "context": "heapwolf@@cxx-http/package.json", "confidence": "High"}], "type": "clib"}]}

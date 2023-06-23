@@ -1,0 +1,1 @@
+{"target": "enkore@@j4-dmenu-desktop", "extractors": [{"deps": [{"depname": "j4", "version": null, "version_op": null, "unified_name": "j4", "extractor_type": "cmake", "context": "project(j4-dmenu)", "confidence": ""}], "type": "cmake", "libs": []}]}

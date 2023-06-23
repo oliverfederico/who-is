@@ -1,0 +1,1 @@
+{"target": "salman-abedin@@devour", "extractors": [{"deps": [{"depname": "X11", "version": null, "version_op": null, "unified_name": "x11", "extractor_type": "make", "context": "salman-abedin@@devour/Makefile:LDLIBS = -s -lX11", "confidence": "High"}], "type": "make"}]}

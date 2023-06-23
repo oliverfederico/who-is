@@ -1,0 +1,1 @@
+{"target": "aizvorski@@h264bitstream", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "h264bitstream", "version": "0.2.0", "version_op": null, "unified_name": "h264bitstream", "extractor_type": "autoconf", "context": "AC_INIT(h264bitstream, 0.2.0, aizvorski@gmail.com)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

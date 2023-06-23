@@ -1,0 +1,1 @@
+{"target": "christopherbatty@@SDFGen", "extractors": [{"deps": [{"depname": "vtk", "version": null, "version_op": null, "unified_name": "vtk", "extractor_type": "cmake", "context": "find_package(vtk quiet)", "confidence": "High"}], "type": "cmake", "libs": []}]}

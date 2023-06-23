@@ -1,0 +1,1 @@
+{"target": "runshenzhu@@palmtree", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "finetree", "version": null, "version_op": null, "unified_name": "finetree", "extractor_type": "cmake", "context": "project(finetree)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "maiyao1988@@elf-dump-fix", "extractors": [{"deps": [{"depname": "sofix", "version": null, "version_op": null, "unified_name": "sofix", "extractor_type": "cmake", "context": "project (sofix)", "confidence": ""}], "type": "cmake", "libs": []}]}

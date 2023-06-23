@@ -1,0 +1,1 @@
+{"target": "waywardgeek@@sonic", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "debhelper", "version": "=7.0.50~", "version_op": null, "unified_name": "debhelper", "extractor_type": "control", "context": "waywardgeek@@sonic/debian/control", "confidence": "High"}], "type": "control"}]}

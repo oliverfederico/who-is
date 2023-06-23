@@ -1,0 +1,1 @@
+{"target": "ppelleti@@https-example", "extractors": [{"deps": [{"depname": "https-example", "version": "0.1", "version_op": null, "unified_name": "https-example", "extractor_type": "autoconf", "context": "AC_INIT([https-example],\n        [0.1],\n        [ppelletier@oblong.com],\n        [https-example])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

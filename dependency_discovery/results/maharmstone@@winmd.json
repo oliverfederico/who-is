@@ -1,0 +1,1 @@
+{"target": "maharmstone@@winmd", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "winmd", "version": "0.1.0", "version_op": null, "unified_name": "winmd", "extractor_type": "cmake", "context": "project(winmd version 0.1.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

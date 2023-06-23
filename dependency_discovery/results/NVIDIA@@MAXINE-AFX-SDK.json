@@ -1,0 +1,1 @@
+{"target": "NVIDIA@@MAXINE-AFX-SDK", "extractors": [{"deps": [{"depname": "nvaudioeffects_sdk", "version": null, "version_op": null, "unified_name": "nvaudioeffects_sdk", "extractor_type": "cmake", "context": "project(nvaudioeffects_sdk cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

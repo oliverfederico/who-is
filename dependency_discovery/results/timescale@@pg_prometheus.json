@@ -1,0 +1,1 @@
+{"target": "timescale@@pg_prometheus", "extractors": [{"deps": [], "type": "make"}]}

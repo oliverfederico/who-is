@@ -1,0 +1,1 @@
+{"target": "rollbear@@dry-comparisons", "extractors": [{"deps": [{"depname": "dry", "version": null, "version_op": null, "unified_name": "dry", "extractor_type": "cmake", "context": "project(dry-comparisons)", "confidence": ""}], "type": "cmake", "libs": []}]}

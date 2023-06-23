@@ -1,0 +1,1 @@
+{"target": "rxi@@aq", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "sdl2", "version": "2.0.5", "version_op": "=", "unified_name": "sdl2", "extractor_type": "pkgconfig", "context": "rxi@@aq/winlib/SDL2-2.0.5/x86_64-w64-mingw32/lib/pkgconfig/sdl2.pc", "confidence": "High"}], "type": "pkgconfig"}]}

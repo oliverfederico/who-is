@@ -1,0 +1,1 @@
+{"target": "jibsen@@parg", "extractors": [{"deps": [{"depname": "parg", "version": null, "version_op": null, "unified_name": "parg", "extractor_type": "cmake", "context": "project(parg c)", "confidence": ""}], "type": "cmake", "libs": []}]}

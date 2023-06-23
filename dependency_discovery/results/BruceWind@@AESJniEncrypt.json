@@ -1,0 +1,1 @@
+{"target": "BruceWind@@AESJniEncrypt", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "BruceWind@@AESJniEncrypt/aesjni/CMakeLists.txt", "content": "find_library(log-lib\n        log)"}]}]}

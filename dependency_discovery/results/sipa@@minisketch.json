@@ -1,0 +1,1 @@
+{"target": "sipa@@minisketch", "extractors": [{"deps": [{"depname": "minisketch", "version": "0.0.1", "version_op": null, "unified_name": "minisketch", "extractor_type": "autoconf", "context": "AC_INIT([minisketch], [0.0.1], [http://github.com/sipa/minisketch/])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

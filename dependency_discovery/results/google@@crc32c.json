@@ -1,0 +1,1 @@
+{"target": "google@@crc32c", "extractors": [{"deps": [{"depname": "crc32c", "version": "1.1.0", "version_op": null, "unified_name": "crc32c", "extractor_type": "cmake", "context": "project(crc32c version 1.1.0 languages c cxx)", "confidence": "High"}], "type": "cmake", "libs": []}]}

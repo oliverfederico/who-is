@@ -1,0 +1,1 @@
+{"target": "ldlywt@@JniHttp", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "ldlywt@@JniHttp/app/CMakeLists.txt", "content": "find_library( \n              log-lib\n              log )"}]}]}

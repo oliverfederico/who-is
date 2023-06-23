@@ -1,0 +1,1 @@
+{"target": "vnmakarov@@mir", "extractors": [{"deps": [{"depname": "llvm", "version": null, "version_op": null, "unified_name": "llvm", "extractor_type": "cmake", "context": "find_package(llvm)", "confidence": "High"}], "type": "cmake", "libs": []}]}

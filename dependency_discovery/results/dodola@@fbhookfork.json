@@ -1,0 +1,1 @@
+{"target": "dodola@@fbhookfork", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "dodola@@fbhookfork/plthook/src/main/cpp/CMakeLists.txt", "content": "find_library(\n        log-lib\n        log)"}]}, {"deps": [], "type": "make"}]}

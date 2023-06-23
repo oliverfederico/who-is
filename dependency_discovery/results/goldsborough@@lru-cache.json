@@ -1,0 +1,1 @@
+{"target": "goldsborough@@lru-cache", "extractors": [{"deps": [{"depname": "lru", "version": null, "version_op": null, "unified_name": "lru", "extractor_type": "cmake", "context": "project(lru-cache)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

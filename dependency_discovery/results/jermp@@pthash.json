@@ -1,0 +1,1 @@
+{"target": "jermp@@pthash", "extractors": [{"deps": [{"depname": "pthash", "version": null, "version_op": null, "unified_name": "pthash", "extractor_type": "cmake", "context": "project(pthash)", "confidence": ""}], "type": "cmake", "libs": []}]}

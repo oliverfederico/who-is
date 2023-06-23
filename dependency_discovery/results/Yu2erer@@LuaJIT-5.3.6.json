@@ -1,0 +1,1 @@
+{"target": "Yu2erer@@LuaJIT-5.3.6", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "llvm", "version": null, "version_op": null, "unified_name": "llvm", "extractor_type": "cmake", "context": "find_package(llvm)", "confidence": "High"}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "hasherezade@@mal_unpack", "extractors": [{"deps": [{"depname": "mal_unpack", "version": null, "version_op": null, "unified_name": "mal_unpack", "extractor_type": "cmake", "context": "project (mal_unpack)", "confidence": ""}], "type": "cmake", "libs": []}]}

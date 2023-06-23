@@ -1,0 +1,1 @@
+{"target": "scutclient@@scutclient", "extractors": [{"deps": [{"depname": "scutclient", "version": null, "version_op": null, "unified_name": "scutclient", "extractor_type": "cmake", "context": "project(scutclient c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

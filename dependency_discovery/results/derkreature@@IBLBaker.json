@@ -1,0 +1,1 @@
+{"target": "derkreature@@IBLBaker", "extractors": [{"deps": [{"depname": "iblbaker", "version": null, "version_op": null, "unified_name": "iblbaker", "extractor_type": "cmake", "context": "project(iblbaker)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "pytorch@@tvm", "extractors": [{"deps": [], "type": "cmake", "libs": []}]}

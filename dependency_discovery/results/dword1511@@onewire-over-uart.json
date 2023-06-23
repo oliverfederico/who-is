@@ -1,0 +1,1 @@
+{"target": "dword1511@@onewire-over-uart", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}]}

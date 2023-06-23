@@ -1,0 +1,1 @@
+{"target": "tboox@@vm86", "extractors": [{"deps": [{"depname": "tbox", "version": "1.6.6", "version_op": null, "unified_name": "tbox", "extractor_type": "xmake", "context": "tbox 1.6.6", "confidence": "High"}], "type": "xmake"}, {"deps": [], "type": "xmake"}, {"deps": [], "type": "xmake"}]}

@@ -1,0 +1,1 @@
+{"target": "randrew@@uxn32", "extractors": [{"deps": [{"depname": "uxn", "version": null, "version_op": null, "unified_name": "uxn", "extractor_type": "cmake", "context": "project(uxn languages c)", "confidence": ""}], "type": "cmake", "libs": []}]}

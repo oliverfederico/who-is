@@ -1,0 +1,1 @@
+{"target": "SmallPond@@X-Knob", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "lvgl_tests", "version": null, "version_op": null, "unified_name": "lvgl_tests", "extractor_type": "cmake", "context": "project(lvgl_tests languages c)", "confidence": ""}], "type": "cmake", "libs": []}]}

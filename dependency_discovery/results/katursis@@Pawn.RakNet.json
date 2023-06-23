@@ -1,0 +1,1 @@
+{"target": "katursis@@Pawn.RakNet", "extractors": [{"deps": [{"depname": "pawnraknet", "version": null, "version_op": null, "unified_name": "pawnraknet", "extractor_type": "cmake", "context": "project(pawnraknet)", "confidence": ""}], "type": "cmake", "libs": []}]}

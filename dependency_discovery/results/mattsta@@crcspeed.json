@@ -1,0 +1,1 @@
+{"target": "mattsta@@crcspeed", "extractors": [{"deps": [{"depname": "crcspeed", "version": null, "version_op": null, "unified_name": "crcspeed", "extractor_type": "cmake", "context": "project(crcspeed c)", "confidence": ""}], "type": "cmake", "libs": []}]}

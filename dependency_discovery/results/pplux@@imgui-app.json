@@ -1,0 +1,1 @@
+{"target": "pplux@@imgui-app", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "imgui", "version": null, "version_op": null, "unified_name": "imgui", "extractor_type": "cmake", "context": "project(imgui-app)", "confidence": ""}], "type": "cmake", "libs": []}]}

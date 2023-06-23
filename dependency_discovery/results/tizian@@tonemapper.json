@@ -1,0 +1,1 @@
+{"target": "tizian@@tonemapper", "extractors": [{"deps": [{"depname": "tonemapper", "version": "2.0.1", "version_op": null, "unified_name": "tonemapper", "extractor_type": "cmake", "context": "project(tonemapper)", "confidence": ""}], "type": "cmake", "libs": []}]}

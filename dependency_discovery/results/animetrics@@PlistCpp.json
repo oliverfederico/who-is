@@ -1,0 +1,1 @@
+{"target": "animetrics@@PlistCpp", "extractors": [{"deps": [{"depname": "plist", "version": null, "version_op": null, "unified_name": "plist", "extractor_type": "cmake", "context": "project (plist)", "confidence": ""}], "type": "cmake", "libs": []}]}

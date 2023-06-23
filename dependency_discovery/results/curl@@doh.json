@@ -1,0 +1,1 @@
+{"target": "curl@@doh", "extractors": [{"deps": [], "type": "make"}]}

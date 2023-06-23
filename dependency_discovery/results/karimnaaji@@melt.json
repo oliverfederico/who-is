@@ -1,0 +1,1 @@
+{"target": "karimnaaji@@melt", "extractors": [{"deps": [{"depname": "melt", "version": null, "version_op": null, "unified_name": "melt", "extractor_type": "cmake", "context": "project(melt)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

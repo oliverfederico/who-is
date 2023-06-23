@@ -1,0 +1,1 @@
+{"target": "rgl-epfl@@tekari", "extractors": [{"deps": [{"depname": "tekari", "version": null, "version_op": null, "unified_name": "tekari", "extractor_type": "cmake", "context": "project(tekari)", "confidence": ""}], "type": "cmake", "libs": []}]}

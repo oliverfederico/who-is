@@ -1,0 +1,1 @@
+{"target": "tsarpaul@@llvm-string-obfuscator", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

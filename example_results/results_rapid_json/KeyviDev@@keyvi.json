@@ -1,0 +1,2666 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::basic_string<Ch>"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 2740,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 73,
+                "offset": 3
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::basic_string<Ch>"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 2740,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 94,
+                "offset": 3
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 2755,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 74,
+                "offset": 3
+            },
+            "name": "HasParseError"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 76,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 76,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 77,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 77,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 78,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 78,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 79,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 79,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 80,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 80,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 81,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 81,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 82,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 82,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 83,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 83,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 84,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 84,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 85,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 85,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 86,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 86,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 87,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 87,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 88,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 88,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 89,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 89,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 2755,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 95,
+                "offset": 3
+            },
+            "name": "HasParseError"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 97,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 97,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 98,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 98,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 99,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 99,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 100,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 100,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 101,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 101,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 102,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 102,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 103,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 103,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 104,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 104,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 105,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 105,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 106,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 106,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 107,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 107,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 108,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 108,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1118,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 109,
+                "offset": 3
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 109,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1810,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 110,
+                "offset": 3
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1209,
+                "offset": 133
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/json_value_test.cpp",
+                "line": 110,
+                "offset": 3
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Ch *"
+                },
+                "1": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 2728,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 62,
+                "offset": 3
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 216,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 47,
+                "offset": 5
+            },
+            "name": "StartObject"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uint64_t"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 187,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 49,
+                "offset": 5
+            },
+            "name": "Uint64"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uint64_t"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 187,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 53,
+                "offset": 5
+            },
+            "name": "Uint64"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "SizeType"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 231,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 58,
+                "offset": 5
+            },
+            "name": "EndObject"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Ch *const"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 48,
+                "offset": 5
+            },
+            "name": "Key"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Ch *const"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 50,
+                "offset": 5
+            },
+            "name": "Key"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const string"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 211,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 51,
+                "offset": 5
+            },
+            "name": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Ch *const"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 52,
+                "offset": 5
+            },
+            "name": "Key"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Ch *const"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 54,
+                "offset": 5
+            },
+            "name": "Key"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const string"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 211,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 55,
+                "offset": 5
+            },
+            "name": "String"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Ch *const"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 56,
+                "offset": 5
+            },
+            "name": "Key"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const Ch *const"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/3rdparty/rapidjson/include/rapidjson/writer.h",
+                "line": 259,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/KeyviDev@@keyvi/keyvi/tests/keyvi/util/serialization_utils_test.cpp",
+                "line": 57,
+                "offset": 5
+            },
+            "name": "String"
+        }
+    }
+]

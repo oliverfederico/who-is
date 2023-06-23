@@ -1,0 +1,1 @@
+{"target": "CrushedPixel@@Polyline2D", "extractors": [{"deps": [{"depname": "polyline2d", "version": "0.0.1", "version_op": null, "unified_name": "polyline2d", "extractor_type": "cmake", "context": "project(polyline2d version 0.0.1)", "confidence": "High"}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "jubalh@@nudoku", "extractors": [{"deps": [{"depname": "nudoku", "version": "2.1.0", "version_op": null, "unified_name": "nudoku", "extractor_type": "autoconf", "context": "AC_INIT([nudoku], [2.1.0], [jubalh@iodoru.org])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "liberfa@@erfa", "extractors": [{"deps": [{"depname": "erfa", "version": "2.0.0", "version_op": null, "unified_name": "erfa", "extractor_type": "autoconf", "context": "AC_INIT([erfa],[2.0.0])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "meson"}, {"deps": [], "type": "make"}, {"deps": [], "type": "meson"}]}

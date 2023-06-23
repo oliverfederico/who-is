@@ -1,0 +1,1 @@
+{"target": "Lua-cURL@@Lua-cURLv3", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "lcurl", "version": null, "version_op": null, "unified_name": "lcurl", "extractor_type": "cmake", "context": "project (lcurl)", "confidence": ""}], "type": "cmake", "libs": []}]}

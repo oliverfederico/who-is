@@ -1,0 +1,1 @@
+{"target": "Charmve@@CppMaster", "extractors": [{"deps": [{"depname": "designpattern", "version": null, "version_op": null, "unified_name": "designpattern", "extractor_type": "cmake", "context": "project(designpattern)", "confidence": ""}], "type": "cmake", "libs": []}]}

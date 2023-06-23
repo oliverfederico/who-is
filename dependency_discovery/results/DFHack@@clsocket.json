@@ -1,0 +1,1 @@
+{"target": "DFHack@@clsocket", "extractors": [{"deps": [{"depname": "clsocket", "version": null, "version_op": null, "unified_name": "clsocket", "extractor_type": "cmake", "context": "project(clsocket)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "1technophile@@OpenMQTTGateway", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "clib"}]}

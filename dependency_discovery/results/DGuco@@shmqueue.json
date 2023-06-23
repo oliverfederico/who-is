@@ -1,0 +1,1 @@
+{"target": "DGuco@@shmqueue", "extractors": [{"deps": [{"depname": "shmqueue", "version": null, "version_op": null, "unified_name": "shmqueue", "extractor_type": "cmake", "context": "project(shmqueue)", "confidence": ""}], "type": "cmake", "libs": []}]}

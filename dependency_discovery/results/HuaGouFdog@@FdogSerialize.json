@@ -1,0 +1,1 @@
+{"target": "HuaGouFdog@@FdogSerialize", "extractors": [{"deps": [{"depname": "main", "version": null, "version_op": null, "unified_name": "main", "extractor_type": "cmake", "context": "project(main)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

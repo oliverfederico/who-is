@@ -1,0 +1,1 @@
+{"target": "SergeyMakeev@@Zmeya", "extractors": [{"deps": [{"depname": "zmeyatest", "version": null, "version_op": null, "unified_name": "zmeyatest", "extractor_type": "cmake", "context": "project(zmeyatest)", "confidence": ""}], "type": "cmake", "libs": []}]}

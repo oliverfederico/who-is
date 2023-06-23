@@ -1,0 +1,1 @@
+{"target": "arkhipenko@@esp32-mjpeg-multiclient-espcam-drivers", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

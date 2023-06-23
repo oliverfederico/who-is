@@ -1,0 +1,1 @@
+{"target": "neural75@@gqrx-scanner", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "gqrx", "version": null, "version_op": null, "unified_name": "gqrx", "extractor_type": "cmake", "context": "project(gqrx-scanner)", "confidence": ""}], "type": "cmake", "libs": []}]}

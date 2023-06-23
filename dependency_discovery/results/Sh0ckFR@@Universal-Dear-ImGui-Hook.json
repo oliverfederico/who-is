@@ -1,0 +1,1 @@
+{"target": "Sh0ckFR@@Universal-Dear-ImGui-Hook", "extractors": [{"deps": [{"depname": "libMinHook", "version": null, "version_op": null, "unified_name": "minhook", "extractor_type": "ms", "context": "Sh0ckFR@@Universal-Dear-ImGui-Hook/Universal-ImGui-Hook.vcxproj", "confidence": "High"}], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "JakubVojvoda@@design-patterns-cpp", "extractors": [{"deps": [{"depname": "cppdesignpatterns", "version": null, "version_op": null, "unified_name": "cppdesignpatterns", "extractor_type": "cmake", "context": "project(cppdesignpatterns)", "confidence": ""}], "type": "cmake", "libs": []}]}

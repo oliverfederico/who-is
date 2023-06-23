@@ -1,0 +1,1 @@
+{"target": "littlstar@@soil", "extractors": [{"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "clib"}]}

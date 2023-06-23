@@ -1,0 +1,1 @@
+{"target": "Snapmaker@@Snapmaker2-Controller", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "marlin", "version": null, "version_op": null, "unified_name": "marlin", "extractor_type": "cmake", "context": "project(marlin c cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "clib"}, {"deps": [], "type": "make"}]}

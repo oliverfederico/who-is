@@ -1,0 +1,1 @@
+{"target": "quadule@@knobby", "extractors": [{"deps": [{"depname": "knobby", "version": null, "version_op": null, "unified_name": "knobby", "extractor_type": "cmake", "context": "project(knobby)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

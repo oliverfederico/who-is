@@ -1,0 +1,1 @@
+{"target": "cpuimage@@WebRTC_VAD", "extractors": [{"deps": [{"depname": "vad", "version": null, "version_op": null, "unified_name": "vad", "extractor_type": "cmake", "context": "project(vad)", "confidence": ""}], "type": "cmake", "libs": []}]}

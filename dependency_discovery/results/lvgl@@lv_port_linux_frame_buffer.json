@@ -1,0 +1,1 @@
+{"target": "lvgl@@lv_port_linux_frame_buffer", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "lvgl_fb", "version": null, "version_op": null, "unified_name": "lvgl_fb", "extractor_type": "cmake", "context": "project(lvgl_fb)", "confidence": ""}], "type": "cmake", "libs": []}]}

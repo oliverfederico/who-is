@@ -1,0 +1,1 @@
+{"target": "ncrawforth@@VT2040", "extractors": [{"deps": [{"depname": "vt2040", "version": null, "version_op": null, "unified_name": "vt2040", "extractor_type": "cmake", "context": "project(vt2040)", "confidence": ""}], "type": "cmake", "libs": []}]}

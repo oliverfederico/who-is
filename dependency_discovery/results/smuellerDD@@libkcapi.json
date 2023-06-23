@@ -1,0 +1,1 @@
+{"target": "smuellerDD@@libkcapi", "extractors": [{"deps": [{"depname": "libkcapi", "version": "KCAPI_VERSION", "version_op": null, "unified_name": "kcapi", "extractor_type": "autoconf", "context": "AC_INIT([libkcapi], [KCAPI_VERSION])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

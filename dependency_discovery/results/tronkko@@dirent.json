@@ -1,0 +1,1 @@
+{"target": "tronkko@@dirent", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "dirent", "version": null, "version_op": null, "unified_name": "dirent", "extractor_type": "cmake", "context": "project(dirent languages c cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

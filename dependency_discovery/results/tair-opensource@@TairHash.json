@@ -1,0 +1,1 @@
+{"target": "tair-opensource@@TairHash", "extractors": [{"deps": [{"depname": "tairhash_module", "version": null, "version_op": null, "unified_name": "tairhash_module", "extractor_type": "cmake", "context": "project(tairhash_module)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

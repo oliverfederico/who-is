@@ -1,0 +1,1 @@
+{"target": "Alairion@@not-enough-standards", "extractors": [{"deps": [{"depname": "notenoughstandards", "version": "1.0.2", "version_op": null, "unified_name": "notenoughstandards", "extractor_type": "cmake", "context": "project(notenoughstandards version 1.0.2)", "confidence": "High"}], "type": "cmake", "libs": []}]}

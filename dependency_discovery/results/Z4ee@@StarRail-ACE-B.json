@@ -1,0 +1,1 @@
+{"target": "Z4ee@@StarRail-ACE-B", "extractors": [{"deps": [{"depname": "MinHook", "version": null, "version_op": null, "unified_name": "minhook", "extractor_type": "ms", "context": "Z4ee@@StarRail-ACE-B/star_rail.vcxproj", "confidence": "High"}], "type": "ms"}]}

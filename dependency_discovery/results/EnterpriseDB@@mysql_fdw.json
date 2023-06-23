@@ -1,0 +1,1 @@
+{"target": "EnterpriseDB@@mysql_fdw", "extractors": [{"deps": [], "type": "make"}]}

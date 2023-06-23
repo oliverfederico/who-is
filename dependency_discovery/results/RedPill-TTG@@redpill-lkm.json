@@ -1,0 +1,1 @@
+{"target": "RedPill-TTG@@redpill-lkm", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "redpill", "version": null, "version_op": null, "unified_name": "redpill", "extractor_type": "cmake", "context": "project(redpill c)", "confidence": ""}], "type": "cmake", "libs": []}]}

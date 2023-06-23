@@ -1,0 +1,1 @@
+{"target": "Taymindis@@lfqueue", "extractors": [{"deps": [{"depname": "lfqueue", "version": null, "version_op": null, "unified_name": "lfqueue", "extractor_type": "cmake", "context": "project(lfqueue)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}]}

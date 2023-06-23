@@ -1,0 +1,74 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/OPAE@@opae-sdk/ofs/apps/cpeng/hps.cpp",
+                "line": 116,
+                "offset": 12
+            },
+            "name": "get"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/OPAE@@opae-sdk/ofs/apps/cpeng/hps.cpp",
+                "line": 294,
+                "offset": 12
+            },
+            "name": "get"
+        }
+    }
+]

@@ -1,0 +1,1 @@
+{"target": "mohaps@@lrucache11", "extractors": [{"deps": [{"depname": "lrucache11", "version": null, "version_op": null, "unified_name": "lrucache11", "extractor_type": "cmake", "context": "project(lrucache11)", "confidence": ""}], "type": "cmake", "libs": []}]}

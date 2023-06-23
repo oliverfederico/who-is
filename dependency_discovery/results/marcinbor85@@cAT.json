@@ -1,0 +1,1 @@
+{"target": "marcinbor85@@cAT", "extractors": [{"deps": [{"depname": "libcat", "version": null, "version_op": null, "unified_name": "cat", "extractor_type": "cmake", "context": "project( libcat languages c )", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "pq-crystals@@dilithium", "extractors": [{"deps": [{"depname": "dilithium", "version": null, "version_op": null, "unified_name": "dilithium", "extractor_type": "cmake", "context": "project(dilithium c asm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}]}

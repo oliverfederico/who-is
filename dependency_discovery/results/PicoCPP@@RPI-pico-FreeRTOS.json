@@ -1,0 +1,1 @@
+{"target": "PicoCPP@@RPI-pico-FreeRTOS", "extractors": [{"deps": [{"depname": "hello_world", "version": null, "version_op": null, "unified_name": "hello_world", "extractor_type": "cmake", "context": "project(hello_world)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

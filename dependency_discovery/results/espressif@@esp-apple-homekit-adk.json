@@ -1,0 +1,1 @@
+{"target": "espressif@@esp-apple-homekit-adk", "extractors": [{"deps": [{"depname": "lightbulb", "version": null, "version_op": null, "unified_name": "lightbulb", "extractor_type": "cmake", "context": "project(lightbulb)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

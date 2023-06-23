@@ -1,0 +1,1 @@
+{"target": "cpuimage@@WebRTC_AECM", "extractors": [{"deps": [{"depname": "aecm", "version": null, "version_op": null, "unified_name": "aecm", "extractor_type": "cmake", "context": "project(aecm)", "confidence": ""}], "type": "cmake", "libs": []}]}

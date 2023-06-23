@@ -1,0 +1,1 @@
+{"target": "zpl-c@@enet", "extractors": [{"deps": [], "type": "clib"}, {"deps": [{"depname": "enet", "version": null, "version_op": null, "unified_name": "enet", "extractor_type": "cmake", "context": "project(enet c)", "confidence": ""}], "type": "cmake", "libs": []}]}

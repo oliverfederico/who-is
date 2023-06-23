@@ -1,0 +1,1 @@
+{"target": "Gregwar@@fatcat", "extractors": [{"deps": [{"depname": "fatcat", "version": null, "version_op": null, "unified_name": "fatcat", "extractor_type": "cmake", "context": "project(fatcat)", "confidence": ""}], "type": "cmake", "libs": []}]}

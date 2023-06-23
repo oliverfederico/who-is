@@ -1,0 +1,1 @@
+{"target": "yylive@@YYEVA-Android", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "yylive@@YYEVA-Android/yyevac/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log )"}]}]}

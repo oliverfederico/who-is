@@ -1,0 +1,389 @@
+[
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::ostream &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 1248,
+                "offset": 17
+            },
+            "functionDeclReturn": "std::ostream &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/OnnxConverter.cpp",
+                "line": 46,
+                "offset": 5
+            },
+            "name": "stream"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::ostream &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 1248,
+                "offset": 17
+            },
+            "functionDeclReturn": "std::ostream &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/OnnxConverter.cpp",
+                "line": 105,
+                "offset": 9
+            },
+            "name": "stream"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::ostream &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 1248,
+                "offset": 17
+            },
+            "functionDeclReturn": "std::ostream &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/OnnxConverter.cpp",
+                "line": 162,
+                "offset": 5
+            },
+            "name": "stream"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "google::LogMessageVoidify"
+                },
+                "1": {
+                    "type": "__ostream_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 1380,
+                "offset": 8
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/OnnxConverter.cpp",
+                "line": 572,
+                "offset": 5
+            },
+            "name": "operator&"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::ostream &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 1248,
+                "offset": 17
+            },
+            "functionDeclReturn": "std::ostream &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/OnnxConverter.cpp",
+                "line": 572,
+                "offset": 5
+            },
+            "name": "stream"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "google::LogMessageVoidify"
+                },
+                "1": {
+                    "type": "std::ostream"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 1380,
+                "offset": 8
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/OnnxConverter.cpp",
+                "line": 573,
+                "offset": 5
+            },
+            "name": "operator&"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::ostream &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 1248,
+                "offset": 17
+            },
+            "functionDeclReturn": "std::ostream &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/OnnxConverter.cpp",
+                "line": 573,
+                "offset": 5
+            },
+            "name": "stream"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 517,
+                "offset": 27
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/onnx2bnn.cpp",
+                "line": 93,
+                "offset": 5
+            },
+            "name": "InitGoogleLogging"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::ostream &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 1248,
+                "offset": 17
+            },
+            "functionDeclReturn": "std::ostream &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/onnx2bnn.cpp",
+                "line": 197,
+                "offset": 5
+            },
+            "name": "stream"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "google::LogMessageVoidify"
+                },
+                "1": {
+                    "type": "__ostream_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 1380,
+                "offset": 8
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/onnx2bnn.cpp",
+                "line": 199,
+                "offset": 5
+            },
+            "name": "operator&"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::ostream &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/build/third_party/glog/glog/logging.h",
+                "line": 1248,
+                "offset": 17
+            },
+            "functionDeclReturn": "std::ostream &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/JDAI-CV@@dabnn/tools/onnx2bnn/onnx2bnn.cpp",
+                "line": 199,
+                "offset": 5
+            },
+            "name": "stream"
+        }
+    }
+]

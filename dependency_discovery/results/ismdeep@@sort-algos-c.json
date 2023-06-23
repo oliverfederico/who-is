@@ -1,0 +1,1 @@
+{"target": "ismdeep@@sort-algos-c", "extractors": [{"deps": [{"depname": "sort", "version": null, "version_op": null, "unified_name": "sort", "extractor_type": "cmake", "context": "project(sort-algos c)", "confidence": ""}], "type": "cmake", "libs": []}]}

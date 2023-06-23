@@ -1,0 +1,1 @@
+{"target": "angt@@mud", "extractors": [{"deps": [{"depname": "sodium", "version": null, "version_op": null, "unified_name": "sodium", "extractor_type": "make", "context": "angt@@mud/Makefile:LDLIBS = -lsodium", "confidence": "High"}], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "downdemo@@Design-Patterns-in-Cpp17", "extractors": [{"deps": [{"depname": "design", "version": null, "version_op": null, "unified_name": "design", "extractor_type": "cmake", "context": "project(design-patterns languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

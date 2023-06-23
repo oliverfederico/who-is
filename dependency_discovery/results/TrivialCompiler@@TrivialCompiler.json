@@ -1,0 +1,1 @@
+{"target": "TrivialCompiler@@TrivialCompiler", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [{"depname": "trivialcompiler", "version": null, "version_op": null, "unified_name": "trivialcompiler", "extractor_type": "cmake", "context": "project(trivialcompiler cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

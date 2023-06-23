@@ -1,0 +1,1 @@
+{"target": "MAFINS@@MenyooSP", "extractors": [{"deps": [{"depname": "$(SolutionDir)\\external\\ScriptHookV\\SDK\\lib\\ScriptHookV", "version": null, "version_op": null, "unified_name": "$(solutiondir)\\external\\scripthookv\\sdk\\lib\\scripthookv", "extractor_type": "ms", "context": "MAFINS@@MenyooSP/Solution/source/Menyoo.vcxproj", "confidence": "High"}], "type": "ms"}]}

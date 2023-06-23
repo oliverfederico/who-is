@@ -1,0 +1,1 @@
+{"target": "AndroidAudioMods@@ViPERFX_RE", "extractors": [{"deps": [{"depname": "cmake_cxx_compiler", "version": "20", "version_op": null, "unified_name": "cmake_cxx_compiler", "extractor_type": "cmake", "context": "set(cmake_cxx_compiler_version 20)", "confidence": "Low"}], "type": "cmake", "libs": []}]}

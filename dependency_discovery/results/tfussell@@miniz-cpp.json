@@ -1,0 +1,1 @@
+{"target": "tfussell@@miniz-cpp", "extractors": [{"deps": [{"depname": "miniz", "version": null, "version_op": null, "unified_name": "miniz", "extractor_type": "cmake", "context": "project(miniz-cpp)", "confidence": ""}], "type": "cmake", "libs": []}]}

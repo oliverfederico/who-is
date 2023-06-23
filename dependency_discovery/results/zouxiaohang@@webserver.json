@@ -1,0 +1,1 @@
+{"target": "zouxiaohang@@webserver", "extractors": [{"deps": [{"depname": "webserver", "version": null, "version_op": null, "unified_name": "webserver", "extractor_type": "cmake", "context": "project(webserver)", "confidence": ""}], "type": "cmake", "libs": []}]}

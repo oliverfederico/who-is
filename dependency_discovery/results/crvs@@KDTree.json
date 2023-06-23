@@ -1,0 +1,1 @@
+{"target": "crvs@@KDTree", "extractors": [{"deps": [{"depname": "kdtree", "version": null, "version_op": null, "unified_name": "kdtree", "extractor_type": "cmake", "context": "project(kdtree cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

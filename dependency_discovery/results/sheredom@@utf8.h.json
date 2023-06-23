@@ -1,0 +1,1 @@
+{"target": "sheredom@@utf8.h", "extractors": [{"deps": [{"depname": "utf8", "version": null, "version_op": null, "unified_name": "utf8", "extractor_type": "cmake", "context": "project(utf8)", "confidence": ""}], "type": "cmake", "libs": []}]}

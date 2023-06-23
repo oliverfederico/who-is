@@ -1,0 +1,1 @@
+{"target": "Morwenn@@static_math", "extractors": [{"deps": [{"depname": "static_math", "version": null, "version_op": null, "unified_name": "static_math", "extractor_type": "cmake", "context": "project(static_math languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

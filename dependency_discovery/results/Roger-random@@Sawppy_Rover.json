@@ -1,0 +1,1 @@
+{"target": "Roger-random@@Sawppy_Rover", "extractors": [{"deps": [{"depname": "esp32_sawppy", "version": null, "version_op": null, "unified_name": "esp32_sawppy", "extractor_type": "cmake", "context": "project(esp32_sawppy)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "clib"}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "rigtorp@@spartan", "extractors": [{"deps": [{"depname": "spartan", "version": null, "version_op": null, "unified_name": "spartan", "extractor_type": "cmake", "context": "project(spartan)", "confidence": ""}], "type": "cmake", "libs": []}]}

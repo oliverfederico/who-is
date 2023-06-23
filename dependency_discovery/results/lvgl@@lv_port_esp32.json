@@ -1,0 +1,1 @@
+{"target": "lvgl@@lv_port_esp32", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "lvgl", "version": null, "version_op": null, "unified_name": "lvgl", "extractor_type": "cmake", "context": "    project(lvgl-demo)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

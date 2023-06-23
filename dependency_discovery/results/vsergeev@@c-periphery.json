@@ -1,0 +1,1 @@
+{"target": "vsergeev@@c-periphery", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "periphery", "version": "2.4.1", "version_op": null, "unified_name": "periphery", "extractor_type": "cmake", "context": "project(periphery c)", "confidence": ""}], "type": "cmake", "libs": []}]}

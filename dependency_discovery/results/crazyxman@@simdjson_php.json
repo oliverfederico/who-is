@@ -1,0 +1,1 @@
+{"target": "crazyxman@@simdjson_php", "extractors": [{"deps": [{"depname": "simdjson", "version": null, "version_op": null, "unified_name": "simdjson", "extractor_type": "cmake", "context": "project(simdjson)", "confidence": ""}], "type": "cmake", "libs": []}]}

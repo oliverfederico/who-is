@@ -1,0 +1,1 @@
+{"target": "banditcpp@@bandit", "extractors": [{"deps": [{"depname": "bandit", "version": null, "version_op": null, "unified_name": "bandit", "extractor_type": "cmake", "context": "project(bandit)", "confidence": ""}], "type": "cmake", "libs": []}]}

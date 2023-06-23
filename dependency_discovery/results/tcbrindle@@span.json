@@ -1,0 +1,1 @@
+{"target": "tcbrindle@@span", "extractors": [{"deps": [{"depname": "span", "version": null, "version_op": null, "unified_name": "span", "extractor_type": "cmake", "context": "project(span languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

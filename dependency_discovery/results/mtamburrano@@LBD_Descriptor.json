@@ -1,0 +1,1 @@
+{"target": "mtamburrano@@LBD_Descriptor", "extractors": [{"deps": [{"depname": "liliantests", "version": null, "version_op": null, "unified_name": "liliantests", "extractor_type": "cmake", "context": "project(liliantests)", "confidence": ""}], "type": "cmake", "libs": []}]}

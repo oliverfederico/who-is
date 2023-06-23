@@ -1,0 +1,1 @@
+{"target": "libass@@libass", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "libass", "version": "0.17.1", "version_op": null, "unified_name": "ass", "extractor_type": "autoconf", "context": "AC_INIT(libass, 0.17.1)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

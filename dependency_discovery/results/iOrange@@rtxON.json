@@ -1,0 +1,1 @@
+{"target": "iOrange@@rtxON", "extractors": [{"deps": [{"depname": "rtxon", "version": null, "version_op": null, "unified_name": "rtxon", "extractor_type": "cmake", "context": "project(rtxon cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

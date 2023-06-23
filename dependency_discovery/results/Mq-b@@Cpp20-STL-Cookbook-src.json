@@ -1,0 +1,1 @@
+{"target": "Mq-b@@Cpp20-STL-Cookbook-src", "extractors": [{"deps": [{"depname": "test1", "version": null, "version_op": null, "unified_name": "test1", "extractor_type": "cmake", "context": "project (test1)", "confidence": ""}], "type": "cmake", "libs": []}]}

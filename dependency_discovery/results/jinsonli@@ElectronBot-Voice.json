@@ -1,0 +1,1 @@
+{"target": "jinsonli@@ElectronBot-Voice", "extractors": [{"deps": [{"depname": "electronbot", "version": null, "version_op": null, "unified_name": "electronbot", "extractor_type": "cmake", "context": "project(electronbot-fw c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "raphaelradna@@xenos", "extractors": [{"deps": [{"depname": "xenos_app", "version": "0.1", "version_op": null, "unified_name": "xenos_app", "extractor_type": "cmake", "context": "project(xenos_app version 0.1)", "confidence": "High"}], "type": "cmake", "libs": []}]}

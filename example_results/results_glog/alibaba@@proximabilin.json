@@ -1,0 +1,139 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/alibaba@@proximabilin/build/deps/thirdparty/glog/glog/glog/logging.h",
+                "line": 517,
+                "offset": 27
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/alibaba@@proximabilin/src/repository/repository_common/glogger.cc",
+                "line": 76,
+                "offset": 7
+            },
+            "name": "InitGoogleLogging"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/alibaba@@proximabilin/build/deps/thirdparty/glog/glog/glog/logging.h",
+                "line": 520,
+                "offset": 27
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/alibaba@@proximabilin/src/repository/repository_common/glogger.cc",
+                "line": 83,
+                "offset": 7
+            },
+            "name": "ShutdownGoogleLogging"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "google::LogSeverity"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/alibaba@@proximabilin/build/deps/thirdparty/glog/glog/glog/logging.h",
+                "line": 1389,
+                "offset": 27
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/alibaba@@proximabilin/src/repository/repository_common/glogger.cc",
+                "line": 96,
+                "offset": 5
+            },
+            "name": "FlushLogFiles"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::ostream &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/alibaba@@proximabilin/build/deps/thirdparty/glog/glog/glog/logging.h",
+                "line": 1251,
+                "offset": 17
+            },
+            "functionDeclReturn": "std::ostream &",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/alibaba@@proximabilin/src/repository/repository_common/glogger.cc",
+                "line": 95,
+                "offset": 5
+            },
+            "name": "stream"
+        }
+    }
+]

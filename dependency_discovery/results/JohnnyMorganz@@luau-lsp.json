@@ -1,0 +1,1 @@
+{"target": "JohnnyMorganz@@luau-lsp", "extractors": [{"deps": [{"depname": "luau", "version": null, "version_op": null, "unified_name": "luau", "extractor_type": "cmake", "context": "project(luau.languageserver languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "clib"}]}

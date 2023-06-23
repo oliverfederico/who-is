@@ -1,0 +1,552 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "rapidjson::Value"
+                },
+                "1": {
+                    "type": "rapidjson::Document::AllocatorType"
+                }
+            },
+            "callExprReturn": "GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1722,
+                "offset": 19
+            },
+            "functionDeclReturn": "GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/src/binding/rapid_json_serializer.cpp",
+                "line": 28,
+                "offset": 13
+            },
+            "name": "PushBack"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "rapidjson::Value"
+                },
+                "1": {
+                    "type": "rapidjson::Value"
+                },
+                "2": {
+                    "type": "rapidjson::Document::AllocatorType"
+                }
+            },
+            "callExprReturn": "GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1449,
+                "offset": 19
+            },
+            "functionDeclReturn": "GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/src/binding/rapid_json_serializer.cpp",
+                "line": 40,
+                "offset": 13
+            },
+            "name": "AddMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "rapidjson::Value"
+                },
+                "1": {
+                    "type": "rapidjson::Value"
+                },
+                "2": {
+                    "type": "rapidjson::Document::AllocatorType"
+                }
+            },
+            "callExprReturn": "GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1449,
+                "offset": 19
+            },
+            "functionDeclReturn": "GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/src/binding/rapid_json_serializer.cpp",
+                "line": 49,
+                "offset": 9
+            },
+            "name": "AddMember"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "class rapidjson::MemoryPoolAllocator<> &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 2795,
+                "offset": 16
+            },
+            "functionDeclReturn": "class rapidjson::MemoryPoolAllocator<> &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/src/binding/rapid_json_serializer.cpp",
+                "line": 94,
+                "offset": 41
+            },
+            "name": "GetAllocator"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Writer"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1948,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/src/binding/rapid_json_serializer.cpp",
+                "line": 113,
+                "offset": 9
+            },
+            "name": "Accept"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "PrettyWriter"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1948,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/src/binding/rapid_json_serializer.cpp",
+                "line": 120,
+                "offset": 9
+            },
+            "name": "Accept"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 2726,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/test/binding/rapid_json_binding_test.cpp",
+                "line": 32,
+                "offset": 9
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1214,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/test/binding/rapid_json_binding_test.cpp",
+                "line": 87,
+                "offset": 21
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1214,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/test/binding/rapid_json_binding_test.cpp",
+                "line": 88,
+                "offset": 25
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1214,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/test/binding/rapid_json_binding_test.cpp",
+                "line": 89,
+                "offset": 23
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1214,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/test/binding/rapid_json_binding_test.cpp",
+                "line": 90,
+                "offset": 23
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1214,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/test/binding/rapid_json_binding_test.cpp",
+                "line": 91,
+                "offset": 23
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1214,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/test/binding/rapid_json_binding_test.cpp",
+                "line": 92,
+                "offset": 22
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericValue<struct rapidjson::UTF8<> >"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/thirdparty/json/rapid/include/rapidjson/document.h",
+                "line": 1214,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/jinja2cpp@@Jinja2Cpp/test/binding/rapid_json_binding_test.cpp",
+                "line": 93,
+                "offset": 23
+            },
+            "name": "operator[]"
+        }
+    }
+]

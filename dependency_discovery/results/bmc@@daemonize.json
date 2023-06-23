@@ -1,0 +1,1 @@
+{"target": "bmc@@daemonize", "extractors": [{"deps": [], "type": "autoconf"}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}]}

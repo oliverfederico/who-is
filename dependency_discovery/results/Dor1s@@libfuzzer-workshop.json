@@ -1,0 +1,1 @@
+{"target": "Dor1s@@libfuzzer-workshop", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "tiann@@FreeReflection", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "tiann@@FreeReflection/library/src/main/cpp/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log )"}]}]}

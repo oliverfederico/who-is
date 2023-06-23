@@ -1,0 +1,1 @@
+{"target": "muellerberndt@@frida-detection", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "muellerberndt@@frida-detection/AntiFrida/app/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log )"}]}]}

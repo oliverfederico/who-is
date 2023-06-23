@@ -1,0 +1,1 @@
+{"target": "h2non@@semver.c", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}]}

@@ -1,0 +1,1 @@
+{"target": "sharkdp@@dbg-macro", "extractors": [{"deps": [{"depname": "dbg_macro", "version": null, "version_op": null, "unified_name": "dbg_macro", "extractor_type": "cmake", "context": "project(dbg_macro)", "confidence": ""}], "type": "cmake", "libs": []}]}

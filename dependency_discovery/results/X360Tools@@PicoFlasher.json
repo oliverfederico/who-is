@@ -1,0 +1,1 @@
+{"target": "X360Tools@@PicoFlasher", "extractors": [{"deps": [{"depname": "picoflasher", "version": null, "version_op": null, "unified_name": "picoflasher", "extractor_type": "cmake", "context": "project(picoflasher c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}]}

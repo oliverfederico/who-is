@@ -1,0 +1,1 @@
+{"target": "dropbox@@json11", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "json11", "version": null, "version_op": null, "unified_name": "json11", "extractor_type": "cmake", "context": "  project(json11 cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

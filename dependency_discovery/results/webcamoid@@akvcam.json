@@ -1,0 +1,1 @@
+{"target": "webcamoid@@akvcam", "extractors": [{"deps": [{"depname": "akvcam", "version": null, "version_op": null, "unified_name": "akvcam", "extractor_type": "cmake", "context": "project(akvcam languages c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

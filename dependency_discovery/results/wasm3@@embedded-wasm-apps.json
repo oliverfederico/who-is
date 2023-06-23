@@ -1,0 +1,1 @@
+{"target": "wasm3@@embedded-wasm-apps", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}]}

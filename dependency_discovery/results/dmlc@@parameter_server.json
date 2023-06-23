@@ -1,0 +1,1 @@
+{"target": "dmlc@@parameter_server", "extractors": [{"deps": [], "type": "make"}]}

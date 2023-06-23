@@ -1,0 +1,1 @@
+{"target": "elbeno@@constexpr", "extractors": [{"deps": [{"depname": "constexpr", "version": null, "version_op": null, "unified_name": "constexpr", "extractor_type": "cmake", "context": "project (constexpr)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

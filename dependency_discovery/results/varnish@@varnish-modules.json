@@ -1,0 +1,1 @@
+{"target": "varnish@@varnish-modules", "extractors": [{"deps": [{"depname": "varnish-modules", "version": "0.22.0", "version_op": null, "unified_name": "varnish-modules", "extractor_type": "autoconf", "context": "AC_INIT([varnish-modules], [0.22.0])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "alpha1ab@@Win2016LPE", "extractors": [{"deps": [{"depname": "xpsprint", "version": null, "version_op": null, "unified_name": "xpsprint", "extractor_type": "ms", "context": "alpha1ab@@Win2016LPE/ALPC-TaskSched-LPE/ALPC-TaskSched-LPE/ALPC-TaskSched-LPE.vcxproj", "confidence": "High"}], "type": "ms"}, {"deps": [], "type": "ms"}]}

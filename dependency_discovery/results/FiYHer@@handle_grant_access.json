@@ -1,0 +1,1 @@
+{"target": "FiYHer@@handle_grant_access", "extractors": [{"deps": [{"depname": "detours", "version": null, "version_op": null, "unified_name": "detours", "extractor_type": "ms", "context": "FiYHer@@handle_grant_access/grant_access/grant_access_user/grant_access_user.vcxproj", "confidence": "High"}], "type": "ms"}, {"deps": [], "type": "ms"}]}

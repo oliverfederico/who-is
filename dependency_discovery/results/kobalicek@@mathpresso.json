@@ -1,0 +1,1 @@
+{"target": "kobalicek@@mathpresso", "extractors": [{"deps": [{"depname": "mathpresso", "version": null, "version_op": null, "unified_name": "mathpresso", "extractor_type": "cmake", "context": "  project(mathpresso cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

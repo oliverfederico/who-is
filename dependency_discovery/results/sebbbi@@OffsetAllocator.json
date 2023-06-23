@@ -1,0 +1,1 @@
+{"target": "sebbbi@@OffsetAllocator", "extractors": [{"deps": [{"depname": "offsetallocator", "version": null, "version_op": null, "unified_name": "offsetallocator", "extractor_type": "cmake", "context": "project(offsetallocator)", "confidence": ""}], "type": "cmake", "libs": []}]}

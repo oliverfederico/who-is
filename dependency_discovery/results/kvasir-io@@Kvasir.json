@@ -1,0 +1,1 @@
+{"target": "kvasir-io@@Kvasir", "extractors": [{"deps": [{"depname": "kvasir", "version": null, "version_op": null, "unified_name": "kvasir", "extractor_type": "cmake", "context": "project(kvasir)", "confidence": ""}], "type": "cmake", "libs": []}]}

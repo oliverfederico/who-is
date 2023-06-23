@@ -1,0 +1,1 @@
+{"target": "ckgt@@NemaTode", "extractors": [{"deps": [{"depname": "nematode", "version": "1.1", "version_op": null, "unified_name": "nematode", "extractor_type": "cmake", "context": "project(nematode version 1.1)", "confidence": "High"}], "type": "cmake", "libs": []}]}

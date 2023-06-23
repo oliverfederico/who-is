@@ -1,0 +1,1 @@
+{"target": "EmixamPP@@linux-enable-ir-emitter", "extractors": [{"deps": [{"depname": "opencv4", "version": null, "version_op": null, "unified_name": "opencv4", "extractor_type": "meson", "context": "EmixamPP@@linux-enable-ir-emitter/meson.build", "confidence": "High"}], "type": "meson"}]}

@@ -1,0 +1,1 @@
+{"target": "google@@REAPER", "extractors": [{"deps": [{"depname": "reaper", "version": null, "version_op": null, "unified_name": "reaper", "extractor_type": "cmake", "context": "project(reaper)", "confidence": ""}], "type": "cmake", "libs": []}]}

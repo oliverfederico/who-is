@@ -1,0 +1,611 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "char *"
+                },
+                "3": {
+                    "type": "size_t *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 122,
+                "offset": 8
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy-c.cc",
+                "line": 41,
+                "offset": 3
+            },
+            "name": "RawCompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "size_t *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 172,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy-c.cc",
+                "line": 50,
+                "offset": 8
+            },
+            "name": "GetUncompressedLength"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "char *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 132,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy-c.cc",
+                "line": 58,
+                "offset": 8
+            },
+            "name": "RawUncompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 166,
+                "offset": 10
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy-c.cc",
+                "line": 66,
+                "offset": 10
+            },
+            "name": "MaxCompressedLength"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "size_t *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 172,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy-c.cc",
+                "line": 72,
+                "offset": 7
+            },
+            "name": "GetUncompressedLength"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 179,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy-c.cc",
+                "line": 83,
+                "offset": 7
+            },
+            "name": "IsValidCompressedBuffer"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Source *"
+                },
+                "1": {
+                    "type": "const struct iovec *"
+                },
+                "2": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 161,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.cc",
+                "line": 1725,
+                "offset": 10
+            },
+            "name": "RawUncompressToIOVec"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Source *"
+                },
+                "1": {
+                    "type": "char *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 140,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.cc",
+                "line": 1826,
+                "offset": 10
+            },
+            "name": "RawUncompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 166,
+                "offset": 10
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/lib/trace/trace_file_snappy.cpp",
+                "line": 139,
+                "offset": 9
+            },
+            "name": "MaxCompressedLength"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "size_t *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 172,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/lib/trace/trace_file_snappy.cpp",
+                "line": 241,
+                "offset": 14
+            },
+            "name": "GetUncompressedLength"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Source *"
+                },
+                "1": {
+                    "type": "Sink *"
+                }
+            },
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 101,
+                "offset": 10
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/lib/trace/trace_file_snappy.cpp",
+                "line": 251,
+                "offset": 23
+            },
+            "name": "UncompressAsMuchAsPossible"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "size_t *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 172,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/lib/trace/trace_file_snappy.cpp",
+                "line": 256,
+                "offset": 10
+            },
+            "name": "GetUncompressedLength"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "char *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 132,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/lib/trace/trace_file_snappy.cpp",
+                "line": 264,
+                "offset": 9
+            },
+            "name": "RawUncompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 166,
+                "offset": 10
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/lib/trace/trace_ostream_snappy.cpp",
+                "line": 101,
+                "offset": 9
+            },
+            "name": "MaxCompressedLength"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "char *"
+                },
+                "3": {
+                    "type": "size_t *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/thirdparty/snappy/snappy.h",
+                "line": 122,
+                "offset": 8
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/apitrace@@apitrace/lib/trace/trace_ostream_snappy.cpp",
+                "line": 174,
+                "offset": 9
+            },
+            "name": "RawCompress"
+        }
+    }
+]

@@ -1,0 +1,1 @@
+{"target": "pgroonga@@pgroonga", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "MessagePack", "version": "0.5.7", "version_op": "=", "unified_name": "messagepack", "extractor_type": "pkgconfig", "context": "pgroonga@@pgroonga/data/travis/pkgconfig/msgpack.pc", "confidence": "High"}], "type": "pkgconfig"}]}

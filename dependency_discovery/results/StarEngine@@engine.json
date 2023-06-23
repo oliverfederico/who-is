@@ -1,0 +1,1 @@
+{"target": "StarEngine@@engine", "extractors": [{"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}, {"deps": [{"depname": "pugixml", "version": null, "version_op": null, "unified_name": "pugixml", "extractor_type": "cmake", "context": "project(pugixml)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

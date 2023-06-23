@@ -1,0 +1,1 @@
+{"target": "winsiderss@@phnt", "extractors": [{"deps": [{"depname": "phnt", "version": null, "version_op": null, "unified_name": "phnt", "extractor_type": "cmake", "context": "project(phnt)", "confidence": ""}], "type": "cmake", "libs": []}]}

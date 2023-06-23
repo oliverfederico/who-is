@@ -1,0 +1,1 @@
+{"target": "NullHooks@@NullHooks", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "csgo", "version": "0.1.0", "version_op": null, "unified_name": "csgo", "extractor_type": "cmake", "context": "project(csgo-cheeto version 0.1.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

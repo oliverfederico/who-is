@@ -1,0 +1,1 @@
+{"target": "stdcpp-audio@@libstdaudio", "extractors": [{"deps": [{"depname": "libstdaudio", "version": null, "version_op": null, "unified_name": "stdaudio", "extractor_type": "cmake", "context": "project(libstdaudio)", "confidence": ""}], "type": "cmake", "libs": []}]}

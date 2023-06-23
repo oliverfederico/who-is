@@ -1,0 +1,1 @@
+{"target": "codazoda@@hub-ctrl.c", "extractors": [{"deps": [{"depname": "usb", "version": null, "version_op": null, "unified_name": "usb", "extractor_type": "make", "context": "codazoda@@hub-ctrl.c/Makefile:LDLIBS = -lusb", "confidence": "High"}], "type": "make"}]}

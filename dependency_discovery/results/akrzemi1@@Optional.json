@@ -1,0 +1,1 @@
+{"target": "akrzemi1@@Optional", "extractors": [{"deps": [{"depname": "optional", "version": null, "version_op": null, "unified_name": "optional", "extractor_type": "cmake", "context": "project(optional)", "confidence": ""}], "type": "cmake", "libs": []}]}

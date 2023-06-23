@@ -1,0 +1,1589 @@
+[
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1453,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 5,
+                "offset": 47
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const rapidjson::Value"
+                },
+                "1": {
+                    "type": "SizeType"
+                }
+            },
+            "callExprReturn": "const GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1307,
+                "offset": 25
+            },
+            "functionDeclReturn": "const GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 5,
+                "offset": 47
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1453,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 5,
+                "offset": 67
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const rapidjson::Value"
+                },
+                "1": {
+                    "type": "SizeType"
+                }
+            },
+            "callExprReturn": "const GenericValue<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1307,
+                "offset": 25
+            },
+            "functionDeclReturn": "const GenericValue<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 5,
+                "offset": 67
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1317,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 15,
+                "offset": 21
+            },
+            "name": "Begin"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1320,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 15,
+                "offset": 41
+            },
+            "name": "End"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1317,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 28,
+                "offset": 21
+            },
+            "name": "Begin"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1320,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 28,
+                "offset": 41
+            },
+            "name": "End"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const rapidjson::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 849,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 35,
+                "offset": 42
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "ConstMemberIterator"
+                }
+            },
+            "callExprReturn": "Iterator &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 164,
+                "offset": 15
+            },
+            "functionDeclReturn": "Iterator &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 37,
+                "offset": 78
+            },
+            "name": "operator++"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 882,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 37,
+                "offset": 21
+            },
+            "name": "MemberBegin"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                },
+                "1": {
+                    "type": "ConstIterator"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 37,
+                "offset": 47
+            },
+            "name": "operator!="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 885,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 37,
+                "offset": 54
+            },
+            "name": "MemberEnd"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1473,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 38,
+                "offset": 30
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<true, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 192,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 38,
+                "offset": 30
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const rapidjson::Value"
+                },
+                "1": {
+                    "type": "const Ch *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 849,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 39,
+                "offset": 40
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1453,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 42,
+                "offset": 47
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "double",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1453,
+                "offset": 12
+            },
+            "functionDeclReturn": "double",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 47,
+                "offset": 47
+            },
+            "name": "GetDouble"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 794,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 51,
+                "offset": 13
+            },
+            "name": "IsNumber"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 800,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 53,
+                "offset": 20
+            },
+            "name": "IsString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const rapidjson::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 849,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 59,
+                "offset": 40
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const rapidjson::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 849,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 60,
+                "offset": 38
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1473,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 61,
+                "offset": 39
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const rapidjson::Value"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 849,
+                "offset": 139
+            },
+            "functionDeclReturn": "typename ::rapidjson::internal::DisableIf<typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(internal::NotExpr<internal::IsSame<typename internal::RemoveConst<const char>::Type, Ch> >)>::Type, typename ::rapidjson::internal::RemoveSfinaeTag< ::rapidjson::internal::SfinaeTag &(*)(const GenericValue<UTF8<> > &)>::Type>::Type",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 61,
+                "offset": 39
+            },
+            "name": "operator[]"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1317,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 69,
+                "offset": 33
+            },
+            "name": "Begin"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1320,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 69,
+                "offset": 64
+            },
+            "name": "End"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1317,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 78,
+                "offset": 32
+            },
+            "name": "Begin"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1320,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 78,
+                "offset": 62
+            },
+            "name": "End"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1317,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 88,
+                "offset": 32
+            },
+            "name": "Begin"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1320,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 88,
+                "offset": 62
+            },
+            "name": "End"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 944,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 96,
+                "offset": 31
+            },
+            "name": "FindMember"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const ConstMemberIterator"
+                },
+                "1": {
+                    "type": "ConstIterator"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 181,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 98,
+                "offset": 9
+            },
+            "name": "operator=="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstMemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 885,
+                "offset": 25
+            },
+            "functionDeclReturn": "ConstMemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 98,
+                "offset": 24
+            },
+            "name": "MemberEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const ConstMemberIterator"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 192,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 103,
+                "offset": 28
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1317,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 104,
+                "offset": 29
+            },
+            "name": "Begin"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "ConstValueIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1320,
+                "offset": 24
+            },
+            "functionDeclReturn": "ConstValueIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/geojson.cpp",
+                "line": 104,
+                "offset": 62
+            },
+            "name": "End"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "GenericDocument<UTF8<> > &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1972,
+                "offset": 22
+            },
+            "functionDeclReturn": "GenericDocument<UTF8<> > &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/vectiler.cpp",
+                "line": 121,
+                "offset": 9
+            },
+            "name": "Parse"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1981,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/vectiler.cpp",
+                "line": 123,
+                "offset": 13
+            },
+            "name": "HasParseError"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "MemberIterator"
+                }
+            },
+            "callExprReturn": "Iterator &",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 164,
+                "offset": 15
+            },
+            "functionDeclReturn": "Iterator &",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/vectiler.cpp",
+                "line": 129,
+                "offset": 72
+            },
+            "name": "operator++"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "MemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 888,
+                "offset": 20
+            },
+            "functionDeclReturn": "MemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/vectiler.cpp",
+                "line": 129,
+                "offset": 27
+            },
+            "name": "MemberBegin"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<false, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                },
+                "1": {
+                    "type": "ConstIterator"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 182,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/vectiler.cpp",
+                "line": 129,
+                "offset": 46
+            },
+            "name": "operator!="
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "MemberIterator",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 891,
+                "offset": 20
+            },
+            "functionDeclReturn": "MemberIterator",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/vectiler.cpp",
+                "line": 129,
+                "offset": 55
+            },
+            "name": "MemberEnd"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "const Ch *",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 1473,
+                "offset": 15
+            },
+            "functionDeclReturn": "const Ch *",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/vectiler.cpp",
+                "line": 130,
+                "offset": 51
+            },
+            "name": "GetString"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<false, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 192,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/vectiler.cpp",
+                "line": 130,
+                "offset": 51
+            },
+            "name": "operator->"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const class rapidjson::GenericMemberIterator<false, struct rapidjson::UTF8<>, class rapidjson::MemoryPoolAllocator<> >"
+                }
+            },
+            "callExprReturn": "Pointer",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/3rdparty/rapidjson/include/rapidjson/document.h",
+                "line": 192,
+                "offset": 15
+            },
+            "functionDeclReturn": "Pointer",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": true,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/karimnaaji@@vectiler/src/vectiler.cpp",
+                "line": 131,
+                "offset": 35
+            },
+            "name": "operator->"
+        }
+    }
+]

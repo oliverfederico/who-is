@@ -1,0 +1,488 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[18]",
+                    "value": "My first info log"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 253,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test01_simple.cpp",
+                "line": 5,
+                "offset": 5
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<int>"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 161,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test01_simple.cpp",
+                "line": 6,
+                "offset": 5
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<int>"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test01_simple.cpp",
+                "line": 7,
+                "offset": 5
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "size_t"
+                },
+                "1": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/async.h",
+                "line": 83,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test02_multi_sink.cpp",
+                "line": 22,
+                "offset": 5
+            },
+            "name": "init_thread_pool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test02_multi_sink.cpp",
+                "line": 26,
+                "offset": 5
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": null,
+            "callExprReturn": "std::shared_ptr<spdlog::details::thread_pool>",
+            "definition": {
+                "file": "/usr/include/spdlog/async.h",
+                "line": 89,
+                "offset": 54
+            },
+            "functionDeclReturn": "std::shared_ptr<spdlog::details::thread_pool>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test02_multi_sink.cpp",
+                "line": 24,
+                "offset": 50
+            },
+            "name": "thread_pool"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "std::shared_ptr<spdlog::logger>"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 128,
+                "offset": 17
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test02_multi_sink.cpp",
+                "line": 27,
+                "offset": 5
+            },
+            "name": "set_default_logger"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[44]",
+                    "value": "this should appear in both console and file"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 259,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test02_multi_sink.cpp",
+                "line": 37,
+                "offset": 5
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[64]",
+                    "value": "this message should not appear in the console, only in the file"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 253,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test02_multi_sink.cpp",
+                "line": 38,
+                "offset": 5
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "void (*)(const std::string &)"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 87,
+                "offset": 17
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test02_multi_sink.cpp",
+                "line": 33,
+                "offset": 5
+            },
+            "name": "set_error_handler"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const basic_string<char> &>"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 167,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test02_multi_sink.cpp",
+                "line": 34,
+                "offset": 9
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<int>"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test02_multi_sink.cpp",
+                "line": 36,
+                "offset": 5
+            },
+            "name": "info"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<vector<int, allocator<int> > &>"
+                },
+                "1": {
+                    "type": "vector<int>"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 155,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/adah1972@@geek_time_cpp/26/spdlog/test03_stream.cpp",
+                "line": 26,
+                "offset": 5
+            },
+            "name": "info"
+        }
+    }
+]

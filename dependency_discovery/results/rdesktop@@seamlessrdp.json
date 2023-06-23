@@ -1,0 +1,1 @@
+{"target": "rdesktop@@seamlessrdp", "extractors": [{"deps": [{"depname": "seamlessrdp", "version": "1.0", "version_op": null, "unified_name": "seamlessrdp", "extractor_type": "autoconf", "context": "AC_INIT([seamlessrdp], [1.0], [rdesktop-users@lists.sourceforge.net])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

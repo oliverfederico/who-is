@@ -1,0 +1,1 @@
+{"target": "arjenhiemstra@@ithowifi", "extractors": [{"deps": [{"depname": "nrg_itho_wifi", "version": null, "version_op": null, "unified_name": "nrg_itho_wifi", "extractor_type": "cmake", "context": "project(nrg_itho_wifi)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

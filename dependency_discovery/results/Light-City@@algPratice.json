@@ -1,0 +1,1 @@
+{"target": "Light-City@@algPratice", "extractors": [{"deps": [{"depname": "alg", "version": null, "version_op": null, "unified_name": "alg", "extractor_type": "cmake", "context": "project(alg)", "confidence": ""}], "type": "cmake", "libs": []}]}

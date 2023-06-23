@@ -1,0 +1,1 @@
+{"target": "sahlberg@@fuse-nfs", "extractors": [{"deps": [{"depname": "fuse-nfs", "version": "1.0.0", "version_op": null, "unified_name": "fuse-nfs", "extractor_type": "autoconf", "context": "AC_INIT([fuse-nfs], [1.0.0], [ronniesahlberg@gmail.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

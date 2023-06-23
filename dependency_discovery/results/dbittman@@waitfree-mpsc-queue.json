@@ -1,0 +1,1 @@
+{"target": "dbittman@@waitfree-mpsc-queue", "extractors": [{"deps": [{"depname": "pthread", "version": null, "version_op": null, "unified_name": "pthread", "extractor_type": "make", "context": "dbittman@@waitfree-mpsc-queue/Makefile:LDLIBS=-lpthread", "confidence": "High"}], "type": "make"}]}

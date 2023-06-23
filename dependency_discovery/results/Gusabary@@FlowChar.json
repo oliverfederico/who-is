@@ -1,0 +1,1 @@
+{"target": "Gusabary@@FlowChar", "extractors": [{"deps": [{"depname": "flowchar", "version": null, "version_op": null, "unified_name": "flowchar", "extractor_type": "cmake", "context": "project(flowchar)", "confidence": ""}], "type": "cmake", "libs": []}]}

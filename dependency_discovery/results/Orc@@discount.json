@@ -1,0 +1,1 @@
+{"target": "Orc@@discount", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "discount", "version": null, "version_op": null, "unified_name": "discount", "extractor_type": "cmake", "context": "project(discount c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

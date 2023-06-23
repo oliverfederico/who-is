@@ -1,0 +1,1 @@
+{"target": "qdore@@Mutate", "extractors": [{"deps": [{"depname": "debhelper", "version": "=8.0.0", "version_op": null, "unified_name": "debhelper", "extractor_type": "control", "context": "qdore@@Mutate/debian/control", "confidence": "High"}], "type": "control"}, {"deps": [], "type": "control"}]}

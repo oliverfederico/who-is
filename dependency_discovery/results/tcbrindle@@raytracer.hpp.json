@@ -1,0 +1,1 @@
+{"target": "tcbrindle@@raytracer.hpp", "extractors": [{"deps": [{"depname": "raytracer", "version": null, "version_op": null, "unified_name": "raytracer", "extractor_type": "cmake", "context": "project(raytracer c cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

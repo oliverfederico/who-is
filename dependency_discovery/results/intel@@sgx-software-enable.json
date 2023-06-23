@@ -1,0 +1,1 @@
+{"target": "intel@@sgx-software-enable", "extractors": [{"deps": [], "type": "make"}]}

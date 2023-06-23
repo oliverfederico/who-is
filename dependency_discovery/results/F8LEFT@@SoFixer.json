@@ -1,0 +1,1 @@
+{"target": "F8LEFT@@SoFixer", "extractors": [{"deps": [{"depname": "sofixer", "version": null, "version_op": null, "unified_name": "sofixer", "extractor_type": "cmake", "context": "project(sofixer)", "confidence": ""}], "type": "cmake", "libs": []}]}

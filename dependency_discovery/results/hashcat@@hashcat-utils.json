@@ -1,0 +1,1 @@
+{"target": "hashcat@@hashcat-utils", "extractors": [{"deps": [], "type": "make"}]}

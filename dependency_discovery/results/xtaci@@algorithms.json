@@ -1,0 +1,1 @@
+{"target": "xtaci@@algorithms", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "algorithm", "version": null, "version_op": null, "unified_name": "algorithm", "extractor_type": "cmake", "context": "project( algorithm )", "confidence": ""}], "type": "cmake", "libs": []}]}

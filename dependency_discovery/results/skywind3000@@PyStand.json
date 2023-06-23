@@ -1,0 +1,1 @@
+{"target": "skywind3000@@PyStand", "extractors": [{"deps": [{"depname": "pystand", "version": null, "version_op": null, "unified_name": "pystand", "extractor_type": "cmake", "context": "project (pystand languages cxx rc)", "confidence": ""}], "type": "cmake", "libs": []}]}

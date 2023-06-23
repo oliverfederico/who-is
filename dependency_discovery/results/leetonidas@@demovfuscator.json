@@ -1,0 +1,1 @@
+{"target": "leetonidas@@demovfuscator", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "demov", "version": "1.0.1", "version_op": null, "unified_name": "demov", "extractor_type": "cmake", "context": "project(demov version 1.0.1 languages cxx c)", "confidence": "High"}], "type": "cmake", "libs": []}]}

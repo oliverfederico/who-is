@@ -1,0 +1,1 @@
+{"target": "reswitched@@libtransistor", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "numactl@@numactl", "extractors": [{"deps": [{"depname": "numactl", "version": "m4_normalize(m4_include([VERSION", "version_op": null, "unified_name": "numactl", "extractor_type": "autoconf", "context": "AC_INIT([numactl], m4_normalize(m4_include([VERSION])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

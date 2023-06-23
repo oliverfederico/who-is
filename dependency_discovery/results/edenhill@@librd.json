@@ -1,0 +1,1 @@
+{"target": "edenhill@@librd", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "zlib1g-dev", "version": "", "version_op": null, "unified_name": "zlib1g", "extractor_type": "control", "context": "edenhill@@librd/debian/control", "confidence": "High"}], "type": "control"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

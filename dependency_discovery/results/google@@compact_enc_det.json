@@ -1,0 +1,1 @@
+{"target": "google@@compact_enc_det", "extractors": [{"deps": [{"depname": "ced", "version": null, "version_op": null, "unified_name": "ced", "extractor_type": "cmake", "context": "project(ced cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "codr7@@liblg", "extractors": [{"deps": [{"depname": "liblg", "version": null, "version_op": null, "unified_name": "lg", "extractor_type": "cmake", "context": "project(liblg)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "jiesutd@@RichWordSegmentor", "extractors": [{"deps": [{"depname": "nntsegclean", "version": null, "version_op": null, "unified_name": "nntsegclean", "extractor_type": "cmake", "context": "project(nntsegclean)", "confidence": ""}], "type": "cmake", "libs": []}]}

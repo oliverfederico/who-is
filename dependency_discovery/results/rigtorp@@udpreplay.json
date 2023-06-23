@@ -1,0 +1,1 @@
+{"target": "rigtorp@@udpreplay", "extractors": [{"deps": [{"depname": "udpreplay", "version": null, "version_op": null, "unified_name": "udpreplay", "extractor_type": "cmake", "context": "project(udpreplay cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

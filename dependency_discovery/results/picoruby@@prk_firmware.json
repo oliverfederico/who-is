@@ -1,0 +1,1 @@
+{"target": "picoruby@@prk_firmware", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "prk", "version": null, "version_op": null, "unified_name": "prk", "extractor_type": "cmake", "context": "set (prk_version   ${cmake_version_number})", "confidence": "Low"}], "type": "cmake", "libs": []}]}

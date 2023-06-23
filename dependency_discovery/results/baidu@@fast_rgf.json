@@ -1,0 +1,1 @@
+{"target": "baidu@@fast_rgf", "extractors": [{"deps": [{"depname": "fastrgf", "version": null, "version_op": null, "unified_name": "fastrgf", "extractor_type": "cmake", "context": "project (fastrgf)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

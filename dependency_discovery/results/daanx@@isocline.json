@@ -1,0 +1,1 @@
+{"target": "daanx@@isocline", "extractors": [{"deps": [{"depname": "libisocline", "version": null, "version_op": null, "unified_name": "isocline", "extractor_type": "cmake", "context": "project(libisocline c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}]}

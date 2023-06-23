@@ -1,0 +1,1 @@
+{"target": "Matroska-Org@@libebml", "extractors": [{"deps": [{"depname": "ebml", "version": "2.0.0", "version_op": null, "unified_name": "ebml", "extractor_type": "cmake", "context": "project(ebml version 2.0.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "vasi@@squashfuse", "extractors": [{"deps": [{"depname": "squashfuse", "version": "0.1.104", "version_op": null, "unified_name": "squashfuse", "extractor_type": "autoconf", "context": "AC_INIT([squashfuse], [0.1.104], [dave@vasilevsky.ca])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "ms"}]}

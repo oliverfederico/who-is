@@ -1,0 +1,1 @@
+{"target": "mROS-base@@mros2", "extractors": [{"deps": [{"depname": "mros2", "version": null, "version_op": null, "unified_name": "mros2", "extractor_type": "cmake", "context": "project(mros2)", "confidence": ""}], "type": "cmake", "libs": []}]}

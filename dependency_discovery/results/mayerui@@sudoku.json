@@ -1,0 +1,1 @@
+{"target": "mayerui@@sudoku", "extractors": [{"deps": [{"depname": "sudoku", "version": null, "version_op": null, "unified_name": "sudoku", "extractor_type": "cmake", "context": "project(sudoku)", "confidence": ""}], "type": "cmake", "libs": []}]}

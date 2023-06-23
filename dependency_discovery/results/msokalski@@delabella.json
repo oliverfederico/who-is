@@ -1,0 +1,1 @@
+{"target": "msokalski@@delabella", "extractors": [{"deps": [{"depname": "delabella", "version": "1.0", "version_op": null, "unified_name": "delabella", "extractor_type": "cmake", "context": "project(delabella languages cxx version 1.0)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "ands@@lightmapper", "extractors": [{"deps": [{"depname": "example", "version": null, "version_op": null, "unified_name": "example", "extractor_type": "cmake", "context": "project(example)", "confidence": ""}], "type": "cmake", "libs": []}]}

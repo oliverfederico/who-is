@@ -1,0 +1,1 @@
+{"target": "joel16@@PSV-VSH-Menu", "extractors": [{"deps": [{"depname": "vsh", "version": null, "version_op": null, "unified_name": "vsh", "extractor_type": "cmake", "context": "project(vsh)", "confidence": ""}], "type": "cmake", "libs": []}]}

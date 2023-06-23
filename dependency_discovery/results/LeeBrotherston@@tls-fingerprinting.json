@@ -1,0 +1,1 @@
+{"target": "LeeBrotherston@@tls-fingerprinting", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "fingerprintls", "version": "1.0", "version_op": null, "unified_name": "fingerprintls", "extractor_type": "autoconf", "context": "AC_INIT(fingerprintls, 1.0)", "confidence": ""}], "type": "autoconf"}]}

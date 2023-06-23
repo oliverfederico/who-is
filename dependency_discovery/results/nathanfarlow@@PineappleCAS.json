@@ -1,0 +1,1 @@
+{"target": "nathanfarlow@@PineappleCAS", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "pineapplecas", "version": null, "version_op": null, "unified_name": "pineapplecas", "extractor_type": "cmake", "context": "project(pineapplecas c)", "confidence": ""}], "type": "cmake", "libs": []}]}

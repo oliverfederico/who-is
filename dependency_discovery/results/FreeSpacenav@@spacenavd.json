@@ -1,0 +1,1 @@
+{"target": "FreeSpacenav@@spacenavd", "extractors": [{"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}]}

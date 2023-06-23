@@ -1,0 +1,86 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const void *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "unsigned long long"
+                }
+            },
+            "callExprReturn": "XXH64_hash_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Tinob@@Ishiiruka/Externals/xxhash/xxhash.h",
+                "line": 233,
+                "offset": 29
+            },
+            "functionDeclReturn": "XXH64_hash_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Tinob@@Ishiiruka/Source/Core/VideoCommon/HiresTextures.cpp",
+                "line": 618,
+                "offset": 18
+            },
+            "name": "XXH64"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const void *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "unsigned long long"
+                }
+            },
+            "callExprReturn": "XXH64_hash_t",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Tinob@@Ishiiruka/Externals/xxhash/xxhash.h",
+                "line": 233,
+                "offset": 29
+            },
+            "functionDeclReturn": "XXH64_hash_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Tinob@@Ishiiruka/Source/Core/VideoCommon/HiresTextures.cpp",
+                "line": 621,
+                "offset": 17
+            },
+            "name": "XXH64"
+        }
+    }
+]

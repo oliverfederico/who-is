@@ -1,0 +1,41 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const void *"
+                },
+                "1": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "XXH128_hash_t",
+            "definition": {
+                "file": "/usr/include/xxhash.h",
+                "line": 886,
+                "offset": 30
+            },
+            "functionDeclReturn": "XXH128_hash_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/groonga@@groonga/lib/group.c",
+                "line": 747,
+                "offset": 34
+            },
+            "name": "XXH3_128bits"
+        }
+    }
+]

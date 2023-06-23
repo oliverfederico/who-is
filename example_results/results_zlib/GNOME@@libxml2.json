@@ -1,0 +1,1161 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 520,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/nanohttp.c",
+                "line": 410,
+                "offset": 2
+            },
+            "name": "inflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1773,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/nanohttp.c",
+                "line": 807,
+                "offset": 3
+            },
+            "name": "inflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 400,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/nanohttp.c",
+                "line": 1228,
+                "offset": 21
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "int"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1341,
+                "offset": 24
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1078,
+                "offset": 14
+            },
+            "name": "gzdopen"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1865,
+                "offset": 29
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1109,
+                "offset": 10
+            },
+            "name": "gzopen64"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "int"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1341,
+                "offset": 24
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1157,
+                "offset": 14
+            },
+            "name": "gzdopen"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "gzFile",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1865,
+                "offset": 29
+            },
+            "functionDeclReturn": "gzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1186,
+                "offset": 10
+            },
+            "name": "gzopen64"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                },
+                "1": {
+                    "type": "voidp"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1391,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1206,
+                "offset": 11
+            },
+            "name": "gzread"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                },
+                "1": {
+                    "type": "voidpc"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1447,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1226,
+                "offset": 11
+            },
+            "name": "gzwrite"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1631,
+                "offset": 24
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1242,
+                "offset": 13
+            },
+            "name": "gzclose"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "int"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "xzFile",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/include/private/xzlib.h",
+                "line": 22,
+                "offset": 1
+            },
+            "functionDeclReturn": "xzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1283,
+                "offset": 14
+            },
+            "name": "__libxml2_xzdopen"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "xzFile",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/include/private/xzlib.h",
+                "line": 20,
+                "offset": 1
+            },
+            "functionDeclReturn": "xzFile",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1302,
+                "offset": 10
+            },
+            "name": "__libxml2_xzopen"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "xzFile"
+                },
+                "1": {
+                    "type": "void *"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/include/private/xzlib.h",
+                "line": 24,
+                "offset": 1
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1346,
+                "offset": 11
+            },
+            "name": "__libxml2_xzread"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "xzFile"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/include/private/xzlib.h",
+                "line": 26,
+                "offset": 1
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1361,
+                "offset": 13
+            },
+            "name": "__libxml2_xzclose"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 363,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1467,
+                "offset": 5
+            },
+            "name": "deflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "int"
+                },
+                "6": {
+                    "type": "const char *"
+                },
+                "7": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1769,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1511,
+                "offset": 13
+            },
+            "name": "deflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1526,
+                "offset": 17
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 250,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1628,
+                "offset": 10
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "unsigned long"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1640,
+                "offset": 17
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "4"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 250,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 1669,
+                "offset": 10
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "gzFile"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1610,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 2568,
+                "offset": 32
+            },
+            "name": "gzdirect"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/include/private/xzlib.h",
+                "line": 28,
+                "offset": 1
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 2587,
+                "offset": 31
+            },
+            "name": "__libxml2_xzcompressed"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/include/private/xzlib.h",
+                "line": 28,
+                "offset": 1
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xmlIO.c",
+                "line": 3238,
+                "offset": 30
+            },
+            "name": "__libxml2_xzcompressed"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1773,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xzlib.c",
+                "line": 428,
+                "offset": 17
+            },
+            "name": "inflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 958,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xzlib.c",
+                "line": 503,
+                "offset": 13
+            },
+            "name": "inflateReset"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xzlib.c",
+                "line": 504,
+                "offset": 34
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "0"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 400,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xzlib.c",
+                "line": 565,
+                "offset": 19
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xzlib.c",
+                "line": 612,
+                "offset": 9
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 520,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/GNOME@@libxml2/xzlib.c",
+                "line": 808,
+                "offset": 13
+            },
+            "name": "inflateEnd"
+        }
+    }
+]

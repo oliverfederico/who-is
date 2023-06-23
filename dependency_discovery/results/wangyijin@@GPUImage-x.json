@@ -1,0 +1,1 @@
+{"target": "wangyijin@@GPUImage-x", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "wangyijin@@GPUImage-x/GPUImage-x/proj.android/GPUImage-x/library/CMakeLists.txt", "content": "find_library( log-lib\n              log )"}]}]}

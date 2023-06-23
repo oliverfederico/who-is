@@ -1,0 +1,1 @@
+{"target": "soul-lang@@SOUL", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}, {"deps": [{"depname": "choc_tests", "version": null, "version_op": null, "unified_name": "choc_tests", "extractor_type": "cmake", "context": "project(choc_tests)", "confidence": ""}], "type": "cmake", "libs": []}]}

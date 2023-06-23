@@ -1,0 +1,1 @@
+{"target": "SenegalLang@@Senegal", "extractors": [{"deps": [{"depname": "senegal", "version": null, "version_op": null, "unified_name": "senegal", "extractor_type": "cmake", "context": "project(senegal c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "clib"}]}

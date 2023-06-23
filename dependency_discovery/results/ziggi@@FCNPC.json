@@ -1,0 +1,1 @@
+{"target": "ziggi@@FCNPC", "extractors": [{"deps": [{"depname": "fcnpc", "version": null, "version_op": null, "unified_name": "fcnpc", "extractor_type": "cmake", "context": "project (fcnpc)", "confidence": ""}], "type": "cmake", "libs": []}]}

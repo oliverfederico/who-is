@@ -1,0 +1,1 @@
+{"target": "rlguy@@FLIPViscosity3D", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "fluidsim", "version": null, "version_op": null, "unified_name": "fluidsim", "extractor_type": "cmake", "context": "project(fluidsim)", "confidence": ""}], "type": "cmake", "libs": []}]}

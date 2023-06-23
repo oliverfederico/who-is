@@ -1,0 +1,1 @@
+{"target": "sgan81@@apfs-fuse", "extractors": [{"deps": [{"depname": "apfs", "version": null, "version_op": null, "unified_name": "apfs", "extractor_type": "cmake", "context": "project(apfs)", "confidence": ""}], "type": "cmake", "libs": []}]}

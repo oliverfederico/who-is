@@ -1,0 +1,1 @@
+{"target": "4ch12dy@@XIL2CppDumper", "extractors": [{"deps": [{"depname": "xil2cppdumper", "version": null, "version_op": null, "unified_name": "xil2cppdumper", "extractor_type": "cmake", "context": "project(xil2cppdumper)", "confidence": ""}], "type": "cmake", "libs": []}]}

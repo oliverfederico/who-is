@@ -1,0 +1,1 @@
+{"target": "rxi@@vec", "extractors": [{"deps": [{"depname": "vec", "version": "0.2.1", "version_op": null, "unified_name": "vec", "extractor_type": "clib", "context": "rxi@@vec/package.json", "confidence": "High"}], "type": "clib"}]}

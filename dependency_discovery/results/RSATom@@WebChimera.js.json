@@ -1,0 +1,1 @@
+{"target": "RSATom@@WebChimera.js", "extractors": [{"deps": [], "type": "clib"}, {"deps": [{"depname": "webchimera", "version": null, "version_op": null, "unified_name": "webchimera", "extractor_type": "cmake", "context": "project(webchimera.js)", "confidence": ""}], "type": "cmake", "libs": []}]}

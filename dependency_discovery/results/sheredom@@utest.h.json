@@ -1,0 +1,1 @@
+{"target": "sheredom@@utest.h", "extractors": [{"deps": [{"depname": "utest", "version": null, "version_op": null, "unified_name": "utest", "extractor_type": "cmake", "context": "project(utest)", "confidence": ""}], "type": "cmake", "libs": []}]}

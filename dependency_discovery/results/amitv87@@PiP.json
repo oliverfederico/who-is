@@ -1,0 +1,1 @@
+{"target": "amitv87@@PiP", "extractors": [{"deps": [{"depname": "pip", "version": null, "version_op": null, "unified_name": "pip", "extractor_type": "cmake", "context": "project(pip)", "confidence": ""}], "type": "cmake", "libs": []}]}

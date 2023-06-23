@@ -1,0 +1,1 @@
+{"target": "Fluorohydride@@ygopro-core", "extractors": [{"deps": [{"depname": "ocgcore", "version": null, "version_op": null, "unified_name": "ocgcore", "extractor_type": "cmake", "context": "project (ocgcore)", "confidence": ""}], "type": "cmake", "libs": []}]}

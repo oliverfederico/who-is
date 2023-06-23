@@ -1,0 +1,1 @@
+{"target": "tunz@@afl-fuzz-js", "extractors": [{"deps": [], "type": "make"}]}

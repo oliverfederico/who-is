@@ -1,0 +1,1 @@
+{"target": "FundamentalFrequency@@LMN-3-Emulator", "extractors": [{"deps": [{"depname": "lmn", "version": "0.1.0", "version_op": null, "unified_name": "lmn", "extractor_type": "cmake", "context": "project(lmn-3-emulator version 0.1.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

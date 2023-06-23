@@ -1,0 +1,1 @@
+{"target": "diharaw@@hybrid-rendering", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": [{"filenames": ["\"clang-format\""], "version": "", "fromfile": "diharaw@@hybrid-rendering/src/CMakeLists.txt", "content": "find_program(clang_format_exe names \"clang-format\" doc \"path to clang-format executable\")"}]}]}

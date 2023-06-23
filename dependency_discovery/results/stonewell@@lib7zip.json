@@ -1,0 +1,1 @@
+{"target": "stonewell@@lib7zip", "extractors": [{"deps": [{"depname": "lib7zip", "version": "3.0.0", "version_op": null, "unified_name": "7zip", "extractor_type": "cmake", "context": "project (lib7zip \tversion 3.0.0 )", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

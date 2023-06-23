@@ -1,0 +1,1 @@
+{"target": "JoshParnell@@libphx", "extractors": [{"deps": [{"depname": "libphx", "version": null, "version_op": null, "unified_name": "phx", "extractor_type": "cmake", "context": "project (libphx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

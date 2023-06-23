@@ -1,0 +1,1 @@
+{"target": "Mysticial@@FeatureDetector", "extractors": [{"deps": [{"depname": "featuredetector", "version": null, "version_op": null, "unified_name": "featuredetector", "extractor_type": "cmake", "context": "project(featuredetector cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "lunixbochs@@glshim", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "glshim", "version": null, "version_op": null, "unified_name": "glshim", "extractor_type": "cmake", "context": "project(glshim)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

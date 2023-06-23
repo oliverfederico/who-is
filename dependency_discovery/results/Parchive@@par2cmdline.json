@@ -1,0 +1,1 @@
+{"target": "Parchive@@par2cmdline", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "par2cmdline", "version": "0.8.1", "version_op": null, "unified_name": "par2cmdline", "extractor_type": "autoconf", "context": "AC_INIT([par2cmdline], [0.8.1], [ike.devolder@gmail.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

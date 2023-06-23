@@ -1,0 +1,1 @@
+{"target": "InteractiveComputerGraphics@@TriangleMeshDistance", "extractors": [{"deps": [{"depname": "trianglemeshdistance", "version": null, "version_op": null, "unified_name": "trianglemeshdistance", "extractor_type": "cmake", "context": "project(trianglemeshdistance)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

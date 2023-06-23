@@ -1,0 +1,1 @@
+{"target": "Percona-Lab@@clickhousedb_fdw", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "gitsubmod"}]}

@@ -1,0 +1,1 @@
+{"target": "memsql@@lockfree-bench", "extractors": [{"deps": [], "type": "make"}]}

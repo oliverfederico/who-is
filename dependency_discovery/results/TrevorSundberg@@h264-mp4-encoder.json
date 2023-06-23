@@ -1,0 +1,1 @@
+{"target": "TrevorSundberg@@h264-mp4-encoder", "extractors": [{"deps": [], "type": "clib"}, {"deps": [{"depname": "h264", "version": null, "version_op": null, "unified_name": "h264", "extractor_type": "cmake", "context": "project(h264-mp4-encoder)", "confidence": ""}], "type": "cmake", "libs": []}]}

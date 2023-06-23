@@ -1,0 +1,1 @@
+{"target": "dibyendumajumdar@@nanojit", "extractors": [{"deps": [{"depname": "nanojitextra", "version": null, "version_op": null, "unified_name": "nanojitextra", "extractor_type": "cmake", "context": "project(nanojitextra)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}]}

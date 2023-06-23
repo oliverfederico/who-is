@@ -1,0 +1,1 @@
+{"target": "ChenLittlePing@@LearningVideo", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "ChenLittlePing@@LearningVideo/app/src/main/cpp/CMakeLists.txt", "content": "find_library( \n        log-lib\n\n        \n        \n        log )"}]}]}

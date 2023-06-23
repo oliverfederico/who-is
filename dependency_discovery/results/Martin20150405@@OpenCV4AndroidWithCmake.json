@@ -1,0 +1,1 @@
+{"target": "Martin20150405@@OpenCV4AndroidWithCmake", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "Martin20150405@@OpenCV4AndroidWithCmake/app/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log)"}]}]}

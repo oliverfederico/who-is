@@ -1,0 +1,589 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 430,
+                "offset": 25
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 363,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 788,
+                "offset": 17
+            },
+            "name": "deflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "int"
+                },
+                "3": {
+                    "type": "int"
+                },
+                "4": {
+                    "type": "int"
+                },
+                "5": {
+                    "type": "int"
+                },
+                "6": {
+                    "type": "const char *"
+                },
+                "7": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1769,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 766,
+                "offset": 21
+            },
+            "name": "deflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "uLong"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 761,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 771,
+                "offset": 31
+            },
+            "name": "deflateBound"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "4"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 250,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 776,
+                "offset": 27
+            },
+            "name": "deflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 520,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 2471,
+                "offset": 21
+            },
+            "name": "inflateEnd"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int"
+                },
+                "2": {
+                    "type": "const char *"
+                },
+                "3": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1773,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 2459,
+                "offset": 25
+            },
+            "name": "inflateInit2_"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "z_stream *"
+                },
+                "1": {
+                    "type": "int",
+                    "value": "4"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 400,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 2464,
+                "offset": 31
+            },
+            "name": "inflate"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 2846,
+                "offset": 24
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 2853,
+                "offset": 19
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/library.cpp",
+                "line": 2860,
+                "offset": 15
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/oasis.cpp",
+                "line": 75,
+                "offset": 29
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/oasis.cpp",
+                "line": 80,
+                "offset": 29
+            },
+            "name": "crc32"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "uLong"
+                },
+                "1": {
+                    "type": "const Bytef *"
+                },
+                "2": {
+                    "type": "uInt"
+                }
+            },
+            "callExprReturn": "uLong",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1726,
+                "offset": 23
+            },
+            "functionDeclReturn": "uLong",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/heitzmann@@gdstk/src/oasis.cpp",
+                "line": 103,
+                "offset": 25
+            },
+            "name": "crc32"
+        }
+    }
+]

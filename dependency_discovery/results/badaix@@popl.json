@@ -1,0 +1,1 @@
+{"target": "badaix@@popl", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "popl_example", "version": null, "version_op": null, "unified_name": "popl_example", "extractor_type": "cmake", "context": "project(popl_example)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

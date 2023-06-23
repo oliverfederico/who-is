@@ -1,0 +1,1 @@
+{"target": "hmgle@@h264_to_rtp", "extractors": [{"deps": [{"depname": "pthread", "version": null, "version_op": null, "unified_name": "pthread", "extractor_type": "make", "context": "hmgle@@h264_to_rtp/Makefile:LDLIBS = -lpthread", "confidence": "High"}], "type": "make"}]}

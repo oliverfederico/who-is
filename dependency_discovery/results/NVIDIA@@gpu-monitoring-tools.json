@@ -1,0 +1,1 @@
+{"target": "NVIDIA@@gpu-monitoring-tools", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "make"}]}

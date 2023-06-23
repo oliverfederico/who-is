@@ -1,0 +1,1 @@
+{"target": "rsms@@afcgi", "extractors": [{"deps": [{"depname": ",", "version": null, "version_op": null, "unified_name": ",", "extractor_type": "make", "context": "rsms@@afcgi/servers/afcgitest/Makefile:LDLIBS = $(addprefix -l, $(LIBS) $(LIBS_$(notdir $*)))", "confidence": "High"}], "type": "make"}]}

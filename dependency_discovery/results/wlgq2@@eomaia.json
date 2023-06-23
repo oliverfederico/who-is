@@ -1,0 +1,1 @@
+{"target": "wlgq2@@eomaia", "extractors": [{"deps": [{"depname": "eomaia", "version": null, "version_op": null, "unified_name": "eomaia", "extractor_type": "cmake", "context": "project(eomaia)", "confidence": ""}], "type": "cmake", "libs": []}]}

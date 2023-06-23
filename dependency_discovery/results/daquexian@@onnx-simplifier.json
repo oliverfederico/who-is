@@ -1,0 +1,1 @@
+{"target": "daquexian@@onnx-simplifier", "extractors": [{"deps": [{"depname": "onnxsim", "version": null, "version_op": null, "unified_name": "onnxsim", "extractor_type": "cmake", "context": "project(onnxsim cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

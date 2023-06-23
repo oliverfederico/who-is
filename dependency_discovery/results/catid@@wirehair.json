@@ -1,0 +1,1 @@
+{"target": "catid@@wirehair", "extractors": [{"deps": [{"depname": "wirehair", "version": null, "version_op": null, "unified_name": "wirehair", "extractor_type": "cmake", "context": "project(wirehair)", "confidence": ""}], "type": "cmake", "libs": []}]}

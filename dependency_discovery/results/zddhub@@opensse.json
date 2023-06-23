@@ -1,0 +1,1 @@
+{"target": "zddhub@@opensse", "extractors": [{"deps": [{"depname": "opensse", "version": null, "version_op": null, "unified_name": "opensse", "extractor_type": "cmake", "context": "project(opensse)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

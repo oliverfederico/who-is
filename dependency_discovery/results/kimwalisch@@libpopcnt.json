@@ -1,0 +1,1 @@
+{"target": "kimwalisch@@libpopcnt", "extractors": [{"deps": [{"depname": "libpopcnt", "version": null, "version_op": null, "unified_name": "popcnt", "extractor_type": "cmake", "context": "project(libpopcnt c cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

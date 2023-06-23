@@ -1,0 +1,1 @@
+{"target": "eritpchy@@Fingerprint-pay-magisk-wechat", "extractors": [{"deps": [{"depname": "riru", "version": null, "version_op": null, "unified_name": "riru", "extractor_type": "cmake", "context": "find_package(riru required config)", "confidence": "High"}], "type": "cmake", "libs": []}]}

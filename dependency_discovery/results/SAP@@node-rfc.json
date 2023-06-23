@@ -1,0 +1,1 @@
+{"target": "SAP@@node-rfc", "extractors": [{"deps": [], "type": "clib"}, {"deps": [{"depname": "sapnwrfc", "version": null, "version_op": null, "unified_name": "sapnwrfc", "extractor_type": "cmake", "context": "project(sapnwrfc)", "confidence": ""}], "type": "cmake", "libs": []}]}

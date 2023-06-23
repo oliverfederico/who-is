@@ -1,0 +1,1 @@
+{"target": "q191201771@@libchef", "extractors": [{"deps": [{"depname": "libchef", "version": null, "version_op": null, "unified_name": "chef", "extractor_type": "cmake", "context": "project(libchef c cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

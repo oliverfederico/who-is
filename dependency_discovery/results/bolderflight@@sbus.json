@@ -1,0 +1,1 @@
+{"target": "bolderflight@@sbus", "extractors": [{"deps": [{"depname": "sbus", "version": "8.1.4", "version_op": null, "unified_name": "sbus", "extractor_type": "cmake", "context": "  project(sbus     version 8.1.4     description \"sbus encoder and decoder\"     languages c cxx   )", "confidence": "High"}], "type": "cmake", "libs": []}]}

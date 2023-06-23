@@ -1,0 +1,1 @@
+{"target": "FollowMyVote@@StakeWeightedVoting", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "clib"}]}

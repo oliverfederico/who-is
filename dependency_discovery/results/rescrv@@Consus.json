@@ -1,0 +1,1 @@
+{"target": "rescrv@@Consus", "extractors": [{"deps": [{"depname": "consus", "version": "0.0.dev", "version_op": null, "unified_name": "consus", "extractor_type": "autoconf", "context": "AC_INIT([consus], [0.0.dev], [robert@rescrv.net])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

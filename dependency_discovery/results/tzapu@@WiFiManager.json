@@ -1,0 +1,1 @@
+{"target": "tzapu@@WiFiManager", "extractors": [{"deps": [{"depname": "wifimanager", "version": null, "version_op": null, "unified_name": "wifimanager", "extractor_type": "cmake", "context": "project(wifimanager)", "confidence": ""}], "type": "cmake", "libs": []}]}

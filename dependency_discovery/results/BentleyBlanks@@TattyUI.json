@@ -1,0 +1,1 @@
+{"target": "BentleyBlanks@@TattyUI", "extractors": [{"deps": [{"depname": "tattyui", "version": null, "version_op": null, "unified_name": "tattyui", "extractor_type": "cmake", "context": "project (tattyui)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

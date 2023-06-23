@@ -1,0 +1,1 @@
+{"target": "silence1772@@Sinetlib", "extractors": [{"deps": [{"depname": "sinetlib", "version": null, "version_op": null, "unified_name": "sinetlib", "extractor_type": "cmake", "context": "project (sinetlib)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

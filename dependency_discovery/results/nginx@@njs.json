@@ -1,0 +1,1 @@
+{"target": "nginx@@njs", "extractors": [{"deps": [], "type": "autoconf"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}]}

@@ -1,0 +1,1 @@
+{"target": "eshaz@@wasm-audio-decoders", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "clib"}]}

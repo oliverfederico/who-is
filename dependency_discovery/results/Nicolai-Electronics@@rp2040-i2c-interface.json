@@ -1,0 +1,1 @@
+{"target": "Nicolai-Electronics@@rp2040-i2c-interface", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "i2c_adapter", "version": null, "version_op": null, "unified_name": "i2c_adapter", "extractor_type": "cmake", "context": "project(i2c_adapter c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "vmcall@@latebros", "extractors": [{"deps": [{"depname": "ntdll", "version": null, "version_op": null, "unified_name": "ntdll", "extractor_type": "ms", "context": "vmcall@@latebros/latebros/latebros.vcxproj", "confidence": "High"}], "type": "ms"}, {"deps": [], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "kimtg@@arcadia", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "ms"}, {"deps": [{"depname": "arcadia", "version": null, "version_op": null, "unified_name": "arcadia", "extractor_type": "cmake", "context": "project(arcadia)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "jwbensley@@Etherate", "extractors": [{"deps": [{"depname": "etherate", "version": "1.18.0", "version_op": null, "unified_name": "etherate", "extractor_type": "autoconf", "context": "AC_INIT([etherate],[1.18.0],[jwbensley@gmail.com],,[https://null.53bits.co.uk/index.php?page=etherate])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

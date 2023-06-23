@@ -1,0 +1,1 @@
+{"target": "yifanlu@@taiHEN", "extractors": [{"deps": [{"depname": "taihen", "version": null, "version_op": null, "unified_name": "taihen", "extractor_type": "cmake", "context": "project(taihen)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

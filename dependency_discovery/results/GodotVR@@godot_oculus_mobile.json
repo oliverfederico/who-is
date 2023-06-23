@@ -1,0 +1,1 @@
+{"target": "GodotVR@@godot_oculus_mobile", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "godot_ovrmobile", "version": "2.0.0", "version_op": null, "unified_name": "godot_ovrmobile", "extractor_type": "cmake", "context": "project(godot_ovrmobile version 2.0.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

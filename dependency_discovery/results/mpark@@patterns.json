@@ -1,0 +1,1 @@
+{"target": "mpark@@patterns", "extractors": [{"deps": [{"depname": "mpark", "version": "0.1.0", "version_op": null, "unified_name": "mpark", "extractor_type": "cmake", "context": "project(mpark.patterns version 0.1.0 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

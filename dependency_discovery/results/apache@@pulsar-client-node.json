@@ -1,0 +1,1 @@
+{"target": "apache@@pulsar-client-node", "extractors": [{"deps": [], "type": "clib"}]}

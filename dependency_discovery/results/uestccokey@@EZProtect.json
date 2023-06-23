@@ -1,0 +1,1 @@
+{"target": "uestccokey@@EZProtect", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "uestccokey@@EZProtect/ezprotect/CMakeLists.txt", "content": "find_library( \n        log-lib\n\n        \n        \n        log)"}]}]}

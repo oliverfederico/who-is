@@ -1,0 +1,1 @@
+{"target": "Schnocker@@EAC_dbp", "extractors": [{"deps": [{"depname": "VirtualizerDDK64", "version": null, "version_op": null, "unified_name": "virtualizerddk64", "extractor_type": "ms", "context": "Schnocker@@EAC_dbp/EAC_Bypass/EAC_Bypass.vcxproj", "confidence": "High"}], "type": "ms"}, {"deps": [], "type": "ms"}]}

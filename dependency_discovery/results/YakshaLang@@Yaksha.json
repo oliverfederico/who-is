@@ -1,0 +1,1 @@
+{"target": "YakshaLang@@Yaksha", "extractors": [{"deps": [{"depname": "yaksha", "version": null, "version_op": null, "unified_name": "yaksha", "extractor_type": "cmake", "context": "project(yaksha)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "clib"}]}

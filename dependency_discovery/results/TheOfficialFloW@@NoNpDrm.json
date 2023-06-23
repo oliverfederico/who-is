@@ -1,0 +1,1 @@
+{"target": "TheOfficialFloW@@NoNpDrm", "extractors": [{"deps": [{"depname": "nonpdrm", "version": null, "version_op": null, "unified_name": "nonpdrm", "extractor_type": "cmake", "context": "project(nonpdrm)", "confidence": ""}], "type": "cmake", "libs": []}]}

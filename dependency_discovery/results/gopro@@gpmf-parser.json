@@ -1,0 +1,1 @@
+{"target": "gopro@@gpmf-parser", "extractors": [{"deps": [{"depname": "gpmf", "version": null, "version_op": null, "unified_name": "gpmf", "extractor_type": "cmake", "context": "project (gpmf-parser)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

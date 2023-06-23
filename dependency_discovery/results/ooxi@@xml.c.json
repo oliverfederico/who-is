@@ -1,0 +1,1 @@
+{"target": "ooxi@@xml.c", "extractors": [{"deps": [{"depname": "xml", "version": null, "version_op": null, "unified_name": "xml", "extractor_type": "cmake", "context": "project(xml c cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,254 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "std::string *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/usr/include/snappy.h",
+                "line": 85,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Restream@@reindexer/cpp_src/net/cproto/clientconnection.cc",
+                "line": 299,
+                "offset": 10
+            },
+            "name": "Uncompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const_pointer"
+                },
+                "1": {
+                    "type": "size_type"
+                },
+                "2": {
+                    "type": "std::string *"
+                }
+            },
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/usr/include/snappy.h",
+                "line": 76,
+                "offset": 10
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Restream@@reindexer/cpp_src/net/cproto/clientconnection.cc",
+                "line": 397,
+                "offset": 3
+            },
+            "name": "Compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const_pointer"
+                },
+                "1": {
+                    "type": "size_type"
+                },
+                "2": {
+                    "type": "std::string *"
+                }
+            },
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/usr/include/snappy.h",
+                "line": 76,
+                "offset": 10
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Restream@@reindexer/cpp_src/net/cproto/coroclientconnection.cc",
+                "line": 212,
+                "offset": 3
+            },
+            "name": "Compress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "std::string *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/usr/include/snappy.h",
+                "line": 85,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Restream@@reindexer/cpp_src/net/cproto/coroclientconnection.cc",
+                "line": 407,
+                "offset": 10
+            },
+            "name": "Uncompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char *"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "std::string *"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/usr/include/snappy.h",
+                "line": 85,
+                "offset": 8
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Restream@@reindexer/cpp_src/net/cproto/serverconnection.cc",
+                "line": 168,
+                "offset": 10
+            },
+            "name": "Uncompress"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const_pointer"
+                },
+                "1": {
+                    "type": "size_type"
+                },
+                "2": {
+                    "type": "std::string *"
+                }
+            },
+            "callExprReturn": "size_t",
+            "definition": {
+                "file": "/usr/include/snappy.h",
+                "line": 76,
+                "offset": 10
+            },
+            "functionDeclReturn": "size_t",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Restream@@reindexer/cpp_src/net/cproto/serverconnection.cc",
+                "line": 225,
+                "offset": 3
+            },
+            "name": "Compress"
+        }
+    }
+]

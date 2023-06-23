@@ -1,0 +1,1 @@
+{"target": "akrzemi1@@explicit", "extractors": [{"deps": [{"depname": "explicit", "version": null, "version_op": null, "unified_name": "explicit", "extractor_type": "cmake", "context": "project(explicit)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "marcomaggi@@cre2", "extractors": [{"deps": [{"depname": "CRE2", "version": "MMUX_PACKAGE_VERSION", "version_op": null, "unified_name": "cre2", "extractor_type": "autoconf", "context": "AC_INIT([CRE2],[MMUX_PACKAGE_VERSION],[mrc.mgg@gmail.com],\n  [cre2],[http://github.com/marcomaggi/cre2/])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

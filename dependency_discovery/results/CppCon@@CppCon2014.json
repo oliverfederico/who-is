@@ -1,0 +1,1 @@
+{"target": "CppCon@@CppCon2014", "extractors": [{"deps": [{"depname": "hairpoll", "version": null, "version_op": null, "unified_name": "hairpoll", "extractor_type": "cmake", "context": "project(hairpoll)", "confidence": ""}], "type": "cmake", "libs": []}]}

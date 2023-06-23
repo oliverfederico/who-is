@@ -1,0 +1,1 @@
+{"target": "zpl-c@@zpl", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}, {"deps": [{"depname": "zpl", "version": null, "version_op": null, "unified_name": "zpl", "extractor_type": "cmake", "context": "project(zpl)", "confidence": ""}], "type": "cmake", "libs": []}]}

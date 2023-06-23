@@ -1,0 +1,1 @@
+{"target": "ant-media@@LibRtmp-Client-for-Android", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "ant-media@@LibRtmp-Client-for-Android/rtmp-client/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log )"}]}, {"deps": [], "type": "make"}]}

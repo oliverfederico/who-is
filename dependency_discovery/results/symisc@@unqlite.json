@@ -1,0 +1,1 @@
+{"target": "symisc@@unqlite", "extractors": [{"deps": [{"depname": "unqlite", "version": null, "version_op": null, "unified_name": "unqlite", "extractor_type": "cmake", "context": "project(unqlite)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

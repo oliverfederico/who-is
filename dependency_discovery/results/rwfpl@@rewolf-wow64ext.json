@@ -1,0 +1,1 @@
+{"target": "rwfpl@@rewolf-wow64ext", "extractors": [{"deps": [{"depname": "kernel32", "version": null, "version_op": null, "unified_name": "kernel32", "extractor_type": "ms", "context": "rwfpl@@rewolf-wow64ext/src/wow64ext.vcxproj", "confidence": "High"}], "type": "ms"}]}

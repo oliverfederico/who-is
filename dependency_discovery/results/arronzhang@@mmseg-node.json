@@ -1,0 +1,1 @@
+{"target": "arronzhang@@mmseg-node", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}]}

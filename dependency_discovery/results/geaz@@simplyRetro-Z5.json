@@ -1,0 +1,1 @@
+{"target": "geaz@@simplyRetro-Z5", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "freeimage", "version": "3.18.0", "version_op": "=", "unified_name": "freeimage", "extractor_type": "pkgconfig", "context": "geaz@@simplyRetro-Z5/buildroot/package/freeimage/freeimage.pc", "confidence": "High"}], "type": "pkgconfig"}]}

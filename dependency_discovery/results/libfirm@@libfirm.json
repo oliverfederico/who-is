@@ -1,0 +1,1 @@
+{"target": "libfirm@@libfirm", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "libfirm", "version": null, "version_op": null, "unified_name": "firm", "extractor_type": "cmake", "context": "project(libfirm c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

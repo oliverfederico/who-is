@@ -1,0 +1,1 @@
+{"target": "onlyfang@@VBoxVmService", "extractors": [{"deps": [{"depname": "vboxvmservice", "version": null, "version_op": null, "unified_name": "vboxvmservice", "extractor_type": "cmake", "context": "project (vboxvmservice)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "liudf0716@@xkcptun", "extractors": [{"deps": [{"depname": "xkcptun", "version": null, "version_op": null, "unified_name": "xkcptun", "extractor_type": "cmake", "context": "project(xkcptun c)", "confidence": ""}], "type": "cmake", "libs": []}]}

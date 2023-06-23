@@ -1,0 +1,1 @@
+{"target": "Glorf@@lear", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "lear", "version": null, "version_op": null, "unified_name": "lear", "extractor_type": "cmake", "context": "project(lear c)", "confidence": ""}], "type": "cmake", "libs": []}]}

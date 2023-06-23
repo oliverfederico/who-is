@@ -1,0 +1,1 @@
+{"target": "abhi1kumar@@DEVIANT", "extractors": [{"deps": [{"depname": "devkit_object", "version": null, "version_op": null, "unified_name": "devkit_object", "extractor_type": "cmake", "context": "project(devkit_object)", "confidence": ""}], "type": "cmake", "libs": []}]}

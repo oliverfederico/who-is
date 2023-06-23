@@ -1,0 +1,1 @@
+{"target": "gfwilliams@@tiny-js", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "tiny", "version": null, "version_op": null, "unified_name": "tiny", "extractor_type": "cmake", "context": "project (tiny-js)", "confidence": ""}], "type": "cmake", "libs": []}]}

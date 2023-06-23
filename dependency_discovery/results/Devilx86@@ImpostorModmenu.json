@@ -1,0 +1,1 @@
+{"target": "Devilx86@@ImpostorModmenu", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "Devilx86@@ImpostorModmenu/app/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log )"}]}]}

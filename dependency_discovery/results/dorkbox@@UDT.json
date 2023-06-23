@@ -1,0 +1,1 @@
+{"target": "dorkbox@@UDT", "extractors": [{"deps": [{"depname": "udt", "version": null, "version_op": null, "unified_name": "udt", "extractor_type": "cmake", "context": "project( udt )", "confidence": ""}], "type": "cmake", "libs": []}]}

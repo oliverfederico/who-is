@@ -1,0 +1,1 @@
+{"target": "badlogic@@dos-dev-template", "extractors": [{"deps": [{"depname": "dos", "version": null, "version_op": null, "unified_name": "dos", "extractor_type": "cmake", "context": "project(dos-app)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

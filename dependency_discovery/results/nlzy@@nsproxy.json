@@ -1,0 +1,1 @@
+{"target": "nlzy@@nsproxy", "extractors": [{"deps": [{"depname": "nsproxy", "version": null, "version_op": null, "unified_name": "nsproxy", "extractor_type": "cmake", "context": "project(nsproxy c)", "confidence": ""}], "type": "cmake", "libs": []}]}

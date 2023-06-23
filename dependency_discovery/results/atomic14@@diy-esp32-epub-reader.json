@@ -1,0 +1,1 @@
+{"target": "atomic14@@diy-esp32-epub-reader", "extractors": [{"deps": [{"depname": "epub", "version": null, "version_op": null, "unified_name": "epub", "extractor_type": "cmake", "context": "project(epub-reader)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

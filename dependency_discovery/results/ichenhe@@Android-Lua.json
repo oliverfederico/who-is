@@ -1,0 +1,1 @@
+{"target": "ichenhe@@Android-Lua", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "ichenhe@@Android-Lua/androidlua/src/main/jni/CMakeLists.txt", "content": "find_library(log-lib log)"}]}, {"deps": [], "type": "make"}]}

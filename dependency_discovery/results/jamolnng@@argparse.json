@@ -1,0 +1,1 @@
+{"target": "jamolnng@@argparse", "extractors": [{"deps": [{"depname": "argparse", "version": "0.1.2", "version_op": null, "unified_name": "argparse", "extractor_type": "cmake", "context": "project(argparse version 0.1.2 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "hackers-painters@@katana-parser", "extractors": [{"deps": [{"depname": "katana", "version": "0.8.0", "version_op": null, "unified_name": "katana", "extractor_type": "autoconf", "context": "AC_INIT([katana], [0.8.0], [im@qfi.sh])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "ms"}]}

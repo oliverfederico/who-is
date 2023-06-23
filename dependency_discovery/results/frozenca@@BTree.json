@@ -1,0 +1,1 @@
+{"target": "frozenca@@BTree", "extractors": [{"deps": [{"depname": "demo", "version": null, "version_op": null, "unified_name": "demo", "extractor_type": "cmake", "context": "project(demo)", "confidence": ""}], "type": "cmake", "libs": []}]}

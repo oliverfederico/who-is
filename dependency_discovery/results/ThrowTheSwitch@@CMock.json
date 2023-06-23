@@ -1,0 +1,1 @@
+{"target": "ThrowTheSwitch@@CMock", "extractors": [{"deps": [{"depname": "unity", "version": null, "version_op": null, "unified_name": "unity", "extractor_type": "meson", "context": "ThrowTheSwitch@@CMock/meson.build", "confidence": "High"}], "type": "meson"}, {"deps": [], "type": "make"}, {"deps": [], "type": "meson"}]}

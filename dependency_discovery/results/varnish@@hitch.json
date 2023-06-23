@@ -1,0 +1,1 @@
+{"target": "varnish@@hitch", "extractors": [{"deps": [{"depname": "hitch", "version": "1.7.3", "version_op": null, "unified_name": "hitch", "extractor_type": "autoconf", "context": "AC_INIT([hitch], [1.7.3], [opensource@varnish-software.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

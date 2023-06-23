@@ -1,0 +1,1 @@
+{"target": "jscheiny@@Streams", "extractors": [{"deps": [{"depname": "streams", "version": null, "version_op": null, "unified_name": "streams", "extractor_type": "cmake", "context": "project(streams cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

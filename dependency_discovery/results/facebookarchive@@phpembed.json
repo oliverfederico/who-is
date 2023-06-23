@@ -1,0 +1,1 @@
+{"target": "facebookarchive@@phpembed", "extractors": [{"deps": [{"depname": "phpembed", "version": "4.0.0", "version_op": null, "unified_name": "phpembed", "extractor_type": "autoconf", "context": "AC_INIT(phpembed, 4.0.0, boz@facebook.com)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

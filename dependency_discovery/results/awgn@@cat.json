@@ -1,0 +1,1 @@
+{"target": "awgn@@cat", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

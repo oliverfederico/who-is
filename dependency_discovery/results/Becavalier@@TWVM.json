@@ -1,0 +1,1 @@
+{"target": "Becavalier@@TWVM", "extractors": [{"deps": [], "type": "clib"}, {"deps": [{"depname": "twvm", "version": null, "version_op": null, "unified_name": "twvm", "extractor_type": "cmake", "context": "project (twvm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

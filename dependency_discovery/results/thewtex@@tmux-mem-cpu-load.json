@@ -1,0 +1,1 @@
+{"target": "thewtex@@tmux-mem-cpu-load", "extractors": [{"deps": [{"depname": "tmux", "version": null, "version_op": null, "unified_name": "tmux", "extractor_type": "cmake", "context": "project(tmux-mem-cpu-load)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

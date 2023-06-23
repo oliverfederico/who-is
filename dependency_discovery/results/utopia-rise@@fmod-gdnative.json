@@ -1,0 +1,1 @@
+{"target": "utopia-rise@@fmod-gdnative", "extractors": [{"deps": [{"depname": "godotfmod", "version": null, "version_op": null, "unified_name": "godotfmod", "extractor_type": "cmake", "context": "project(godotfmod)", "confidence": ""}], "type": "cmake", "libs": []}]}

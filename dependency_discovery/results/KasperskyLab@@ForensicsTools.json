@@ -1,0 +1,1 @@
+{"target": "KasperskyLab@@ForensicsTools", "extractors": [{"deps": [{"depname": "parse_evtx", "version": null, "version_op": null, "unified_name": "parse_evtx", "extractor_type": "cmake", "context": "project(parse_evtx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

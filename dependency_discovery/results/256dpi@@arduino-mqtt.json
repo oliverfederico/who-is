@@ -1,0 +1,1 @@
+{"target": "256dpi@@arduino-mqtt", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "arduino", "version": null, "version_op": null, "unified_name": "arduino", "extractor_type": "cmake", "context": "project(arduino-mqtt)", "confidence": ""}], "type": "cmake", "libs": []}]}

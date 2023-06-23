@@ -1,0 +1,1 @@
+{"target": "termux@@command-not-found", "extractors": [{"deps": [{"depname": "command", "version": null, "version_op": null, "unified_name": "command", "extractor_type": "cmake", "context": "project (command-not-found)", "confidence": ""}], "type": "cmake", "libs": []}]}

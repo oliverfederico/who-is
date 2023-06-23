@@ -1,0 +1,1 @@
+{"target": "nopnop2002@@esp-idf-st7789", "extractors": [{"deps": [{"depname": "st7789", "version": null, "version_op": null, "unified_name": "st7789", "extractor_type": "cmake", "context": "project(st7789)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "BLAKE2@@libb2", "extractors": [{"deps": [{"depname": "libb2", "version": "0.98.1", "version_op": null, "unified_name": "b2", "extractor_type": "autoconf", "context": "AC_INIT([libb2], [0.98.1], [contact@blake2.net], [libb2], [https://blake2.net])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

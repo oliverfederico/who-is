@@ -1,0 +1,1 @@
+{"target": "grassator@@mass", "extractors": [{"deps": [{"depname": "mass", "version": null, "version_op": null, "unified_name": "mass", "extractor_type": "cmake", "context": "project(mass c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "ddiakopoulos@@tinyply", "extractors": [{"deps": [], "type": "bazel"}, {"deps": [{"depname": "tinyply", "version": null, "version_op": null, "unified_name": "tinyply", "extractor_type": "cmake", "context": "project(tinyply languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

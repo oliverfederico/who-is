@@ -1,0 +1,1 @@
+{"target": "xpack-dev-tools@@arm-none-eabi-gcc-xpack", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "clib"}]}

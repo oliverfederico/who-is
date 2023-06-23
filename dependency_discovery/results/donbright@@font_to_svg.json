@@ -1,0 +1,1 @@
+{"target": "donbright@@font_to_svg", "extractors": [{"deps": [{"depname": "freetype", "version": null, "version_op": null, "unified_name": "freetype", "extractor_type": "cmake", "context": "find_package( freetype )", "confidence": "High"}], "type": "cmake", "libs": []}]}

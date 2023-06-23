@@ -1,0 +1,1 @@
+{"target": "Luecx@@Koivisto", "extractors": [{"deps": [{"depname": "koivisto", "version": "1.0", "version_op": null, "unified_name": "koivisto", "extractor_type": "cmake", "context": "project(koivisto version 1.0)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

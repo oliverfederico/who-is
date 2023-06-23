@@ -1,0 +1,1 @@
+{"target": "michaelforney@@cproc", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "gitsubmod"}]}

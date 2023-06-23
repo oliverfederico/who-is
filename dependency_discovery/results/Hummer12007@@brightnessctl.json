@@ -1,0 +1,1 @@
+{"target": "Hummer12007@@brightnessctl", "extractors": [{"deps": [{"depname": "m", "version": null, "version_op": null, "unified_name": "m", "extractor_type": "make", "context": "Hummer12007@@brightnessctl/Makefile:LDLIBS += -lm", "confidence": "High"}], "type": "make"}, {"deps": [], "type": "autoconf"}]}

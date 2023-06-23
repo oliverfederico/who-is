@@ -1,0 +1,1 @@
+{"target": "Electry@@VitaGrafix", "extractors": [{"deps": [{"depname": "vitagrafix", "version": null, "version_op": null, "unified_name": "vitagrafix", "extractor_type": "cmake", "context": "project(vitagrafix)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

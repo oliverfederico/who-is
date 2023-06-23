@@ -1,0 +1,1 @@
+{"target": "yhirose@@cpp-linenoise", "extractors": [{"deps": [{"depname": "linenoise", "version": null, "version_op": null, "unified_name": "linenoise", "extractor_type": "cmake", "context": "project(linenoise)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "cmake", "libs": []}]}

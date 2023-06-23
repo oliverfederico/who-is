@@ -1,0 +1,1 @@
+{"target": "politza@@pdf-tools", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "epdfinfo", "version": "1.0", "version_op": null, "unified_name": "epdfinfo", "extractor_type": "autoconf", "context": "AC_INIT([epdfinfo], 1.0, [politza@fh-trier.de])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

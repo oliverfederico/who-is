@@ -1,0 +1,1 @@
+{"target": "ha-excited@@BigNews", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "ha-excited@@BigNews/library/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log )"}]}]}

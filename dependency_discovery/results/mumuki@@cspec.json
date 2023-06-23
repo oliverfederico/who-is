@@ -1,0 +1,1 @@
+{"target": "mumuki@@cspec", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "cspecs", "version": null, "version_op": null, "unified_name": "cspecs", "extractor_type": "cmake", "context": "project(cspecs)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "TonyChen56@@WeChatRobot", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "windowscodecs", "version": null, "version_op": null, "unified_name": "windowscodecs", "extractor_type": "ms", "context": "TonyChen56@@WeChatRobot/WeChatRobot/WeChatRobot.vcxproj", "confidence": "High"}], "type": "ms"}]}

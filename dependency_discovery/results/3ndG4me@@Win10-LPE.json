@@ -1,0 +1,1 @@
+{"target": "3ndG4me@@Win10-LPE", "extractors": [{"deps": [{"depname": "xpsprint", "version": null, "version_op": null, "unified_name": "xpsprint", "extractor_type": "ms", "context": "3ndG4me@@Win10-LPE/ALPC-TaskSched-LPE/ALPC-TaskSched-LPE.vcxproj", "confidence": "High"}], "type": "ms"}]}

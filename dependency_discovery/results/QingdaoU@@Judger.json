@@ -1,0 +1,1 @@
+{"target": "QingdaoU@@Judger", "extractors": [{"deps": [{"depname": "judger", "version": null, "version_op": null, "unified_name": "judger", "extractor_type": "cmake", "context": "project(judger c)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "clib"}, {"deps": [], "type": "make"}]}

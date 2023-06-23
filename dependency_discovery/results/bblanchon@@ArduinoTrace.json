@@ -1,0 +1,1 @@
+{"target": "bblanchon@@ArduinoTrace", "extractors": [{"deps": [{"depname": "arduinotrace", "version": null, "version_op": null, "unified_name": "arduinotrace", "extractor_type": "cmake", "context": "project(arduinotrace)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

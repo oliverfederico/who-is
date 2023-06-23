@@ -1,0 +1,1 @@
+{"target": "Qrome@@marquee-scroller", "extractors": [{"deps": [{"depname": "arduinojson", "version": null, "version_op": null, "unified_name": "arduinojson", "extractor_type": "cmake", "context": "project(arduinojson)", "confidence": ""}], "type": "cmake", "libs": []}]}

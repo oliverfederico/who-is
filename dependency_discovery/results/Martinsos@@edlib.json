@@ -1,0 +1,1 @@
+{"target": "Martinsos@@edlib", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "edlib", "version": "1.2.6", "version_op": null, "unified_name": "edlib", "extractor_type": "cmake", "context": "project(edlib version 1.2.6)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "meson"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,1 @@
+{"target": "Rinnegatamante@@yoyoloader_vita", "extractors": [{"deps": [{"depname": "yoyoloader", "version": null, "version_op": null, "unified_name": "yoyoloader", "extractor_type": "cmake", "context": "project(yoyoloader c cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

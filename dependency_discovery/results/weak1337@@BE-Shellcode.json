@@ -1,0 +1,1 @@
+{"target": "weak1337@@BE-Shellcode", "extractors": [{"deps": [{"depname": "ntdll", "version": null, "version_op": null, "unified_name": "ntdll", "extractor_type": "ms", "context": "weak1337@@BE-Shellcode/BEShellcode/BEShellcode.vcxproj", "confidence": "High"}], "type": "ms"}]}

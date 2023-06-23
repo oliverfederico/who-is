@@ -1,0 +1,1 @@
+{"target": "gosha20777@@keras2cpp", "extractors": [{"deps": [{"depname": "keras2cpp", "version": null, "version_op": null, "unified_name": "keras2cpp", "extractor_type": "cmake", "context": "project(keras2cpp)", "confidence": ""}], "type": "cmake", "libs": []}]}

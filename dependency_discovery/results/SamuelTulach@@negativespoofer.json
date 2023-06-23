@@ -1,0 +1,1 @@
+{"target": "SamuelTulach@@negativespoofer", "extractors": [{"deps": [{"depname": "hwid", "version": null, "version_op": null, "unified_name": "hwid", "extractor_type": "cmake", "context": "project(hwid)", "confidence": ""}], "type": "cmake", "libs": []}]}

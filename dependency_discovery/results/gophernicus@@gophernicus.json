@@ -1,0 +1,1 @@
+{"target": "gophernicus@@gophernicus", "extractors": [{"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}]}

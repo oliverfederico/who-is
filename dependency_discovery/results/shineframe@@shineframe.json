@@ -1,0 +1,1 @@
+{"target": "shineframe@@shineframe", "extractors": [{"deps": [{"depname": "shineframe_examples", "version": null, "version_op": null, "unified_name": "shineframe_examples", "extractor_type": "cmake", "context": "project(shineframe_examples)", "confidence": ""}], "type": "cmake", "libs": []}]}

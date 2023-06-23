@@ -1,0 +1,1 @@
+{"target": "HIPERCUBE@@64bit-Multicore-OS", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "mint64", "version": null, "version_op": null, "unified_name": "mint64", "extractor_type": "cmake", "context": "project(mint64)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

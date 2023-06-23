@@ -1,0 +1,1 @@
+{"target": "githole@@edupt", "extractors": [{"deps": [{"depname": "edupt", "version": "1.0", "version_op": null, "unified_name": "edupt", "extractor_type": "cmake", "context": "project(edupt version 1.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

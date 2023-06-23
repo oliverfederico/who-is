@@ -1,0 +1,1 @@
+{"target": "7thSamurai@@steganography", "extractors": [{"deps": [{"depname": "steganography", "version": null, "version_op": null, "unified_name": "steganography", "extractor_type": "cmake", "context": "project(steganography)", "confidence": ""}], "type": "cmake", "libs": []}]}

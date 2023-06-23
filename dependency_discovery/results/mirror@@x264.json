@@ -1,0 +1,1 @@
+{"target": "mirror@@x264", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "autoconf"}]}

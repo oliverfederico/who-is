@@ -1,0 +1,47 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "Bytef *"
+                },
+                "1": {
+                    "type": "uLongf *"
+                },
+                "2": {
+                    "type": "const Bytef *"
+                },
+                "3": {
+                    "type": "size_t"
+                }
+            },
+            "callExprReturn": "int",
+            "definition": {
+                "file": "/usr/include/zlib.h",
+                "line": 1266,
+                "offset": 21
+            },
+            "functionDeclReturn": "int",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/pmq20@@libsquash/src/decompress.c",
+                "line": 34,
+                "offset": 13
+            },
+            "name": "uncompress"
+        }
+    }
+]

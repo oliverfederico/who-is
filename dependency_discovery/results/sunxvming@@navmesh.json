@@ -1,0 +1,1 @@
+{"target": "sunxvming@@navmesh", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "navmesh", "version": null, "version_op": null, "unified_name": "navmesh", "extractor_type": "cmake", "context": "project (navmesh)", "confidence": ""}], "type": "cmake", "libs": []}]}

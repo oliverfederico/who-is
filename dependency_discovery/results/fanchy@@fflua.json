@@ -1,0 +1,1 @@
+{"target": "fanchy@@fflua", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "lua53", "version": null, "version_op": null, "unified_name": "lua53", "extractor_type": "ms", "context": "fanchy@@fflua/example/fflua_win/fflua_win.vcxproj", "confidence": "High"}], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "xiph@@LPCNet", "extractors": [{"deps": [{"depname": "lpcnet", "version": "CURRENT_VERSION", "version_op": null, "unified_name": "lpcnet", "extractor_type": "autoconf", "context": "AC_INIT([lpcnet],[CURRENT_VERSION],[jmvalin@jmvalin.ca])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

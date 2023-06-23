@@ -1,0 +1,1 @@
+{"target": "coolwanglu@@PDFium.js", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "cppcheck", "version": null, "version_op": null, "unified_name": "cppcheck", "extractor_type": "cmake", "context": "find_package(cppcheck required)", "confidence": "High"}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "sirikata@@liboauthcpp", "extractors": [{"deps": [{"depname": "liboauthcpp", "version": null, "version_op": null, "unified_name": "oauthcpp", "extractor_type": "cmake", "context": "project(liboauthcpp c cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

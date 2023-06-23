@@ -1,0 +1,1 @@
+{"target": "googlearchive@@android-audio-high-performance", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

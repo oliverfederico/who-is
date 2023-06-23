@@ -1,0 +1,1 @@
+{"target": "osgochina@@donkeyid", "extractors": [{"deps": [{"depname": "donkeyid", "version": null, "version_op": null, "unified_name": "donkeyid", "extractor_type": "cmake", "context": "project(donkeyid)", "confidence": ""}], "type": "cmake", "libs": []}]}

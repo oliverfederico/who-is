@@ -1,0 +1,1 @@
+{"target": "nezza@@SDQAnalyzer", "extractors": [{"deps": [{"depname": "sdqanalyzer", "version": null, "version_op": null, "unified_name": "sdqanalyzer", "extractor_type": "cmake", "context": "project(sdqanalyzer)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

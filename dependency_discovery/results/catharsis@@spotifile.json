@@ -1,0 +1,1 @@
+{"target": "catharsis@@spotifile", "extractors": [{"deps": [{"depname": "spotifile", "version": "m4_esyscmd([build-aux/spfs-version-gen", "version_op": null, "unified_name": "spotifile", "extractor_type": "autoconf", "context": "AC_INIT([spotifile], m4_esyscmd([build-aux/spfs-version-gen])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

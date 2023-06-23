@@ -1,0 +1,1 @@
+{"target": "niXman@@yas", "extractors": [{"deps": [{"depname": "yas", "version": null, "version_op": null, "unified_name": "yas", "extractor_type": "cmake", "context": "project(yas-base-test cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

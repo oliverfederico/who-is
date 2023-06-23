@@ -1,0 +1,1 @@
+{"target": "orhun@@zps", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "zps", "version": null, "version_op": null, "unified_name": "zps", "extractor_type": "cmake", "context": "project(zps c)", "confidence": ""}], "type": "cmake", "libs": []}]}

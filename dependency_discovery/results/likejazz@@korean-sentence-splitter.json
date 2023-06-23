@@ -1,0 +1,1 @@
+{"target": "likejazz@@korean-sentence-splitter", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "sentence_splitter_cpp", "version": null, "version_op": null, "unified_name": "sentence_splitter_cpp", "extractor_type": "cmake", "context": "project(sentence_splitter_cpp)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "tavildar@@LDPC", "extractors": [{"deps": [{"depname": "ldpcc", "version": null, "version_op": null, "unified_name": "ldpcc", "extractor_type": "cmake", "context": "project(ldpcc)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "nx10@@httpgd", "extractors": [{"deps": [], "type": "autoconf"}, {"deps": [], "type": "clib"}]}

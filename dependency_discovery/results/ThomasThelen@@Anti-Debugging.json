@@ -1,0 +1,1 @@
+{"target": "ThomasThelen@@Anti-Debugging", "extractors": [{"deps": [{"depname": "anti", "version": null, "version_op": null, "unified_name": "anti", "extractor_type": "cmake", "context": "project(anti-debugging)", "confidence": ""}], "type": "cmake", "libs": []}]}

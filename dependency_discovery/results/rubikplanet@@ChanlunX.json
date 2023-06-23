@@ -1,0 +1,1 @@
+{"target": "rubikplanet@@ChanlunX", "extractors": [{"deps": [{"depname": "chanlunx", "version": null, "version_op": null, "unified_name": "chanlunx", "extractor_type": "cmake", "context": "project (chanlunx)", "confidence": ""}], "type": "cmake", "libs": []}]}

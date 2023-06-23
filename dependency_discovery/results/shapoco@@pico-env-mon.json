@@ -1,0 +1,1 @@
+{"target": "shapoco@@pico-env-mon", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "pico_env_mon", "version": null, "version_op": null, "unified_name": "pico_env_mon", "extractor_type": "cmake", "context": "project(pico_env_mon c cxx asm)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "telehash@@telehash-c", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "make"}]}

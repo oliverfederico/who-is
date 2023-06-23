@@ -1,0 +1,1 @@
+{"target": "w23@@OpenSource", "extractors": [{"deps": [{"depname": "opensource", "version": null, "version_op": null, "unified_name": "opensource", "extractor_type": "cmake", "context": "project(opensource)", "confidence": ""}], "type": "cmake", "libs": []}]}

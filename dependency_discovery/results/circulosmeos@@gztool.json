@@ -1,0 +1,1 @@
+{"target": "circulosmeos@@gztool", "extractors": [{"deps": [{"depname": "gztool", "version": "1.6.0", "version_op": null, "unified_name": "gztool", "extractor_type": "autoconf", "context": "AC_INIT([gztool], [1.6.0], [roberto.s.galende@gmail.com])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

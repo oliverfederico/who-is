@@ -1,0 +1,1 @@
+{"target": "cyberegoorg@@cetech", "extractors": [{"deps": [], "type": "gitsubmod"}, {"deps": [{"depname": "cetech", "version": null, "version_op": null, "unified_name": "cetech", "extractor_type": "cmake", "context": "project(cetech)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

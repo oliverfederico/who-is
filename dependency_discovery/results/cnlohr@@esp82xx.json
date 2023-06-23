@@ -1,0 +1,1 @@
+{"target": "cnlohr@@esp82xx", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "usb-1.0", "version": "1.0", "version_op": null, "unified_name": "usb", "extractor_type": "make", "context": "cnlohr@@esp82xx/web/Makefile:LDLIBS = -lusb-1.0", "confidence": "High"}], "type": "make"}]}

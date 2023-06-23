@@ -1,0 +1,1 @@
+{"target": "jerryuhoo@@Fire", "extractors": [{"deps": [{"depname": "fire", "version": "1.0.0", "version_op": null, "unified_name": "fire", "extractor_type": "cmake", "context": "project(fire version 1.0.0)", "confidence": "High"}], "type": "cmake", "libs": []}]}

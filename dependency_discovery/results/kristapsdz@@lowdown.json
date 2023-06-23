@@ -1,0 +1,1 @@
+{"target": "kristapsdz@@lowdown", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "autoconf"}, {"deps": [{"depname": "lowdown", "version": "@VERSION@", "version_op": "=", "unified_name": "lowdown", "extractor_type": "pkgconfig", "context": "kristapsdz@@lowdown/lowdown.in.pc", "confidence": "High"}], "type": "pkgconfig"}]}

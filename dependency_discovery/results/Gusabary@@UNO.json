@@ -1,0 +1,1 @@
+{"target": "Gusabary@@UNO", "extractors": [{"deps": [{"depname": "uno", "version": "1.0", "version_op": null, "unified_name": "uno", "extractor_type": "cmake", "context": "project(uno version 1.0)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

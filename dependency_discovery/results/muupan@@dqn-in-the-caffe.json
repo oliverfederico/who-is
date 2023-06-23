@@ -1,0 +1,1 @@
+{"target": "muupan@@dqn-in-the-caffe", "extractors": [{"deps": [{"depname": "dqn", "version": null, "version_op": null, "unified_name": "dqn", "extractor_type": "cmake", "context": "project(dqn)", "confidence": ""}], "type": "cmake", "libs": []}]}

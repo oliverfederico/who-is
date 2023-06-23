@@ -1,0 +1,1 @@
+{"target": "nidium@@Nidium", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "nidium@@Nidium/src/Frontend/app/android/app/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log )"}]}]}

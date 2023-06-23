@@ -1,0 +1,1 @@
+{"target": "clam314@@LameMp3ForAndroid", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "clam314@@LameMp3ForAndroid/app/CMakeLists.txt", "content": "find_library(log-lib log )"}]}]}

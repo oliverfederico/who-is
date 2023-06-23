@@ -1,0 +1,1 @@
+{"target": "microsoft@@D3D9On12", "extractors": [{"deps": [{"depname": "d3d9on12", "version": null, "version_op": null, "unified_name": "d3d9on12", "extractor_type": "cmake", "context": "project(d3d9on12)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

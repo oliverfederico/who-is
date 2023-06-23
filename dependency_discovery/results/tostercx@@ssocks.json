@@ -1,0 +1,1 @@
+{"target": "tostercx@@ssocks", "extractors": [{"deps": [{"depname": "ssocks", "version": null, "version_op": null, "unified_name": "ssocks", "extractor_type": "cmake", "context": "project(ssocks)", "confidence": ""}], "type": "cmake", "libs": []}]}

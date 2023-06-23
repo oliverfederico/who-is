@@ -1,0 +1,1 @@
+{"target": "Yelnats321@@EntityPlus", "extractors": [{"deps": [{"depname": "entityplus", "version": null, "version_op": null, "unified_name": "entityplus", "extractor_type": "cmake", "context": "project(entityplus)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

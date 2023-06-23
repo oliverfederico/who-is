@@ -1,0 +1,1 @@
+{"target": "ianh@@owl", "extractors": [{"deps": [{"depname": "dl", "version": null, "version_op": null, "unified_name": "dl", "extractor_type": "make", "context": "ianh@@owl/Makefile:LDLIBS_=-ldl", "confidence": "High"}], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

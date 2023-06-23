@@ -1,0 +1,1 @@
+{"target": "emmericp@@ixy", "extractors": [{"deps": [{"depname": "ixy", "version": null, "version_op": null, "unified_name": "ixy", "extractor_type": "cmake", "context": "project(ixy c)", "confidence": ""}], "type": "cmake", "libs": []}]}

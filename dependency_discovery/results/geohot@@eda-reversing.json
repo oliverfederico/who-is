@@ -1,0 +1,1 @@
+{"target": "geohot@@eda-reversing", "extractors": [{"deps": [{"depname": "eda", "version": null, "version_op": null, "unified_name": "eda", "extractor_type": "cmake", "context": "project(eda-reversing)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "wjakob@@nori", "extractors": [{"deps": [{"depname": "nori", "version": null, "version_op": null, "unified_name": "nori", "extractor_type": "cmake", "context": "project(nori)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

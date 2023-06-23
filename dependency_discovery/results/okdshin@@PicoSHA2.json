@@ -1,0 +1,1 @@
+{"target": "okdshin@@PicoSHA2", "extractors": [{"deps": [{"depname": "picosha2", "version": null, "version_op": null, "unified_name": "picosha2", "extractor_type": "cmake", "context": "project(picosha2)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

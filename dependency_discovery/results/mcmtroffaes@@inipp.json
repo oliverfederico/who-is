@@ -1,0 +1,1 @@
+{"target": "mcmtroffaes@@inipp", "extractors": [{"deps": [{"depname": "inipp", "version": null, "version_op": null, "unified_name": "inipp", "extractor_type": "cmake", "context": "project(inipp)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}]}

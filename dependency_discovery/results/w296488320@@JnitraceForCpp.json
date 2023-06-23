@@ -1,0 +1,1 @@
+{"target": "w296488320@@JnitraceForCpp", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "w296488320@@JnitraceForCpp/app/src/main/jni/CMakeLists.txt", "content": "find_library(\n        log-lib\n        log\n)"}]}]}

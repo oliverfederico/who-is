@@ -1,0 +1,1 @@
+{"target": "vidardb@@pgrocks-fdw", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "kv_fdw", "version": null, "version_op": null, "unified_name": "kv_fdw", "extractor_type": "cmake", "context": "project(kv_fdw)", "confidence": ""}], "type": "cmake", "libs": []}]}

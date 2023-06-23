@@ -1,0 +1,1 @@
+{"target": "sepehrdaddev@@Xerxes", "extractors": [{"deps": [{"depname": "xerxes", "version": null, "version_op": null, "unified_name": "xerxes", "extractor_type": "cmake", "context": "project(xerxes)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

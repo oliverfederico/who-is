@@ -1,0 +1,1 @@
+{"target": "surge-synthesizer@@stochas", "extractors": [{"deps": [{"depname": "stochas", "version": "1.3.0", "version_op": null, "unified_name": "stochas", "extractor_type": "cmake", "context": "project(stochas version 1.3.0)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

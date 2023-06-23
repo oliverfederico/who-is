@@ -1,0 +1,1 @@
+{"target": "mzucker@@miniray", "extractors": [{"deps": [{"depname": "miniray", "version": null, "version_op": null, "unified_name": "miniray", "extractor_type": "cmake", "context": "project(miniray)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

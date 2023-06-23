@@ -1,0 +1,1 @@
+{"target": "clibs@@buffer", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "buffer", "version": "0.4.0", "version_op": null, "unified_name": "buffer", "extractor_type": "clib", "context": "clibs@@buffer/package.json", "confidence": "High"}], "type": "clib"}]}

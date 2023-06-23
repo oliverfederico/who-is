@@ -1,0 +1,1 @@
+{"target": "dhbaird@@easywsclient", "extractors": [{"deps": [{"depname": "stdc++", "version": null, "version_op": null, "unified_name": "stdc++", "extractor_type": "make", "context": "dhbaird@@easywsclient/Makefile:LDLIBS = -lstdc++", "confidence": "High"}], "type": "make"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "make"}]}

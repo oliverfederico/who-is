@@ -1,0 +1,1 @@
+{"target": "netcan@@config-loader", "extractors": [{"deps": [{"depname": "config", "version": null, "version_op": null, "unified_name": "config", "extractor_type": "cmake", "context": "project(config-loader)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

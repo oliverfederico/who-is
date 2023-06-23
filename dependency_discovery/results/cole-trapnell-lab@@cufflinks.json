@@ -1,0 +1,1 @@
+{"target": "cole-trapnell-lab@@cufflinks", "extractors": [{"deps": [{"depname": "cufflinks", "version": "2.2.2", "version_op": null, "unified_name": "cufflinks", "extractor_type": "autoconf", "context": "AC_INIT([cufflinks], [2.2.2], [cole@cs.umd.edu])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

@@ -1,0 +1,3261 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_00.cpp",
+                "line": 769,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_00.cpp",
+                "line": 778,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_00.cpp",
+                "line": 784,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_00.cpp",
+                "line": 2410,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_00.cpp",
+                "line": 2419,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_00.cpp",
+                "line": 2425,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 424,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const unsigned long &, unsigned long>"
+                },
+                "1": {
+                    "type": "const size_type"
+                },
+                "2": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 150,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 423,
+                "offset": 5
+            },
+            "name": "debug"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 620,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 923,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 1146,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3172,
+                "offset": 9
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[45]",
+                    "value": "Exception caught in the parallel mode looper"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3174,
+                "offset": 9
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 174,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[46]",
+                    "value": "Exception caught in the parallel mode invoker"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 260,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_01.cpp",
+                "line": 3216,
+                "offset": 1
+            },
+            "name": "critical"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_02.cpp",
+                "line": 207,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<unsigned long>"
+                },
+                "1": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 150,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_02.cpp",
+                "line": 206,
+                "offset": 5
+            },
+            "name": "debug"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_02.cpp",
+                "line": 856,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 266,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_02.cpp",
+                "line": 860,
+                "offset": 9
+            },
+            "name": "should_log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<vector<vector<unsigned int, allocator<unsigned int> >, allocator<vector<unsigned int, allocator<unsigned int> > > > &>"
+                },
+                "1": {
+                    "type": "std::vector<std::vector<std::uint32_t> >"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_02.cpp",
+                "line": 871,
+                "offset": 9
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_02.cpp",
+                "line": 1265,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/taylor_02.cpp",
+                "line": 1440,
+                "offset": 9
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[81]",
+                    "value": "polynomial root finding during event detection failed due to too many iterations"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 248,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/detail/event_detection.cpp",
+                "line": 1443,
+                "offset": 25
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<unsigned int &>"
+                },
+                "1": {
+                    "type": "std::uint32_t"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 162,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/detail/event_detection.cpp",
+                "line": 2143,
+                "offset": 29
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[76]",
+                    "value": "iteration limit exceeded while solving the elliptic inverse Kepler equation"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 248,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/detail/llvm_helpers.cpp",
+                "line": 4254,
+                "offset": 5
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_diff.cpp",
+                "line": 257,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_diff.cpp",
+                "line": 837,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<unsigned int, stopwatch &>"
+                },
+                "1": {
+                    "type": "unsigned int"
+                },
+                "2": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_diff.cpp",
+                "line": 834,
+                "offset": 9
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 287,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const unsigned long &, unsigned long>"
+                },
+                "1": {
+                    "type": "const size_type"
+                },
+                "2": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 150,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 286,
+                "offset": 5
+            },
+            "name": "debug"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 470,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 566,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 733,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 951,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<unsigned long>"
+                },
+                "1": {
+                    "type": "size_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 150,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 950,
+                "offset": 5
+            },
+            "name": "debug"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 1086,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "_Bool",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 266,
+                "offset": 10
+            },
+            "functionDeclReturn": "_Bool",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 1090,
+                "offset": 9
+            },
+            "name": "should_log"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<vector<vector<unsigned int, allocator<unsigned int> >, allocator<vector<unsigned int, allocator<unsigned int> > > > &>"
+                },
+                "1": {
+                    "type": "std::vector<std::vector<std::uint32_t> >"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 1101,
+                "offset": 9
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<stopwatch &>"
+                },
+                "1": {
+                    "type": "spdlog::stopwatch"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/expression_cfunc.cpp",
+                "line": 1458,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/logging.cpp",
+                "line": 22,
+                "offset": 5
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/logging.cpp",
+                "line": 27,
+                "offset": 5
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/logging.cpp",
+                "line": 32,
+                "offset": 5
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/logging.cpp",
+                "line": 37,
+                "offset": 5
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/logging.cpp",
+                "line": 42,
+                "offset": 5
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/bluescarni@@heyoka/src/logging.cpp",
+                "line": 47,
+                "offset": 5
+            },
+            "name": "set_level"
+        }
+    }
+]

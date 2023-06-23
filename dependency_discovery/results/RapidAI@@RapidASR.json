@@ -1,0 +1,1 @@
+{"target": "RapidAI@@RapidASR", "extractors": [{"deps": [{"depname": "fastasr", "version": null, "version_op": null, "unified_name": "fastasr", "extractor_type": "cmake", "context": "project(fastasr)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

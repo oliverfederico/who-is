@@ -1,0 +1,1 @@
+{"target": "NytroRST@@ShellcodeCompiler", "extractors": [{"deps": [], "type": "ms"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "sample", "version": null, "version_op": null, "unified_name": "sample", "extractor_type": "cmake", "context": "project(sample)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "Octoberfest7@@BeatRev", "extractors": [{"deps": [{"depname": "%(AdditionalDependencies)", "version": null, "version_op": null, "unified_name": "%(additionaldependencies)", "extractor_type": "ms", "context": "Octoberfest7@@BeatRev/src/Stage2/inject/inject.vcxproj", "confidence": "High"}], "type": "ms"}, {"deps": [], "type": "ms"}]}

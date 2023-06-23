@@ -1,0 +1,1860 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char>, void *&>"
+                },
+                "1": {
+                    "type": "std::string"
+                },
+                "2": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/cpu/memory.cpp",
+                "line": 147,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char (&)[2], void *&>"
+                },
+                "1": {
+                    "type": "const char[2]",
+                    "value": " "
+                },
+                "2": {
+                    "type": "void *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/cpu/memory.cpp",
+                "line": 153,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<unsigned long, basic_string<char> >"
+                },
+                "1": {
+                    "type": "size_type"
+                },
+                "2": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DefaultMemoryManager.cpp",
+                "line": 68,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<unsigned int &, basic_string<char> >"
+                },
+                "1": {
+                    "type": "unsigned int"
+                },
+                "2": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DefaultMemoryManager.cpp",
+                "line": 127,
+                "offset": 9
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<unsigned long &, unsigned long &, unsigned long &, unsigned int &>"
+                },
+                "1": {
+                    "type": "size_t"
+                },
+                "2": {
+                    "type": "size_t"
+                },
+                "3": {
+                    "type": "size_t"
+                },
+                "4": {
+                    "type": "unsigned int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DefaultMemoryManager.cpp",
+                "line": 169,
+                "offset": 17
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> &>"
+                },
+                "1": {
+                    "type": "value_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DependencyModule.cpp",
+                "line": 102,
+                "offset": 9
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> &>"
+                },
+                "1": {
+                    "type": "value_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DependencyModule.cpp",
+                "line": 105,
+                "offset": 13
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *&>"
+                },
+                "1": {
+                    "type": "const char *"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DependencyModule.cpp",
+                "line": 107,
+                "offset": 13
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const basic_string<char> &>"
+                },
+                "1": {
+                    "type": "const value_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DependencyModule.cpp",
+                "line": 161,
+                "offset": 5
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> &>"
+                },
+                "1": {
+                    "type": "value_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DependencyModule.cpp",
+                "line": 147,
+                "offset": 17
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> &>"
+                },
+                "1": {
+                    "type": "class std::basic_string<char>"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DependencyModule.cpp",
+                "line": 132,
+                "offset": 25
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> &, Version &>"
+                },
+                "1": {
+                    "type": "class std::basic_string<char>"
+                },
+                "2": {
+                    "type": "Version"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DependencyModule.cpp",
+                "line": 137,
+                "offset": 33
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> &>"
+                },
+                "1": {
+                    "type": "class std::basic_string<char>"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DependencyModule.cpp",
+                "line": 139,
+                "offset": 33
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> &, Version &>"
+                },
+                "1": {
+                    "type": "value_type"
+                },
+                "2": {
+                    "type": "Version"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DependencyModule.cpp",
+                "line": 152,
+                "offset": 25
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> &>"
+                },
+                "1": {
+                    "type": "value_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/DependencyModule.cpp",
+                "line": 154,
+                "offset": 25
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 37,
+                "offset": 20
+            },
+            "name": "get"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "std::string"
+                },
+                "1": {
+                    "type": "enum spdlog::pattern_time_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 287,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 39,
+                "offset": 9
+            },
+            "name": "set_pattern"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 45,
+                "offset": 13
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 47,
+                "offset": 13
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 37,
+                "offset": 20
+            },
+            "name": "get"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "std::string"
+                },
+                "1": {
+                    "type": "enum spdlog::pattern_time_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 287,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 39,
+                "offset": 9
+            },
+            "name": "set_pattern"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 45,
+                "offset": 13
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 47,
+                "offset": 13
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *const &, basic_string<char> &>"
+                },
+                "1": {
+                    "type": "const char *const"
+                },
+                "2": {
+                    "type": "string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 162,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/util.cpp",
+                "line": 218,
+                "offset": 13
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/util.cpp",
+                "line": 218,
+                "offset": 13
+            },
+            "name": "get"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *const &, basic_string<char> &>"
+                },
+                "1": {
+                    "type": "const char *const"
+                },
+                "2": {
+                    "type": "string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 162,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/util.cpp",
+                "line": 218,
+                "offset": 13
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/util.cpp",
+                "line": 218,
+                "offset": 13
+            },
+            "name": "get"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/api/unified/symbol_manager.cpp",
+                "line": 112,
+                "offset": 35
+            },
+            "name": "get"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> >"
+                },
+                "1": {
+                    "type": "string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/api/unified/symbol_manager.cpp",
+                "line": 146,
+                "offset": 9
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> >"
+                },
+                "1": {
+                    "type": "string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/api/unified/symbol_manager.cpp",
+                "line": 150,
+                "offset": 13
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<int &>"
+                },
+                "1": {
+                    "type": "int"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/api/unified/symbol_manager.cpp",
+                "line": 157,
+                "offset": 17
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> &>"
+                },
+                "1": {
+                    "type": "string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/api/unified/symbol_manager.cpp",
+                "line": 159,
+                "offset": 21
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> >"
+                },
+                "1": {
+                    "type": "std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/api/unified/symbol_manager.cpp",
+                "line": 168,
+                "offset": 13
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<basic_string<char> >"
+                },
+                "1": {
+                    "type": "string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 144,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/api/unified/symbol_manager.cpp",
+                "line": 212,
+                "offset": 9
+            },
+            "name": "trace"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const char[22]",
+                    "value": "Backend was not found"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 254,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/api/unified/symbol_manager.cpp",
+                "line": 215,
+                "offset": 9
+            },
+            "name": "error"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 37,
+                "offset": 20
+            },
+            "name": "get"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "std::string"
+                },
+                "1": {
+                    "type": "enum spdlog::pattern_time_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 287,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 39,
+                "offset": 9
+            },
+            "name": "set_pattern"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 45,
+                "offset": 13
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 47,
+                "offset": 13
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 37,
+                "offset": 20
+            },
+            "name": "get"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "std::string"
+                },
+                "1": {
+                    "type": "enum spdlog::pattern_time_type"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 287,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 39,
+                "offset": 9
+            },
+            "name": "set_pattern"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 45,
+                "offset": 13
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 277,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": false,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/Logger.cpp",
+                "line": 47,
+                "offset": 13
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *const &, basic_string<char> &>"
+                },
+                "1": {
+                    "type": "const char *const"
+                },
+                "2": {
+                    "type": "string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 162,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/util.cpp",
+                "line": 218,
+                "offset": 13
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/util.cpp",
+                "line": 218,
+                "offset": 13
+            },
+            "name": "get"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "fmt::format_string<const char *const &, basic_string<char> &>"
+                },
+                "1": {
+                    "type": "const char *const"
+                },
+                "2": {
+                    "type": "string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 162,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/util.cpp",
+                "line": 218,
+                "offset": 13
+            },
+            "name": "warn"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/usr/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 36
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": false,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": false,
+            "isInlined": false,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/arrayfire@@arrayfire/src/backend/common/util.cpp",
+                "line": 218,
+                "offset": 13
+            },
+            "name": "get"
+        }
+    }
+]

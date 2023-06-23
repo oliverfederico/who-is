@@ -1,0 +1,1 @@
+{"target": "Neargye@@hello_tf_c_api", "extractors": [{"deps": [{"depname": "hello_tf", "version": null, "version_op": null, "unified_name": "hello_tf", "extractor_type": "cmake", "context": "project(hello_tf)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

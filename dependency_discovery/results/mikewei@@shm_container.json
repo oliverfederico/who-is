@@ -1,0 +1,1 @@
+{"target": "mikewei@@shm_container", "extractors": [{"deps": [{"depname": "", "version": null, "version_op": null, "unified_name": "", "extractor_type": "bazel", "context": "mikewei@@shm_container/BUILD:", "confidence": "High"}], "type": "bazel"}, {"deps": [], "type": "make"}]}

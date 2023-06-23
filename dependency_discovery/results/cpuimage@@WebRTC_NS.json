@@ -1,0 +1,1 @@
+{"target": "cpuimage@@WebRTC_NS", "extractors": [{"deps": [{"depname": "ns", "version": null, "version_op": null, "unified_name": "ns", "extractor_type": "cmake", "context": "project(ns languages c)", "confidence": ""}], "type": "cmake", "libs": []}]}

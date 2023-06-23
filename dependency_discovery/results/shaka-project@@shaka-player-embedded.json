@@ -1,0 +1,1 @@
+{"target": "shaka-project@@shaka-player-embedded", "extractors": [{"deps": [], "type": "autoconf"}, {"deps": [], "type": "make"}, {"deps": [], "type": "autoconf"}]}

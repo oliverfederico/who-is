@@ -1,0 +1,1 @@
+{"target": "grommunio@@gromox", "extractors": [{"deps": [{"depname": "gromox", "version": "2.10", "version_op": null, "unified_name": "gromox", "extractor_type": "autoconf", "context": "AC_INIT([gromox], [2.10])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

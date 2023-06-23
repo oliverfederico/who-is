@@ -1,0 +1,1 @@
+{"target": "matth-x@@ArduinoOcpp", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}, {"deps": [{"depname": "ao_example", "version": null, "version_op": null, "unified_name": "ao_example", "extractor_type": "cmake", "context": "project(ao_example)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

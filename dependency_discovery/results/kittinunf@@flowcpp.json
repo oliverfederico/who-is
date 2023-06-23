@@ -1,0 +1,1 @@
+{"target": "kittinunf@@flowcpp", "extractors": [{"deps": [{"depname": "flow", "version": null, "version_op": null, "unified_name": "flow", "extractor_type": "cmake", "context": "project(flow)", "confidence": ""}], "type": "cmake", "libs": []}]}

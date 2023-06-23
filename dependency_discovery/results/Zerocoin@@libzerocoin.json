@@ -1,0 +1,1 @@
+{"target": "Zerocoin@@libzerocoin", "extractors": [{"deps": [], "type": "cmake", "libs": []}, {"deps": [{"depname": "boost", "version": "1.48", "version_op": null, "unified_name": "boost", "extractor_type": "cmake", "context": "find_package(boost \"1.48\" components system)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

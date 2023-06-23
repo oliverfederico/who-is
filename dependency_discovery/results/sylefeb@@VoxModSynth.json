@@ -1,0 +1,1 @@
+{"target": "sylefeb@@VoxModSynth", "extractors": [{"deps": [{"depname": "voxmodsynth", "version": null, "version_op": null, "unified_name": "voxmodsynth", "extractor_type": "cmake", "context": "project(voxmodsynth)", "confidence": ""}], "type": "cmake", "libs": []}]}

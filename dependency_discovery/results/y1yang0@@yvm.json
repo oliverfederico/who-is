@@ -1,0 +1,1 @@
+{"target": "y1yang0@@yvm", "extractors": [{"deps": [{"depname": "yvm", "version": null, "version_op": null, "unified_name": "yvm", "extractor_type": "cmake", "context": "project(yvm)", "confidence": ""}], "type": "cmake", "libs": []}]}

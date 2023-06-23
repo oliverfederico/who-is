@@ -1,0 +1,1 @@
+{"target": "adamyaxley@@Obfuscate", "extractors": [{"deps": [{"depname": "obfuscate", "version": null, "version_op": null, "unified_name": "obfuscate", "extractor_type": "cmake", "context": "project(obfuscate)", "confidence": ""}], "type": "cmake", "libs": []}]}

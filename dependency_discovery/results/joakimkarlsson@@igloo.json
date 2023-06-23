@@ -1,0 +1,1 @@
+{"target": "joakimkarlsson@@igloo", "extractors": [{"deps": [{"depname": "igloo", "version": null, "version_op": null, "unified_name": "igloo", "extractor_type": "cmake", "context": "project(igloo)", "confidence": ""}], "type": "cmake", "libs": []}]}

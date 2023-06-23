@@ -1,0 +1,1 @@
+{"target": "DroneBridge@@ESP32", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "db_esp32", "version": null, "version_op": null, "unified_name": "db_esp32", "extractor_type": "cmake", "context": "project(db_esp32)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "clib"}]}

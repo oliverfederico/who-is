@@ -1,0 +1,1 @@
+{"target": "openSUSE@@catatonit", "extractors": [{"deps": [{"depname": "catatonit", "version": "0.1.7+dev", "version_op": null, "unified_name": "catatonit", "extractor_type": "autoconf", "context": "AC_INIT([catatonit], [0.1.7+dev], [https://bugs.opensuse.org/], [], [https://github.com/openSUSE/catatonit/])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

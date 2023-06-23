@@ -1,0 +1,1 @@
+{"target": "vslavik@@diff-pdf", "extractors": [{"deps": [{"depname": "diff-pdf", "version": "0.5.1", "version_op": null, "unified_name": "diff-pdf", "extractor_type": "autoconf", "context": "AC_INIT(diff-pdf, 0.5.1, [vaclav@slavik.io])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

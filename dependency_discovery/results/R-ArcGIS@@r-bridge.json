@@ -1,0 +1,1 @@
+{"target": "R-ArcGIS@@r-bridge", "extractors": [{"deps": [], "type": "ms"}, {"deps": [], "type": "ms"}, {"deps": [{"depname": "R", "version": null, "version_op": null, "unified_name": "r", "extractor_type": "ms", "context": "R-ArcGIS@@r-bridge/src/msprojects/proxy/rarcproxy.vcxproj", "confidence": "High"}], "type": "ms"}]}

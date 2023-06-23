@@ -1,0 +1,1 @@
+{"target": "vitor251093@@resurrection-capsule", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "detours", "version": null, "version_op": null, "unified_name": "detours", "extractor_type": "ms", "context": "vitor251093@@resurrection-capsule/launcher/Detour/dll/dll.vcxproj", "confidence": "High"}], "type": "ms"}, {"deps": [], "type": "ms"}]}

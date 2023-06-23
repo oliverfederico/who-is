@@ -1,0 +1,42 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "spdlog::level::level_enum"
+                },
+                "1": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/usr/include/spdlog/logger.h",
+                "line": 93,
+                "offset": 10
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": true,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": true,
+            "isImplicitlyInstantiable ": true,
+            "isInlineSpecified": false,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": true,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "isVirtualCXXMethodDecl": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/hyperledger-archives@@iroha/libs/logger/logger_spdlog.cpp",
+                "line": 99,
+                "offset": 5
+            },
+            "name": "log"
+        }
+    }
+]

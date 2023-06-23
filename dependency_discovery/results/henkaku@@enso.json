@@ -1,0 +1,1 @@
+{"target": "henkaku@@enso", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "enso_installer", "version": null, "version_op": null, "unified_name": "enso_installer", "extractor_type": "cmake", "context": "project(enso_installer)", "confidence": ""}], "type": "cmake", "libs": []}]}

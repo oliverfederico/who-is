@@ -1,0 +1,1 @@
+{"target": "eliben@@bobscheme", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "barevm", "version": null, "version_op": null, "unified_name": "barevm", "extractor_type": "cmake", "context": "project(barevm)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

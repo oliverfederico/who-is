@@ -1,0 +1,1 @@
+{"target": "chai2010@@opencv", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "opencv", "version": null, "version_op": null, "unified_name": "opencv", "extractor_type": "cmake", "context": "project(opencv)", "confidence": ""}], "type": "cmake", "libs": []}]}

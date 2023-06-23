@@ -1,0 +1,1 @@
+{"target": "zfigura@@semblance", "extractors": [{"deps": [{"depname": "semblance", "version": "0.2", "version_op": null, "unified_name": "semblance", "extractor_type": "autoconf", "context": "AC_INIT([semblance], [0.2])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

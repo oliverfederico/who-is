@@ -1,0 +1,1 @@
+{"target": "cslarsen@@arv", "extractors": [{"deps": [{"depname": "sparsehash", "version": "2.0.2", "version_op": null, "unified_name": "sparsehash", "extractor_type": "autoconf", "context": "cslarsen@@arv/3rd-party/sparsehash/configure", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

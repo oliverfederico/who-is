@@ -1,0 +1,1 @@
+{"target": "JPCERTCC@@EmoCheck", "extractors": [{"deps": [{"depname": "emocheck", "version": null, "version_op": null, "unified_name": "emocheck", "extractor_type": "cmake", "context": "project(emocheck cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

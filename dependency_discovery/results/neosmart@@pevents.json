@@ -1,0 +1,1 @@
+{"target": "neosmart@@pevents", "extractors": [{"deps": [{"depname": "threads", "version": null, "version_op": null, "unified_name": "threads", "extractor_type": "meson", "context": "neosmart@@pevents/meson.build", "confidence": "High"}], "type": "meson"}]}

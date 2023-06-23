@@ -1,0 +1,1 @@
+{"target": "lloyd@@easylzma", "extractors": [{"deps": [{"depname": "easylzma", "version": null, "version_op": null, "unified_name": "easylzma", "extractor_type": "cmake", "context": "project(easylzma)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

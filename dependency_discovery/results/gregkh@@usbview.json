@@ -1,0 +1,1 @@
+{"target": "gregkh@@usbview", "extractors": [{"deps": [{"depname": "USBView", "version": "3.0", "version_op": null, "unified_name": "usbview", "extractor_type": "autoconf", "context": "AC_INIT([USBView],[3.0],[Greg Kroah-Hartman <greg@kroah.com>],[usbview],[http://www.kroah.com/linux-usb/])", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

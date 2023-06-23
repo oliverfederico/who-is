@@ -1,0 +1,1 @@
+{"target": "cwoffenden@@hello-webgpu", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "hello", "version": null, "version_op": null, "unified_name": "hello", "extractor_type": "cmake", "context": "project(hello-webgpu)", "confidence": ""}], "type": "cmake", "libs": []}]}

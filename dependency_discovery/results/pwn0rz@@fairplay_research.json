@@ -1,0 +1,1 @@
+{"target": "pwn0rz@@fairplay_research", "extractors": [{"deps": [{"depname": "uloader", "version": null, "version_op": null, "unified_name": "uloader", "extractor_type": "cmake", "context": "project(uloader)", "confidence": ""}], "type": "cmake", "libs": []}]}

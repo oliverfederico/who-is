@@ -1,0 +1,1 @@
+{"target": "mscdex@@node-xxhash", "extractors": [{"deps": [], "type": "clib"}, {"deps": [], "type": "make"}, {"deps": [{"depname": "xxhash", "version": null, "version_op": null, "unified_name": "xxhash", "extractor_type": "cmake", "context": "  project(xxhash c)", "confidence": ""}], "type": "cmake", "libs": []}]}

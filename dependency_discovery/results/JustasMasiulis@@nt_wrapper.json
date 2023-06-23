@@ -1,0 +1,1 @@
+{"target": "JustasMasiulis@@nt_wrapper", "extractors": [{"deps": [{"depname": "nt_wrapper", "version": "3.2", "version_op": null, "unified_name": "nt_wrapper", "extractor_type": "cmake", "context": "project(nt_wrapper version 3.2 languages cxx)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

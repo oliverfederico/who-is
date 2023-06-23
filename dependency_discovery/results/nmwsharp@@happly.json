@@ -1,0 +1,1 @@
+{"target": "nmwsharp@@happly", "extractors": [{"deps": [{"depname": "happly", "version": null, "version_op": null, "unified_name": "happly", "extractor_type": "cmake", "context": "project(happly-test)", "confidence": ""}], "type": "cmake", "libs": []}]}

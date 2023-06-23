@@ -1,0 +1,1 @@
+{"target": "orgua@@OneWireHub", "extractors": [{"deps": [{"depname": "onewirehub", "version": null, "version_op": null, "unified_name": "onewirehub", "extractor_type": "cmake", "context": "project(onewirehub)", "confidence": ""}], "type": "cmake", "libs": []}]}

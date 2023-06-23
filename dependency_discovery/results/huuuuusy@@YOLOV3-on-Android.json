@@ -1,0 +1,1 @@
+{"target": "huuuuusy@@YOLOV3-on-Android", "extractors": [{"deps": [], "type": "cmake", "libs": [{"filenames": ["log"], "version": "", "fromfile": "huuuuusy@@YOLOV3-on-Android/app/CMakeLists.txt", "content": "find_library( \n              log-lib\n\n              \n              \n              log )"}]}]}

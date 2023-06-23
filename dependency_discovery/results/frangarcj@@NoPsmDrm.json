@@ -1,0 +1,1 @@
+{"target": "frangarcj@@NoPsmDrm", "extractors": [{"deps": [{"depname": "nopsmdrm", "version": null, "version_op": null, "unified_name": "nopsmdrm", "extractor_type": "cmake", "context": "project(nopsmdrm)", "confidence": ""}], "type": "cmake", "libs": []}]}

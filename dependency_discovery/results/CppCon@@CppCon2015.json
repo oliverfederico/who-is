@@ -1,0 +1,1 @@
+{"target": "CppCon@@CppCon2015", "extractors": [{"deps": [{"depname": "cppcon2015_speaker_files", "version": null, "version_op": null, "unified_name": "cppcon2015_speaker_files", "extractor_type": "cmake", "context": "project(cppcon2015_speaker_files)", "confidence": ""}], "type": "cmake", "libs": []}]}

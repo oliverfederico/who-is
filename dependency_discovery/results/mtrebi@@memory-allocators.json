@@ -1,0 +1,1 @@
+{"target": "mtrebi@@memory-allocators", "extractors": [{"deps": [{"depname": "memory", "version": null, "version_op": null, "unified_name": "memory", "extractor_type": "cmake", "context": "project (memory-allocators languages cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

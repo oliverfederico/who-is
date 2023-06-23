@@ -1,0 +1,1 @@
+{"target": "hugobloem@@esp-ha-speech", "extractors": [{"deps": [{"depname": "esp", "version": null, "version_op": null, "unified_name": "esp", "extractor_type": "cmake", "context": "project(esp-ha-speech)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

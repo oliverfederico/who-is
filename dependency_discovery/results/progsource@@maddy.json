@@ -1,0 +1,1 @@
+{"target": "progsource@@maddy", "extractors": [{"deps": [{"depname": "maddy", "version": null, "version_op": null, "unified_name": "maddy", "extractor_type": "cmake", "context": "project(maddy)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

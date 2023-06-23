@@ -1,0 +1,110 @@
+[
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/.hunter/_Base/12dec07/6d412ae/510d5e8/Install/include/spdlog/spdlog.h",
+                "line": 71,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Luis-Hebendanz@@0pack/src/main.cpp",
+                "line": 61,
+                "offset": 9
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "enum spdlog::level::level_enum"
+                }
+            },
+            "callExprReturn": "void",
+            "definition": {
+                "file": "/home/oliver/.hunter/_Base/12dec07/6d412ae/510d5e8/Install/include/spdlog/spdlog.h",
+                "line": 71,
+                "offset": 13
+            },
+            "functionDeclReturn": "void",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Luis-Hebendanz@@0pack/src/main.cpp",
+                "line": 64,
+                "offset": 9
+            },
+            "name": "set_level"
+        }
+    },
+    {
+        "function": {
+            "args": {
+                "0": {
+                    "type": "const std::string"
+                }
+            },
+            "callExprReturn": "std::shared_ptr<logger>",
+            "definition": {
+                "file": "/home/oliver/.hunter/_Base/12dec07/6d412ae/510d5e8/Install/include/spdlog/spdlog.h",
+                "line": 52,
+                "offset": 32
+            },
+            "functionDeclReturn": "std::shared_ptr<logger>",
+            "hasBody": true,
+            "isCXXMethodDecl": false,
+            "isDefaulted": false,
+            "isFunctionTemplateSpecialization": false,
+            "isImplicitlyInstantiable ": false,
+            "isInlineSpecified": true,
+            "isInlined": true,
+            "isOverloaded": false,
+            "isPure": false,
+            "isStatic": false,
+            "isTemplateInstantiation": false,
+            "isUserProvided": true,
+            "isVariadic": false,
+            "isVirtualAsWritten": false,
+            "location": {
+                "file": "/home/oliver/Desktop/Computing/FYP/cs_scanner_data/Luis-Hebendanz@@0pack/src/Utils.cpp",
+                "line": 62,
+                "offset": 18
+            },
+            "name": "get"
+        }
+    }
+]

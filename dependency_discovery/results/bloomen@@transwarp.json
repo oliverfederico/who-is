@@ -1,0 +1,1 @@
+{"target": "bloomen@@transwarp", "extractors": [{"deps": [], "type": "conan"}, {"deps": [{"depname": "transwarp", "version": null, "version_op": null, "unified_name": "transwarp", "extractor_type": "cmake", "context": "project(transwarp)", "confidence": ""}], "type": "cmake", "libs": []}]}

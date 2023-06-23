@@ -1,0 +1,1 @@
+{"target": "sdima1357@@esp32_usb_soft_host", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "usb_test", "version": null, "version_op": null, "unified_name": "usb_test", "extractor_type": "cmake", "context": "project(usb_test)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

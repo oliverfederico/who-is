@@ -1,0 +1,1 @@
+{"target": "cksystemsgroup@@scal", "extractors": [{"deps": [{"depname": "Scal", "version": "1.0", "version_op": null, "unified_name": "scal", "extractor_type": "autoconf", "context": "AC_INIT([Scal], 1.0)", "confidence": ""}], "type": "autoconf"}, {"deps": [], "type": "make"}]}

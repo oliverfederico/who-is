@@ -1,0 +1,1 @@
+{"target": "thelink2012@@any", "extractors": [{"deps": [{"depname": "any", "version": null, "version_op": null, "unified_name": "any", "extractor_type": "cmake", "context": "project(any)", "confidence": ""}], "type": "cmake", "libs": []}]}

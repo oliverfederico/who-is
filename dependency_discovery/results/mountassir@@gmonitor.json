@@ -1,0 +1,1 @@
+{"target": "mountassir@@gmonitor", "extractors": [{"deps": [{"depname": "gpumonitor", "version": null, "version_op": null, "unified_name": "gpumonitor", "extractor_type": "cmake", "context": "project ( gpumonitor )", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "make"}]}

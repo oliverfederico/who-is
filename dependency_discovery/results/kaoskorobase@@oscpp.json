@@ -1,0 +1,1 @@
+{"target": "kaoskorobase@@oscpp", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "oscpp", "version": "0.3.0", "version_op": null, "unified_name": "oscpp", "extractor_type": "cmake", "context": "project(oscpp version 0.3.0)", "confidence": "High"}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

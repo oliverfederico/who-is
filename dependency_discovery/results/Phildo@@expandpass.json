@@ -1,0 +1,1 @@
+{"target": "Phildo@@expandpass", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "expandpass", "version": null, "version_op": null, "unified_name": "expandpass", "extractor_type": "cmake", "context": "project(expandpass languages c cxx)", "confidence": ""}], "type": "cmake", "libs": []}]}

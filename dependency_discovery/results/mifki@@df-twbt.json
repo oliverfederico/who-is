@@ -1,0 +1,1 @@
+{"target": "mifki@@df-twbt", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "ms"}, {"deps": [{"depname": "twbt", "version": null, "version_op": null, "unified_name": "twbt", "extractor_type": "cmake", "context": "project( twbt )", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}]}

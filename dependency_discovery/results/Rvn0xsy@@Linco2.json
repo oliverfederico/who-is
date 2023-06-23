@@ -1,0 +1,1 @@
+{"target": "Rvn0xsy@@Linco2", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "beacon", "version": null, "version_op": null, "unified_name": "beacon", "extractor_type": "cmake", "context": "project(beacon)", "confidence": ""}], "type": "cmake", "libs": []}]}

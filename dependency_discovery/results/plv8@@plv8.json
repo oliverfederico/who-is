@@ -1,0 +1,1 @@
+{"target": "plv8@@plv8", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "clib"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "cmake", "libs": []}]}

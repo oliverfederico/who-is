@@ -1,0 +1,1 @@
+{"target": "Freeeaky@@fiber-job-system", "extractors": [{"deps": [], "type": "ms"}, {"deps": [{"depname": "fjs", "version": null, "version_op": null, "unified_name": "fjs", "extractor_type": "cmake", "context": "project(fjs)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "ms"}]}

@@ -1,0 +1,1 @@
+{"target": "microsoft@@ntttcp-for-linux", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "ntttcp", "version": null, "version_op": null, "unified_name": "ntttcp", "extractor_type": "cmake", "context": "project (ntttcp)", "confidence": ""}], "type": "cmake", "libs": []}]}

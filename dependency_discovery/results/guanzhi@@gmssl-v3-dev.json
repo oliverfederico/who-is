@@ -1,0 +1,1 @@
+{"target": "guanzhi@@gmssl-v3-dev", "extractors": [{"deps": [{"depname": "gmssl", "version": null, "version_op": null, "unified_name": "gmssl", "extractor_type": "cmake", "context": "project(gmssl)", "confidence": ""}], "type": "cmake", "libs": []}]}

@@ -1,0 +1,1 @@
+{"target": "lavoiesl@@osx-cpu-temp", "extractors": [{"deps": [], "type": "make"}, {"deps": [{"depname": "osx-cpu-temp", "version": "1.1.0", "version_op": null, "unified_name": "osx-cpu-temp", "extractor_type": "clib", "context": "lavoiesl@@osx-cpu-temp/package.json", "confidence": "High"}], "type": "clib"}]}

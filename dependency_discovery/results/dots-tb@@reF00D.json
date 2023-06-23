@@ -1,0 +1,1 @@
+{"target": "dots-tb@@reF00D", "extractors": [{"deps": [{"depname": "ref00d", "version": null, "version_op": null, "unified_name": "ref00d", "extractor_type": "cmake", "context": "project(ref00d)", "confidence": ""}], "type": "cmake", "libs": []}]}

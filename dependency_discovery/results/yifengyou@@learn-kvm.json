@@ -1,0 +1,1 @@
+{"target": "yifengyou@@learn-kvm", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "autoconf"}, {"deps": [], "type": "gitsubmod"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

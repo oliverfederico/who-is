@@ -1,0 +1,1 @@
+{"target": "cortexm@@baremetal", "extractors": [{"deps": [{"depname": "baremetal", "version": null, "version_op": null, "unified_name": "baremetal", "extractor_type": "cmake", "context": "project(baremetal)", "confidence": ""}], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}, {"deps": [], "type": "cmake", "libs": []}]}

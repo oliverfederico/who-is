@@ -1,0 +1,1 @@
+{"target": "daancode@@a-star", "extractors": [{"deps": [{"depname": "a", "version": null, "version_op": null, "unified_name": "a", "extractor_type": "cmake", "context": "project (a-star)", "confidence": ""}], "type": "cmake", "libs": []}]}

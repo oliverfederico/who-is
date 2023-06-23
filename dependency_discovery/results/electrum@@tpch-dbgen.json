@@ -1,0 +1,1 @@
+{"target": "electrum@@tpch-dbgen", "extractors": [{"deps": [], "type": "make"}, {"deps": [], "type": "make"}]}

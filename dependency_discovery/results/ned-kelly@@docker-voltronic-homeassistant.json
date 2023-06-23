@@ -1,0 +1,1 @@
+{"target": "ned-kelly@@docker-voltronic-homeassistant", "extractors": [{"deps": [], "type": "cmake", "libs": []}]}
