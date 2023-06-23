@@ -104,7 +104,6 @@ def plot(df):
     )
 
     # Plot 5: Number of repositories using cmake vs submod
-    # header_repos_counts = df.groupby('definition.file')['source'].nunique()
     header_repos_counts = \
     df.groupby(df['definition.file'].apply(lambda x: 'CMake' if 'usr/include' in x else 'Submod'))[
         'source'].nunique()
