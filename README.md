@@ -7,7 +7,6 @@ The tool consists of three main components each with a python script: \
 [*library_usage*](#builder): Use to collect client usage data for a given library, uses **find_call.cpp** \
 [*analyse_usage*](#builder): Use to process usage data for library usage and API analysis
 
-This project includes the dependency dataset provided by [CCScanner](https://github.com/lkpsg/ccscanner) which can be used in replacement of the dependency discovery module.
 ## Requirements
 
 * Python (3.6+) with virtual environments and pip.
@@ -73,7 +72,8 @@ This will analyse the usage data and provide tables and plots of a libraries usa
 
 ## Datasets
 
-CCScanner Dataset is available [here](https://figshare.com/s/9e2fd7a1389af8266bfe?file=36678075)
+This project uses the dependency dataset provided by [CCScanner](https://github.com/lkpsg/ccscanner) which can be used in replacement of the dependency discovery module.
+CCScanner Dataset is available [here](https://figshare.com/s/9e2fd7a1389af8266bfe?file=36678075), simply put **repos2deps.json** in the **find_usage/** directory 
 
 June 2023 run of dependency discovery module can be found in **dependency_discovery/results**/
 Example Usage data for several libraries can be found in **example_results/**
