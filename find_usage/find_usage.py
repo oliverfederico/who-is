@@ -260,7 +260,7 @@ def main():
             repos = find_client_repos_opt(json_obj)
 
             # Process client repositories for dependencies
-            download_failed, non_cmake, cmake_failed, ran_on_tool = process_repositories(repos=["Vita3K@@Vita3K"])
+            download_failed, non_cmake, cmake_failed, ran_on_tool = process_repositories(repos)
 
             # Log run summary
             logger.info(f"all repos ({len(repos)}): {repos}")
