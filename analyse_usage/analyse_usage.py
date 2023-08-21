@@ -84,6 +84,7 @@ def main(dir_path):
                 dcc.Graph(figure={}, id='install-usage')
             ], style={'display': 'flex'})
         ], style={'display': 'flex'}),
+        html.H6(children='Select Method:'),
         dcc.Dropdown(id='method-dropdown', multi=False),
         html.Div(children=[
             dcc.Graph(figure={}, id='method-freq')
