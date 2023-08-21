@@ -106,14 +106,14 @@ def main(dir_path):
          Output(component_id='function-filter-radio-item', component_property='value')],
         Input(component_id='repository-dropdown', component_property='value'), prevent_initial_call=True
     )
-    def reset_repo_option():
+    def reset_repo_option(value):
         return None, "all"
 
     @callback(
         Output(component_id='method-dropdown', component_property='value'),
         Input(component_id='function-filter-radio-item', component_property='value'), prevent_initial_call=True
     )
-    def reset_function_option():
+    def reset_function_option(value):
         return None
 
     @callback(
