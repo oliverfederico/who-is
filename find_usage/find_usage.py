@@ -1,4 +1,5 @@
 import json
+import pathlib
 import sys
 import os
 from git import Repo
@@ -20,6 +21,7 @@ f_handler.setFormatter(f_format)
 
 # Add handlers to the logger
 logger.addHandler(f_handler)
+
 
 
 class Config:
@@ -115,14 +117,14 @@ def run_clang_tool(repo_path, cmake_failed, ran_on_tool):
     files = parse_compile_commands(repo_path)
     if not files:
         logger.error("Failed to locate compile_commands.json")
-        cmake_failed.append(repo_path)
+        cmake_failed.append(pathlib.PurePath(repo_path))
         return False, cmake_failed, ran_on_tool
-    ran_on_tool.append(repo_path)
+    ran_on_tool.append(pathlib.PurePath(repo_path))
     logger.info("\nrunning tool on repo!\n")
-    if not run_command("find-call " + " ".join(
+    if not run_command("bin/find-call " + " ".join(
             files) + " " + "--extra-arg=-Wno-everything" + " " + f'--header-regex="{Config.HEADER_PATTERN}"',
                        Config.TOOL_PATH):
-        return False, cmake_failed, ran_on_tool
+        return True, cmake_failed, ran_on_tool
     return True, cmake_failed, ran_on_tool
 
 
@@ -146,11 +148,15 @@ def process_repositories(repos):
             download_repo(repo)
         except Exception as e:
             logger.error(f"Error downloading repository: {e}")
+            run_command(f"rm -fr {repo}")
             failed.append(repo)
             continue
         logger.info(f"Processing repository: {repo}")
+        logger.info(f"Attempting to run CMake: {repo}")
         comp_path = generate_compile_commands(repo_path)
         if not comp_path:
+            logger.error(f"Unable to locate CMakeLists.txt: {repo}")
+            run_command(f"rm -fr {repo}")
             non_cmake.append(repo)
             continue
         try:
@@ -158,7 +164,7 @@ def process_repositories(repos):
             if not success:
                 logger.error(f"Failed to run Clang tool on repository: {repo}")
             else:
-                logger.error(f"Ran Clang tool on repository: {repo}")
+                logger.info(f"Ran Clang tool on repository: {repo}")
         except Exception as e:
             logger.error(f"Failed to generate compile commands for repository: {repo}")
             logger.error(f"Error: {e}")
@@ -171,14 +177,8 @@ def download_repo(repo):
     owner, name = repo.split("@@")
     r_url = f"https://github.com/{owner}/{name}.git"
     logger.info(f"Cloning {repo} from {r_url}")
-    r = None
-    if not os.path.isdir(repo):
-        try:
-            r = Repo.clone_from(r_url, repo,
+    return Repo.clone_from(r_url, repo,
                                 multi_options=["--recurse-submodules", "-j6", " --depth 1", "--shallow-submodules"])
-        except Exception as e:
-            logger.error(f"Failed to clone repo: {e}")
-    return r
 
 
 def find_client_repos(json_obj):

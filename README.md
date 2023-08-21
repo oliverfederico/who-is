@@ -24,7 +24,7 @@ Example usage using CCScanner Dataset:
 ```
 python find_usage.py repo2deps.json xxhash xxhash\.h
 
-python analyse_usage.py ../example_results/results_xxhash 
+python analyse_usage.py ../example_results
 ```
 
 ### Dependency Discovery

@@ -2,5 +2,6 @@ pandas
 plotly
 pygit
 pathlib
+dash
 requests
 ccscanner==0.1.10

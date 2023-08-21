@@ -112,7 +112,7 @@ def find_repos(url, headers, language, star_range, executor, curr_cursor=None):
 def main(token, url, languages):
     headers = {"Authorization": f"Bearer {token}"}
     # Initialise thread pool with cpu_count number of workers
-    with ThreadPoolExecutor(max_workers=(os.cpu_count())) as executor:
+    with ThreadPoolExecutor() as executor:
         # Search schedule needed to overcome API limitations and rate limiting
         for language in languages:
             star_greater = ">3000"
